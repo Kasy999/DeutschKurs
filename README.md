@@ -11,4 +11,6 @@ Web-Version der Android-App **DeutschKurs** (Lernen · Üben · Aufsteigen) – 
 
 Fortschritt wird lokal im Browser gespeichert.
 
+https://kasy999.github.io/DeutschKurs/
+
 **Installieren:** Seite im Handy-Browser öffnen → Android/Chrome: Menü ⋮ → „App installieren“ / „Zum Startbildschirm hinzufügen“; iPhone/Safari: Teilen → „Zum Home-Bildschirm“.
