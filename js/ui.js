@@ -1,11 +1,12 @@
 'use strict';
 // Oberfläche (Port von GameScreen.kt): Start, Quiz, Feier, Ergebnis, Auszeichnungen, Einstellungen.
 
-const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS' };
+const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', PLACEMENT: 'PLACEMENT' };
 
 const App = {
   screen: Screen.HOME,
   round: null,
+  placement: null, // laufender Einstufungstest
   progress: null,
   // Zustand der aktuellen Aufgabe (entspricht remember(task) { … })
   ui: { picked: [], spellText: '', showDe: false, showLoc: false, shake: false },
@@ -133,12 +134,12 @@ function modeGrid(columns) {
 function homeScreen() {
   if (isWide()) {
     return `<div class="wide-row">
-      <div class="scroll col gap14" style="flex:0.44 1 0">${homeHeader()}${profileCard()}${rewardsTeaser()}</div>
+      <div class="scroll col gap14" style="flex:0.44 1 0">${homeHeader()}${profileCard()}${placementTeaser()}${rewardsTeaser()}</div>
       <div class="scroll col gap12" style="flex:0.56 1 0">${sectionLabel('Übungsmodus', S.mode)}${modeGrid(2)}</div>
     </div>`;
   }
   return `<div class="scroll col gap14 pad16" style="flex:1">
-    ${homeHeader()}${profileCard()}${rewardsTeaser()}${sectionLabel('Übungsmodus', S.mode)}${modeGrid(window.innerWidth >= 600 ? 2 : 1)}<div style="height:8px;flex:none"></div>
+    ${homeHeader()}${profileCard()}${placementTeaser()}${rewardsTeaser()}${sectionLabel('Übungsmodus', S.mode)}${modeGrid(window.innerWidth >= 600 ? 2 : 1)}<div style="height:8px;flex:none"></div>
   </div>`;
 }
 
@@ -472,6 +473,7 @@ function render(opts = {}) {
     case Screen.FINISHED: html = finishScreen(); break;
     case Screen.REWARDS: html = rewardsScreen(); break;
     case Screen.SETTINGS: html = settingsScreen(); break;
+    case Screen.PLACEMENT: html = placementScreen(); break;
     default: html = homeScreen();
   }
   root.innerHTML = `<div class="screen">${html}</div>`;
@@ -554,6 +556,10 @@ function onClick(ev) {
   switch (act) {
     case 'settings': go(Screen.SETTINGS); break;
     case 'rewards': go(Screen.REWARDS); break;
+    case 'placement': App.placement = null; go(Screen.PLACEMENT); break;
+    case 'pstart': App.placement = new PlacementTest(); App.ui.appeared = false; render({ scrollTop: true }); scrollQuizTop(); break;
+    case 'pchoice': placementAnswer(parseInt(el.dataset.i, 10)); render({ scrollTop: true }); scrollQuizTop(); break;
+    case 'papply': AppDifficulty.set(parseInt(el.dataset.val, 10) || null); render(); break;
     case 'start': start(GameMode[el.dataset.mode]); break;
     case 'back': case 'menu': backHome(); break;
     case 'exit': Speaker.stop(); backHome(); break;
@@ -580,6 +586,7 @@ function onClick(ev) {
 function boot() {
   AppLang.load();
   AppDifficulty.load();
+  PlacementResult.load();
   App.progress = new Progress();
   App.root = document.getElementById('app');
   drawBlobs();
