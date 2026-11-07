@@ -1,8 +1,8 @@
 // Offline-Unterstützung: alle Dateien werden beim ersten Besuch gespeichert.
-const CACHE = 'deutschkurs-v2';
+const CACHE = 'deutschkurs-v4';
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',
-  'js/prelude.js', 'js/data.js', 'js/data_lazy.js', 'js/engine.js', 'js/speech.js', 'js/visuals.js', 'js/placement.js', 'js/ui.js',
+  'js/config.js', 'js/prelude.js', 'js/data.js', 'js/data_lazy.js', 'js/engine.js', 'js/speech.js', 'js/visuals.js', 'js/placement.js', 'js/account.js', 'js/ui.js',
   'icons/icon-32.png', 'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png',
 ];
 self.addEventListener('install', (e) => {

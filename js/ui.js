@@ -1,7 +1,7 @@
 'use strict';
 // Oberfläche (Port von GameScreen.kt): Start, Quiz, Feier, Ergebnis, Auszeichnungen, Einstellungen.
 
-const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', PLACEMENT: 'PLACEMENT' };
+const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', PLACEMENT: 'PLACEMENT', ACCOUNT: 'ACCOUNT' };
 
 const App = {
   screen: Screen.HOME,
@@ -31,6 +31,7 @@ function go(screen) {
   if (screen === Screen.FINISHED) {
     const oldBest = App.progress.best(App.round.mode);
     App.finish = { oldBest, newBest: App.progress.saveBest(App.round.mode, App.round.score) };
+    Account.sync();
   }
   // Zurück-Taste (Android-BackHandler): ein Verlaufseintrag für alle Unterseiten
   if (screen !== Screen.HOME && fromHome) { try { history.pushState({ s: 1 }, ''); } catch (e) { /* */ } }
@@ -134,12 +135,12 @@ function modeGrid(columns) {
 function homeScreen() {
   if (isWide()) {
     return `<div class="wide-row">
-      <div class="scroll col gap14" style="flex:0.44 1 0">${homeHeader()}${profileCard()}${placementTeaser()}${rewardsTeaser()}</div>
+      <div class="scroll col gap14" style="flex:0.44 1 0">${homeHeader()}${accountTeaser()}${profileCard()}${placementTeaser()}${rewardsTeaser()}</div>
       <div class="scroll col gap12" style="flex:0.56 1 0">${sectionLabel('Übungsmodus', S.mode)}${modeGrid(2)}</div>
     </div>`;
   }
   return `<div class="scroll col gap14 pad16" style="flex:1">
-    ${homeHeader()}${profileCard()}${placementTeaser()}${rewardsTeaser()}${sectionLabel('Übungsmodus', S.mode)}${modeGrid(window.innerWidth >= 600 ? 2 : 1)}<div style="height:8px;flex:none"></div>
+    ${homeHeader()}${accountTeaser()}${profileCard()}${placementTeaser()}${rewardsTeaser()}${sectionLabel('Übungsmodus', S.mode)}${modeGrid(window.innerWidth >= 600 ? 2 : 1)}<div style="height:8px;flex:none"></div>
   </div>`;
 }
 
@@ -474,6 +475,7 @@ function render(opts = {}) {
     case Screen.REWARDS: html = rewardsScreen(); break;
     case Screen.SETTINGS: html = settingsScreen(); break;
     case Screen.PLACEMENT: html = placementScreen(); break;
+    case Screen.ACCOUNT: html = accountScreen(); break;
     default: html = homeScreen();
   }
   root.innerHTML = `<div class="screen">${html}</div>`;
@@ -553,13 +555,14 @@ function onClick(ev) {
   if (!el || el.disabled) return;
   const act = el.dataset.act;
   const r = App.round;
+  if (accountClick(act, el)) return;
   switch (act) {
     case 'settings': go(Screen.SETTINGS); break;
     case 'rewards': go(Screen.REWARDS); break;
     case 'placement': App.placement = null; go(Screen.PLACEMENT); break;
     case 'pstart': App.placement = new PlacementTest(); App.ui.appeared = false; render({ scrollTop: true }); scrollQuizTop(); break;
-    case 'pchoice': placementAnswer(parseInt(el.dataset.i, 10)); render({ scrollTop: true }); scrollQuizTop(); break;
-    case 'papply': AppDifficulty.set(parseInt(el.dataset.val, 10) || null); render(); break;
+    case 'pchoice': placementAnswer(parseInt(el.dataset.i, 10)); if (App.placement.finished) Account.sync(); render({ scrollTop: true }); scrollQuizTop(); break;
+    case 'papply': AppDifficulty.set(parseInt(el.dataset.val, 10) || null); Account.sync(); render(); break;
     case 'start': start(GameMode[el.dataset.mode]); break;
     case 'back': case 'menu': backHome(); break;
     case 'exit': Speaker.stop(); backHome(); break;
@@ -587,7 +590,11 @@ function boot() {
   AppLang.load();
   AppDifficulty.load();
   PlacementResult.load();
+  Account.load();
   App.progress = new Progress();
+  // Nach dem Abgleich mit dem Konto alle Anzeigen neu lesen; während der Eingabe nicht neu aufbauen.
+  Account.onApplied = () => { App.progress.reload(); AppDifficulty.load(); PlacementResult.load(); };
+  Account.onChange = () => { if (App.screen === Screen.HOME || App.screen === Screen.ACCOUNT) render(); };
   App.root = document.getElementById('app');
   drawBlobs();
   Speaker.onChange = () => {
@@ -601,6 +608,10 @@ function boot() {
   App.root.addEventListener('click', onClick);
   App.root.addEventListener('input', (ev) => {
     if (ev.target.id === 'spellInput') { App.ui.spellText = ev.target.value; autoGrow(ev.target); }
+    accountInput(ev.target);
+  });
+  App.root.addEventListener('submit', (ev) => {
+    if (ev.target.matches('[data-accform]')) { ev.preventDefault(); accountSubmit(); }
   });
   App.root.addEventListener('keydown', (ev) => {
     if (ev.target.id === 'spellInput' && ev.key === 'Enter') { ev.preventDefault(); checkSpell(); }
@@ -613,5 +624,6 @@ function boot() {
     if (wide !== lastWide && document.activeElement?.id !== 'spellInput') { lastWide = wide; render(); }
   });
   render({ scrollTop: true });
+  Account.sync();
 }
 document.addEventListener('DOMContentLoaded', boot);

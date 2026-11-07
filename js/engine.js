@@ -12,6 +12,15 @@ class Progress {
     this.bestStreak = Prefs.getInt(Progress.KEY_STREAK, 0);
     this.mistakes = this.loadMistakes();
   }
+  /** Alle Werte neu lesen (z. B. nach dem Abgleich mit dem Konto). */
+  reload() {
+    this.total = Prefs.getInt(Progress.KEY_TOTAL, 0);
+    this.peak = Math.max(Prefs.getInt(Progress.KEY_PEAK, 0), this.total);
+    this.answered = Prefs.getInt(Progress.KEY_ANSWERED, 0);
+    this.correct = Prefs.getInt(Progress.KEY_CORRECT, 0);
+    this.bestStreak = Prefs.getInt(Progress.KEY_STREAK, 0);
+    this.mistakes = this.loadMistakes();
+  }
   get level() { return levelFor(this.total); }
   get openMistakes() { return this.mistakes.size; }
   unlocked(b) { return this.peak >= b.points; }
