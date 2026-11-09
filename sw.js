@@ -1,5 +1,5 @@
 // Offline-Unterstützung: alle Dateien werden beim ersten Besuch gespeichert.
-const CACHE = 'deutschkurs-v4';
+const CACHE = 'deutschkurs-v5';
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',
   'js/config.js', 'js/prelude.js', 'js/data.js', 'js/data_lazy.js', 'js/engine.js', 'js/speech.js', 'js/visuals.js', 'js/placement.js', 'js/account.js', 'js/ui.js',
