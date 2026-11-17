@@ -1,5 +1,5 @@
 // Offline-Unterstützung: alle Dateien werden beim ersten Besuch gespeichert.
-const CACHE = 'deutschkurs-v6';
+const CACHE = 'deutschkurs-v7';
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',
   'js/config.js', 'js/prelude.js', 'js/data.js', 'js/data_lazy.js', 'js/engine.js', 'js/speech.js', 'js/visuals.js', 'js/placement.js', 'js/account.js', 'js/stats.js', 'js/ui.js',
@@ -15,7 +15,8 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   e.respondWith(
-    fetch(e.request).then((res) => {
+    // cache: 'no-cache' = beim Server nachfragen, ob es eine neue Version gibt (sonst hält der Browser Dateien bis zu 10 Minuten fest)
+    fetch(e.request.mode === 'navigate' ? e.request.url : e.request, { cache: 'no-cache' }).then((res) => {
       const copy = res.clone();
       caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
       return res;

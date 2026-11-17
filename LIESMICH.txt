@@ -14,3 +14,8 @@ Diese Dateien im GitHub-Repository der Webversion hochladen bzw. ersetzen
 
 Alle anderen Dateien bleiben unverändert.
 Die Supabase-Datenbank muss NICHT geändert werden.
+
+NACHTRAG (Update-Problem behoben):
+  index.html und sw.js wurden nochmals geändert, damit Browser neue Versionen
+  sofort laden statt der zwischengespeicherten. Bitte diese beiden Dateien
+  erneut hochladen (die übrigen sind schon aktuell).
