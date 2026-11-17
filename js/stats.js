@@ -243,7 +243,7 @@ function dayDetail(day, d, showTitle = true) {
   if (!dayActive(d)) return h + '<div class="dim t13">An diesem Tag wurde nicht gelernt.</div></div>';
   h += statRow([[fmtDuration(d.s), 'Lernzeit\n' + ST.time], [String(d.n), 'Übungen\n' + ST.exercises], [pct(d.ok, d.n) + ' %', 'Richtig\n' + ST.accuracy]]);
   h += '<div style="height:10px"></div>';
-  h += statRow([[`✅ ${d.ok} · ❌ ${d.n - d.ok}`, ST.right + ' / ' + ST.wrong], [String(d.r), 'Runden\n' + ST.rounds], [String(d.p), 'Punkte\n' + ST.points]]);
+  h += statRow([[`${d.ok} / ${d.n - d.ok}`, '✅ / ❌\n' + ST.right + ' / ' + ST.wrong], [String(d.r), 'Runden\n' + ST.rounds], [String(d.p), 'Punkte\n' + ST.points]]);
   const hours = Object.keys(d.h).map(Number).filter((x) => x >= 0 && x < 24).sort((a, b) => a - b);
   if (hours.length) h += `<div class="dim t12" style="padding-top:10px">🕒 Gelernt um: ${hours.map((x) => `${x}–${x + 1} Uhr`).join(', ')}</div>`;
   const modes = GameMode.entries.filter((m) => (d.m[m.name] || 0) > 0);

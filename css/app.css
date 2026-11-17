@@ -133,10 +133,10 @@ input, textarea { font: inherit; user-select: text; -webkit-user-select: text; }
 .range-chip { flex: 1 1 0; border-radius: 14px; padding: 8px 4px; background: var(--glass); border: 1px solid var(--glassBorder); color: var(--textDim); font-weight: 700; font-size: 13px; line-height: 16px; text-align: center; }
 .range-chip span { font-weight: 400; font-size: 11px; color: var(--textFaint); }
 .range-chip.sel { background: rgba(139,92,246,.3); border-color: var(--violet); color: var(--text); }
-.heatmap { --lw: 22px; --gap: 3px; width: 100%; }
-.hm-months { display: grid; grid-template-columns: var(--lw) repeat(var(--weeks), minmax(0, 26px)); gap: 0 var(--gap); padding-bottom: 4px; font-size: 10px; color: var(--textFaint); }
+.heatmap { --lw: 22px; --gap: 3px; width: 100%; max-width: calc(var(--lw) + var(--weeks) * 36px); margin: 0 auto; }
+.hm-months { display: grid; grid-template-columns: var(--lw) repeat(var(--weeks), minmax(0, 1fr)); gap: 0 var(--gap); padding-bottom: 4px; font-size: 10px; color: var(--textFaint); }
 .hm-months span { white-space: nowrap; overflow: visible; }
-.hm-grid { display: grid; grid-template-columns: var(--lw) repeat(var(--weeks), minmax(0, 26px)); gap: var(--gap); }
+.hm-grid { display: grid; grid-template-columns: var(--lw) repeat(var(--weeks), minmax(0, 1fr)); gap: var(--gap); }
 .hm-wd { font-size: 9px; color: var(--textFaint); display: flex; align-items: center; }
 .hm-cell { display: block; aspect-ratio: 1; border-radius: 25%; }
 .hm-cell.off { background: transparent; }
