@@ -20,6 +20,7 @@ function readSnapshot() {
     placement_level: Prefs.getInt('placement_level', 0),
     placement_time: parseInt(Prefs.getString('placement_time', '0'), 10) || 0,
     difficulty_level: Prefs.getInt('difficulty_level', 0),
+    daily: readDaily(),
   };
 }
 
@@ -31,6 +32,7 @@ function writeSnapshot(s) {
   SNAP_MODES().forEach((m) => Prefs.put('best_' + m, s.best[m] || 0));
   Prefs.put('placement_level', s.placement_level); Prefs.put('placement_time', s.placement_time);
   Prefs.put('difficulty_level', s.difficulty_level);
+  writeDaily(s.daily || {});
 }
 
 /** Fehlende/ungültige Felder auffüllen (Daten aus dem Konto). */
@@ -42,10 +44,11 @@ function normalizeSnapshot(o) {
     total_points: int(o.total_points), peak_points: int(o.peak_points), answered: int(o.answered), correct: int(o.correct),
     best_streak: int(o.best_streak), best: map(o.best), mistakes: map(o.mistakes),
     placement_level: int(o.placement_level), placement_time: int(o.placement_time), difficulty_level: int(o.difficulty_level),
+    daily: normalizeDaily(o.daily),
   };
 }
 
-/** Wie mergeSnapshots in Cloud.kt: Seite mit mehr Antworten gewinnt, Höchstwerte bleiben, neuerer Test zählt. */
+/** Wie mergeSnapshots in Cloud.kt: Seite mit mehr Antworten gewinnt, Höchstwerte bleiben, neuerer Test zählt, Tagesstatistik wird tageweise zusammengeführt. */
 function mergeSnapshots(local, remote) {
   const base = remote.answered > local.answered ? remote : local;
   const pl = remote.placement_time > local.placement_time ? remote : local;
@@ -56,6 +59,7 @@ function mergeSnapshots(local, remote) {
     peak_points: Math.max(local.peak_points, remote.peak_points, base.total_points),
     best_streak: Math.max(local.best_streak, remote.best_streak),
     best, placement_level: pl.placement_level, placement_time: pl.placement_time,
+    daily: mergeDaily(local.daily, remote.daily),
   };
 }
 /** Vergleich unabhängig von der Reihenfolge der Schlüssel (die Datenbank sortiert sie um). */

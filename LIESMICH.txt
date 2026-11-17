@@ -1,0 +1,16 @@
+DeutschKurs Webapp – Update "Lernstatistik"
+============================================
+
+Diese Dateien im GitHub-Repository der Webversion hochladen bzw. ersetzen
+(Ordnerstruktur genau so beibehalten):
+
+  index.html        geändert  (lädt js/stats.js)
+  sw.js             geändert  (Cache-Version v6, damit alle Geräte das Update laden)
+  css/app.css       geändert  (Stile für Kalender und Diagramme)
+  js/stats.js       NEU       (Statistik: Speicher, Zeitmessung, Bildschirm)
+  js/engine.js      geändert  (zählt Übungen und Lernzeit pro Tag)
+  js/account.js     geändert  (Statistik wird mit dem Konto synchronisiert)
+  js/ui.js          geändert  (Menüpunkt in den Einstellungen + Seite "Statistik")
+
+Alle anderen Dateien bleiben unverändert.
+Die Supabase-Datenbank muss NICHT geändert werden.

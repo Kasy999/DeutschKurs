@@ -11,6 +11,7 @@ class Progress {
     this.correct = Prefs.getInt(Progress.KEY_CORRECT, 0);
     this.bestStreak = Prefs.getInt(Progress.KEY_STREAK, 0);
     this.mistakes = this.loadMistakes();
+    this.stats = new StatsLog(); // Lernstatistik pro Tag
   }
   /** Alle Werte neu lesen (z. B. nach dem Abgleich mit dem Konto). */
   reload() {
@@ -20,6 +21,7 @@ class Progress {
     this.correct = Prefs.getInt(Progress.KEY_CORRECT, 0);
     this.bestStreak = Prefs.getInt(Progress.KEY_STREAK, 0);
     this.mistakes = this.loadMistakes();
+    this.stats.reload();
   }
   get level() { return levelFor(this.total); }
   get openMistakes() { return this.mistakes.size; }
@@ -93,6 +95,7 @@ class GameRound {
     this.generator = new TaskGenerator();
     this.startLevel = progress.level;
     this.fixedLevel = AppDifficulty.fixed;
+    this.timer = new StudyTimer(); // Lernzeit für die Statistik
     this.index = 0; this.score = 0; this.streak = 0; this.bestStreak = 0; this.correctCount = 0;
     this.lastAwarded = 0; this.lastStreakBonus = 0; this.roundBonus = 0;
     this.task = this.generator.next(mode, this.effectiveLevel, progress.mistakeWeights());
@@ -157,6 +160,7 @@ class GameRound {
       }
     }
     const newBadges = this.progress.add(this.lastAwarded, right, this.streak);
+    this.progress.stats.answer(this.task.category, this.mode, right, this.lastAwarded, this.timer.take());
     this.earnedBadges.push(...newBadges);
     const newLevel = this.progress.level;
     if (newBadges.length || newLevel > oldLevel) {
@@ -181,6 +185,7 @@ class GameRound {
       this.roundBonus = roundBonus(this.correctCount, this.total, this.effectiveLevel);
       this.score += this.roundBonus;
       this.earnedBadges.push(...this.progress.addBonus(this.roundBonus));
+      this.progress.stats.roundDone(this.roundBonus, this.timer.take());
     }
   }
   isFinished() { return this.index >= this.total; }

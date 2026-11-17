@@ -1,7 +1,7 @@
 'use strict';
 // Oberfläche (Port von GameScreen.kt): Start, Quiz, Feier, Ergebnis, Auszeichnungen, Einstellungen.
 
-const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', PLACEMENT: 'PLACEMENT', ACCOUNT: 'ACCOUNT' };
+const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', STATS: 'STATS', PLACEMENT: 'PLACEMENT', ACCOUNT: 'ACCOUNT' };
 
 const App = {
   screen: Screen.HOME,
@@ -42,7 +42,20 @@ function goHome() {
   App.screen = Screen.HOME;
   render({ scrollTop: true });
 }
-window.addEventListener('popstate', () => { if (App.screen !== Screen.HOME) goHome(); });
+window.addEventListener('popstate', () => {
+  // Statistik ist eine Unterseite der Einstellungen: Zurück führt dorthin.
+  if (App.screen === Screen.STATS) { App.screen = Screen.SETTINGS; render({ scrollTop: true }); } else if (App.screen !== Screen.HOME) goHome();
+});
+function openStats() {
+  resetStatsUi();
+  App.screen = Screen.STATS;
+  try { history.pushState({ s: 2 }, ''); } catch (e) { /* */ }
+  render({ scrollTop: true });
+}
+function closeStats() {
+  if (history.state && history.state.s === 2) history.back();
+  else { App.screen = Screen.SETTINGS; render({ scrollTop: true }); }
+}
 function backHome() { if (history.state && history.state.s) history.back(); else goHome(); }
 
 /* =====================================================================
@@ -435,6 +448,9 @@ function settingsScreen() {
     <div class="row"><button class="circle-btn" data-act="back">‹</button><div style="width:14px"></div>
       <div class="col">${gradTitle('Einstellungen', [...Palette.primary, Palette.cyan], 26)}<div class="dim t13">${esc(S.settings)}</div></div></div>
     <div style="height:18px"></div>
+    ${sectionLabel('Statistik', ST.title)}
+    ${selectOption('📊', 'Lernstatistik  ›', 'Lerntage, Zeit und Übungen der letzten 3 Monate · ' + ST.openHint, false, 'stats', 0)}
+    <div style="height:22px"></div>
     ${sectionLabel('Schwierigkeitsgrad', S.difficulty)}
     <div class="card" style="padding:14px">
       <div class="t14" style="line-height:20px">Wähle ein festes Niveau — dann kommen alle Aufgaben aus dieser Stufe. Höhere Stufen bringen mehr Punkte.</div>
@@ -474,6 +490,7 @@ function render(opts = {}) {
     case Screen.FINISHED: html = finishScreen(); break;
     case Screen.REWARDS: html = rewardsScreen(); break;
     case Screen.SETTINGS: html = settingsScreen(); break;
+    case Screen.STATS: html = statsScreen(); break;
     case Screen.PLACEMENT: html = placementScreen(); break;
     case Screen.ACCOUNT: html = accountScreen(); break;
     default: html = homeScreen();
@@ -558,6 +575,12 @@ function onClick(ev) {
   if (accountClick(act, el)) return;
   switch (act) {
     case 'settings': go(Screen.SETTINGS); break;
+    case 'stats': openStats(); break;
+    case 'sback': closeStats(); break;
+    case 'srange': StatsUi.range = el.dataset.val; StatsUi.picked = {}; StatsUi.expanded = null; render(); break;
+    case 'sday': StatsUi.selected = StatsUi.selected === el.dataset.val ? null : el.dataset.val; render(); break;
+    case 'sexp': StatsUi.expanded = StatsUi.expanded === el.dataset.val ? null : el.dataset.val; render(); break;
+    case 'sbar': { const c = el.dataset.chart, i = parseInt(el.dataset.i, 10); StatsUi.picked[c] = StatsUi.picked[c] === i ? null : i; render(); break; }
     case 'rewards': go(Screen.REWARDS); break;
     case 'placement': App.placement = null; go(Screen.PLACEMENT); break;
     case 'pstart': App.placement = new PlacementTest(); App.ui.appeared = false; render({ scrollTop: true }); scrollQuizTop(); break;
@@ -594,7 +617,7 @@ function boot() {
   App.progress = new Progress();
   // Nach dem Abgleich mit dem Konto alle Anzeigen neu lesen; während der Eingabe nicht neu aufbauen.
   Account.onApplied = () => { App.progress.reload(); AppDifficulty.load(); PlacementResult.load(); };
-  Account.onChange = () => { if (App.screen === Screen.HOME || App.screen === Screen.ACCOUNT) render(); };
+  Account.onChange = () => { if (App.screen === Screen.HOME || App.screen === Screen.ACCOUNT || App.screen === Screen.STATS) render(); };
   App.root = document.getElementById('app');
   drawBlobs();
   Speaker.onChange = () => {
