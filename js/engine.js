@@ -194,7 +194,7 @@ class GameRound {
 const Kind = Object.fromEntries([
   'DE_RU', 'RU_DE', 'ARTICLE', 'PLURAL', 'PRAESENS', 'PERF_AUX', 'PERF_PART', 'GRAMMAR', 'ORDER', 'SPELL',
   'KASUS_AKK', 'KASUS_DAT', 'PRAET', 'FUTUR_AUX', 'FUTUR_INF', 'GRAMMAR_CASE', 'GRAMMAR_TENSE', 'REFLEX',
-  'MODAL_PRAET', 'MODAL_PERF_INF', 'MODAL_PERF_AUX', 'KONJ_WUERDE', 'KONJ_COND', 'KONJ_PAST', 'GRAMMAR_KONJ',
+  'MODAL_PRAET', 'MODAL_PERF_INF', 'MODAL_PERF_AUX', 'KONJ_WUERDE', 'KONJ_COND', 'KONJ_PAST', 'GRAMMAR_KONJ', 'PARTS',
 ].map((k) => [k, k]));
 
 const prefixKinds = new Map([
@@ -202,7 +202,7 @@ const prefixKinds = new Map([
   ['pr', Kind.PRAESENS], ['pa', Kind.PERF_AUX], ['pp', Kind.PERF_PART], ['or', Kind.ORDER],
   ['sp', Kind.SPELL], ['pt', Kind.PRAET], ['rf', Kind.REFLEX],
   ['mp', Kind.MODAL_PRAET], ['mi', Kind.MODAL_PERF_INF], ['ma', Kind.MODAL_PERF_AUX],
-  ['kw', Kind.KONJ_WUERDE], ['kc', Kind.KONJ_COND], ['kv', Kind.KONJ_PAST],
+  ['kw', Kind.KONJ_WUERDE], ['kc', Kind.KONJ_COND], ['kv', Kind.KONJ_PAST], ['sg', Kind.PARTS],
 ]);
 
 // associateBy: bei doppelten Schlüsseln gewinnt der letzte Eintrag (wie in Kotlin)
@@ -215,6 +215,7 @@ const subjectByText = associateBy(subjects, (x) => x.text);
 const choiceBySentence = associateBy(choiceItems, (x) => x.sentence);
 const orderByChunks = associateBy(orderItems, (x) => x.chunks.join(' '));
 const spellByCorrect = associateBy(spellItems, (x) => x.correct);
+const partsBySentence = associateBy(partsItems, (x) => x.sentence);
 
 const replaceDouble = (str) => str.split('  ').join(' ');
 const substringAfter = (str, d) => { const i = str.indexOf(d); return i < 0 ? str : str.substring(i + d.length); };
@@ -297,6 +298,12 @@ class TaskGenerator {
         this.konjPast(vb, konjSubjects[coerceIn(toIntOrNull(parts[2]) ?? 0, 0, konjSubjects.length - 1)], level));
       case 'or': return ifv(orderByChunks.get(after('or:')), (x) => this.order(x));
       case 'sp': return ifv(spellByCorrect.get(after('sp:')), (x) => this.spell(x));
+      case 'sg': {
+        const spec = parts[1] || '';
+        if (spec.length !== 2) return null;
+        const item = partsBySentence.get(after('sg:' + spec + ':'));
+        return item && item.askable.includes(spec[0]) ? this.satzglied(item, spec[0], spec[1] === '1') : null;
+      }
       case 'ka': return ifv(word(), (x) => {
         const frames = caseFrames.filter((f) => f.dativ === (parts[2] === 'true'));
         return this.kasus(x, frames[randInt(frames.length)], level);
@@ -344,10 +351,11 @@ class TaskGenerator {
       case GameMode.GRAMMATIK: wts = [[Kind.GRAMMAR, 1]]; break;
       case GameMode.SATZBAU: wts = [[Kind.ORDER, 1]]; break;
       case GameMode.RECHTSCHREIBUNG: wts = [[Kind.SPELL, 1]]; break;
+      case GameMode.SATZGLIEDER: wts = [[Kind.PARTS, 1]]; break;
       default: wts = [
         [Kind.DE_RU, 1], [Kind.RU_DE, 1], [Kind.ARTICLE, 1], [Kind.PLURAL, 1],
         [Kind.PRAESENS, 2], [Kind.PERF_AUX, perf ? 1 : 0], [Kind.PERF_PART, perf ? 1 : 0],
-        [Kind.GRAMMAR, 4], [Kind.ORDER, 3], [Kind.SPELL, 2],
+        [Kind.GRAMMAR, 4], [Kind.ORDER, 3], [Kind.SPELL, 2], [Kind.PARTS, 1],
         [Kind.KASUS_AKK, 1], [Kind.KASUS_DAT, 1], [Kind.PRAET, perf ? 1 : 0],
         [Kind.FUTUR_AUX, level >= 4 ? 1 : 0], [Kind.REFLEX, 1],
         [Kind.MODAL_PRAET, level >= 3 ? 1 : 0],
@@ -398,6 +406,12 @@ class TaskGenerator {
       case Kind.ORDER: {
         const item = this.pickByLevel(orderItems, this.targetLevel(level, MAX_LEVEL), lv);
         return ['or:' + item.chunks.join(' '), this.order(item)];
+      }
+      case Kind.PARTS: {
+        const item = this.pickByLevel(partsItems, this.targetLevel(level, MAX_LEVEL), lv);
+        const role = item.askable[randInt(item.askable.length)];
+        const byRole = randInt(2) === 1;
+        return [`sg:${role}${byRole ? 1 : 0}:${item.sentence}`, this.satzglied(item, role, byRole)];
       }
       case Kind.SPELL: {
         const item = this.pickByLevel(spellItems, this.targetLevel(level, MAX_LEVEL), lv);
@@ -822,6 +836,29 @@ class TaskGenerator {
     cands.push(pre + vb.forms[2]);
     cands.push(p.endsWith('en') ? p.slice(0, -2) + 't' : p + 'en');
     return distinct(cands).filter((x) => x !== p && x.trim());
+  }
+
+  // ---------------- Satzglieder ----------------
+  satzglied(item, role, byRole) {
+    const rr = rule('satzglieder');
+    const sentence = item.sentence;
+    const answer = item.text(role);
+    const hint = item.level <= 3 ? () => tr(item.ru) : null;
+    const explanation = Bi(
+      () => `${item.analysis}\n\n${rr.de}`,
+      () => `${S.translation(tr(item.ru))}\n\n${item.analysis}\n\n${rr.loc}`,
+    );
+    if (!byRole) {
+      const others = shuffled(item.groups.map((x) => x[1]).filter((x) => x !== answer)).slice(0, 3);
+      return this.choice(item.level, Category.SATZGLIED, () => `${partQuestion(role)}\n„${sentence}“`, hint, answer, others, {
+        solution: () => `${partRoleName(role)}: ${answer}`, explanation, speech: sentence, promptSpeech: sentence,
+      });
+    }
+    const correct = partRoleName(role);
+    const others = shuffled(partRoleNames.filter((x) => x !== correct)).slice(0, 3);
+    return this.choice(item.level, Category.SATZGLIED, () => `Welches Satzglied ist „${answer}“?\n„${sentence}“`, hint, correct, others, {
+      solution: () => `„${answer}“ = ${correct}`, explanation, speech: sentence, promptSpeech: sentence,
+    });
   }
 
   // ---------------- Grammatik & Satzbau ----------------

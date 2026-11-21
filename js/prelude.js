@@ -30,8 +30,9 @@ const Lang = {
   UK: { name: 'UK', nativeName: 'Українська', germanName: 'Ukrainisch', flag: '🇺🇦' },
   HY: { name: 'HY', nativeName: 'Հայերեն', germanName: 'Armenisch', flag: '🇦🇲' },
   KA: { name: 'KA', nativeName: 'ქართული', germanName: 'Georgisch', flag: '🇬🇪' },
+  HU: { name: 'HU', nativeName: 'Magyar', germanName: 'Ungarisch', flag: '🇭🇺' },
 };
-const LangEntries = [Lang.RU, Lang.UK, Lang.HY, Lang.KA];
+const LangEntries = [Lang.RU, Lang.UK, Lang.HY, Lang.KA, Lang.HU];
 const AppLang = {
   KEY: 'translation_lang',
   current: Lang.RU,
@@ -39,7 +40,7 @@ const AppLang = {
   set(lang) { this.current = lang; Prefs.put(this.KEY, lang.name); },
 };
 
-function Tr(uk, hy, ka) { return { uk, hy, ka, get(lang) { return lang === Lang.RU ? null : lang === Lang.UK ? uk : lang === Lang.HY ? hy : ka; } }; }
+function Tr(uk, hy, ka) { return { uk, hy, ka, get(lang) { return lang === Lang.UK ? uk : lang === Lang.HY ? hy : lang === Lang.KA ? ka : null; } }; }
 const t = (ru, uk, hy, ka) => [ru, Tr(uk, hy, ka)];
 const r = (id, uk, hy, ka) => [id, Tr(uk, hy, ka)];
 
@@ -47,6 +48,7 @@ let translations = null; // wird in data_lazy.js gesetzt
 let ruleTranslations = null;
 function tr(ru, lang = AppLang.current) {
   if (lang === Lang.RU) return ru;
+  if (lang === Lang.HU) return huTranslations.get(ru) || ru; // data_hu.js
   const x = translations.get(ru);
   return (x && x.get(lang)) || ru;
 }
@@ -102,6 +104,7 @@ const Category = enumOf([
   ['GRAMMATIK', 'Grammatik', 'Грамматика', '🧩'],
   ['SATZBAU', 'Satzbau', 'Порядок слов', '🧱'],
   ['SCHREIBUNG', 'Rechtschreibung', 'Орфография', '✍️'],
+  ['SATZGLIED', 'Satzglieder', 'Члены предложения', '🔍'],
 ], ['de', 'ru', 'emoji']);
 
 const GameMode = enumOf([
@@ -114,6 +117,7 @@ const GameMode = enumOf([
   ['GRAMMATIK', 'Grammatik', 'Грамматика', '🧩', 'Fälle, Präpositionen, Nebensätze …'],
   ['SATZBAU', 'Satzbau', 'Порядок слов', '🧱', 'Sätze aus Bausteinen bauen'],
   ['RECHTSCHREIBUNG', 'Rechtschreibung', 'Орфография', '✍️', 'Fehler finden und korrigieren — ohne Hinweis'],
+  ['SATZGLIEDER', 'Satzglieder', 'Члены предложения', '🔍', 'Subjekt, Prädikat und Objekt bestimmen'],
 ], ['de', 'ru', 'emoji', 'desc']);
 
 /* ---------------- Aufgaben ---------------- */
@@ -179,6 +183,32 @@ function o(level, rule, chunks, end, ru, ...alt) {
 const g = (level, rule, sentence, answer, wrong, ru, uk, hy, ka) => ({ item: c(level, rule, sentence, answer, wrong, ru), tr: Tr(uk, hy, ka) });
 const so = (level, rule, chunks, end, ru, uk, hy, ka, ...alt) => ({ item: o(level, rule, chunks, end, ru, ...alt), tr: Tr(uk, hy, ka) });
 const sp = (level, rule, wrong, correct, ru, uk, hy, ka) => ({ item: SpellItem(level, rule, wrong, correct, ru), tr: Tr(uk, hy, ka) });
+
+// Satzglieder (Satzglieder.kt): S = Subjekt, P = Prädikat, A = Akkusativobjekt, D = Dativobjekt, X = Angabe
+function partRoleName(role) {
+  return { S: 'Subjekt', P: 'Prädikat', A: 'Akkusativobjekt', D: 'Dativobjekt' }[role] || 'Angabe (Adverbiale)';
+}
+function partQuestion(role) {
+  return {
+    S: 'Was ist das Subjekt? (Wer oder was?)', P: 'Was ist das Prädikat? (Was tut …?)',
+    A: 'Was ist das Akkusativobjekt? (Wen oder was?)', D: 'Was ist das Dativobjekt? (Wem?)',
+  }[role] || 'Was ist die Angabe?';
+}
+const partRoleNames = ['S', 'P', 'A', 'D', 'X'].map(partRoleName);
+const PartsItem = (level, parts, end, ru) => ({
+  level, parts, end, ru,
+  get sentence() { return assemble(this.parts.map((x) => x[1]), this.end); },
+  text(role) { return this.parts.filter((x) => x[0] === role).map((x) => x[1]).join(' … '); },
+  get groups() {
+    const roles = [...new Set(this.parts.map((x) => x[0]))];
+    return roles.flatMap((r) => (r === 'X' ? this.parts.filter((x) => x[0] === 'X') : [[r, this.text(r)]]));
+  },
+  get askable() { return [...new Set(this.parts.map((x) => x[0]).filter((r) => r !== 'X'))]; },
+  get analysis() { return this.askable.map((r) => `${partRoleName(r)}: ${this.text(r)}`).join(' · '); },
+});
+const sg = (level, parts, end, ru, uk, hy, ka) => ({
+  item: PartsItem(level, parts.split('|').map((x) => [x[0], x.substring(2)]), end, ru), tr: Tr(uk, hy, ka),
+});
 
 const Word = (de, article, plural, ru, level) => ({ de, article, plural, ru, level });
 const w = (de, article, plural, ru, level) => Word(de, article, plural, ru, level);

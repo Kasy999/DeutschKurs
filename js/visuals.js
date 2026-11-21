@@ -10,11 +10,11 @@ const Palette = {
 const modeGradient = (m) => ({
   MIX: ['#F472B6', '#8B5CF6'], VOKABELN: ['#22D3EE', '#3B82F6'], VERBEN: ['#FBBF24', '#F97316'], FAELLE: ['#2DD4BF', '#0F766E'],
   ZEITEN: ['#FDBA74', '#DC2626'], KONJUNKTIV: ['#C4B5FD', '#DB2777'], GRAMMATIK: ['#34D399', '#0EA5E9'],
-  SATZBAU: ['#A78BFA', '#6366F1'], RECHTSCHREIBUNG: ['#FB7185', '#EC4899'],
+  SATZBAU: ['#A78BFA', '#6366F1'], RECHTSCHREIBUNG: ['#FB7185', '#EC4899'], SATZGLIEDER: ['#FBBF24', '#F97316'],
 }[m.name]);
 const categoryColor = (cat) => ({
   VOKABEL: Palette.cyan, ARTIKEL: Palette.cyan, PLURAL: Palette.cyan, VERB: Palette.amber, PERFEKT: Palette.amber, ZEIT: Palette.amber,
-  KASUS: '#2DD4BF', REFLEXIV: '#60A5FA', KONJ: '#C4B5FD', GRAMMATIK: Palette.green, SATZBAU: '#A78BFA', SCHREIBUNG: Palette.pink,
+  KASUS: '#2DD4BF', REFLEXIV: '#60A5FA', KONJ: '#C4B5FD', GRAMMATIK: Palette.green, SATZBAU: '#A78BFA', SCHREIBUNG: Palette.pink, SATZGLIED: '#FBBF24',
 }[cat.name]);
 
 const esc = (x) => String(x).replace(/[&<>"']/g, (ch) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]));
