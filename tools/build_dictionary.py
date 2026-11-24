@@ -288,6 +288,11 @@ def read_en(st, fh):
 
 EN_TARGET = re.compile(rb'"lang_code": ?"(%s)"' % '|'.join(LANGS).encode())
 EN_DROP = re.compile(r'\([^)]*\)|\[[^\]]*\]')
+# Englische Füllwörter nicht übersetzen (sonst wird z. B. „of, from, relating to Szolnok“ zu „aus, von …“)
+EN_STOP = {'of', 'from', 'in', 'at', 'by', 'for', 'with', 'on', 'to', 'about', 'into', 'onto', 'over', 'under', 'up', 'out', 'off',
+           'or', 'and', 'but', 'as', 'if', 'than', 'so', 'not', 'no', 'one', 'it', 'its', 'this', 'that', 'these', 'those', 'such',
+           'someone', 'somebody', 'something', 'anything', 'be', 'is', 'have', 'do', 'make', 'get', 'very', 'also', 'etc', 'e.g',
+           'relating', 'pertaining', 'related', 'used', 'kind', 'type', 'sort', 'form', 'way', 'thing', 'person', 'place', 'time'}
 EN_ART = re.compile(r'^(to|a|an|the)\s+', re.I)
 
 
@@ -297,7 +302,7 @@ def en_to_de(gloss, pos, en_de, by_word):
     res = []
     for part in re.split(r'[;,]', g):
         part = EN_ART.sub('', part.strip().rstrip('.')).strip().lower()
-        if not part or len(part.split()) > 3:
+        if not part or len(part) < 2 or len(part.split()) > 3 or part in EN_STOP or part.split()[0] in EN_STOP:
             continue
         des = en_de.get((part, pos)) or by_word.get(part)
         if des:
