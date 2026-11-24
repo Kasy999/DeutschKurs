@@ -1,21 +1,55 @@
-DeutschKurs Webapp – Update "Lernstatistik"
-============================================
+DeutschKurs Webapp – Update "Regelbuch" + "Wörterbuch"
+======================================================
 
-Diese Dateien im GitHub-Repository der Webversion hochladen bzw. ersetzen
-(Ordnerstruktur genau so beibehalten):
+Alle Dateien aus dieser ZIP ins GitHub-Repository hochladen (Ordnerstruktur genau so
+beibehalten, vorhandene Dateien ersetzen):
 
-  index.html        geändert  (lädt js/stats.js)
-  sw.js             geändert  (Cache-Version v6, damit alle Geräte das Update laden)
-  css/app.css       geändert  (Stile für Kalender und Diagramme)
-  js/stats.js       NEU       (Statistik: Speicher, Zeitmessung, Bildschirm)
-  js/engine.js      geändert  (zählt Übungen und Lernzeit pro Tag)
-  js/account.js     geändert  (Statistik wird mit dem Konto synchronisiert)
-  js/ui.js          geändert  (Menüpunkt in den Einstellungen + Seite "Statistik")
+  index.html                              geändert  (lädt die neuen Dateien, Version ?v=10)
+  sw.js                                   geändert  (Cache v10; Wörterbuch hat eigenen Speicher)
+  css/app.css                             geändert  (Stile für Regelbuch und Wörterbuch)
+  js/ui.js                                geändert  (Startseiten-Karten, neue Seiten)
+  js/grammarbook.js                       NEU       (Regelbuch: Oberfläche)
+  js/grammarbook_data.js                  NEU       (Regelbuch: 12 Kapitel in 6 Sprachen)
+  js/dictionary.js                        NEU       (Wörterbuch: Laden, Speichern, Suche)
+  tools/build_dictionary.py               NEU       (baut die Wörterbücher aus Wiktionary)
+  .github/workflows/build-dictionary.yml  NEU       (GitHub-Action "Wörterbuch erstellen")
 
-Alle anderen Dateien bleiben unverändert.
 Die Supabase-Datenbank muss NICHT geändert werden.
 
-NACHTRAG (Update-Problem behoben):
-  index.html und sw.js wurden nochmals geändert, damit Browser neue Versionen
-  sofort laden statt der zwischengespeicherten. Bitte diese beiden Dateien
-  sowie js/stats.js und css/app.css (kleine Layout-Korrekturen) erneut hochladen.
+Hinweis zum Ordner ".github": Windows und macOS blenden Ordner mit Punkt manchmal aus.
+Falls er beim Hochladen fehlt: Auf GitHub "Add file" → "Create new file", als Namen
+  .github/workflows/build-dictionary.yml
+eintippen (die Schrägstriche legen die Ordner an) und den Inhalt der Datei hineinkopieren.
+
+
+WÖRTERBUCH EINMALIG ERSTELLEN (ca. 1–2 Stunden, läuft bei GitHub, PC kann aus sein)
+---------------------------------------------------------------------------------
+Die Action startet automatisch, sobald tools/build_dictionary.py oder die Workflow-Datei
+hochgeladen wird. Von Hand starten geht so:
+1. Auf GitHub im Repository den Reiter "Actions" öffnen.
+   (Falls gefragt: "I understand my workflows, go ahead and enable them" anklicken.)
+2. Links "Wörterbuch erstellen" wählen → rechts "Run workflow" → grüner Knopf "Run workflow".
+3. Warten, bis der Lauf einen grünen Haken hat. Danach liegt im Repository der Ordner
+   "dict" mit ru.txt, uk.txt, hy.txt, ka.txt, hu.txt und index.json.
+4. Die Web-App zeigt das Wörterbuch dann automatisch an.
+
+Danach aktualisiert sich das Wörterbuch jeden 1. des Monats von selbst.
+
+Falls der Lauf mit "Permission denied" / "403" beim Speichern scheitert:
+  Settings → Actions → General → "Workflow permissions" → "Read and write permissions" → Save,
+  dann den Lauf wiederholen.
+
+Wie das Wörterbuch funktioniert
+-------------------------------
+- Startseite: Karte "📕 Wörterbuch". Wort auf Deutsch ODER in der gewählten Sprache eingeben –
+  es wird in beide Richtungen gesucht (Deutsch → Sprache und Sprache → Deutsch).
+- Deutsche Nomen mit Artikel und Plural, Wortart, mehrere Bedeutungen nummeriert, Vorlesen.
+- Es wird NUR das Wörterbuch der in den Einstellungen gewählten Sprache heruntergeladen und
+  gespeichert. Beim Wechsel der Sprache wird das alte sofort gelöscht. Danach funktioniert es
+  auch offline. Ganz unten auf der Wörterbuch-Seite: Größe und "Löschen".
+- Quelle: Wiktionary (deutsch, russisch, englisch) über kaikki.org / Wiktextract,
+  Lizenz CC BY-SA 4.0. Der Quellenhinweis steht in der App und muss drinbleiben.
+  Einträge mit "≈ über Englisch" sind über die englische Bedeutung zugeordnet.
+
+Lokal bauen (optional, Python 3):  python tools/build_dictionary.py
+  (lädt ca. 3,5 GB; mit --no-en ohne englisches Wiktionary, deutlich schneller, aber weniger Wörter)

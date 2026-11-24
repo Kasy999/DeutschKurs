@@ -1,0 +1,66 @@
+# Baut die Wörterbücher (dict/*.txt) aus Wiktionary und speichert sie im Repository.
+# Starten: GitHub → Reiter "Actions" → "Wörterbuch erstellen" → "Run workflow".
+# Läuft außerdem automatisch am 1. jedes Monats (neue Wiktionary-Einträge) und nach Änderungen am Build-Skript.
+name: Wörterbuch erstellen
+
+on:
+  workflow_dispatch:
+    inputs:
+      english:
+        description: 'Auch englisches Wiktionary nutzen (mehr Wörter, dauert ca. 1 Stunde länger)'
+        type: boolean
+        default: true
+  schedule:
+    - cron: '17 3 1 * *'
+  # startet auch, wenn das Build-Skript oder diese Datei geändert hochgeladen wird
+  push:
+    branches: [main]
+    paths:
+      - 'tools/build_dictionary.py'
+      - '.github/workflows/build-dictionary.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-dictionary
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Schnellen JSON-Leser installieren
+        run: pip install orjson
+
+      - name: Wörterbücher bauen
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.english }}" = "false" ]; then
+            python tools/build_dictionary.py --no-en
+          else
+            python tools/build_dictionary.py
+          fi
+
+      - name: Ergebnis anzeigen
+        run: |
+          ls -la dict
+          cat dict/index.json
+
+      - name: Ins Repository speichern
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add dict
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Wörterbuch aktualisiert ($(date -u +%Y-%m-%d))"
+            git push
+          fi

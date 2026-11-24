@@ -1,7 +1,7 @@
 'use strict';
 // Oberfläche (Port von GameScreen.kt): Start, Quiz, Feier, Ergebnis, Auszeichnungen, Einstellungen.
 
-const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', STATS: 'STATS', PLACEMENT: 'PLACEMENT', ACCOUNT: 'ACCOUNT' };
+const Screen = { HOME: 'HOME', PLAYING: 'PLAYING', FINISHED: 'FINISHED', REWARDS: 'REWARDS', SETTINGS: 'SETTINGS', STATS: 'STATS', PLACEMENT: 'PLACEMENT', ACCOUNT: 'ACCOUNT', BOOK: 'BOOK', DICT: 'DICT' };
 
 const App = {
   screen: Screen.HOME,
@@ -43,6 +43,7 @@ function goHome() {
   render({ scrollTop: true });
 }
 window.addEventListener('popstate', () => {
+  if (App.screen === Screen.BOOK) { gbPop(); return; } // Regelbuch (grammarbook.js)
   // Statistik ist eine Unterseite der Einstellungen: Zurück führt dorthin.
   if (App.screen === Screen.STATS) { App.screen = Screen.SETTINGS; render({ scrollTop: true }); } else if (App.screen !== Screen.HOME) goHome();
 });
@@ -148,12 +149,12 @@ function modeGrid(columns) {
 function homeScreen() {
   if (isWide()) {
     return `<div class="wide-row">
-      <div class="scroll col gap14" style="flex:0.44 1 0">${homeHeader()}${accountTeaser()}${profileCard()}${placementTeaser()}${rewardsTeaser()}</div>
+      <div class="scroll col gap14" style="flex:0.44 1 0">${homeHeader()}${accountTeaser()}${profileCard()}${placementTeaser()}${bookTeaser()}${dictionaryTeaser()}${rewardsTeaser()}</div>
       <div class="scroll col gap12" style="flex:0.56 1 0">${sectionLabel('Übungsmodus', S.mode)}${modeGrid(2)}</div>
     </div>`;
   }
   return `<div class="scroll col gap14 pad16" style="flex:1">
-    ${homeHeader()}${accountTeaser()}${profileCard()}${placementTeaser()}${rewardsTeaser()}${sectionLabel('Übungsmodus', S.mode)}${modeGrid(window.innerWidth >= 600 ? 2 : 1)}<div style="height:8px;flex:none"></div>
+    ${homeHeader()}${accountTeaser()}${profileCard()}${placementTeaser()}${bookTeaser()}${dictionaryTeaser()}${rewardsTeaser()}${sectionLabel('Übungsmodus', S.mode)}${modeGrid(window.innerWidth >= 600 ? 2 : 1)}<div style="height:8px;flex:none"></div>
   </div>`;
 }
 
@@ -306,6 +307,7 @@ function feedbackCard(task) {
     </div>
     ${App.ui.showDe ? `<div class="expl-box${App.ui.animDe ? ' expand' : ''}"><div class="lbl">Deutsch</div><div class="txt">${esc(task.explanation.de)}</div></div>` : ''}
     ${App.ui.showLoc ? `<div class="expl-box${App.ui.animLoc ? ' expand' : ''}"><div class="lbl">${esc(AppLang.current.nativeName)}</div><div class="txt">${esc(task.explanation.loc)}</div></div>` : ''}
+    ${gbFeedbackLink(task)}
     <div style="height:14px"></div>
     <button class="btn-grad" style="width:100%;background:${linGrad(right ? Palette.success : Palette.primary)}" data-act="next">${last ? `Ergebnis ansehen · ${esc(S.result)} 🏁` : `Weiter · ${esc(S.next)}  ›`}</button>
   </div>`;
@@ -493,6 +495,8 @@ function render(opts = {}) {
     case Screen.STATS: html = statsScreen(); break;
     case Screen.PLACEMENT: html = placementScreen(); break;
     case Screen.ACCOUNT: html = accountScreen(); break;
+    case Screen.BOOK: html = bookScreen(); break;
+    case Screen.DICT: html = dictionaryScreen(); break;
     default: html = homeScreen();
   }
   root.innerHTML = `<div class="screen">${html}</div>`;
@@ -573,6 +577,8 @@ function onClick(ev) {
   const act = el.dataset.act;
   const r = App.round;
   if (accountClick(act, el)) return;
+  if (bookClick(act, el)) return;
+  if (dictionaryClick(act, el)) return;
   switch (act) {
     case 'settings': go(Screen.SETTINGS); break;
     case 'stats': openStats(); break;
@@ -605,7 +611,7 @@ function onClick(ev) {
     case 'next': nextTask(); break;
     case 'celebrated': r.celebration = null; render(); break;
     case 'diff': AppDifficulty.set(parseInt(el.dataset.val, 10) || null); render(); break;
-    case 'lang': AppLang.set(Lang[el.dataset.val]); document.documentElement.lang = 'de'; render(); break;
+    case 'lang': AppLang.set(Lang[el.dataset.val]); Dict.langChanged(); document.documentElement.lang = 'de'; render(); break;
   }
 }
 
@@ -632,6 +638,8 @@ function boot() {
   App.root.addEventListener('input', (ev) => {
     if (ev.target.id === 'spellInput') { App.ui.spellText = ev.target.value; autoGrow(ev.target); }
     accountInput(ev.target);
+    bookInput(ev.target);
+    dictionaryInput(ev.target);
   });
   App.root.addEventListener('submit', (ev) => {
     if (ev.target.matches('[data-accform]')) { ev.preventDefault(); accountSubmit(); }
