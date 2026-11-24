@@ -175,7 +175,9 @@ function dictSenses(tr) {
   return `<ol class="dict-senses dict-sel">${parts.map((p) => `<li>${esc(p)}</li>`).join('')}</ol>`;
 }
 function dictPos(pos) {
-  return pos ? pos.split(',').map((p) => `<span class="dict-pos">${esc(DICT_POS[p] || p)}</span>`).join('') : '';
+  const list = pos ? pos.split(',') : [];
+  if (list.includes('n')) { const i = list.indexOf('name'); if (i >= 0) list.splice(i, 1); } // „Nomen“ reicht
+  return list.map((p) => `<span class="dict-pos">${esc(DICT_POS[p] || p)}</span>`).join('');
 }
 function dictDeHead(e) {
   const noun = e.art ? `${e.art} ` : '';
