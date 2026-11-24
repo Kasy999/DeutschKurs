@@ -28513,693 +28513,695 @@ D	Üsküdar			name	Սկյուտար	w
 D	üsselig				ժուժկալ	e
 D	Łódź	das			Լոձ	e
 D	Živinice			name	Ժիվինիցե	w
-X	Ա	num	erster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 1 im System des armenischen Zahlensystems
-X	ա	num	erster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 1 im System des armenischen Zahlensystems
-X	ԱԱՀ	abk	Abkürzung für ավելացված արժեքի հարկ ; MwSt, Mehrwertsteuer f, Umsatzsteuer f
-X	ադամաթուզ	n	Bananenpflanze, Banane
-X	ադամաթուզներ	n	Nominativ Plural des Substantivs ադամաթուզ ; Akkusativ Plural des Substantivs ադամաթուզ
-X	ադամանդ	n	Diamant m
-X	ադամանդավաճառ	n	Diamantenhändler m
-X	ազատքեղ	n	Petersilie f
-X	ազոտ	n	Element Stickstoff ; Gas Stickstoff
-X	աթոռ	n	Stuhl m
-X	Ալբանիա	name	Albanien n
-X	ալեզարդ	adj	mit grauem oder weißem Haar
-X	ալեհեր	adj	grauhaarig
-X	ալեւոր	adj	als Zeichen des Alters mit grauen Haaren durchsetzt
-X	Ալեքսանդր	name	der männliche Vorname Alexander
-X	Ալժիր	name	Algerien n ; Algier n
-X	ալիբի	n	Alibi n
-X	ալյումինում	n	Chemie: silberweißes, leicht formbares Metall, das als chemisches Element die Ordnungszah…
-X	ածական	n	Eigenschaftswort, Adjektiv
-X	ածական անուն	n	Adjektiv n, Eigenschaftswort n
-X	ածական անուններ	wend	Plural von ածական անուն (acakan anown^☆) ^(→ hy)
-X	ածանց	n	Wortbildungselement, das an oder in den Wortstamm gestellt wird ; abgeleitetes Wort
-X	ածխածին	n	Kohlenstoff; chemisches Element mit der Ordnungszahl 6
-X	ակտինիում	n	Chemie: Actinium n
-X	աղաչել	v	anflehen, demütig bitten ; ersuchen
-X	ամառ	n	wärmste Jahreszeit, zwischen Frühling und Herbst; Sommer
-X	ամառի	n	Genitiv Singular des Substantivs ամառ
-X	ամառին	n	Dativ Singular des Substantivs ամառ
-X	ամառից	n	Ablativ Singular des Substantivs ամառ
-X	ամառներ	n	Nominativ Plural des Substantivs ամառ ; Akkusativ Plural des Substantivs ամառ
-X	ամառների	n	Genitiv Plural des Substantivs ամառ
-X	ամառներին	n	Dativ Plural des Substantivs ամառ
-X	ամառներից	n	Ablativ Plural des Substantivs ամառ
-X	ամառներով	n	Instrumental Plural des Substantivs ամառ
-X	ամառներում	n	Lokativ Plural des Substantivs ամառ
-X	ամառով	n	Instrumental Singular des Substantivs ամառ
-X	ամառում	n	Lokativ Singular des Substantivs ամառ
-X	Ամերիկա	name	Vereinigte Staaten von Amerika, USA ; Amerika
-X	Ամերիկայի Միացյալ Նահանգներ	wend	Vereinigte Staaten von Amerika
-X	ամերիցիում	n	Chemie: Americium n
-X	ԱՄՆ	abk	Ամերիկայի Միացյալ Նահանգներ ‚USA‘
-X	Այգաբեր	n	Venus f
-X	Այգաստղ	n	Venus f
-X	այլուրեքութիւն	n	Alibi
-X	այլուրեքութիւններ		Nominativ Plural von այլուրեքութիւն ; Akkusativ Plural von այլուրեքութիւն
-X	այսօր	adv	an diesem Tage
-X	անագ	n	Chemie: Zinn n
-X	անապատ	n	Wüste
-X	Անգոլա	name	Angola n
-X	Անդորա	name	Andorra n
-X	անդունդ	n	Abyssus, Unterwelt ; Schlund, Kluft
-X	անդունդներ		Plural von անդունդ
-X	անել	v	ausweglos, ohne Ausweg ; machen, tun
-X	անել փողոց	wend	Sackgasse f
-X	անեստեզեոլոգիական	adj	anästhetisch
-X	անեստեզեոլոգիական դիմակ	wend	Anästhesiemaske f
-X	անկարելի	adv	unmöglich
-X	անհանգիստ	adj	ohne Ruhe
-X	անձնական դերանուն	wend	kleines Wort, das anstelle eines Hauptwortes steht
-X	անուն	n	Name ; Nennwort, Nomen
-X	անվճար	adj	ohne Bezahlung
-X	անվճարովի	adj	gratis, kostenlos, umsonst, unentgeltlich
-X	անցյալ անկատար	wend	unvollendete Vergangenheit
-X	անցյալ կատարյալ	n	Aorist m ; vollendete Vergangenheit, ohne Hilfsverb gebildet.
-X	անօրինակ	adj	beispiellos
-X	աշխարհ	n	(ganze) Welt ; Land, Region
-X	աշնան	n	Herbst
-X	աշուն	n	Herbst m
-X	ապրել	v	leben ; erleben ; verleben ; wohnen
-X	ապրիլ	n	vierter Monat; April
-X	առաւօտեան աստղ	wend	Morgenstern
-X	ասուպ	n	in die Erdatmosphäre eintretender und darum brennender Meteoroid
-X	ասուպակար	n	Meteorstein m
-X	աստատ	n	Chemie: Astat n
-X	աստեղազարդ	adj	mit Sternen nahezu ausgefüllt
-X	աստղ	n	Stern m
-X	աստղաբաշխութիւն	n	Sternenkunde, Astronomie
-X	Աստղիկ	n	Venus f
-X	աստված	n	Gott m
-X	ավելացված արժեքի հարկ	wend	Mehrwertsteuer f, Umsatzsteuer f
-X	Ավստրիա	name	Österreich
-X	Արարատ	name	Berg Ararat ; Ararat-Ebene ; Provinzhauptstadt in Armenien ; gleichnamige Provinz in Armenien ; ein armenischer Brandy
-X	Արգենտինա	name	Argentinien, Staat in Südamerika
-X	արգոն	n	Chemie: Argon
-X	Արեգակ	n	Sonne f
-X	արեվածաղիկ	n	Sonnenblume
-X	արեւ	n	Sonne
-X	արծաթ	n	Chemie: Silber n
-X	արհեստական	adj	künstlich ; gefälscht
-X	Արմավիր	name	armenische Provinz ; Provinzhauptstadt Armavir im Westen Armeniens
-X	Արմավիրի մարզ	wend	Provinz Armawir
-X	արյունը ջուր չի դառնա	wend	Ausdruck der besonderen Verbundenheit mit der Familie, Blutsverwandten näher stehend als…
-X	Արուսեակ	n	Planet Venus
-X	արսեն	n	Chemie: Arsen n (Element) ; Chemie: Arsen n (giftige Substanz)
-X	արօտ	n	Weide, Wiese mit Pflanzen zum Weiden, Weideland
-X	արևածաղիկ	n	Sonnenblume
-X	արևայրուք	n	Sonnenbrand, Sonnenbräune
-X	Աֆղանստան	name	Land, Staat Afghanistan
-X	Բ	num	zweiter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 2 im System des armenischen Zahlensystems
-X	բ	num	zweiter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 2 im System des armenischen Zahlensystems
-X	բազնապատկական	adj	die Wiederholung betreffend, iterativ, wiederholend, multiplikativ
-X	Բահամներ	name	Inselstaat Bahamas
-X	Բահրեյն	name	Bahrain
-X	բաղաձայն	n	Mitlaut, Konsonant
-X	բայ	n	Verb, Zeitwort
-X	բանան	n	Banane f
-X	Բանգլադեշ	name	Bangladesch n
-X	բանտ	n	Gefängnis
-X	բարեկենդան	n	altes und traditionelles armenisches Festival namens Barekendan ; Fest mit Maskerade, Karneval
-X	բարի ախորժակ	wend	Formel für ein gutes gemeinsames Essen, auf dessen Bekömmlichkeit und Wohlschmecken
-X	բարի գալուստ	wend	willkommen
-X	բարի լույս	wend	guten Morgen
-X	բարիում	n	Chemie: Barium n
-X	բաց մանուշակագույն	wend	fliederfarben, lila
-X	բացահայտիչ	n	Apposition, Beisatz
-X	բացառական	n	Ablativ, Woherfall, 5. Fall
-X	բացատրել	v	Sachverhalt, Funktionsweise darlegen
-X	Բելառուս	name	Weißrussland n
-X	Բելգիա	name	Belgien n
-X	Բենին	name	Benin n
-X	բերիլիում	n	Beryllium n
-X	բերկելիում	n	Berkelium n
-X	բժշկական	adj	medizinisch, heilkundlich
-X	Բժշկական ապահովագրություն	wend	Krankenversicherung
-X	բժշկական գաղտնիք	wend	ärztliche Schweigepflicht
-X	բժշկական դիմակ	wend	Schutzmaske vor Mund und Nase, ursprünglich für Chirurgen
-X	բժշկական ծառայութիւն	wend	Sanitätsdienst m, medizinischer Dienst
-X	բժշկական կենտրոն	wend	Klinik, Klinikum
-X	բժշկական մասնագիտություն	wend	Arztberuf m, Ärzteschaft f, Berufsstand der Ärzte
-X	բժշկական օգնութիւն	wend	ärztliche Behandlung, ärztliche Betreuung ; medikamentöse Behandlung
-X	բիսմութ	n	Wismut n
-X	Բոթսվանա	name	afrikanischer Staat Botsuana
-X	Բոլիվիա	name	südamerikanischer Staat Bolivien
-X	Բոսնիա և Հերցոգովինա	wend	europäischer Staat Bosnien und Herzegowina
-X	բոր	n	Element Bor
-X	բորաթթու	n	Borsäure f
-X	բորիում	n	Chemie: Bohrium n
-X	Բութան	name	asiatischer Staat Bhutan
-X	Բուլղարիա	name	osteuropäischer Staat Bulgarien
-X	Բուրկինա Ֆասո	wend	afrikanischer Staat Burkina Faso
-X	Բուրունդի	name	afrikanischer Staat Burundi
-X	Բրազիլիա	name	südamerikanischer Staat Brasilien
-X	բրոմ	n	Brom n
-X	Գ	num	dritter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 3 im System des armenischen Zahlensystems
-X	գ	num	dritter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 3 im System des armenischen Zahlensystems
-X	Գաբոն	name	afrikanischer Staat Gabun
-X	գադոլինիում	n	Chemie: Gadolinium n
-X	գալիում	n	Gallium
-X	Գամբիա	name	westafrikanischer Staat Gambia
-X	Գայանա	name	südamerikanischer Staat Guyana
-X	գայթակղիչ	adj	sittliche Empörung auslösend
-X	գայլ	n	Wolf
-X	գառ	n	Lamm n
-X	գարուն	n	Frühling m
-X	գետնախնձոր	n	Kartoffel, Pflanze und essbare Knolle ; Korbblütler mit essbarer Knolle, Topinambur
-X	գետնին տապալվեց	wend	am Boden zerstört sein, am Ende seiner Kräfte sein
-X	Գերմանիա	name	Staat in Mitteleuropa; Deutschland
-X	Գերմանիայի Դաշնային Հանրապետութիւն	wend	Bundesrepublik Deutschland f
-X	գերմանիում	n	Germanium n
-X	գինձ	n	Koriander m
-X	Գիշերավար	n	Venus
-X	Գլխավոր Էջ	wend	Hauptseite
-X	գյուղ	n	Dorf
-X	գնալ	v	gehen, sich fortbewegen
-X	գոյական	n	Substantiv, Hauptwort
-X	գոյական անուն	wend	Substantiv n, Hauptwort n
-X	գոտկային ողեր	wend	Lendenwirbel m, Lendenwirbelsäule f
-X	գործիական	n	Instrumentalis, Mittel, Werkzeug bezeichnender Fall (der 6. Fall der armenischen Sprache)
-X	գորշ	adj	grau
-X	գույն	n	Farbe f (ein bestimmter Abschnitt des sichtbaren Lichts im Spektrum)
-X	Գվինեա	name	Guinea n
-X	Գրենադա	name	Grenada n
-X	Դ	num	vierter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 4 im System des armenischen Zahlensystems
-X	դ	num	vierter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 4 im System des armenischen Zahlensystems
-X	Դանիա	name	Dänemark n
-X	Դաշտային Արտույտ	wend	Feldlerche f
-X	դասական թվական	wend	Ordinalzahl f, Ordnungszahl f
-X	դարձված	n	Redewendung f, Sprichwort n
-X	դարձվածք	n	Redewendung f, Sprichwort n
-X	դարմշտատիում	n	Darmstadtium n
-X	դարչնագույն	adj	braun
-X	դարպասապահ	n	defensivster Spieler einer Sportmannschaft, der gegnerische Tore verhindern soll und hier…
-X	դեկտեմբեր	n	zwölfter Monat; Dezember
-X	դեղատուն	n	Apotheke f
-X	դեղին	n	Gelb n
-X	դերանուն	n	Pronomen n, Fürwort n
-X	դերասան	n	Schauspieler m
-X	դերասանուհի	n	Schauspielerin f
-X	դերբայ	n	Infinitiv
-X	դիմակ	n	Maske f ; Shein m ; Deckmantel m
-X	դիմակազերծ	adj	bloßgestellt, entlarvt
-X	դիմակազերծել	v	bloßstellen, demaskieren
-X	դիմակազուրկ	adj	demaskiert, bloßgestellt
-X	դիմակաւոր	adj	maskiert. Masken-, masken
-X	դիմակաւոր դերասան	wend	maskierter Schauspieler
-X	դիմակաւոր դերասանուհի	wend	maskierte Schauspielerin
-X	դիմակաւոր պարահանդէս	wend	Maskenball m
-X	դիմակաւորել	v	maskieren
-X	դիմանկար	n	Portrait n ; Bildnis n
-X	դիսպրոզիում	n	Dysprosium n
-X	դղքի	n	Ahorn m
-X	Դոմինիկա	name	Dominica n
-X	դուբնիում	n	Dubnium
-X	Ե	num	fünfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 5 im System des armenischen Zahlensystems
-X	ե	num	fünfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 5 im System des armenischen Zahlensystems
-X	Եգիպտոս	name	Ägypten n
-X	եզակի	n	Singular m, Einzahl f
-X	Եթովպիա	name	Äthiopien n
-X	եղանակ	n	Modus m, Aussageweise f
-X	Եղեգնուտի Եղեգնաթռչնակ	wend	Teichrohrsänger
-X	ենթակա	n	Subjekt, Satzgegenstand
-X	Եվրոպական Ճնճղաճուռակ	wend	Kurzfangsperber m
-X	Եվրոպական Միություն	n	Europäische Union
-X	եվրոպիում	n	Europium
-X	ետադրութիւն	n	Postposition, nachgestelltes Verhältniswort
-X	երեկ	adv	gestern
-X	երեքշաբթի	n	Zweiter Wochentag im Kalender (nach christlich/jüdischer Zählung der 3.); Tag zwischen Mo…
-X	երիտասարդ	adj	jung
-X	երկաթ	n	Eisen
-X	Երկարագի Եռաշտահավ	n	Schwanzmeise f
-X	երկինք	n	der Himmel
-X	Երկիր	n	belebter und dritter, von der Sonne aus gezählte Planet in unserem Sonnensystem.
-X	երկիր	n	Land n, Heimat f ; der feste Boden; die Landoberfläche; die trockenen Landmassen der Erdoberfläche
-X	Երկնագույն Ալկիոն	n	Eisvogel m
-X	երկուշաբթի	n	Erster Wochentag im Kalender (nach christlich/jüdischer Zählung der 2.); Tag zwischen Son…
-X	Երևակ	n	sechster Planet im Sonnensystem; Saturn
-X	Եփրատ	name	Euphrat
-X	Զ	num	sechster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 6 im System des armenischen Zahlensystems
-X	զ	num	sechster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 6 im System des armenischen Zahlensystems
-X	Զատիկ	n	Ostern, Osterfest
-X	զատիկ	n	der Maikäfer
-X	զարգացում	n	Fortschritt m ; Entwicklung f ; Bildung f
-X	զմելին	n	Taschenmesser
-X	զոր օրինակ	wend	beispielsweise, zum Beispiel
-X	Է	num	siebenter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 7 im System des armenischen Zahlensystems
-X	է	num	siebenter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 7 im System des armenischen Zahlensystems
-X	Էլ Սալվադոր	wend	El Salvador n
-X	Էկվադոր	name	Ecuador n
-X	էյնշտեյնիում	n	Einsteinium
-X	Էստոնիա	name	Estland n
-X	էրբիում	n	Erbium
-X	Էրիտրեա	name	Eritrea n
-X	Ը	num	achter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 8 im System des armenischen Zahlensystems
-X	ը	num	achter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 8 im System des armenischen Zahlensystems
-X	ըղձական	n	Desiderativ m, Wunschform f
-X	ընթրիկ	n	Abendessen n
-X	ընտանի	adj	zahm
-X	Թ	num	neunter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 9 im System des armenischen Zahlensystems
-X	թ	num	neunter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 9 im System des armenischen Zahlensystems
-X	թալիում	n	Thallium n
-X	թանապուր	n	Sauermilchsuppe f
-X	թանգարան	n	Museum n
-X	թաս	n	Becher m ; Pokal n ; Tasse f
-X	Թավշաոտ Բվիկ	n	Raufußkauz m
-X	թերթոն	n	Feuilleton n
-X	թերուսում	adj	halbgebildet ; ungebildet
-X	թթվածին	n	Chemie: Sauerstoff m
-X	թիվ	n	Nummer f, Zahl ; Numerus
-X	թորիում	n	Thorium
-X	թուլիում	n	Thulium
-X	թունաւոր	adj	giftig, toxisch
-X	թունաւորել	v	vergiften
-X	թունաւորուել	v	vergiftet werden ; sich vergiften
-X	Թուրքիա	name	Türkei f
-X	թռչնաբան	n	Ornithologe m, Vogelkundler m
-X	թռչնաբոյծ	n	Vogelzüchter m
-X	թռչուն	n	Vogel m
-X	թվական անուն	wend	Numerale, Zahlwort
-X	Ժ	num	zehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 10 im System des armenischen Zahlensystems
-X	ժ	num	zehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 10 im System des armenischen Zahlensystems
-X	ժամանակ	n	Zeit ; grammatische Form, in der der zeitliche Verlauf gekennzeichnet wird
-X	ժխտական	n	Negation, Verneinung
-X	ժխտական դերանուն	wend	Negativpronomen, verneinendes Fürwort
-X	Ի	num	elfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 20 im System des armenischen Zahlensystems
-X	ի	num	elfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 20 im System des armenischen Zahlensystems
-X	ինդիում	n	Indium
-X	Ինդոնեզիա	name	Indonesien n
-X	Ինքնուկ	n	Selfie
-X	Իռլանդիա	name	Irland n
-X	Իսլանդիա	name	Island n
-X	Իսպանիա	name	Spanien n
-X	Իսրայել	name	Israel
-X	Իտալիա	name	Italien n
-X	իտերբիում	n	Chemie: Ytterbium
-X	իտրիում	n	Yttrium
-X	Իրան	name	der Staat Iran
-X	Իրաք	name	Irak m
-X	իրիդիում	n	Iridium
-X	Լ	num	zwölfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 30 im System des armenischen Zahlensystems
-X	լ	num	zwölfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 30 im System des armenischen Zahlensystems
-X	լայն	adj	breit
-X	Լայնակտուց Բադ	wend	Löffelente f
-X	լանթան	n	Lanthan
-X	Լաոս	name	Laos n
-X	լաուրենսիում	n	Lawrencium
-X	Լատվիա	name	Lettland n
-X	Լեհաստան	name	Polen n
-X	Լեսոթո	name	Lesotho n
-X	լիալուսին	n	Vollmond m
-X	Լիբանան	name	Libanon m
-X	Լիբերիա	name	Liberia n
-X	Լիբիա	name	Libyen m
-X	լիթիում	n	Lithium n
-X	Լիխտենշտեյն	name	Liechtenstein n
-X	Լիտվա	name	Litauen n
-X	Լյուքսեմբուրգ	name	Luxemburg n
-X	լոլիկ	n	Tomate f
-X	Լորաճուռակ	n	Sperber m
-X	Լուսաբեր	n	Venus
-X	Լուսաստղ	n	Venus
-X	լուսին	n	Mond m
-X	լուսնեղջյուր	n	Halbmond m
-X	Լուսնթագ	n	Jupiter
-X	լուտեցիում	n	Lutetium
-X	Խ	num	dreizehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 40 im System des armenischen Zahlensystems
-X	խ	num	dreizehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 40 im System des armenischen Zahlensystems
-X	խաչբառ	n	das Kreuzworträtsel
-X	խաչքար	n	eine überaus kunstvoll geschnitzte armenische Stele, ein Monolith, mit eingravierten Kreu… ; Chatschkar m, Kreuzstein m
-X	խղճալ	v	mit jemandem Mitleid haben
-X	խնդիր	n	Objekt, Fallergänzung eines Zeitworts
-X	խնձոր	n	Apfel m
-X	խոնարհում	n	Konjugation f ; Beugung des Zeitworts
-X	խոսքդ սար ու ձոր մի գցիր	wend	eine Sache direkt benennen, nicht zu Umschreibungen greifen; Das Kind beim Namen nennen.
-X	խոտ	n	Kraut n
-X	խոտուց	n	Gelenk, Armgelenk, Kniegelenk n
-X	խորխորատ	n	Abgrund m, Abyssus m, Tiefe f ; Bergschlucht f
-X	Խորվաթիա	name	Kroatien n
-X	խունկ	n	Weihrauch, m
-X	ԽՍՀՄ	name	UdSSR
-X	Ծ	num	vierzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 50 im System des armenischen Zahlensystems
-X	ծ	num	vierzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 50 im System des armenischen Zahlensystems
-X	ծարիր	n	Antimon
-X	ծիրկաթին	n	Milchstraße f
-X	ծծումբ	n	Schwefel, Sulfur
-X	Կ	num	fünfzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 60 im System des armenischen Zahlensystems
-X	կ	num	fünfzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 60 im System des armenischen Zahlensystems
-X	կադմիում	n	Cadmium n
-X	կազմակերպական	adj	organisatorisch
-X	կազմակերպել	v	organisieren ; arrangieren
-X	կալիում	n	Kalium
-X	կալիֆորնիում	n	Californium
-X	կալվածատեր	n	Person gleich welchen Geschlechts, die die Verfügungsmacht über Haus und Hof hat
-X	կալցիում	n	Calcium
-X	կաղնի	n	großer Laubbaum mit hartem Holz; Eiche
-X	կաղնու փայտանյութ	wend	Eiche f ; Eichenholz n
-X	Կամերուն	name	Kamerun n
-X	Կանադա	name	Kanada n
-X	կանաչ	n	Grün
-X	կապ	n	Bindewort, Konjunktion
-X	կապար	n	Blei
-X	կապել	v	anbinden ; verbinden, zusammenfügen ; fesseln
-X	կապույտ	adj,n	blau ; Blau n
-X	կառուցվածք	n	Struktur f
-X	կատարելի ներկա	wend	Futur
-X	կարագ	n	Butter
-X	կարելի	adv	möglich, machbar
-X	կարմիր	adj,n	rot ; Rot n
-X	կարմիր հաւկիթ	wend	Osterei, rotes Ei
-X	կարտոֆիլ	n	Kartoffel f
-X	կենդանի	n	Tier n ; lebendig
-X	կենտրոն	n	Zentrum n
-X	կենտրոնախոյս	adj	zentrifugal
-X	կենտրոնախոյս ուժ	wend	Zentrifugalkraft f
-X	կենտրոնաձիգ	adj	zentripetal, zum Mittelpunkt hinstrebend
-X	կենտրոնաձիգ ուժ	wend	Zentripetalkraft f
-X	կենտրոնացնել	v	zentralisieren
-X	կենտրոնաւորել	v	zentrieren
-X	կեչի	n	Birke f
-X	Կեռնեխանման Եղեգնաթռչնակ	wend	Drosselrohrsänger m
-X	կետադրութիւն	n	Interpunktion, Zeichensetzung
-X	Կիպրոս	name	Zypern n
-X	կիսատ բերան ասել	wend	mit halbem Mund sagen; halbherzig sagen, halbherzig einladen, usw.
-X	կիրակի	n	Siebter Wochentag im Kalender (nach christlich/jüdischer Zählung der 1.); Tag zwischen Sa…
-X	կյուրիում	n	Curium
-X	կոբալտ	n	Kobalt
-X	կոշիկ	n	Schuh m
-X	կոշկակար	n	Schuhmacher m
-X	Կոստա Րիկա	wend	Costa Rica n
-X	Կոտ դ'Իվուար	wend	Elfenbeinküste f
-X	Կորեա	name	Korea n
-X	Կուբա	name	Kuba n
-X	Կռնչան Բադ	wend	Stockente f, Märzente f, Wildente f
-X	կրիպտոն	n	Krypton
-X	Հ	num	sechzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 70 im System des armenischen Zahlensystems
-X	հ	num	sechzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 70 im System des armenischen Zahlensystems
-X	հագուստ	n	Kleid
-X	Հաիթի	name	Haiti n
-X	հաղարջ	n	Die Johannisbeerpflanze oder der Johannisbeerstrauch ; Die Frucht des Johannisbeerstrauchs; Johannisbeere
-X	հաղթանակ	n	Gewinnen eines Wettstreites
-X	համազգային	adj	national
-X	համբույր	n	Kuss
-X	համբուրել	v	küssen
-X	համեմատական աստիճան	n	Komparation f ; Steigerung des Eigenschaftswortes
-X	հայ	adj,n	armenisch ; Armenier m
-X	Հայաստան	name	Armenien n
-X	Հայաստանի Հանրապետություն	wend	Republik Armenien f
-X	Հայկական որոր	wend	im armenischen Hochland beheimatete Möwenart; Armenienmöwe, Armeniermöwe
-X	հայր	n	Vater m
-X	հայցական	n	Akkusativ, Wenfall; der 4. Fall in der armenischen Sprache
-X	հանրապետություն	n	Republik f
-X	հասարակած	n	der Äquator
-X	հասիում	n	Hassium
-X	հատկացուցիչ	n	Possessiver Genitiv, Genitiv zur Besitzanzeige
-X	հարակատար	n	das Resultat des Zeitworts ausdrückende Form; Resultativ
-X	Հարավային Կորեա	wend	auf der Südhälfte der koreanischen Halbinsel gelegener Staat.
-X	հարթ	adj	eben ; glatt
-X	հարկադրական	n	Kompulsiv, Notwendigkeitsform f
-X	հարցական դերանուն	wend	Fragefürwort, Interrogativpronomen
-X	հաւկիթ	n	Hühnerei, Ei
-X	հաֆնիում	n	Hafnium n
-X	հելիում	n	Helium
-X	հեռագիր	n	Telegramm n
-X	հեռաւոր	adj	fern, entfernt ; weitläufig
-X	հեռու	adj	weit, fern
-X	հինգշաբթի	n	Vierter Wochentag im Kalender (nach christlich/jüdischer Zählung der 5.); Tag zwischen Mi…
-X	Հյուսիսային Կորեա	wend	auf der Nordhälfte der Koreanischen Halbinsel gelegener Staat
-X	Հնդկաստան	name	Indien n
-X	հոգնակի	n	Plural
-X	հոդ	n	Artikel
-X	հոլմիում	n	Holmium
-X	հոլովում	n	Deklination f
-X	հոկտեմբեր	n	zehnter Monat; Oktober
-X	հուլիս	n	siebter Monat; Juli
-X	հունիս	n	sechster Monat; Juni
-X	հունվար	n	erster Monat; Januar
-X	հրամայական	n	Imperativ m, Befehlsform f
-X	հրապաշտ	n	Feueranbeter m
-X	Հրատ	n	Mars m
-X	Ձ	num	siebzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 80 im System des armenischen Zahlensystems
-X	ձ	num	siebzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 80 im System des armenischen Zahlensystems
-X	ձայնդարձ	n	Ablaut
-X	ձմեռ	n	Winter m
-X	ձմերուկ	n	Wassermelone f
-X	ձողաձուկ	n	Dorsch m, Kabeljau m
-X	ձու	n	Ei
-X	Ղ	num	achtzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 90 im System des armenischen Zahlensystems
-X	ղ	num	achtzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 90 im System des armenischen Zahlensystems
-X	Ճ	num	neunzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 100 im System des armenischen Zahlensystems
-X	ճ	num	neunzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 100 im System des armenischen Zahlensystems
-X	Ճահճային Եղեգնաթռչնակ	wend	Sumpfrohrsänger m
-X	ճաճան	n	Karpfen m
-X	ճաշ	n	Mittagessen n
-X	Մ	num	zwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 200 im System des armenischen Zahlensystems
-X	մ	num	zwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 200 im System des armenischen Zahlensystems
-X	մագնեզիում	n	ein chemisches Element mit der Ordnungszahl 12, das zur Gruppe der Erdalkalimetalle gehör…
-X	մակագիր	n	Titel m, Überschrift f
-X	մակբայ	n	Adverb, Umstandswort
-X	մաղադանոս	n	Petersilie f
-X	մայիս	n	fünfter Monat; Mai
-X	մայտներիում	n	Meitnerium
-X	մայր	n	Mutter f
-X	մանգան	n	Mangan
-X	մանրադիտակ	n	Beobachtungsgerät ; Vergrößerungsgerät ; Vergrößerungsinstrument ; Optisches Gerät
-X	Մասիս	name	der Berg Ararat
-X	Մարս	n	Mars m
-X	մարտ	n	erster Monat; März
-X	մեխ	n	Nagel m
-X	մենակ	konj	allein
-X	մենդելեվիում	n	Mendelevium
-X	մետաղ	n	Metall n
-X	մետեոր	n	Sternschnuppe f, Meteor m
-X	Մերկուրի	n	Merkur
-X	մէկուն նեղանալ	wend	jemanden schelten
-X	միշտ	adv	immer, dauernd, fortwährend, stets
-X	միջատ	n	Insekt m
-X	միրգ	n	Obst n
-X	մղոնաքար	n	Meilenstein
-X	մշկընկոյզ	n	Muskat f, Muskatnuss f, Muskatnuß f ; Myristica
-X	մոլիբդեն	n	Molybdän
-X	մոլորակ	n	Planet
-X	մոխրագույն	n	Grau n ; Aschgrau n
-X	մոտ	adj	nah
-X	մոտիկ	adj	nah
-X	մրջաթթու	n	Ameisensäure
-X	մրջիւն	n	Ameise f
-X	մրջիւննոց	n	der Ameisenhaufen, der Ameisenhügel, das Ameisennest
-X	մրջնաթթու	n	Ameisensäure f
-X	մրջնանոց	n	der Ameisenhaufen, der Ameisenhügel, das Ameisennest
-X	Յ	num	einundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 300 im System des armenischen Zahlensystems
-X	յ	num	einundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 300 im System des armenischen Zahlensystems
-X	յասաման	adj	fliederfarben, lila
-X	յոդ	n	Jod
-X	Յուպիտեր	n	Jupiter
-X	Ն	num	zweiundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 400 im System des armenischen Zahlensystems
-X	ն	num	zweiundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 400 im System des armenischen Zahlensystems
-X	նախադրութիւն	n	Präposition, vorangestelltes Verhältniswort
-X	նախածանց	n	Präfix, Vorsilbe
-X	նախաճաշ	n	Frühstück n
-X	նատրիում	n	Natrium
-X	նաւազորճարան	n	Werft f
-X	նեղ	adj	eng, schmal
-X	նեղ փողոց	wend	Gasse f
-X	նեղանալ	v	sich ärgern, heftig werden
-X	նեղմիտ	adj	ehrgeizig ; kleinlich
-X	նեյտրոն	n	Neutron
-X	նեոդիմ	n	Neodym
-X	նեոն	n	Neon
-X	Նեպտուն	n	Neptun
-X	նեպտունիում	n	Neptunium
-X	Նետապոչ Բադ	wend	Spießente f
-X	ներգոյական	n	Lokativ, Ortsfall
-X	ներգործական	n	Aktiv, Tätigkeitsform
-X	ներկա	n	Präsens, Gegenwart
-X	ներկել	v	farbig machen, färben ; mit Farbe bedecken
-X	նիկել	n	Nickel
-X	նիոբիում	n	Niob
-X	նոբելիում	n	Nobelium
-X	նոյեմբեր	n	elfter Monat; November
-X	նոր	adj	neu, neuartig ; letzt, neuzeitlich
-X	նորալուսին	n	Neumond m
-X	նորալուր	adj	neuvernommen, sonderbar
-X	նորից	adv	wieder, von Neuem
-X	նստել	v	sitzen, Platz nehmen
-X	Նրբակտուց Եղեգնաթռչնակ	n	Mariskensänger m
-X	Շ	num	dreiundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 500 im System des armenischen Zahlensystems
-X	շ	num	dreiundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 500 im System des armenischen Zahlensystems
-X	շաբաթ	n	Sechster Wochentag im Kalender (nach christlich/jüdischer Zählung der 7.); Tag zwischen F… ; (regelmäßig wiederkehrende) Folge von sieben Tagen
-X	շագանակագույն	adj	braun
-X	Շեռտագլոիխ Եղեգնաթռչնակ	wend	Schilfrohrsänger m
-X	շնորհակալ եմ	wend	danke, danke schön
-X	շնորհակալություն	part	danke, danke schön
-X	շոր	n	Kleidung f ; Windel f
-X	շուշմա	n	Sesam m
-X	Ո	num	vierundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 600 im System des armenischen Zahlensystems
-X	ո	num	vierundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 600 im System des armenischen Zahlensystems
-X	ոչխար	n	Schaf, eigentlich Hausschaf ; männliches kastriertes Schaf
-X	ոսկի	n	Gold
-X	որոշիչ	n	Attribut n, Beifügung f
-X	որովհետեւ	konj	weil, denn, da
-X	Ու	num	vierunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 7000 im System des armenischen Zahlensystems
-X	ու	num	vierunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 7000 im System des armenischen Zahlensystems
-X	ուղղական	n	Nominativ, Werfall, der 1. Fall (auch in der armenischen Sprache)
-X	ունենալ	v	(als Eigentum oder Ähnliches) besitzen, sein Eigen nennen ; über etwas verfügen ; (als Eigenschaft oder Ähnliches) besitzen, aufweisen; jemandem, einer Sache als Eigenscha… ; vorübergehend von etwas ergriffen, befallen sein; etwas heftig empfinden, verspüren
-X	ուս	n	Achsel f, Schulter f
-X	ուսուցիչ	n	Lehrer
-X	Ուրան	n	Uranus
-X	ուրան	n	Uran
-X	ուրբաթ	n	Fünfter Wochentag im Kalender (nach christlich/jüdischer Zählung der 6.); Tag zwischen Do…
-X	Չ	num	fünfundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 700 im System des armenischen Zahlensystems
-X	չ	num	fünfundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 700 im System des armenischen Zahlensystems
-X	չեզոք	adj	neutral, sächlich
-X	չորեքշաբթի	n	Dritter Wochentag im Kalender (nach christlich/jüdischer Zählung der 4.); Tag zwischen Di…
-X	Պ	num	sechsundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 800 im System des armenischen Zahlensystems
-X	պ	num	sechsundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 800 im System des armenischen Zahlensystems
-X	պալադիում	n	Palladium
-X	պաղատել	v	anflehen, demütig bitten
-X	պայմանական	n	Bedingungsform, Konditional
-X	պայտ	n	Hufeisen n
-X	պայտար	n	Hufschmied m
-X	պաչ	n	Kuss
-X	պաչել	v	küssen
-X	պաչիկ	n	Küsschen
-X	պատառաքաղ	n	Gabel f
-X	պատճառական	n	Kausativ m ; Zeitwort des Veranlassens
-X	պարագա	n	Adverbialbestimmung, Umstandsbestimmung
-X	պարահանդէս	n	Ball m, Tanzball m, Tanzveranstaltung f
-X	պարել	v	tanzen, mit jemandem tanzen
-X	Պենելոպա	n	Pfeifente f
-X	պետություն	n	Staat m
-X	պլատին	n	Platin
-X	Պլուտոն	n	Pluto m
-X	պլուտոնիում	n	Plutonium
-X	պղինձ	n	Kupfer
-X	պղպեղ	n	Pfeffer m
-X	պոլոնիում	n	Polonium
-X	պոմիդոր	n	Tomate f
-X	պտուղ	n	Frucht, Obst ; Ertrag, Ergebnis
-X	պրազեոդիմ	n	Praseodym
-X	պրոմեթիում	n	Promethium
-X	պրոտակտինիում	n	Protactinium
-X	Ջ	num	siebenundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 900 im System des armenischen Zahlensystems
-X	ջ	num	siebenundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 900 im System des armenischen Zahlensystems
-X	ջրածին	n	Wasserstoff m (Element) ; Wasserstoff (Gas)
-X	Ռ	num	achtundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 1000 im System des armenischen Zahlensystems
-X	ռ	num	achtundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 1000 im System des armenischen Zahlensystems
-X	ռադիում	n	Radium
-X	ռադոն	n	chemisches Element mit der Ordnungszahl 86, das zur Gruppe der Edelgase gehört.
-X	ռեզերֆորդիում	n	Rutherfordium
-X	ռենիում	n	Rhenium
-X	ռենտգենիում	n	Roentgenium
-X	ռոդիում	n	Rhodium
-X	ռուբիդիում	n	Rubidium
-X	ռութենիում	n	Ruthenium
-X	Ս	num	neunundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 2000 im System des armenischen Zahlensystems
-X	ս	num	neunundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 2000 im System des armenischen Zahlensystems
-X	սահմանական	n	Indikativ, Wirklichkeitsform
-X	սամարիում	n	Samarium
-X	Սատուրն	n	sechster Planet des Sonnensystems; Saturn
-X	սեզոն	n	Jahreszeit f, Saison f
-X	սելեն	n	Selen
-X	սեպտեմբեր	n	neunter Monat; September
-X	սեռ	n	Genus, Geschlecht
-X	սեռական	n	Genitiv, Wesfall, der 2. Fall (auch in der armenischen Sprache)
-X	սիբորգիում	n	Seaborgium
-X	սիլիցիում	n	Silizium
-X	սիրտ տալ	wend	Herz geben; trösten, Mut zusprechen
-X	սխտոր	n	Knoblauch m
-X	սկանդիում	n	Scandium
-X	սնդիկ	n	Quecksilber
-X	սնունդ	n	Nahrung f
-X	Սովետական Միություն	name	Sowjetunion
-X	Սովետական Սոցիալիստական Հանրապետությունների Միություն	name	Union der Sozialistischen Sowjetrepubliken
-X	Սուլող Մրտիմն	wend	Krickente f
-X	սպիտակ	n	Weiß
-X	Սպիտակավիզ Կտցար	n	Flussuferläufer m
-X	ՍՍՀՄ	name	UdSSR
-X	ստացական դերանուն	wend	Possessivpronomen n, besitzanzeigendes Fürwort
-X	ստացական հոդ	wend	Personalsuffix, Personalendung bei Hauptwörtern.
-X	ստեղնաշար	n	Tastatur
-X	ստրոնցիում	n	Strontium
-X	սրճագույն	adj	braun
-X	սև	n	Schwarz
-X	Սև Անգղ	n	Mönchsgeier m
-X	Վ	num	dreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 3000 im System des armenischen Zahlensystems
-X	վ	num	dreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 3000 im System des armenischen Zahlensystems
-X	վաղակատար անցյալ	wend	Plusquamperfekt, Vorvergangenheit
-X	վաղակատար ներկա	wend	Perfekt
-X	վաղը	adv	morgen
-X	վաճառքի հարկ	wend	Mehrwertsteuer f, Umsatzsteuer f, Verkaufssteuer f
-X	վանադիում	n	Vanadium
-X	վարունգ	n	Gurke f
-X	Վեներա	n	Venus f
-X	վերնագիր	n	Titel m, Überschrift f, Aufschrift f
-X	վերջածանց	n	Suffix m, Endsilbe f
-X	վոլֆրամ	n	Wolfram
-X	Տ	num	einunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 4000 im System des armenischen Zahlensystems
-X	տ	num	einunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 4000 im System des armenischen Zahlensystems
-X	տաճար	n	Kathedrale f ; Tempel m
-X	տանջվել	v	leiden ; gequält werden ; gefoltert, gemartert werden
-X	տանտալ	n	Tantal
-X	տառապել	v	leiden, sich quälen, unter etwas leiden
-X	տարվա ժամանակ	wend	Jahreszeit, Saison f
-X	տարր	n	Element n
-X	տելուր	n	Tellur
-X	տեխնեցիում	n	Technetium
-X	տեղ	n	Ort m
-X	տերբիում	n	Terbium
-X	Տիգրիս	name	Tigris
-X	տիտան	n	Titan
-X	տրական	n	Dativ, Wemfall, der 3. Fall (auch in der armenischen Sprache)
-X	Ր	num	zweiunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 5000 im System des armenischen Zahlensystems
-X	ր	num	zweiunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 5000 im System des armenischen Zahlensystems
-X	Ց	num	dreiunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 6000 im System des armenischen Zahlensystems
-X	ց	num	dreiunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 6000 im System des armenischen Zahlensystems
-X	Ցախաքլորաորս	n	Habicht m
-X	ցեզիում	n	Cäsium
-X	ցերիում	n	Cer
-X	ցինկ	n	Zink
-X	ցիրկոնիում	n	Zirkonium
-X	ցուցական դերանուն	wend	Demonstrativpronomen n
-X	ցտեսություն	interj	(mündlicher) Abschiedsgruß
-X	Ւ	num	vierunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 7000 im System des armenischen Zahlensystems
-X	ւ	num	vierunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 7000 im System des armenischen Zahlensystems
-X	Փ	num	fünfunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 8000 im System des armenischen Zahlensystems
-X	փ	num	fünfunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 8000 im System des armenischen Zahlensystems
-X	փախադարձ դերանուն	wend	wechselbezügliches Fürwort; reziprokes Pronomen
-X	Փայլածու	n	Merkur m
-X	փետրվար	n	zweiter Monat; Februar
-X	փողոց	n	Straße f
-X	փորձակար	n	Prüfstein; Probierstein
-X	փորձարկել	v	ausprobieren, experimentieren, probieren, testen, versuchen
-X	փորձել	v	experimentieren, probieren, versuchen
-X	Ք	num	sechsunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 9000 im System des armenischen Zahlensystems
-X	ք	num	sechsunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 9000 im System des armenischen Zahlensystems
-X	քանակական թվական	wend	Grundzahl, Kardinalzahl
-X	Քարակաքավ	n	Chukarhuhn n oder Chukarsteinhuhn n
-X	քերականութիւն	n	Grammatik, Sprachlehre f
-X	քիթը կախել	wend	ohne triftigen Grund beleidigt oder gekränkt sein; die Nase hängen lassen
-X	քիմոն	n	Kreuzkümmel m
-X	քլոր	n	Chlor (Element) ; Chlor (Gas)
-X	քսենոն	n	Geruch- und farbloses Edelgas, das als Narkotikum und als Füllgas in Glühlampen Anwendung…
-X	քրիստոսի ծնունդը	wend	Weihnachten n
-X	քրոմ	n	Chrom
-X	քրոմաթթու	n	Chromsäure f
-X	Օ		achtunddreißigster Buchstabe des armenischen Alphabets (Majuskel)
-X	օ		achtunddreißigster Buchstabe des armenischen Alphabets (Minuskel)
-X	օգնել	v	helfen, behilflich sein
-X	օգոստոս	n	achter Monat; August
-X	օդերեվութաբան	n	Meteorologe m
-X	օդերեվույթ	n	Sternschnuppe f, Meteor m ; Lufterscheinung f
-X	օսմիում	n	Osmium
-X	օր	n	Tag
-X	օրինակի համար	wend	beispielsweise, zum Beispiel
-X	Ֆ		neununddreißigster Buchstabe des armenischen Alphabets (Majuskel)
-X	ֆ		neununddreißigster Buchstabe des armenischen Alphabets (Minuskel)
-X	ֆերմիում	n	Fermium
-X	ֆոսֆոր	n	Phosphor
-X	ֆտոր	n	Fluor
-X	ֆրանսիում	n	Francium
-X	և		siebenunddreißigster Buchstabe des armenischen Alphabets (Minuskel)
+X	Ա	num	erster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 1 im System des armenischen Zahlensystems	w
+X	ա	num	erster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 1 im System des armenischen Zahlensystems	w
+X	ԱԱՀ	abk	Abkürzung für ավելացված արժեքի հարկ ; MwSt, Mehrwertsteuer f, Umsatzsteuer f	w
+X	ադամաթուզ	n	Bananenpflanze, Banane	w
+X	ադամաթուզներ	n	Nominativ Plural des Substantivs ադամաթուզ ; Akkusativ Plural des Substantivs ադամաթուզ	w
+X	ադամանդ	n	Diamant m	w
+X	ադամանդավաճառ	n	Diamantenhändler m	w
+X	ազատքեղ	n	Petersilie f	w
+X	ազոտ	n	Element Stickstoff ; Gas Stickstoff	w
+X	աթոռ	n	Stuhl m	w
+X	Ալբանիա	name	Albanien n	w
+X	ալեզարդ	adj	mit grauem oder weißem Haar	w
+X	ալեհեր	adj	grauhaarig	w
+X	ալեւոր	adj	als Zeichen des Alters mit grauen Haaren durchsetzt	w
+X	Ալեքսանդր	name	der männliche Vorname Alexander	w
+X	Ալժիր	name	Algerien n ; Algier n	w
+X	ալիբի	n	Alibi n	w
+X	ալյումինում	n	Chemie: silberweißes, leicht formbares Metall, das als chemisches Element die Ordnungszah…	w
+X	ածական	n	Eigenschaftswort, Adjektiv	w
+X	ածական անուն	n	Adjektiv n, Eigenschaftswort n	w
+X	ածական անուններ	wend	Plural von ածական անուն (acakan anown^☆) ^(→ hy)	w
+X	ածանց	n	Wortbildungselement, das an oder in den Wortstamm gestellt wird ; abgeleitetes Wort	w
+X	ածխածին	n	Kohlenstoff; chemisches Element mit der Ordnungszahl 6	w
+X	ակտինիում	n	Chemie: Actinium n	w
+X	աղաչել	v	anflehen, demütig bitten ; ersuchen	w
+X	ամառ	n	wärmste Jahreszeit, zwischen Frühling und Herbst; Sommer	w
+X	ամառի	n	Genitiv Singular des Substantivs ամառ	w
+X	ամառին	n	Dativ Singular des Substantivs ամառ	w
+X	ամառից	n	Ablativ Singular des Substantivs ամառ	w
+X	ամառներ	n	Nominativ Plural des Substantivs ամառ ; Akkusativ Plural des Substantivs ամառ	w
+X	ամառների	n	Genitiv Plural des Substantivs ամառ	w
+X	ամառներին	n	Dativ Plural des Substantivs ամառ	w
+X	ամառներից	n	Ablativ Plural des Substantivs ամառ	w
+X	ամառներով	n	Instrumental Plural des Substantivs ամառ	w
+X	ամառներում	n	Lokativ Plural des Substantivs ամառ	w
+X	ամառով	n	Instrumental Singular des Substantivs ամառ	w
+X	ամառում	n	Lokativ Singular des Substantivs ամառ	w
+X	Ամերիկա	name	Vereinigte Staaten von Amerika, USA ; Amerika	w
+X	Ամերիկայի Միացյալ Նահանգներ	wend	Vereinigte Staaten von Amerika	w
+X	ամերիցիում	n	Chemie: Americium n	w
+X	ԱՄՆ	abk	Ամերիկայի Միացյալ Նահանգներ ‚USA‘	w
+X	Այգաբեր	n	Venus f	w
+X	Այգաստղ	n	Venus f	w
+X	այլուրեքութիւն	n	Alibi	w
+X	այլուրեքութիւններ		Nominativ Plural von այլուրեքութիւն ; Akkusativ Plural von այլուրեքութիւն	w
+X	այսօր	adv	an diesem Tage	w
+X	անագ	n	Chemie: Zinn n	w
+X	անապատ	n	Wüste	w
+X	Անգոլա	name	Angola n	w
+X	Անդորա	name	Andorra n	w
+X	անդունդ	n	Abyssus, Unterwelt ; Schlund, Kluft	w
+X	անդունդներ		Plural von անդունդ	w
+X	անել	v	ausweglos, ohne Ausweg ; machen, tun	w
+X	անել փողոց	wend	Sackgasse f	w
+X	անեստեզեոլոգիական	adj	anästhetisch	w
+X	անեստեզեոլոգիական դիմակ	wend	Anästhesiemaske f	w
+X	անկարելի	adv	unmöglich	w
+X	անհանգիստ	adj	ohne Ruhe	w
+X	անձնական դերանուն	wend	kleines Wort, das anstelle eines Hauptwortes steht	w
+X	անուն	n	Name ; Nennwort, Nomen	w
+X	անվճար	adj	ohne Bezahlung	w
+X	անվճարովի	adj	gratis, kostenlos, umsonst, unentgeltlich	w
+X	անցյալ անկատար	wend	unvollendete Vergangenheit	w
+X	անցյալ կատարյալ	n	Aorist m ; vollendete Vergangenheit, ohne Hilfsverb gebildet.	w
+X	անօրինակ	adj	beispiellos	w
+X	աշխարհ	n	(ganze) Welt ; Land, Region	w
+X	աշնան	n	Herbst	w
+X	աշուն	n	Herbst m	w
+X	ապրել	v	leben ; erleben ; verleben ; wohnen	w
+X	ապրիլ	n	vierter Monat; April	w
+X	առաւօտեան աստղ	wend	Morgenstern	w
+X	ասուպ	n	in die Erdatmosphäre eintretender und darum brennender Meteoroid	w
+X	ասուպակար	n	Meteorstein m	w
+X	աստատ	n	Chemie: Astat n	w
+X	աստեղազարդ	adj	mit Sternen nahezu ausgefüllt	w
+X	աստղ	n	Stern m	w
+X	աստղաբաշխութիւն	n	Sternenkunde, Astronomie	w
+X	Աստղիկ	n	Venus f	w
+X	աստված	n	Gott m	w
+X	ավելացված արժեքի հարկ	wend	Mehrwertsteuer f, Umsatzsteuer f	w
+X	Ավստրիա	name	Österreich	w
+X	Արարատ	name	Berg Ararat ; Ararat-Ebene ; Provinzhauptstadt in Armenien ; gleichnamige Provinz in Armenien ; ein armenischer Brandy	w
+X	Արգենտինա	name	Argentinien, Staat in Südamerika	w
+X	արգոն	n	Chemie: Argon	w
+X	Արեգակ	n	Sonne f	w
+X	արեվածաղիկ	n	Sonnenblume	w
+X	արեւ	n	Sonne	w
+X	արծաթ	n	Chemie: Silber n	w
+X	արհեստական	adj	künstlich ; gefälscht	w
+X	Արմավիր	name	armenische Provinz ; Provinzhauptstadt Armavir im Westen Armeniens	w
+X	Արմավիրի մարզ	wend	Provinz Armawir	w
+X	արյունը ջուր չի դառնա	wend	Ausdruck der besonderen Verbundenheit mit der Familie, Blutsverwandten näher stehend als…	w
+X	Արուսեակ	n	Planet Venus	w
+X	արսեն	n	Chemie: Arsen n (Element) ; Chemie: Arsen n (giftige Substanz)	w
+X	արօտ	n	Weide, Wiese mit Pflanzen zum Weiden, Weideland	w
+X	արևածաղիկ	n	Sonnenblume	w
+X	արևայրուք	n	Sonnenbrand, Sonnenbräune	w
+X	Աֆղանստան	name	Land, Staat Afghanistan	w
+X	Բ	num	zweiter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 2 im System des armenischen Zahlensystems	w
+X	բ	num	zweiter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 2 im System des armenischen Zahlensystems	w
+X	բազնապատկական	adj	die Wiederholung betreffend, iterativ, wiederholend, multiplikativ	w
+X	Բահամներ	name	Inselstaat Bahamas	w
+X	Բահրեյն	name	Bahrain	w
+X	բաղաձայն	n	Mitlaut, Konsonant	w
+X	բայ	n	Verb, Zeitwort	w
+X	բանան	n	Banane f	w
+X	Բանգլադեշ	name	Bangladesch n	w
+X	բանտ	n	Gefängnis	w
+X	բարեկենդան	n	altes und traditionelles armenisches Festival namens Barekendan ; Fest mit Maskerade, Karneval	w
+X	բարի ախորժակ	wend	Formel für ein gutes gemeinsames Essen, auf dessen Bekömmlichkeit und Wohlschmecken	w
+X	բարի գալուստ	wend	willkommen	w
+X	բարի լույս	wend	guten Morgen	w
+X	բարիում	n	Chemie: Barium n	w
+X	բաց մանուշակագույն	wend	fliederfarben, lila	w
+X	բացահայտիչ	n	Apposition, Beisatz	w
+X	բացառական	n	Ablativ, Woherfall, 5. Fall	w
+X	բացատրել	v	Sachverhalt, Funktionsweise darlegen	w
+X	Բելառուս	name	Weißrussland n	w
+X	Բելգիա	name	Belgien n	w
+X	Բենին	name	Benin n	w
+X	բերիլիում	n	Beryllium n	w
+X	բերկելիում	n	Berkelium n	w
+X	բժշկական	adj	medizinisch, heilkundlich	w
+X	Բժշկական ապահովագրություն	wend	Krankenversicherung	w
+X	բժշկական գաղտնիք	wend	ärztliche Schweigepflicht	w
+X	բժշկական դիմակ	wend	Schutzmaske vor Mund und Nase, ursprünglich für Chirurgen	w
+X	բժշկական ծառայութիւն	wend	Sanitätsdienst m, medizinischer Dienst	w
+X	բժշկական կենտրոն	wend	Klinik, Klinikum	w
+X	բժշկական մասնագիտություն	wend	Arztberuf m, Ärzteschaft f, Berufsstand der Ärzte	w
+X	բժշկական օգնութիւն	wend	ärztliche Behandlung, ärztliche Betreuung ; medikamentöse Behandlung	w
+X	բիսմութ	n	Wismut n	w
+X	Բոթսվանա	name	afrikanischer Staat Botsuana	w
+X	Բոլիվիա	name	südamerikanischer Staat Bolivien	w
+X	Բոսնիա և Հերցոգովինա	wend	europäischer Staat Bosnien und Herzegowina	w
+X	բոր	n	Element Bor	w
+X	բորաթթու	n	Borsäure f	w
+X	բորիում	n	Chemie: Bohrium n	w
+X	Բութան	name	asiatischer Staat Bhutan	w
+X	Բուլղարիա	name	osteuropäischer Staat Bulgarien	w
+X	Բուրկինա Ֆասո	wend	afrikanischer Staat Burkina Faso	w
+X	Բուրունդի	name	afrikanischer Staat Burundi	w
+X	Բրազիլիա	name	südamerikanischer Staat Brasilien	w
+X	բրոմ	n	Brom n	w
+X	Գ	num	dritter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 3 im System des armenischen Zahlensystems	w
+X	գ	num	dritter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 3 im System des armenischen Zahlensystems	w
+X	Գաբոն	name	afrikanischer Staat Gabun	w
+X	գադոլինիում	n	Chemie: Gadolinium n	w
+X	գալիում	n	Gallium	w
+X	Գամբիա	name	westafrikanischer Staat Gambia	w
+X	Գայանա	name	südamerikanischer Staat Guyana	w
+X	գայթակղիչ	adj	sittliche Empörung auslösend	w
+X	գայլ	n	Wolf	w
+X	գառ	n	Lamm n	w
+X	գարուն	n	Frühling m	w
+X	գետնախնձոր	n	Kartoffel, Pflanze und essbare Knolle ; Korbblütler mit essbarer Knolle, Topinambur	w
+X	գետնին տապալվեց	wend	am Boden zerstört sein, am Ende seiner Kräfte sein	w
+X	Գերմանիա	name	Staat in Mitteleuropa; Deutschland	w
+X	Գերմանիայի Դաշնային Հանրապետութիւն	wend	Bundesrepublik Deutschland f	w
+X	գերմանիում	n	Germanium n	w
+X	գինձ	n	Koriander m	w
+X	Գիշերավար	n	Venus	w
+X	Գլխավոր Էջ	wend	Hauptseite	w
+X	գյուղ	n	Dorf	w
+X	գնալ	v	gehen, sich fortbewegen	w
+X	գոյական	n	Substantiv, Hauptwort	w
+X	գոյական անուն	wend	Substantiv n, Hauptwort n	w
+X	գոտկային ողեր	wend	Lendenwirbel m, Lendenwirbelsäule f	w
+X	գործիական	n	Instrumentalis, Mittel, Werkzeug bezeichnender Fall (der 6. Fall der armenischen Sprache)	w
+X	գորշ	adj	grau	w
+X	գույն	n	Farbe f (ein bestimmter Abschnitt des sichtbaren Lichts im Spektrum)	w
+X	Գվինեա	name	Guinea n	w
+X	Գրենադա	name	Grenada n	w
+X	Դ	num	vierter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 4 im System des armenischen Zahlensystems	w
+X	դ	num	vierter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 4 im System des armenischen Zahlensystems	w
+X	Դանիա	name	Dänemark n	w
+X	Դաշտային Արտույտ	wend	Feldlerche f	w
+X	դասական թվական	wend	Ordinalzahl f, Ordnungszahl f	w
+X	դարձված	n	Redewendung f, Sprichwort n	w
+X	դարձվածք	n	Redewendung f, Sprichwort n	w
+X	դարմշտատիում	n	Darmstadtium n	w
+X	դարչնագույն	adj	braun	w
+X	դարպասապահ	n	defensivster Spieler einer Sportmannschaft, der gegnerische Tore verhindern soll und hier…	w
+X	դեկտեմբեր	n	zwölfter Monat; Dezember	w
+X	դեղատուն	n	Apotheke f	w
+X	դեղին	n	Gelb n	w
+X	դերանուն	n	Pronomen n, Fürwort n	w
+X	դերասան	n	Schauspieler m	w
+X	դերասանուհի	n	Schauspielerin f	w
+X	դերբայ	n	Infinitiv	w
+X	դիմակ	n	Maske f ; Shein m ; Deckmantel m	w
+X	դիմակազերծ	adj	bloßgestellt, entlarvt	w
+X	դիմակազերծել	v	bloßstellen, demaskieren	w
+X	դիմակազուրկ	adj	demaskiert, bloßgestellt	w
+X	դիմակաւոր	adj	maskiert. Masken-, masken	w
+X	դիմակաւոր դերասան	wend	maskierter Schauspieler	w
+X	դիմակաւոր դերասանուհի	wend	maskierte Schauspielerin	w
+X	դիմակաւոր պարահանդէս	wend	Maskenball m	w
+X	դիմակաւորել	v	maskieren	w
+X	դիմանկար	n	Portrait n ; Bildnis n	w
+X	դիսպրոզիում	n	Dysprosium n	w
+X	դղքի	n	Ahorn m	w
+X	Դոմինիկա	name	Dominica n	w
+X	դուբնիում	n	Dubnium	w
+X	Ե	num	fünfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 5 im System des armenischen Zahlensystems	w
+X	ե	num	fünfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 5 im System des armenischen Zahlensystems	w
+X	Եգիպտոս	name	Ägypten n	w
+X	եզակի	n	Singular m, Einzahl f	w
+X	Եթովպիա	name	Äthiopien n	w
+X	եղանակ	n	Modus m, Aussageweise f	w
+X	Եղեգնուտի Եղեգնաթռչնակ	wend	Teichrohrsänger	w
+X	ենթակա	n	Subjekt, Satzgegenstand	w
+X	Եվրոպական Ճնճղաճուռակ	wend	Kurzfangsperber m	w
+X	Եվրոպական Միություն	n	Europäische Union	w
+X	եվրոպիում	n	Europium	w
+X	ետադրութիւն	n	Postposition, nachgestelltes Verhältniswort	w
+X	երբևէ	adv	immer, stets, ewig	e
+X	երեկ	adv	gestern	w
+X	երեքշաբթի	n	Zweiter Wochentag im Kalender (nach christlich/jüdischer Zählung der 3.); Tag zwischen Mo…	w
+X	երիտասարդ	adj	jung	w
+X	երկաթ	n	Eisen	w
+X	Երկարագի Եռաշտահավ	n	Schwanzmeise f	w
+X	երկինք	n	der Himmel	w
+X	Երկիր	n	belebter und dritter, von der Sonne aus gezählte Planet in unserem Sonnensystem.	w
+X	երկիր	n	Land n, Heimat f ; der feste Boden; die Landoberfläche; die trockenen Landmassen der Erdoberfläche	w
+X	Երկնագույն Ալկիոն	n	Eisvogel m	w
+X	երկուշաբթի	n	Erster Wochentag im Kalender (nach christlich/jüdischer Zählung der 2.); Tag zwischen Son…	w
+X	Երևակ	n	sechster Planet im Sonnensystem; Saturn	w
+X	Եփրատ	name	Euphrat	w
+X	Զ	num	sechster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 6 im System des armenischen Zahlensystems	w
+X	զ	num	sechster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 6 im System des armenischen Zahlensystems	w
+X	Զատիկ	n	Ostern, Osterfest	w
+X	զատիկ	n	der Maikäfer	w
+X	զարգացում	n	Fortschritt m ; Entwicklung f ; Bildung f	w
+X	զմելին	n	Taschenmesser	w
+X	զոր օրինակ	wend	beispielsweise, zum Beispiel	w
+X	Է	num	siebenter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 7 im System des armenischen Zahlensystems	w
+X	է	num	siebenter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 7 im System des armenischen Zahlensystems	w
+X	Էլ Սալվադոր	wend	El Salvador n	w
+X	Էկվադոր	name	Ecuador n	w
+X	էյնշտեյնիում	n	Einsteinium	w
+X	Էստոնիա	name	Estland n	w
+X	էրբիում	n	Erbium	w
+X	Էրիտրեա	name	Eritrea n	w
+X	Ը	num	achter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 8 im System des armenischen Zahlensystems	w
+X	ը	num	achter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 8 im System des armenischen Zahlensystems	w
+X	ըղձական	n	Desiderativ m, Wunschform f	w
+X	ընթրիկ	n	Abendessen n	w
+X	ընտանի	adj	zahm	w
+X	Թ	num	neunter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 9 im System des armenischen Zahlensystems	w
+X	թ	num	neunter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 9 im System des armenischen Zahlensystems	w
+X	թալիում	n	Thallium n	w
+X	թանապուր	n	Sauermilchsuppe f	w
+X	թանգարան	n	Museum n	w
+X	թաս	n	Becher m ; Pokal n ; Tasse f	w
+X	Թավշաոտ Բվիկ	n	Raufußkauz m	w
+X	թերթոն	n	Feuilleton n	w
+X	թերուսում	adj	halbgebildet ; ungebildet	w
+X	թթվածին	n	Chemie: Sauerstoff m	w
+X	թիվ	n	Nummer f, Zahl ; Numerus	w
+X	թորիում	n	Thorium	w
+X	թուլիում	n	Thulium	w
+X	թունաւոր	adj	giftig, toxisch	w
+X	թունաւորել	v	vergiften	w
+X	թունաւորուել	v	vergiftet werden ; sich vergiften	w
+X	Թուրքիա	name	Türkei f	w
+X	թռչնաբան	n	Ornithologe m, Vogelkundler m	w
+X	թռչնաբոյծ	n	Vogelzüchter m	w
+X	թռչուն	n	Vogel m	w
+X	թվական անուն	wend	Numerale, Zahlwort	w
+X	Ժ	num	zehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 10 im System des armenischen Zahlensystems	w
+X	ժ	num	zehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 10 im System des armenischen Zahlensystems	w
+X	ժամանակ	n	Zeit ; grammatische Form, in der der zeitliche Verlauf gekennzeichnet wird	w
+X	ժխտական	n	Negation, Verneinung	w
+X	ժխտական դերանուն	wend	Negativpronomen, verneinendes Fürwort	w
+X	Ի	num	elfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 20 im System des armenischen Zahlensystems	w
+X	ի	num	elfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 20 im System des armenischen Zahlensystems	w
+X	ինդիում	n	Indium	w
+X	Ինդոնեզիա	name	Indonesien n	w
+X	Ինքնուկ	n	Selfie	w
+X	Իռլանդիա	name	Irland n	w
+X	Իսլանդիա	name	Island n	w
+X	Իսպանիա	name	Spanien n	w
+X	Իսրայել	name	Israel	w
+X	Իտալիա	name	Italien n	w
+X	իտերբիում	n	Chemie: Ytterbium	w
+X	իտրիում	n	Yttrium	w
+X	Իրան	name	der Staat Iran	w
+X	Իրաք	name	Irak m	w
+X	իրիդիում	n	Iridium	w
+X	Լ	num	zwölfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 30 im System des armenischen Zahlensystems	w
+X	լ	num	zwölfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 30 im System des armenischen Zahlensystems	w
+X	լայն	adj	breit	w
+X	Լայնակտուց Բադ	wend	Löffelente f	w
+X	լանթան	n	Lanthan	w
+X	Լաոս	name	Laos n	w
+X	լաուրենսիում	n	Lawrencium	w
+X	Լատվիա	name	Lettland n	w
+X	Լեհաստան	name	Polen n	w
+X	Լեսոթո	name	Lesotho n	w
+X	լիալուսին	n	Vollmond m	w
+X	Լիբանան	name	Libanon m	w
+X	Լիբերիա	name	Liberia n	w
+X	Լիբիա	name	Libyen m	w
+X	լիթիում	n	Lithium n	w
+X	Լիխտենշտեյն	name	Liechtenstein n	w
+X	Լիտվա	name	Litauen n	w
+X	Լյուքսեմբուրգ	name	Luxemburg n	w
+X	լոլիկ	n	Tomate f	w
+X	Լորաճուռակ	n	Sperber m	w
+X	Լուսաբեր	n	Venus	w
+X	Լուսաստղ	n	Venus	w
+X	լուսին	n	Mond m	w
+X	լուսնեղջյուր	n	Halbmond m	w
+X	Լուսնթագ	n	Jupiter	w
+X	լուտեցիում	n	Lutetium	w
+X	Խ	num	dreizehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 40 im System des armenischen Zahlensystems	w
+X	խ	num	dreizehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 40 im System des armenischen Zahlensystems	w
+X	խաչբառ	n	das Kreuzworträtsel	w
+X	խաչքար	n	eine überaus kunstvoll geschnitzte armenische Stele, ein Monolith, mit eingravierten Kreu… ; Chatschkar m, Kreuzstein m	w
+X	խղճալ	v	mit jemandem Mitleid haben	w
+X	խնդիր	n	Objekt, Fallergänzung eines Zeitworts	w
+X	խնձոր	n	Apfel m	w
+X	խոնարհում	n	Konjugation f ; Beugung des Zeitworts	w
+X	խոսքդ սար ու ձոր մի գցիր	wend	eine Sache direkt benennen, nicht zu Umschreibungen greifen; Das Kind beim Namen nennen.	w
+X	խոտ	n	Kraut n	w
+X	խոտուց	n	Gelenk, Armgelenk, Kniegelenk n	w
+X	խորխորատ	n	Abgrund m, Abyssus m, Tiefe f ; Bergschlucht f	w
+X	Խորվաթիա	name	Kroatien n	w
+X	խունկ	n	Weihrauch, m	w
+X	ԽՍՀՄ	name	UdSSR	w
+X	Ծ	num	vierzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 50 im System des armenischen Zahlensystems	w
+X	ծ	num	vierzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 50 im System des armenischen Zahlensystems	w
+X	ծարիր	n	Antimon	w
+X	ծիրկաթին	n	Milchstraße f	w
+X	ծծումբ	n	Schwefel, Sulfur	w
+X	Կ	num	fünfzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 60 im System des armenischen Zahlensystems	w
+X	կ	num	fünfzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 60 im System des armenischen Zahlensystems	w
+X	կադմիում	n	Cadmium n	w
+X	կազմակերպական	adj	organisatorisch	w
+X	կազմակերպել	v	organisieren ; arrangieren	w
+X	կալիում	n	Kalium	w
+X	կալիֆորնիում	n	Californium	w
+X	կալվածատեր	n	Person gleich welchen Geschlechts, die die Verfügungsmacht über Haus und Hof hat	w
+X	կալցիում	n	Calcium	w
+X	կաղնի	n	großer Laubbaum mit hartem Holz; Eiche	w
+X	կաղնու փայտանյութ	wend	Eiche f ; Eichenholz n	w
+X	Կամերուն	name	Kamerun n	w
+X	Կանադա	name	Kanada n	w
+X	կանաչ	n	Grün	w
+X	կապ	n	Bindewort, Konjunktion	w
+X	կապար	n	Blei	w
+X	կապել	v	anbinden ; verbinden, zusammenfügen ; fesseln	w
+X	կապույտ	adj,n	blau ; Blau n	w
+X	կառուցվածք	n	Struktur f	w
+X	կատարելի ներկա	wend	Futur	w
+X	կարագ	n	Butter	w
+X	կարելի	adv	möglich, machbar	w
+X	կարմիր	adj,n	rot ; Rot n	w
+X	կարմիր հաւկիթ	wend	Osterei, rotes Ei	w
+X	կարտոֆիլ	n	Kartoffel f	w
+X	կենդանի	n	Tier n ; lebendig	w
+X	կենտրոն	n	Zentrum n	w
+X	կենտրոնախոյս	adj	zentrifugal	w
+X	կենտրոնախոյս ուժ	wend	Zentrifugalkraft f	w
+X	կենտրոնաձիգ	adj	zentripetal, zum Mittelpunkt hinstrebend	w
+X	կենտրոնաձիգ ուժ	wend	Zentripetalkraft f	w
+X	կենտրոնացնել	v	zentralisieren	w
+X	կենտրոնաւորել	v	zentrieren	w
+X	կեչի	n	Birke f	w
+X	Կեռնեխանման Եղեգնաթռչնակ	wend	Drosselrohrsänger m	w
+X	կետադրութիւն	n	Interpunktion, Zeichensetzung	w
+X	Կիպրոս	name	Zypern n	w
+X	կիսատ բերան ասել	wend	mit halbem Mund sagen; halbherzig sagen, halbherzig einladen, usw.	w
+X	կիրակի	n	Siebter Wochentag im Kalender (nach christlich/jüdischer Zählung der 1.); Tag zwischen Sa…	w
+X	կյուրիում	n	Curium	w
+X	կոբալտ	n	Kobalt	w
+X	կոշիկ	n	Schuh m	w
+X	կոշկակար	n	Schuhmacher m	w
+X	Կոստա Րիկա	wend	Costa Rica n	w
+X	Կոտ դ'Իվուար	wend	Elfenbeinküste f	w
+X	Կորեա	name	Korea n	w
+X	Կուբա	name	Kuba n	w
+X	Կռնչան Բադ	wend	Stockente f, Märzente f, Wildente f	w
+X	կրիպտոն	n	Krypton	w
+X	Հ	num	sechzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 70 im System des armenischen Zahlensystems	w
+X	հ	num	sechzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 70 im System des armenischen Zahlensystems	w
+X	հագուստ	n	Kleid	w
+X	Հաիթի	name	Haiti n	w
+X	հաղարջ	n	Die Johannisbeerpflanze oder der Johannisbeerstrauch ; Die Frucht des Johannisbeerstrauchs; Johannisbeere	w
+X	հաղթանակ	n	Gewinnen eines Wettstreites	w
+X	համազգային	adj	national	w
+X	համբույր	n	Kuss	w
+X	համբուրել	v	küssen	w
+X	համեմատական աստիճան	n	Komparation f ; Steigerung des Eigenschaftswortes	w
+X	հայ	adj,n	armenisch ; Armenier m	w
+X	Հայաստան	name	Armenien n	w
+X	Հայաստանի Հանրապետություն	wend	Republik Armenien f	w
+X	Հայկական որոր	wend	im armenischen Hochland beheimatete Möwenart; Armenienmöwe, Armeniermöwe	w
+X	հայր	n	Vater m	w
+X	հայցական	n	Akkusativ, Wenfall; der 4. Fall in der armenischen Sprache	w
+X	հանրապետություն	n	Republik f	w
+X	հասարակած	n	der Äquator	w
+X	հասիում	n	Hassium	w
+X	հատկացուցիչ	n	Possessiver Genitiv, Genitiv zur Besitzanzeige	w
+X	հարակատար	n	das Resultat des Zeitworts ausdrückende Form; Resultativ	w
+X	Հարավային Կորեա	wend	auf der Südhälfte der koreanischen Halbinsel gelegener Staat.	w
+X	հարթ	adj	eben ; glatt	w
+X	հարկադրական	n	Kompulsiv, Notwendigkeitsform f	w
+X	հարցական դերանուն	wend	Fragefürwort, Interrogativpronomen	w
+X	հաւկիթ	n	Hühnerei, Ei	w
+X	հաֆնիում	n	Hafnium n	w
+X	հելիում	n	Helium	w
+X	հեռագիր	n	Telegramm n	w
+X	հեռաւոր	adj	fern, entfernt ; weitläufig	w
+X	հեռու	adj	weit, fern	w
+X	հինգշաբթի	n	Vierter Wochentag im Kalender (nach christlich/jüdischer Zählung der 5.); Tag zwischen Mi…	w
+X	Հյուսիսային Կորեա	wend	auf der Nordhälfte der Koreanischen Halbinsel gelegener Staat	w
+X	Հնդկաստան	name	Indien n	w
+X	հոգնակի	n	Plural	w
+X	հոդ	n	Artikel	w
+X	հոլմիում	n	Holmium	w
+X	հոլովում	n	Deklination f	w
+X	հոկտեմբեր	n	zehnter Monat; Oktober	w
+X	հուլիս	n	siebter Monat; Juli	w
+X	հունիս	n	sechster Monat; Juni	w
+X	հունվար	n	erster Monat; Januar	w
+X	հրամայական	n	Imperativ m, Befehlsform f	w
+X	հրապաշտ	n	Feueranbeter m	w
+X	Հրատ	n	Mars m	w
+X	Ձ	num	siebzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 80 im System des armenischen Zahlensystems	w
+X	ձ	num	siebzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 80 im System des armenischen Zahlensystems	w
+X	ձայնդարձ	n	Ablaut	w
+X	ձմեռ	n	Winter m	w
+X	ձմերուկ	n	Wassermelone f	w
+X	ձողաձուկ	n	Dorsch m, Kabeljau m	w
+X	ձու	n	Ei	w
+X	Ղ	num	achtzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 90 im System des armenischen Zahlensystems	w
+X	ղ	num	achtzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 90 im System des armenischen Zahlensystems	w
+X	Ճ	num	neunzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 100 im System des armenischen Zahlensystems	w
+X	ճ	num	neunzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 100 im System des armenischen Zahlensystems	w
+X	Ճահճային Եղեգնաթռչնակ	wend	Sumpfrohrsänger m	w
+X	ճաճան	n	Karpfen m	w
+X	ճաշ	n	Mittagessen n	w
+X	Մ	num	zwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 200 im System des armenischen Zahlensystems	w
+X	մ	num	zwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 200 im System des armenischen Zahlensystems	w
+X	մագնեզիում	n	ein chemisches Element mit der Ordnungszahl 12, das zur Gruppe der Erdalkalimetalle gehör…	w
+X	մակագիր	n	Titel m, Überschrift f	w
+X	մակբայ	n	Adverb, Umstandswort	w
+X	մաղադանոս	n	Petersilie f	w
+X	մայիս	n	fünfter Monat; Mai	w
+X	մայտներիում	n	Meitnerium	w
+X	մայր	n	Mutter f	w
+X	մանգան	n	Mangan	w
+X	մանրադիտակ	n	Beobachtungsgerät ; Vergrößerungsgerät ; Vergrößerungsinstrument ; Optisches Gerät	w
+X	Մասիս	name	der Berg Ararat	w
+X	Մարս	n	Mars m	w
+X	մարտ	n	erster Monat; März	w
+X	մեխ	n	Nagel m	w
+X	մենակ	konj	allein	w
+X	մենդելեվիում	n	Mendelevium	w
+X	մետաղ	n	Metall n	w
+X	մետեոր	n	Sternschnuppe f, Meteor m	w
+X	Մերկուրի	n	Merkur	w
+X	մէկուն նեղանալ	wend	jemanden schelten	w
+X	միշտ	adv	immer, dauernd, fortwährend, stets	w
+X	միջատ	n	Insekt m	w
+X	միրգ	n	Obst n	w
+X	մղոնաքար	n	Meilenstein	w
+X	մշկընկոյզ	n	Muskat f, Muskatnuss f, Muskatnuß f ; Myristica	w
+X	մոլիբդեն	n	Molybdän	w
+X	մոլորակ	n	Planet	w
+X	մոխրագույն	n	Grau n ; Aschgrau n	w
+X	մոտ	adj	nah	w
+X	մոտիկ	adj	nah	w
+X	մրջաթթու	n	Ameisensäure	w
+X	մրջիւն	n	Ameise f	w
+X	մրջիւննոց	n	der Ameisenhaufen, der Ameisenhügel, das Ameisennest	w
+X	մրջնաթթու	n	Ameisensäure f	w
+X	մրջնանոց	n	der Ameisenhaufen, der Ameisenhügel, das Ameisennest	w
+X	Յ	num	einundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 300 im System des armenischen Zahlensystems	w
+X	յ	num	einundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 300 im System des armenischen Zahlensystems	w
+X	յասաման	adj	fliederfarben, lila	w
+X	յոդ	n	Jod	w
+X	Յուպիտեր	n	Jupiter	w
+X	Ն	num	zweiundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 400 im System des armenischen Zahlensystems	w
+X	ն	num	zweiundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 400 im System des armenischen Zahlensystems	w
+X	նախադրութիւն	n	Präposition, vorangestelltes Verhältniswort	w
+X	նախածանց	n	Präfix, Vorsilbe	w
+X	նախաճաշ	n	Frühstück n	w
+X	նատրիում	n	Natrium	w
+X	նաւազորճարան	n	Werft f	w
+X	նեղ	adj	eng, schmal	w
+X	նեղ փողոց	wend	Gasse f	w
+X	նեղանալ	v	sich ärgern, heftig werden	w
+X	նեղմիտ	adj	ehrgeizig ; kleinlich	w
+X	նեյտրոն	n	Neutron	w
+X	նեոդիմ	n	Neodym	w
+X	նեոն	n	Neon	w
+X	Նեպտուն	n	Neptun	w
+X	նեպտունիում	n	Neptunium	w
+X	Նետապոչ Բադ	wend	Spießente f	w
+X	ներգոյական	n	Lokativ, Ortsfall	w
+X	ներգործական	n	Aktiv, Tätigkeitsform	w
+X	ներկա	n	Präsens, Gegenwart	w
+X	ներկել	v	farbig machen, färben ; mit Farbe bedecken	w
+X	նիկել	n	Nickel	w
+X	նիոբիում	n	Niob	w
+X	նոբելիում	n	Nobelium	w
+X	նոյեմբեր	n	elfter Monat; November	w
+X	նոր	adj	neu, neuartig ; letzt, neuzeitlich	w
+X	նորալուսին	n	Neumond m	w
+X	նորալուր	adj	neuvernommen, sonderbar	w
+X	նորից	adv	wieder, von Neuem	w
+X	նստել	v	sitzen, Platz nehmen	w
+X	Նրբակտուց Եղեգնաթռչնակ	n	Mariskensänger m	w
+X	Շ	num	dreiundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 500 im System des armenischen Zahlensystems	w
+X	շ	num	dreiundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 500 im System des armenischen Zahlensystems	w
+X	շաբաթ	n	Sechster Wochentag im Kalender (nach christlich/jüdischer Zählung der 7.); Tag zwischen F… ; (regelmäßig wiederkehrende) Folge von sieben Tagen	w
+X	շագանակագույն	adj	braun	w
+X	Շեռտագլոիխ Եղեգնաթռչնակ	wend	Schilfrohrsänger m	w
+X	շնորհակալ եմ	wend	danke, danke schön	w
+X	շնորհակալություն	part	danke, danke schön	w
+X	շոր	n	Kleidung f ; Windel f	w
+X	շուշմա	n	Sesam m	w
+X	Ո	num	vierundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 600 im System des armenischen Zahlensystems	w
+X	ո	num	vierundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 600 im System des armenischen Zahlensystems	w
+X	ոչխար	n	Schaf, eigentlich Hausschaf ; männliches kastriertes Schaf	w
+X	ոսկի	n	Gold	w
+X	որոշիչ	n	Attribut n, Beifügung f	w
+X	որովհետեւ	konj	weil, denn, da	w
+X	Ու	num	vierunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 7000 im System des armenischen Zahlensystems	w
+X	ու	num	vierunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 7000 im System des armenischen Zahlensystems	w
+X	ուղղական	n	Nominativ, Werfall, der 1. Fall (auch in der armenischen Sprache)	w
+X	ունենալ	v	(als Eigentum oder Ähnliches) besitzen, sein Eigen nennen ; über etwas verfügen ; (als Eigenschaft oder Ähnliches) besitzen, aufweisen; jemandem, einer Sache als Eigenscha… ; vorübergehend von etwas ergriffen, befallen sein; etwas heftig empfinden, verspüren	w
+X	ուս	n	Achsel f, Schulter f	w
+X	ուսուցիչ	n	Lehrer	w
+X	Ուրան	n	Uranus	w
+X	ուրան	n	Uran	w
+X	ուրբաթ	n	Fünfter Wochentag im Kalender (nach christlich/jüdischer Zählung der 6.); Tag zwischen Do…	w
+X	Չ	num	fünfundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 700 im System des armenischen Zahlensystems	w
+X	չ	num	fünfundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 700 im System des armenischen Zahlensystems	w
+X	չեզոք	adj	neutral, sächlich	w
+X	չորեքշաբթի	n	Dritter Wochentag im Kalender (nach christlich/jüdischer Zählung der 4.); Tag zwischen Di…	w
+X	Պ	num	sechsundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 800 im System des armenischen Zahlensystems	w
+X	պ	num	sechsundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 800 im System des armenischen Zahlensystems	w
+X	պալադիում	n	Palladium	w
+X	պաղատել	v	anflehen, demütig bitten	w
+X	պայմանական	n	Bedingungsform, Konditional	w
+X	պայտ	n	Hufeisen n	w
+X	պայտար	n	Hufschmied m	w
+X	պաչ	n	Kuss	w
+X	պաչել	v	küssen	w
+X	պաչիկ	n	Küsschen	w
+X	պատառաքաղ	n	Gabel f	w
+X	պատճառական	n	Kausativ m ; Zeitwort des Veranlassens	w
+X	պարագա	n	Adverbialbestimmung, Umstandsbestimmung	w
+X	պարահանդէս	n	Ball m, Tanzball m, Tanzveranstaltung f	w
+X	պարել	v	tanzen, mit jemandem tanzen	w
+X	Պենելոպա	n	Pfeifente f	w
+X	պետություն	n	Staat m	w
+X	պլատին	n	Platin	w
+X	Պլուտոն	n	Pluto m	w
+X	պլուտոնիում	n	Plutonium	w
+X	պղինձ	n	Kupfer	w
+X	պղպեղ	n	Pfeffer m	w
+X	պոլոնիում	n	Polonium	w
+X	պոմիդոր	n	Tomate f	w
+X	պտուղ	n	Frucht, Obst ; Ertrag, Ergebnis	w
+X	պրազեոդիմ	n	Praseodym	w
+X	պրոմեթիում	n	Promethium	w
+X	պրոտակտինիում	n	Protactinium	w
+X	Ջ	num	siebenundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 900 im System des armenischen Zahlensystems	w
+X	ջ	num	siebenundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 900 im System des armenischen Zahlensystems	w
+X	ջրածին	n	Wasserstoff m (Element) ; Wasserstoff (Gas)	w
+X	Ռ	num	achtundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 1000 im System des armenischen Zahlensystems	w
+X	ռ	num	achtundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 1000 im System des armenischen Zahlensystems	w
+X	ռադիում	n	Radium	w
+X	ռադոն	n	chemisches Element mit der Ordnungszahl 86, das zur Gruppe der Edelgase gehört.	w
+X	ռեզերֆորդիում	n	Rutherfordium	w
+X	ռենիում	n	Rhenium	w
+X	ռենտգենիում	n	Roentgenium	w
+X	ռոդիում	n	Rhodium	w
+X	ռուբիդիում	n	Rubidium	w
+X	ռութենիում	n	Ruthenium	w
+X	Ս	num	neunundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 2000 im System des armenischen Zahlensystems	w
+X	ս	num	neunundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 2000 im System des armenischen Zahlensystems	w
+X	սահմանական	n	Indikativ, Wirklichkeitsform	w
+X	սամարիում	n	Samarium	w
+X	Սատուրն	n	sechster Planet des Sonnensystems; Saturn	w
+X	սեզոն	n	Jahreszeit f, Saison f	w
+X	սելեն	n	Selen	w
+X	սեպտեմբեր	n	neunter Monat; September	w
+X	սեռ	n	Genus, Geschlecht	w
+X	սեռական	n	Genitiv, Wesfall, der 2. Fall (auch in der armenischen Sprache)	w
+X	սիբորգիում	n	Seaborgium	w
+X	սիլիցիում	n	Silizium	w
+X	սիրտ տալ	wend	Herz geben; trösten, Mut zusprechen	w
+X	սխտոր	n	Knoblauch m	w
+X	սկանդիում	n	Scandium	w
+X	սնդիկ	n	Quecksilber	w
+X	սնունդ	n	Nahrung f	w
+X	Սովետական Միություն	name	Sowjetunion	w
+X	Սովետական Սոցիալիստական Հանրապետությունների Միություն	name	Union der Sozialistischen Sowjetrepubliken	w
+X	Սուլող Մրտիմն	wend	Krickente f	w
+X	սպիտակ	n	Weiß	w
+X	Սպիտակավիզ Կտցար	n	Flussuferläufer m	w
+X	ՍՍՀՄ	name	UdSSR	w
+X	ստացական դերանուն	wend	Possessivpronomen n, besitzanzeigendes Fürwort	w
+X	ստացական հոդ	wend	Personalsuffix, Personalendung bei Hauptwörtern.	w
+X	ստեղնաշար	n	Tastatur	w
+X	ստրոնցիում	n	Strontium	w
+X	սրճագույն	adj	braun	w
+X	սև	n	Schwarz	w
+X	Սև Անգղ	n	Mönchsgeier m	w
+X	Վ	num	dreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 3000 im System des armenischen Zahlensystems	w
+X	վ	num	dreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 3000 im System des armenischen Zahlensystems	w
+X	վաղակատար անցյալ	wend	Plusquamperfekt, Vorvergangenheit	w
+X	վաղակատար ներկա	wend	Perfekt	w
+X	վաղը	adv	morgen	w
+X	վաճառքի հարկ	wend	Mehrwertsteuer f, Umsatzsteuer f, Verkaufssteuer f	w
+X	վանադիում	n	Vanadium	w
+X	վարունգ	n	Gurke f	w
+X	Վեներա	n	Venus f	w
+X	վերնագիր	n	Titel m, Überschrift f, Aufschrift f	w
+X	վերնալ	v	steigen, aufsteigen	e
+X	վերջածանց	n	Suffix m, Endsilbe f	w
+X	վոլֆրամ	n	Wolfram	w
+X	Տ	num	einunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 4000 im System des armenischen Zahlensystems	w
+X	տ	num	einunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 4000 im System des armenischen Zahlensystems	w
+X	տաճար	n	Kathedrale f ; Tempel m	w
+X	տանջվել	v	leiden ; gequält werden ; gefoltert, gemartert werden	w
+X	տանտալ	n	Tantal	w
+X	տառապել	v	leiden, sich quälen, unter etwas leiden	w
+X	տարվա ժամանակ	wend	Jahreszeit, Saison f	w
+X	տարր	n	Element n	w
+X	տելուր	n	Tellur	w
+X	տեխնեցիում	n	Technetium	w
+X	տեղ	n	Ort m	w
+X	տերբիում	n	Terbium	w
+X	Տիգրիս	name	Tigris	w
+X	տիտան	n	Titan	w
+X	տրական	n	Dativ, Wemfall, der 3. Fall (auch in der armenischen Sprache)	w
+X	Ր	num	zweiunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 5000 im System des armenischen Zahlensystems	w
+X	ր	num	zweiunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 5000 im System des armenischen Zahlensystems	w
+X	Ց	num	dreiunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 6000 im System des armenischen Zahlensystems	w
+X	ց	num	dreiunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 6000 im System des armenischen Zahlensystems	w
+X	Ցախաքլորաորս	n	Habicht m	w
+X	ցեզիում	n	Cäsium	w
+X	ցերիում	n	Cer	w
+X	ցինկ	n	Zink	w
+X	ցիրկոնիում	n	Zirkonium	w
+X	ցուցական դերանուն	wend	Demonstrativpronomen n	w
+X	ցտեսություն	interj	(mündlicher) Abschiedsgruß	w
+X	Ւ	num	vierunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 7000 im System des armenischen Zahlensystems	w
+X	ւ	num	vierunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 7000 im System des armenischen Zahlensystems	w
+X	Փ	num	fünfunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 8000 im System des armenischen Zahlensystems	w
+X	փ	num	fünfunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 8000 im System des armenischen Zahlensystems	w
+X	փախադարձ դերանուն	wend	wechselbezügliches Fürwort; reziprokes Pronomen	w
+X	Փայլածու	n	Merkur m	w
+X	փետրվար	n	zweiter Monat; Februar	w
+X	փողոց	n	Straße f	w
+X	փորձակար	n	Prüfstein; Probierstein	w
+X	փորձարկել	v	ausprobieren, experimentieren, probieren, testen, versuchen	w
+X	փորձել	v	experimentieren, probieren, versuchen	w
+X	Ք	num	sechsunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 9000 im System des armenischen Zahlensystems	w
+X	ք	num	sechsunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 9000 im System des armenischen Zahlensystems	w
+X	քանակական թվական	wend	Grundzahl, Kardinalzahl	w
+X	Քարակաքավ	n	Chukarhuhn n oder Chukarsteinhuhn n	w
+X	քերականութիւն	n	Grammatik, Sprachlehre f	w
+X	քիթը կախել	wend	ohne triftigen Grund beleidigt oder gekränkt sein; die Nase hängen lassen	w
+X	քիմոն	n	Kreuzkümmel m	w
+X	քլոր	n	Chlor (Element) ; Chlor (Gas)	w
+X	քսենոն	n	Geruch- und farbloses Edelgas, das als Narkotikum und als Füllgas in Glühlampen Anwendung…	w
+X	քրիստոսի ծնունդը	wend	Weihnachten n	w
+X	քրոմ	n	Chrom	w
+X	քրոմաթթու	n	Chromsäure f	w
+X	Օ		achtunddreißigster Buchstabe des armenischen Alphabets (Majuskel)	w
+X	օ		achtunddreißigster Buchstabe des armenischen Alphabets (Minuskel)	w
+X	օգնել	v	helfen, behilflich sein	w
+X	օգոստոս	n	achter Monat; August	w
+X	օդերեվութաբան	n	Meteorologe m	w
+X	օդերեվույթ	n	Sternschnuppe f, Meteor m ; Lufterscheinung f	w
+X	օսմիում	n	Osmium	w
+X	օր	n	Tag	w
+X	օրինակի համար	wend	beispielsweise, zum Beispiel	w
+X	Ֆ		neununddreißigster Buchstabe des armenischen Alphabets (Majuskel)	w
+X	ֆ		neununddreißigster Buchstabe des armenischen Alphabets (Minuskel)	w
+X	ֆերմիում	n	Fermium	w
+X	ֆոսֆոր	n	Phosphor	w
+X	ֆտոր	n	Fluor	w
+X	ֆրանսիում	n	Francium	w
+X	և		siebenunddreißigster Buchstabe des armenischen Alphabets (Minuskel)	w

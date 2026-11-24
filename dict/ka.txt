@@ -29238,964 +29238,964 @@ D	Ühra				საათი	e
 D	üppig			adj	მწვანე	e
 D	Łódź	das			ლოძი	e
 D	Šiauliai				შიაულიაი	e
-X	ა		der erste Buchstabe des georgischen Alphabets mit dem Namen An, georgisch ანი (ani) ^(→ k…
-X	აბად	n	Adverbial Singular des Substantivs აბი
-X	აბაზანა	n	Badewanne ; Baden, Bad
-X	აბატი	n	Abt; ein Vorsteher und geistlicher Leiter eines katholischen Klosters im Rang einer Abtei
-X	აბატისა	n	Äbtissin; weiblicher Abt ; Genitiv Singular des Substantivs აბატი
-X	აბატობა	n	Das Amt, die Amtszeit oder die Würde eines Abtes
-X	აბდაუბდა	n	etwas Sinnloses; Quatsch
-X	აბებად	n	Adverbial Plural des Substantivs აბი
-X	აბები	n	Nominativ Plural des Substantivs აბი
-X	აბებით	n	Instrumental Plural des Substantivs აბი
-X	აბების	n	Genitiv Plural des Substantivs აბი
-X	აბებმა	n	Narrativ Plural des Substantivs აბი
-X	აბებო	n	Vokativ Plural des Substantivs აბი
-X	აბებს	n	Dativ Plural des Substantivs აბი
-X	აბზაცი	n	Einrückung der ersten Zeile ; gedruckter oder geschriebener Teil eines Text, der sich zwischen zwischen Einrückungen be…
-X	აბზინდა	n	ein gelbblühender Beifuß (Absinth, Artemisia absinthium), dessen seidenhaarige, aromatisc… ; Verschluss an einem Gürtel oder Riemen
-X	აბზინდი	n	Verschluss an einem Gürtel oder Riemen
-X	აბთ	n	Narrativ Plural des Substantivs აბი ; Dativ Plural des Substantivs აბი ; Genitiv Plural des Substantivs აბი
-X	აბთა	n	Narrativ Plural des Substantivs აბი ; Dativ Plural des Substantivs აბი ; Genitiv Plural des Substantivs აბი
-X	აბი	n	Arzneimittel, Nahrungsergänzungsmittel oder anderes Mittel, welches zur bequemen, Einnahm…
-X	აბით	n	Instrumental Singular des Substantivs აბი
-X	აბიოტური	adj	abiotisch
-X	აბის	n	Genitiv Singular des Substantivs აბი
-X	აბლაბუდა	n	aus Spinnenseide gesponnene Vorrichtung von Webspinnen, die dem Beutefang dient
-X	აბლაუტი	n	Linguistik: Vokalwechsel für Zwecke der Flexion oder Wortbildung
-X	აბმა	n	Narrativ Singular des Substantivs აბი
-X	აბნი	n	Nominativ Plural des Substantivs აბი
-X	აბნო	n	Vokativ Plural des Substantivs აბი
-X	აბო	n	Vokativ Singular des Substantivs აბი
-X	აბონემენტი	n	meist durch Vorauszahlung gesichertes Anrecht auf (meist) regelmäßige Inanspruchnahme bes…
-X	აბონენტი	n	Person, welche ein meist durch Vorauszahlung gesichertes Anrecht auf (meist) regelmäßige…
-X	აბორიგენი	n	Angehörige eines Volkes, das ein bestimmtes Gebiet ursprünglich bewohnte
-X	აბორტი	n	gynäkologisch durchgeführte Abtötung und Entfernung eines Embryos beziehungsweise Fötus a…
-X	აბრა	n	beschriftete Platte zu Informationszwecken; Verkehrs-, Firmen- oder Hinweisschild
-X	აბრად	n	Adverbial Singular des Substantivs აბრა
-X	აბრავ	n	Vokativ Singular des Substantivs აბრა
-X	აბრაზია	n	der verletzungs- oder verschleißbedingt Rückgang beziehungsweise die diagnostisch-therape… ; die flächenhafte Erosion oder Verwitterung aufgrund des Kollidierens von Frachtmaterial m…
-X	აბრათ	n	Narrativ Plural des Substantivs აბრა ; Dativ Plural des Substantivs აბრა ; Genitiv Plural des Substantivs აბრა
-X	აბრათა	n	Narrativ Plural des Substantivs აბრა ; Dativ Plural des Substantivs აბრა ; Genitiv Plural des Substantivs აბრა
-X	აბრაკადაბრა	n	Zauberwort ; sinnloses oder unverständliches Gerede
-X	აბრამ	n	Narrativ Singular des Substantivs აბრა
-X	აბრანი	n	Nominativ Plural des Substantivs აბრა
-X	აბრანო	n	Vokativ Plural des Substantivs აბრა
-X	აბრას	n	Dativ Singular des Substantivs აბრა
-X	აბრებად	n	Adverbial Plural des Substantivs აბრა
-X	აბრები	n	Nominativ Plural des Substantivs აბრა
-X	აბრებით	n	Instrumental Plural des Substantivs აბრა
-X	აბრების	n	Genitiv Plural des Substantivs აბრა
-X	აბრებმა	n	Narrativ Plural des Substantivs აბრა
-X	აბრებო	n	Vokativ Plural des Substantivs აბრა
-X	აბრებს	n	Dativ Plural des Substantivs აბრა
-X	აბრევიატურა	n	eine Abkürzung, die als eigenes Wort gesprochen wird ; Abkürzung in Schrift und Druck ; Abkürzung der Notenschrift, der Vortragsbezeichnung bei der instrumentellen Wiedergabe
-X	აბრეშუმად	n	Adverbial Singular des Substantivs აბრეშუმი
-X	აბრეშუმებად	n	Adverbial Plural des Substantivs აბრეშუმი
-X	აბრეშუმები	n	Nominativ Plural des Substantivs აბრეშუმი
-X	აბრეშუმებით	n	Instrumental Plural des Substantivs აბრეშუმი
-X	აბრეშუმების	n	Genitiv Plural des Substantivs აბრეშუმი
-X	აბრეშუმებმა	n	Narrativ Plural des Substantivs აბრეშუმი
-X	აბრეშუმებო	n	Vokativ Plural des Substantivs აბრეშუმი
-X	აბრეშუმებს	n	Dativ Plural des Substantivs აბრეშუმი
-X	აბრეშუმთ	n	Narrativ Plural des Substantivs აბრეშუმი ; Dativ Plural des Substantivs აბრეშუმი ; Genitiv Plural des Substantivs აბრეშუმი
-X	აბრეშუმთა	n	Narrativ Plural des Substantivs აბრეშუმი ; Dativ Plural des Substantivs აბრეშუმი ; Genitiv Plural des Substantivs აბრეშუმი
-X	აბრეშუმი	n	feine Textilfaser, die aus den Kokons der Seidenraupe gewonnen wird ; häufig feines Gewebe, das aus den Kokons der Seidenraupe besteht
-X	აბრეშუმით	n	Instrumental Singular des Substantivs აბრეშუმი
-X	აბრეშუმის	n	Genitiv Singular des Substantivs აბრეშუმი
-X	აბრეშუმმა	n	Narrativ Singular des Substantivs აბრეშუმი
-X	აბრეშუმნი	n	Nominativ Plural des Substantivs აბრეშუმი
-X	აბრეშუმნო	n	Vokativ Plural des Substantivs აბრეშუმი
-X	აბრეშუმო	n	Vokativ Singular des Substantivs აბრეშუმი
-X	აბრეშუმს	n	Dativ Singular des Substantivs აბრეშუმი
-X	აბრით	n	Instrumental Singular des Substantivs აბრა
-X	აბრის	n	Genitiv Singular des Substantivs აბრა
-X	აბროგაცია	n	vollständige Aufhebung oder Abschaffung durch ein neues Gesetz
-X	აბრუპტივი	n	nichtpulmonaler Konsonant, meist Plosiv, der durch eine rasche Aufwärtsbewegung des Kehlk…
-X	აბს	n	Dativ Singular des Substantivs აბი
-X	აბსენთი	n	Spirituose, die traditionell aus Wermut, Anis, Fenchel und weiteren Kräutern hergestellt…
-X	აბსოლუტიზმი	n	Herrschaftsform, in der der Herrscher – meist ein König oder Kaiser – uneingeschränkte Ma…
-X	აბსოლუტისტი	n	Person, die sich mit den Absolutismus verbunden fühlt, die den Absolutismus vertritt
-X	აბსორბენტი	n	absorbierender Stoff, absorbierendes Mittel
-X	აბსორბერი	n	ein Apparat zur Durchführung chemischer oder physikalischer Absorption
-X	აბსტრაქცია	n	Abstraktion, Verallgemeinerung, Generalisierung
-X	აბსტრაქციონიზმი	n	Abstraktionismus, abstrakte Kunst
-X	აბსტრაქციონისტი	n	abstrakter Künstler, Abstraktionist
-X	აბულია	n	krankhafte Willensschwäche
-X	აბჯართ	n	Narrativ Plural des Substantivs აბჯარი ; Dativ Plural des Substantivs აბჯარი ; Genitiv Plural des Substantivs აბჯარი
-X	აბჯართა	n	Narrativ Plural des Substantivs აბჯარი ; Dativ Plural des Substantivs აბჯარი ; Genitiv Plural des Substantivs აბჯარი
-X	აბჯარი	n	Schutzkleidung für den Körper von zum Beispiel Kämpfern
-X	აბჯარმა	n	Narrativ Singular des Substantivs აბჯარი
-X	აბჯარნი	n	Nominativ Plural des Substantivs აბჯარი
-X	აბჯარნო	n	Vokativ Plural des Substantivs აბჯარი
-X	აბჯარო	n	Vokativ Singular des Substantivs აბჯარი
-X	აბჯარს	n	Dativ Singular des Substantivs აბჯარი
-X	აბჯრად	n	Adverbial Singular des Substantivs აბჯარი
-X	აბჯრებად	n	Adverbial Plural des Substantivs აბჯარი
-X	აბჯრები	n	Nominativ Plural des Substantivs აბჯარი
-X	აბჯრებით	n	Instrumental Plural des Substantivs აბჯარი
-X	აბჯრების	n	Genitiv Plural des Substantivs აბჯარი
-X	აბჯრებმა	n	Narrativ Plural des Substantivs აბჯარი
-X	აბჯრებო	n	Vokativ Plural des Substantivs აბჯარი
-X	აბჯრებს	n	Dativ Plural des Substantivs აბჯარი
-X	აბჯრით	n	Instrumental Singular des Substantivs აბჯარი
-X	აბჯრის	n	Genitiv Singular des Substantivs აბჯარი
-X	აგავა	n	dickfleischige Pflanze der Tropen und Subtropen; eine Gattung in der Pflanzenfamilie der…
-X	აგამია	n	der Zustand der Ehelosigkeit ; Fortpflanzung, ohne dass eine Befruchtung erfolgt ist
-X	აგენტი	n	Person, die Vermittlungsdienstleistungen für ihre Kunden erbringt, insbesondere für Künst… ; Person, die im Staatsauftrag oder im Auftrag einer Organisation im Geheimen tätig ist
-X	აგვისტო	n	August
-X	აგიტატორი	n	Person, die Agitation betreibt
-X	აგიტაცია	n	Agitation, politische Aufklärung, politische Werbung
-X	აგლომერატი	n	Gesteinsmasse aus zusammengebackenem vulkanischen Trümmergestein ; aus feinkörnigen Erzen durch Sintern zu groben Stücken zusammengeschmolzenes Erz
-X	აგნოზია	n	Agnosie; Unfähigkeit, etwas wahrzunehmen
-X	აგნოსტიკოსი	n	Person, die der Meinung ist, dass man die Frage nach der Existenz oder Nichtexistenz eine…
-X	აგნოსტიციზმი	n	philosophische und theologische Weltanschauung, nach der die Existenz oder Nichtexistenz…
-X	აგონია	n	Todeskampf
-X	აგორა	n	Volksversammlung im alten Griechenland ; Versammlungs- und Marktplatz einer antiken griechischen Stadt
-X	აგორაფობია	n	krankhafte Angst vor weiten Plätzen, Menschenmengen oder Reisen
-X	აგრამატიზმი	n	kein Plural: spezielle Form der Aphasie (Sprachstörung), bei der die Verwendung der gramm…
-X	აგრარიები	n	Person, die über (meist große) landwirtschaftliche Flächen verfügt ; Vertreter wirtschaftspolitischer Interessen der Landwirte
-X	აგრაფია	n	Verlust der zuvor vorhandenen Fähigkeit zu schreiben
-X	აგრეგატი	n	Zusammenfassung mehrerer Kleinarten zu einer Sammelart ; Vereinigung mehrerer Apparate, Geräte oder Maschinen zur Erfüllung einer bestimmten techn… ; Gestein, das durch die Zusammenfügung mehrerer Minerale entstanden ist
-X	აგრესია	n	Vorgehen gegen jemand oder etwas ; feindliche Einstellung
-X	აგრესორი	n	Angreifer; jemand, der einen Konflikt auslöst
-X	აგრობიოლოგია	n	Fachrichtung, die sich mit den Gesetzmäßigkeiten in der Landwirtschaft beschäftigt
-X	აგრონომი	n	Wissenschaftler, der im Bereich des Ackerbaus/der Landwirtschaft forscht
-X	აგრონომია	n	wissenschaftliche Forschung über Ackerbau
-X	აგროქიმია	n	Agrochemie
-X	აგურად	n	Adverbial Singular des Substantivs აგური
-X	აგურებად	n	Adverbial Plural des Substantivs აგური
-X	აგურები	n	Nominativ Plural des Substantivs აგური
-X	აგურებით	n	Instrumental Plural des Substantivs აგური
-X	აგურების	n	Genitiv Plural des Substantivs აგური
-X	აგურებმა	n	Narrativ Plural des Substantivs აგური
-X	აგურებო	n	Vokativ Plural des Substantivs აგური
-X	აგურებს	n	Dativ Plural des Substantivs აგური
-X	აგურთ	n	Narrativ Plural des Substantivs აგური ; Dativ Plural des Substantivs აგური ; Genitiv Plural des Substantivs აგური
-X	აგურთა	n	Narrativ Plural des Substantivs აგური ; Dativ Plural des Substantivs აგური ; Genitiv Plural des Substantivs აგური
-X	აგური	n	Quader aus gebranntem Ton, der für den Bau einer Mauer verwendet wird ; Karo; eine der vier Farben (Symbole) des französischen Kartenspielblatts
-X	აგურით	n	Instrumental Singular des Substantivs აგური
-X	აგურის	n	Genitiv Singular des Substantivs აგური
-X	აგურმა	n	Narrativ Singular des Substantivs აგური
-X	აგურნი	n	Nominativ Plural des Substantivs აგური
-X	აგურნო	n	Vokativ Plural des Substantivs აგური
-X	აგურო	n	Vokativ Singular des Substantivs აგური
-X	აგურს	n	Dativ Singular des Substantivs აგური
-X	ადამიანად	n	Adverbial Singular des Substantivs ადამიანი
-X	ადამიანებად	n	Adverbial Plural des Substantivs ადამიანი
-X	ადამიანები	n	Nominativ Plural des Substantivs ადამიანი
-X	ადამიანებით	n	Instrumental Plural des Substantivs ადამიანი
-X	ადამიანების	n	Genitiv Plural des Substantivs ადამიანი
-X	ადამიანებმა	n	Narrativ Plural des Substantivs ადამიანი
-X	ადამიანებო	n	Vokativ Plural des Substantivs ადამიანი
-X	ადამიანებს	n	Dativ Plural des Substantivs ადამიანი
-X	ადამიანთ	n	Narrativ Plural des Substantivs ადამიანი ; Dativ Plural des Substantivs ადამიანი ; Genitiv Plural des Substantivs ადამიანი
-X	ადამიანთა	n	Narrativ Plural des Substantivs ადამიანი ; Dativ Plural des Substantivs ადამიანი ; Genitiv Plural des Substantivs ადამიანი
-X	ადამიანი	n	Mensch; Lebewesen, das sich durch folgende besondere Eigenschaften auszeichnet: aufrechte… ; Mensch als einzelnes Individuum
-X	ადამიანით	n	Instrumental Singular des Substantivs ადამიანი
-X	ადამიანის	n	Genitiv Singular des Substantivs ადამიანი
-X	ადამიანმა	n	Narrativ Singular des Substantivs ადამიანი
-X	ადამიანნი	n	Nominativ Plural des Substantivs ადამიანი
-X	ადამიანნო	n	Vokativ Plural des Substantivs ადამიანი
-X	ადამიანო	interj,n	Vokativ Singular des Substantivs ადამიანი ; Ausdruck der Verwunderung, Verärgerung, des Schreckes; Aufforderung an einen Mitmenschen,…
-X	ადამიანს	n	Dativ Singular des Substantivs ადამიანი
-X	ადგილად	n	Adverbial Singular des Substantivs ადგილი
-X	ადგილებად	n	Adverbial Plural des Substantivs ადგილი
-X	ადგილები	n	Nominativ Plural des Substantivs ადგილი
-X	ადგილებით	n	Instrumental Plural des Substantivs ადგილი
-X	ადგილების	n	Genitiv Plural des Substantivs ადგილი
-X	ადგილებმა	n	Narrativ Plural des Substantivs ადგილი
-X	ადგილებო	n	Vokativ Plural des Substantivs ადგილი
-X	ადგილებს	n	Dativ Plural des Substantivs ადგილი
-X	ადგილთ	n	Narrativ Plural des Substantivs ადგილი ; Dativ Plural des Substantivs ადგილი ; Genitiv Plural des Substantivs ადგილი
-X	ადგილთა	n	Narrativ Plural des Substantivs ადგილი ; Dativ Plural des Substantivs ადგილი ; Genitiv Plural des Substantivs ადგილი
-X	ადგილი	n	lokalisierbarer, begrenzter Platz, definierte Stelle (punktförmig oder ausgedehnt) auf ei… ; ein Stück Land ; Raum oder Stelle, an der Personen, Fahrzeuge, Geräte sich befinden oder aufhalten (sitzen… ; Abschnitt in einem Text oder Musikwerk ; die Position oder Anstellung in einem Betrieb oder einer Firma ; bestimmter Rang oder eine bestimmte Position
-X	ადგილით	n	Instrumental Singular des Substantivs ადგილი
-X	ადგილის	n	Genitiv Singular des Substantivs ადგილი
-X	ადგილმა	n	Narrativ Singular des Substantivs ადგილი
-X	ადგილნი	n	Nominativ Plural des Substantivs ადგილი
-X	ადგილნო	n	Vokativ Plural des Substantivs ადგილი
-X	ადგილო	n	Vokativ Singular des Substantivs ადგილი
-X	ადგილს	n	Dativ Singular des Substantivs ადგილი
-X	ადვოკატი	n	zur Rechtsberatung zugelassener Jurist, der freiberuflich tätig ist und der seine Auftrag…
-X	ადმინისტრატორი	n	Betreuer, Verwalter ; Verwalter eines Computersystems oder Computernetzes mit besonderen Rechten und Aufgaben
-X	ადრესანტი	n	Absender, Sender
-X	ადრესატი	n	Empfänger einer Nachricht, insbesondere im Postwesen
-X	აერობიკა	n	Fitnesstraining, bei dem meist in Begleitung von Musik die beiden Sportarten Gymnastik un…
-X	აეროდრომი	n	Areal, auf dem Flugzeuge starten und wieder landen
-X	აეროზოლი	n	Gemisch aus fein verteilten flüssigen oder festen Schwebeteilchen und Gasen
-X	აეროპორტი	n	Start- und Landeplatz für Flugzeuge
-X	ავადმყოფი	adj,n	jemand, der an einer Krankheit leidet ; körperlich, gesundheitlich eingeschränkt
-X	ავადმყოფობა	n	die Störung oder Einschränkung der normalen körperlichen oder seelischen Funktionen ; das Kranksein ; schlechte Manier beziehungsweise Gewohnheit
-X	ავადობა	n	die Störung oder Einschränkung der normalen körperlichen oder seelischen Funktionen ; das Kranksein ; Anzahl der in einem bestimmten Zeitraum (in der Regel ein Kalenderjahr) Erkrankten je 1.0…
-X	ავაზა	n	sehr schlankes, hochbeiniges Raubtier (Acinonyx jubatus), dessen Fell gelblich gefärbt so…
-X	ავაზაკი	n	Person, die einer anderen Person meist auf der Straße unter Androhung oder auch Anwendung… ; Verbrecher
-X	ავანგარდი	n	Vorhut einer Armee ; Vorkämpfer oder Vorreiter einer politischen oder künstlerischen Entwicklung
-X	ავარია	n	großes Schadensereignis (speziell im Verkehrswesen) wie Transportmittelunfall oder Güters…
-X	ავგური	n	römischer Priester/Beamter, der durch Beobachtung von Vögeln und anderen Tieren den Wille…
-X	ავდარი	n	schlechtes Wetter, Unwetter
-X	ავენიუ	n	Prachtstraße in einer Stadt, die mit Bäumen bepflanzt ist
-X	ავერსი	n	die Vorderseite einer Münze, Medaille oder Ähnlichem
-X	ავეჯი	n	Einrichtungsgegenstand, der zum Sitzen, Liegen, Aufbewahren von Kleidung, Wäsche, Hausrat…
-X	ავზი	n	Behälter zur Lagerung von Flüssigkeiten ; flacher, oben offener, oft fest installierter Behälter für Wasser oder eine andere Flüssi…
-X	ავიაკატასტროფა	n	Unfall, bei dem ein Flugzeug zu Boden (oder ins Wasser) stürzt
-X	ავიაკომპანია	n	Unternehmen, das einen regelmäßigen Flugverkehr für Passagiere oder Fracht bietet
-X	ავიაცია	n	Luftfahrt, Flugwesen, Fliegerei ; Gesamtheit der Luftstreitkräfte; Luftwaffe
-X	ავოკადო	n	tropischer Baum aus der Familie der Lorbeergewächse; Avocadobaum ; Frucht von diesem Baum; Avocado
-X	ავსტრალია	name	Kontinent Australien ; Staat auf 1
-X	ავსტრია	name	Österreich
-X	ავტოავარია	n	ein Verkehrsunfall mit einem beteiligten Kraftfahrzeug
-X	ავტობანი	n	kreuzungsfrei gebaute, richtungsgetrennte Schnellstraße mit mindestens zwei Fahrspuren je…
-X	ავტობიოგრაფია	n	Lebensbeschreibung einer Person, die von dieser Person selbst verfasst wird
-X	ავტობუსი	n	als Verkehrsmittel im öffentlichen Personennahverkehr eingesetztes vielsitziges, großes K…
-X	ავტოგამია	n	Befruchtung ohne Partner
-X	ავტოგრაფი	n	eigenhändige Niederschrift eines berühmten, herausragenden Verfassers (Schriftsteller, Ko… ; selbstgefertigte Signatur eines Prominenten
-X	ავტოდრომი	n	Rennstrecke für Autos oder Motorräder, häufig im Kreis angelegt
-X	ავტოკალამი	n	Schreibgerät, das einen kleinen Speicher für Tinte enthält und somit andauerndes Schreibe…
-X	ავტოკეფალია	n	kirchliche Selbstregierung der orthodoxen Kirchen, Unabhängigkeit von externen Patriarche…
-X	ავტომანქანა	n	von einem Motor angetriebenes Fahrzeug, meist zur Beförderung von Personen vorgesehen
-X	ავტომატი	n	Maschine oder technische Vorrichtung, die an Hand eines vorgegebenen (Computer-)Programms… ; vollautomatische Handfeuerwaffe mit geringer Masse und kurzem Lauf
-X	ავტომატიზაცია	n	Vorgang der Übertragung von Arbeit, die zuvor ein Mensch geleistet hat, auf Automaten
-X	ავტომექანიკოსი	n	Person, die beruflich Kraftfahrzeuge repariert und wartet
-X	ავტომობილი	n	von einem Motor angetriebenes Fahrzeug, meist zur Beförderung von Personen vorgesehen
-X	ავტომოპასუხე	n	Gerät, das Telefonanrufe annimmt und dem Anrufenden die Möglichkeit gibt, eine kurze Nach…
-X	ავტოპორტრეტი	n	bildliche oder plastische Darstellung derjenigen Person, die diese hergestellt hat
-X	ავტორი	n	Urheber eines Werks des literarischen oder wissenschaftlichen Textes, der Musik, des Film…
-X	ავტორიტარიზმი	n	Anspruch eines Regimes auf absolute Autorität
-X	ავტორიტეტი	n	maßgebender Einfluss, Geltung, Ansehen ; Person oder Institution, die die Autorität innehat
-X	ავშანი	n	Wermut, Absinth
-X	აზბესტი	n	ein mineralischer, feuerfester Faserstoff, dessen Fasern Asbestose auslösen können
-X	აზერბაიჯანი	name	Aserbaidschan
-X	აზიმუტი	n	Winkel zwischen der Vertikalebene eines Gestirns und dem südlichen Meridian
-X	აზოტი	n	chemisches Element der fünften Hauptgruppe; wichtiger Bestandteil von Aminosäuren ; farbloses, geruchloses, nicht brennbares Gas; Hauptbestandteil der Luft
-X	აზრად	n	Adverbial Singular des Substantivs აზრი
-X	აზრებად	n	Adverbial Plural des Substantivs აზრი
-X	აზრები	n	Nominativ Plural des Substantivs აზრი
-X	აზრებით	n	Instrumental Plural des Substantivs აზრი
-X	აზრების	n	Genitiv Plural des Substantivs აზრი
-X	აზრებმა	n	Narrativ Plural des Substantivs აზრი
-X	აზრებო	n	Vokativ Plural des Substantivs აზრი
-X	აზრებს	n	Dativ Plural des Substantivs აზრი
-X	აზრთ	n	Narrativ Plural des Substantivs აზრი ; Dativ Plural des Substantivs აზრი ; Genitiv Plural des Substantivs აზრი
-X	აზრთა	n	Narrativ Plural des Substantivs აზრი ; Dativ Plural des Substantivs აზრი ; Genitiv Plural des Substantivs აზრი
-X	აზრი	n	der selbst gebildete Standpunkt eines Menschen, Meinung ; im Bewusstsein der Allgemeinheit herrschende Auffassungen hinsichtlich bestimmter Sachver… ; Vorgang des Denkens, Gedanke ; Leitbild, das jemanden in seinem Denken, Handeln bestimmt ; die Bedeutungen und Vorstellungen, die sich mit einem sprachlichen Ausdruck verbinden ; die Absicht mit einer Handlung
-X	აზრით	n	Instrumental Singular des Substantivs აზრი
-X	აზრის	n	Genitiv Singular des Substantivs აზრი
-X	აზრმა	n	Narrativ Singular des Substantivs აზრი
-X	აზრნი	n	Nominativ Plural des Substantivs აზრი
-X	აზრნო	n	Vokativ Plural des Substantivs აზრი
-X	აზრო	n	Vokativ Singular des Substantivs აზრი
-X	აზროვნება	n	Denkfähigkeit oder Gehirnfunktion: Der Prozess des Denkens und des Ziehens von Schlussfol…
-X	აზრს	n	Dativ Singular des Substantivs აზრი
-X	ათასწლეული	n	die Zeitspanne von 1000 Jahren
-X	ათაშანგი	n	eine ansteckende Geschlechtskrankheit, die von Bakterien (Treponema pallidum) verursacht…
-X	ათეიზმი	n	Weltanschauung, Überzeugung, die von einer Welt ohne Gott beziehungsweise Götter ausgeht
-X	ათეისტი	n	Person, welche nicht an die Existenz von Göttern glaubt
-X	ათლეტი	n	Sportler und/oder Wettkämpfer ; Mensch mit kräftigem Körperbau und ausgeprägter Muskulatur
-X	ათწილადი	n	ein Bruch, dessen Nenner eine Potenz von Zehn mit natürlichzahligem Exponenten ist
-X	ათწლედი	n	Zehn-Klassen-Schule; insbesondere eine Musikschule mit zehn Klassen ; ein Zeitraum von zehn Jahren ; Zehnjahresplan für die Entwicklung der Volkswirtschaft in sozialistischen Ländern
-X	ათწლეული	n	der Zeitraum von zehn Jahren
-X	აიაზმა	n	von einem Priester geweihtes Wasser, das zur symbolischen Reinigung verwendet wird ; zeremonielle Weihe des Wassers von einem Priester
-X	აიათოლა	n	Ehrentitel für geistliche Würdenträger
-X	აივანი	n	ein Teil eines Gebäudes, der als Plattform ins Freie hinausragt und von halbhohem Mauerwe…
-X	აირი	n	Materie im gasförmigen Aggregatzustand, nicht Festkörper oder Flüssigkeit
-X	აირსადენი	n	Pipeline für den Transport von Gas
-X	აირწინაღი	n	Maske, die vor dem Gesicht getragen wird und vor giftigen Gasen schützen soll
-X	აისბერგი	n	große, auf dem Meer schwimmende Eismasse
-X	აისი	n	frühe Morgenstunden, wenn die Morgendämmerung einsetzt; Zeitraum, knapp um den Sonnenaufg…
-X	აიწონა-დაიწონა	n	Kinderspielgerät, bei dem sich auf einem senkrechten Ständer ein kippbarer Balken oder Br…
-X	აკადემია	n	öffentliche oder private Forschungsstätte, Lehreinrichtung, Bildungseinrichtung oder Ausb…
-X	აკადემიკოსი	n	Mitglied einer wissenschaftlichen Akademie
-X	აკაკი	n,name	ein früher zu den Ulmengewächsen und heute zu den Hanfgewächsen gestellter Baum der Mitte… ; männlicher Vorname
-X	აკაცია	n	Gattung dorniger Bäume und Sträucher der Tropen und Subtropen
-X	აკვალანგი	n	Aqualunge, Drucklufttauchgerät
-X	აკვამარინი	n	durchsichtiges Mineral, Varietät des Berylls, von hellblauer bis meergrüner Farbe, das al…
-X	აკვანთ	n	Narrativ Plural des Substantivs აკვანი ; Dativ Plural des Substantivs აკვანი ; Genitiv Plural des Substantivs აკვანი
-X	აკვანთა	n	Narrativ Plural des Substantivs აკვანი ; Dativ Plural des Substantivs აკვანი ; Genitiv Plural des Substantivs აკვანი
-X	აკვანი	n	Holzbettchen für Kleinkinder, mithilfe dessen der Säugling gewiegt beziehungsweise gescha… ; Ort, an dem etwas entsteht, sich entwickelt; Ort, von dem etwas ausgeht, entspringt
-X	აკვანმა	n	Narrativ Singular des Substantivs აკვანი
-X	აკვანნი	n	Nominativ Plural des Substantivs აკვანი
-X	აკვანნო	n	Vokativ Plural des Substantivs აკვანი
-X	აკვანო	n	Vokativ Singular des Substantivs აკვანი
-X	აკვანს	n	Dativ Singular des Substantivs აკვანი
-X	აკვანსა	n	Dativ Singular des Substantivs აკვანი
-X	აკვარელი	n	eine wasserlösliche Farbe (Wasserfarbe), die nicht deckend ist ; ein mit wasserlöslichen, nicht deckenden Farben angefertigtes Bild
-X	აკვარელისტი	n	Person, die Aquarelle malt
-X	აკვარიუმი	n	Behälter mit Wasser zur Haltung und Beobachtung von Wassertieren und -pflanzen ; Gebäude, Ausstellung mit mehreren Aquarien
-X	აკვატორია	n	Der Raum eines Reservoirs (Meer, Ozean usw.) innerhalb bestimmter Grenzen
-X	აკვედუკი	n	eine Wasserleitung, die meistens über eine steinerne Bogenkonstruktion führt
-X	აკვნად	n	Adverbial Singular des Substantivs აკვანი
-X	აკვნადა	n	Adverbial Singular des Substantivs აკვანი
-X	აკვნებად	n	Adverbial Plural des Substantivs აკვანი
-X	აკვნებადა	n	Adverbial Plural des Substantivs აკვანი
-X	აკვნები	n	Nominativ Plural des Substantivs აკვანი
-X	აკვნებით	n	Instrumental Plural des Substantivs აკვანი
-X	აკვნებითა	n	Instrumental Plural des Substantivs აკვანი
-X	აკვნების	n	Genitiv Plural des Substantivs აკვანი
-X	აკვნებისა	n	Genitiv Plural des Substantivs აკვანი
-X	აკვნებმა	n	Narrativ Plural des Substantivs აკვანი
-X	აკვნებო	n	Vokativ Plural des Substantivs აკვანი
-X	აკვნებს	n	Dativ Plural des Substantivs აკვანი
-X	აკვნებსა	n	Dativ Plural des Substantivs აკვანი
-X	აკვნით	n	Instrumental Singular des Substantivs აკვანი
-X	აკვნითა	n	Instrumental Singular des Substantivs აკვანი
-X	აკვნის	n	Genitiv Singular des Substantivs აკვანი
-X	აკვნისა	n	Genitiv Singular des Substantivs აკვანი
-X	აკლამაცია	n	eine Form der Wahl, bei der per Zuruf oder Handzeichen angenommen oder abgelehnt wird
-X	აკლდამა	n	gemauerter Raum (über- oder unterirdisch), in dem der Sarg bestattet wird
-X	აკლიმატიზაცია	n	Anpassung an veränderte Klimaverhältnisse
-X	აკლიმატიზება	n	Anpassung an veränderte Klimaverhältnisse
-X	აკომოდაცია	n	Anpassung des Körpers an äußere Umstände ; dynamische Anpassung der Brechkraft des Auges an die Entfernung des zu betrachtenden Obje…
-X	აკომპანემენტი	n	Begleitung auf einem Musikinstrument; Akkompagnement, Begleitung
-X	აკორდეონი	n	Musikinstrument mit Tasten oder Knöpfen, bei welchem der Ton durch eine Zunge, welche auf…
-X	აკორდეონისტი	n	Person, die Akkordeon spielt
-X	აკორდი	n	das gleichzeitige, harmonische Erklingen mehrerer Töne
-X	აკრი	n	englisches und nordamerikanisches Flächenmaß, entspricht circa 4047 m²
-X	აკრობატი	n	Variété- oder Zirkuskünstler, der ungewöhnliche, besondere Geschicklichkeit erfordernde k…
-X	აკროპოლი	n	eine für viele griechische Städte in der Antike typische burgähnliche Anlage, meist auf e…
-X	აკროპოლისი	n	eine für viele griechische Städte in der Antike typische burgähnliche Anlage, meist auf e…
-X	აკროსტიქი	n	Gedicht als Wortspiel, bei dem die Anfangsbuchstaben, -silben oder -wörter der Verse hint…
-X	აკუმულატორი	n	chemischer Energiespeicher, der elektrische Energie an einen Verbraucher abgeben kann
-X	აკუსტიკა	n	Lehre vom Schall, Lehre von den Tönen ; Eigenschaft eines Raums, die beschreibt, wie gut sich Klänge in ihm ausbreiten
-X	ალამი	n	ein ein- oder mehrfarbiges, leeres oder mit Bildern oder Symbolen versehenes, meist recht…
-X	ალაო	n	in Wasser gekeimtes und anschließend getrocknetes (gedarrtes) Getreide, meist Gerste; wir…
-X	ალაჰი	n	der Name Gottes
-X	ალბათობა	n	Grad von Möglichkeit
-X	ალბატროსი	n	Vogel aus der Familie Diomedeidae (Albatrosse)
-X	ალბინიზმი	n	genetisch bedingte Störung der Melaninsynthese bei Tieren und beim Menschen, die zum Fehl…
-X	ალბინოსი	n	Lebewesen mit der angeborenen Störung Albinismus
-X	ალბომი	n	Behältnis, ursprünglich in Buchform, das mehrere Sammelobjekte enthalten kann ; Zusammenstellung mehrerer Musikstücke eines Interpreten
-X	ალბუმინი	n	einfache Proteine (Eiweiße), die hauptsächlich im Blutplasma, in der Milch und in Eiern v…
-X	ალგებრა	n	eines der grundlegenden Teilgebiete der Mathematik, das sich mit den Eigenschaften von Re…
-X	ალგეზია	n	Schmerzempfindlichkeit, physiologische Schmerzempfindung
-X	ალგოლოგია	n	Wissenschaft von den Algen
-X	ალგორითმი	n	eine exakt beschriebene Vorgehensweise zum Lösen eines Problems in endlich vielen und ein…
-X	ალებარდა	n	spätmittelalterlich bis frühneuzeitliche Hieb- und Stoßwaffe, die eine axtförmige Bartenk…
-X	ალებასტრი	n	weiße, feinkörnige, meist leicht durchscheinende Gipsart, die Marmor ähnelt
-X	ალეგორია	n	personifizierende oder gegenständliche Darstellung eines abstrakten Sachverhaltes
-X	ალეგრეტო	n	mäßig schnelles Tempo; Allegretto ; Musikstück oder ein Teil von einem, das in mäßig schnellem Tempo gehalten ist; Allegretto
-X	ალერგენი	n	ein Stoff, welcher bei manchen Menschen eine allergische Reaktion auslöst
-X	ალერგია	n	heftige Immunreaktion auf normalerweise harmlose Substanzen oder Umweltstoffe
-X	ალერგოლოგი	n	Arzt mit Allergien als Spezialgebiet
-X	ალერგოლოგია	n	Wissenschaft, die sich mit der Untersuchung von Allergien beschäftigt
-X	ალერსი	n	zärtliche Berührung oder Streicheln
-X	ალექსანდრე	name	der männliche Vorname, Alexander
-X	ალექსანდრიტი	n	Mineral, Varietät des Chrysoberylls, Edelstein von tiefgrüner Farbe bei Tageslicht und vo…
-X	ალვა	n	eine Form der Schwarz-Pappel, die durch einen säulenförmigen Wuchs und die kegelförmige K… ; Nadelbaum der Gattung Cupressus ; ein Laubbaum der Pflanzenfamilie der Platanengewächse, der bis zu 50 Metern hoch wächst u…
-X	ალვეოლი	n	die kleinen Hohlräume in der Lunge, in denen der Gasaustausch bei der Atmung stattfindet ; Zahnfach, in dem sich ein Zahn befindet oder befunden hat
-X	ალი	n	eine helle, gelb-rote oder bläuliche Lichterscheinung, die bei Verbrennungsvorgängen ents… ; weibliches, bösgesinntes und dämonisches Märchen- oder Sagenwesen zumeist in Gestalt eine…
-X	ალია	n	die Rückkehr oder Emigration von Juden als Einzelne oder in Gruppen in das Gebiet von Isr…
-X	ალიანსი	n	Bündnis, (an einen Vertrag gebundener) Zusammenschluss
-X	ალიბი	n	Nachweis, nicht zum Zeitpunkt eines Verbrechens am Tatort gewesen zu sein
-X	ალიგატორი	n	Tier einer Gattung der Krokodile
-X	ალიზი	n	nicht gebrannter, sondern an der Luft getrockneter Ziegel aus Lehm, der bereits seit Jahr…
-X	ალილუია	n	ein in der Liturgie verwendeter Freudengesang, der das Wort „halleluja“ beinhaltet
-X	ალიმენტაცია	n	Versorgung mit Alimenten, Lebensunterhalt
-X	ალიმენტი	n	Geldbetrag, der regelmäßig für jemandes Lebensunterhalt zu entrichten ist
-X	ალიონი	n	frühe Morgenstunden, wenn die Morgendämmerung einsetzt; Zeitraum, knapp um den Sonnenaufg…
-X	ალიტერაცია	n	gleicher Anlaut bei aufeinanderfolgenden betonten Wörtern
-X	ალკოჰოლი	n	gängige Bezeichnung für Ethanol ; speziell und kurz für Getränk, welches Ethanol enthält; Trinkalkohol ; Bezeichnung für eine Kohlenstoffverbindung mit mindestens einer Hydroxylgruppe als funkti…
-X	ალკოჰოლიზმი	n	ist die seelische und körperliche Abhängigkeit von der Droge Alkohol
-X	ალკოჰოლიკი	n	jemand, der auf regelmäßigen Alkoholgenuss angewiesen und von Alkohol abhängig ist
-X	ალმა-მატერი	n	Hochschule, Universität
-X	ალმანახი	n	illustriertes Jahrbuch mit Texten aus verschiedenen Themenbereichen, meist in Kalenderform
-X	ალმანდინი	n	Varietät des Granats von roter oder bräunlicher Farbe, die als Schmuckstein getragen wird
-X	ალმასი	n	härtester, aus Kohlenstoff bestehender Kristall mit starker Lichtbrechung, Mineral, Edels… ; Werkzeug zum Durchtrennen von Glas
-X	ალმური	n	eine helle, gelb-rote oder bläuliche Lichterscheinung, die bei Verbrennungsvorgängen ents… ; Hitzeschleier
-X	ალოე	n	Vertreter der gleichnamigen Pflanzengattung aus der Familie der Grasbaumgewächse
-X	ალომორფი	n	Variante der kleinsten bedeutungstragenden Einheit einer Sprache, des Morphems
-X	ალოფონი	n	Variante eines Phonems (langue)
-X	ალოშა	n	eine Pflanzenart aus der Gattung der Glockenblumen (Campanula)
-X	ალპინარიუმი	n	ein spezieller Steingarten mit Schwerpunkt auf Alpenflora und Pflanzen aus anderen hochal…
-X	ალპინიზმი	n	Bergsteigen im Hochgebirge
-X	ალპინისტი	n	Bergsteiger im Hochgebirge
-X	ალჟირი	n	ein Staat in Nordafrika
-X	ალტრუიზმი	n	Selbstlosigkeit, Menschenliebe, Uneigennützigkeit
-X	ალტრუისტი	n	selbstloser Mensch
-X	ალუბალთ	n	Narrativ Plural des Substantivs ალუბალი ; Dativ Plural des Substantivs ალუბალი ; Genitiv Plural des Substantivs ალუბალი
-X	ალუბალთა	n	Narrativ Plural des Substantivs ალუბალი ; Dativ Plural des Substantivs ალუბალი ; Genitiv Plural des Substantivs ალუბალი
-X	ალუბალი	n	ein weitverbreiteter, weißblühender Obstbaum, der Kirschen als Früchte trägt ; Frucht des Kirschbaums
-X	ალუბალმა	n	Narrativ Singular des Substantivs ალუბალი
-X	ალუბალნი	n	Nominativ Plural des Substantivs ალუბალი
-X	ალუბალნო	n	Vokativ Plural des Substantivs ალუბალი
-X	ალუბალო	n	Vokativ Singular des Substantivs ალუბალი
-X	ალუბალს	n	Dativ Singular des Substantivs ალუბალი
-X	ალუბლად	n	Adverbial Singular des Substantivs ალუბალი
-X	ალუბლებად	n	Adverbial Plural des Substantivs ალუბალი
-X	ალუბლები	n	Nominativ Plural des Substantivs ალუბალი
-X	ალუბლებით	n	Instrumental Plural des Substantivs ალუბალი
-X	ალუბლების	n	Genitiv Plural des Substantivs ალუბალი
-X	ალუბლებმა	n	Narrativ Plural des Substantivs ალუბალი
-X	ალუბლებო	n	Vokativ Plural des Substantivs ალუბალი
-X	ალუბლებს	n	Dativ Plural des Substantivs ალუბალი
-X	ალუბლით	n	Instrumental Singular des Substantivs ალუბალი
-X	ალუბლის	n	Genitiv Singular des Substantivs ალუბალი
-X	ალუზია	n	die Verwendung eines Ausdrucks, der eine Handlung eher indirekt mit einem analogen Fall v…
-X	ალუმინი	n	chemisches Element; silberweißes, leicht formbares Leichtmetall
-X	ალუჩა	n	eine kaukasische Pflanzenart aus der Gattung Prunus in der Familie der Rosengewächse ; Frucht der Pflanzenart aus der Gattung Prunus
-X	ალფა	n	erstes Zeichen des griechischen Alphabets
-X	ალფა-ნაწილაკი	n	beim Alphazerfall, einer Art des radioaktiven Zerfalls von Atomkernen, auftretendes Teilc…
-X	ალფაბეტი	n	geordnete Menge der in einer Schriftsprache verwendeten Buchstaben, Alphabet
-X	ალქაჯი	n	bösgesinntes und dämonisches Märchen- oder Sagenwesen zumeist mit zerzausten Haaren ; ein ungezogenes Mädchen ; ein böser beziehungsweise unfreundlicher Mensch
-X	ალქი	n	bösgesinntes und dämonisches Märchen- oder Sagenwesen zumeist mit zerzausten Haaren
-X	ალქიმია	n	alter Zweig der Naturphilosophie; Vorläufer der modernen Chemie und Pharmakologie
-X	ალქიმიკოსი	n	jemand, der sich der Alchemie verschreibt
-X	ალღო	n	Die Fähigkeit, unbewusst zu entscheiden und zu handeln ; Die Fähigkeit der Tiere, den Geruch von etwas wahrzunehmen ; angeborene, nicht gesteuerte Verhaltensweise in bestimmen Situationen
-X	ალყა	n	etwas kreis- oder bogenformiges ; Umstellen einer Stadt oder Festung, um deren Besatzung durch aushungern zur Aufgabe zu zw… ; eine Saite aus Seide, Därmen von Tieren oder Metal, zumeist für die Musikinstrumente
-X	ალცჰაიმერი	n	kurz für ალცჰაიმერის დაავადება, Alzheimerkrankheit
-X	ამაგი	n	für eine bestimmte Person oder für etwas Bestimmtes vollbrachte gute Tat; verdienstvolle,…
-X	ამაზონიტი	n	Mineral von grüner Farbe, das vorwiegend in magmatischem Gestein vorkommt und als Schmuck…
-X	ამალა	n	eine Gruppe von Personen, die sich einer wichtigen Persönlichkeit anschließen und dieser… ; eine Gruppe von Personen, die immer oder oft eine bestimmte Person begleiten
-X	ამალგამა	n	eine Legierung auf Quecksilber-Basis ; Vereinigung oder Verbindung mehrerer (kulturellen, politischen, abstrakten, Kunst-)Elemen…
-X	ამანათი	n	etwas verpacktes oder zusammengepacktes, besonders in Papier und um es per Post zu senden ; Geisel ; etwas anvertrautes
-X	ამაოება	n	Nichtigkeit, Vergeblichkeit, Eitelkeit
-X	ამასობაში	adv	in der Zwischenzeit, nach Ablauf einer gewissen Zeit
-X	ამაყობა	n	das Gefühl einer großen Zufriedenheit mit sich selbst oder anderen, einer Hochachtung sei…
-X	ამბად	n	Adverbial Singular des Substantivs ამბავი
-X	ამბავთ	n	Narrativ Plural des Substantivs ამბავი ; Dativ Plural des Substantivs ამბავი ; Genitiv Plural des Substantivs ამბავი
-X	ამბავთა	n	Narrativ Plural des Substantivs ამბავი ; Dativ Plural des Substantivs ამბავი ; Genitiv Plural des Substantivs ამბავი
-X	ამბავი	n	eine Geschichte, mündliche oder schriftliche Erzählung oder Überlieferung ; eine Nachricht, Mitteilung von Informationen über jemanden oder etwas ; das, was vor sich geht, sich ereignet, das Geschehen ; Geschehen in einer Geschichte, deren Inhalt (auch in einem literarischen Werk)
-X	ამბავმა	n	Narrativ Singular des Substantivs ამბავი
-X	ამბავნი	n	Nominativ Plural des Substantivs ამბავი
-X	ამბავნო	n	Vokativ Plural des Substantivs ამბავი
-X	ამბავო	n	Vokativ Singular des Substantivs ამბავი
-X	ამბავს	n	Dativ Singular des Substantivs ამბავი
-X	ამბებად	n	Adverbial Plural des Substantivs ამბავი
-X	ამბები	n	Nominativ Plural des Substantivs ამბავი
-X	ამბებით	n	Instrumental Plural des Substantivs ამბავი
-X	ამბების	n	Genitiv Plural des Substantivs ამბავი
-X	ამბებმა	n	Narrativ Plural des Substantivs ამბავი
-X	ამბებო	n	Vokativ Plural des Substantivs ამბავი
-X	ამბებს	n	Dativ Plural des Substantivs ამბავი
-X	ამბით	n	Instrumental Singular des Substantivs ამბავი
-X	ამბიონი	n	ein erhöhter Ort für gottesdienstliche Lesungen in orthodoxen, katholischen und lutherisc…
-X	ამბის	n	Genitiv Singular des Substantivs ამბავი
-X	ამბიცია	n	Ehrgeiz, Streben nach Höherem
-X	ამბორი	n	ein oraler Körperkontakt mit einer Person oder einem Gegenstand
-X	ამბოხება	n	(häufig bewaffnete) Aktion des Widerstands gegen eine bestehende Regierung
-X	ამბოხი	n	(häufig bewaffnete) Aktion des Widerstands gegen eine bestehende Regierung
-X	ამება	n	eukaryotischer Einzeller, der durch ständige Änderung seiner Gestalt ausgezeichnet ist
-X	ამეთვისტო	n	Mineral, Varietät des Quarz, durchsichtiger Halbedelstein von violetter Farbe, der als Sc…
-X	ამერიკა	name	ein Doppelkontinent der Erde, der aus Nordamerika und Südamerika besteht ; Vereinigte Staaten von Amerika
-X	ანბანად	n	Adverbial Singular des Substantivs ანბანი
-X	ანბანებად	n	Adverbial Plural des Substantivs ანბანი
-X	ანბანები	n	Nominativ Plural des Substantivs ანბანი
-X	ანბანებით	n	Instrumental Plural des Substantivs ანბანი
-X	ანბანების	n	Genitiv Plural des Substantivs ანბანი
-X	ანბანებმა	n	Narrativ Plural des Substantivs ანბანი
-X	ანბანებო	n	Vokativ Plural des Substantivs ანბანი
-X	ანბანებს	n	Dativ Plural des Substantivs ანბანი
-X	ანბანთ	n	Narrativ Plural des Substantivs ანბანი ; Dativ Plural des Substantivs ანბანი ; Genitiv Plural des Substantivs ანბანი
-X	ანბანთა	n	Narrativ Plural des Substantivs ანბანი ; Dativ Plural des Substantivs ანბანი ; Genitiv Plural des Substantivs ანბანი
-X	ანბანი	n	geordnete Menge der in einer Schriftsprache verwendeten Buchstaben, Alphabet ; Handbuch für das Lernen des Alphabets ; etwas, das ganz einfach, leicht verständlich ist
-X	ანბანით	n	Instrumental Singular des Substantivs ანბანი
-X	ანბანის	n	Genitiv Singular des Substantivs ანბანი
-X	ანბანმა	n	Narrativ Singular des Substantivs ანბანი
-X	ანბანნი	n	Nominativ Plural des Substantivs ანბანი
-X	ანბანნო	n	Vokativ Plural des Substantivs ანბანი
-X	ანბანო	n	Vokativ Singular des Substantivs ანბანი
-X	ანბანს	n	Dativ Singular des Substantivs ანბანი
-X	ანკესი	n	gekrümmtes Metallteilchen am Ende der Angelschnur befestigt, um damit Fische zu fangen ; längliches Gerät für den Fischfang
-X	აპრილი	n	April
-X	არაყი	n	meist farblose Spirituose mit einem Alkoholgehalt von idealerweise 40 Volumenprozent; Wod…
-X	ასტრონომია	n	Sternkunde, Himmelskunde als exakte Naturwissenschaft
-X	ასტროფიზიკა	n	Astrophysik
-X	ატომი	n	kleinstes, nicht mehr chemisch weiter teilbares Teilchen mit ausgeglichener elektrischer…
-X	აქლემად	n	Adverbial Singular des Substantivs აქლემი
-X	აქლემებად	n	Adverbial Plural des Substantivs აქლემი
-X	აქლემები	n	Nominativ Plural des Substantivs აქლემი
-X	აქლემებით	n	Instrumental Plural des Substantivs აქლემი
-X	აქლემების	n	Genitiv Plural des Substantivs აქლემი
-X	აქლემებმა	n	Narrativ Plural des Substantivs აქლემი
-X	აქლემებო	n	Vokativ Plural des Substantivs აქლემი
-X	აქლემებს	n	Dativ Plural des Substantivs აქლემი
-X	აქლემთ	n	Narrativ Plural des Substantivs აქლემი ; Dativ Plural des Substantivs აქლემი ; Genitiv Plural des Substantivs აქლემი
-X	აქლემთა	n	Narrativ Plural des Substantivs აქლემი ; Dativ Plural des Substantivs აქლემი ; Genitiv Plural des Substantivs აქლემი
-X	აქლემი	n	großes Säugetier, das in Wüsten und Steppen beheimatet ist und als Last- und Reittier die…
-X	აქლემით	n	Instrumental Singular des Substantivs აქლემი
-X	აქლემის	n	Genitiv Singular des Substantivs აქლემი
-X	აქლემმა	n	Narrativ Singular des Substantivs აქლემი
-X	აქლემნი	n	Nominativ Plural des Substantivs აქლემი
-X	აქლემნო	n	Nominativ Plural des Substantivs აქლემი
-X	აქლემო	n	Vokativ Singular des Substantivs აქლემი
-X	აქლემს	n	Dativ Singular des Substantivs აქლემი
-X	აშშ	abk	USA
-X	ბ		der zweite Buchstabe des georgischen Alphabets mit dem Namen Ban, georgisch ბანი (bani) ^…
-X	ბაბუა	n	Vater des Vaters oder der Mutter
-X	ბავშვი	n	direkter Nachkomme, unabhängig vom Alter ; junger, noch nicht volljähriger Mensch
-X	ბალად	n	Adverbial Singular des Substantivs ბალი
-X	ბალთ	n	Narrativ Plural des Substantivs ბალი ; Dativ Plural des Substantivs ბალი ; Genitiv Plural des Substantivs ბალი
-X	ბალთა	n	Verschluss an einem Gürtel oder Riemen ; Narrativ Plural des Substantivs ბალი ; Dativ Plural des Substantivs ბალი ; Genitiv Plural des Substantivs ბალი
-X	ბალი	n	Baumart aus der Gattung Prunus in der Familie der Rosengewächse, Vogelkirsche ; Kirschsorte, die an einem Baum der Gattung Prunus wächst ; festliche Veranstaltung, gesellschaftliches Ereignis meist mit Tanz
-X	ბალმა	n	Narrativ Singular des Substantivs ბალი
-X	ბალნი	n	Nominativ Plural des Substantivs ბალი
-X	ბალნო	n	Vokativ Plural des Substantivs ბალი
-X	ბალო	n	Vokativ Singular des Substantivs ბალი
-X	ბალს	n	Dativ Singular des Substantivs ბალი
-X	ბებია	n	Mutter des Vaters oder der Mutter
-X	ბიოლოგია	n	Biologie
-X	ბლებად	n	Adverbial Plural des Substantivs ბალი
-X	ბლები	n	Nominativ Plural des Substantivs ბალი
-X	ბლებით	n	Instrumental Plural des Substantivs ბალი
-X	ბლების	n	Genitiv Plural des Substantivs ბალი
-X	ბლებმა	n	Narrativ Plural des Substantivs ბალი
-X	ბლებო	n	Vokativ Plural des Substantivs ბალი
-X	ბლებს	n	Dativ Plural des Substantivs ბალი
-X	ბლით	n	Instrumental Singular des Substantivs ბალი
-X	ბლის	n	Genitiv Singular des Substantivs ბალი
-X	გ		der dritte Buchstabe des georgischen Alphabets mit dem Namen Gan, georgisch განი (gani) ^…
-X	გეოგრაფია	n	Geographie
-X	გერმანია	name	Deutschland
-X	გვირაბი	n	längere Unterführung, Durchbruch durch Bergmassive oder unter bebauten Flächen oder Gewäs…
-X	გიტარა	n	ein populäres Zupfinstrument mit vier bis zwölf Saiten
-X	გოგო	n	weibliches Kind ; junge Frau ; weibliche Hausangestellte
-X	გოგონა	n	Koseform zu გოგო; kleines Mädchen oder junge Frau
-X	დ		der vierte Buchstabe des georgischen Alphabets mit dem Namen Don, georgisch დონი (doni) ^…
-X	დანია	n	Staat im südlichen Skandinavien; Dänemark
-X	დარბაზი	n	großer Raum in einem Haus/Gebäude ; großes Gebäude mit mindestens einem großen (Versammlungs-)Raum
-X	დედა	n	weibliches Elternteil; eine Frau, welche Kinder geboren hat ; erwachsener, weiblicher Mensch, eine Frau ; Tier, das ein Junges geboren hat ; Anfang, Quelle, Ursprung von etwas Bestimmten ; ein von den Spielteilnehmern gewählter Leiter oder Leiterin eines Kinderspieles ; etwas heimisches oder geliebtes wie eine eigene Mutter ; Anrede von Würdenträgerinnen in Religionen ; Mitglied eines Frauenordens
-X	დედიკო	n	Koseform zu დედა; Mutti
-X	დეკემბერი	n	Dezember
-X	დიდედა	n	Mutter des Vaters oder der Mutter
-X	დილა მშვიდობისა	wend	guten Morgen
-X	ე		der fünfte Buchstabe des georgischen Alphabets mit dem Namen En, georgisch ენი (eni) ^(→…
-X	ევროპის კავშირი	n	Europäische Union
-X	ეზო	n	umgrenzter Platz, Wirtschafts- und Verkehrsfläche auf einem Grundstück, in der Regel von…
-X	ეკლესია	n	geweihter Versammlungsort einer christlichen Glaubensgemeinschaft, in dem unter anderem G… ; christliche Glaubensgemeinschaft ; Institution zur Organisation einer christlichen Glaubensgemeinschaft
-X	ეკლესიად	n	Adverbial Singular des Substantivs ეკლესია
-X	ეკლესიავ	n	Vokativ Singular des Substantivs ეკლესია
-X	ეკლესიათ	n	Narrativ Plural des Substantivs ეკლესია ; Dativ Plural des Substantivs ეკლესია ; Genitiv Plural des Substantivs ეკლესია
-X	ეკლესიათა	n	Narrativ Plural des Substantivs ეკლესია ; Dativ Plural des Substantivs ეკლესია ; Genitiv Plural des Substantivs ეკლესია
-X	ეკლესიამ	n	Narrativ Singular des Substantivs ეკლესია
-X	ეკლესიანი	n	Nominativ Plural des Substantivs ეკლესია
-X	ეკლესიანო	n	Vokativ Plural des Substantivs ეკლესია
-X	ეკლესიას	n	Dativ Singular des Substantivs ეკლესია
-X	ეკლესიებად	n	Adverbial Plural des Substantivs ეკლესია
-X	ეკლესიები	n	Nominativ Plural des Substantivs ეკლესია
-X	ეკლესიებით	n	Instrumental Plural des Substantivs ეკლესია
-X	ეკლესიების	n	Genitiv Plural des Substantivs ეკლესია
-X	ეკლესიებმა	n	Narrativ Plural des Substantivs ეკლესია
-X	ეკლესიებო	n	Vokativ Plural des Substantivs ეკლესია
-X	ეკლესიებს	n	Dativ Plural des Substantivs ეკლესია
-X	ეკლესიით	n	Instrumental Singular des Substantivs ეკლესია
-X	ეკლესიის	n	Genitiv Singular des Substantivs ეკლესია
-X	ეკოლოგია	n	Ökologie
-X	ენა	n	das bewegliche Organ im Mund, mit dem man schmeckt, schleckt, leckt, die Nahrung hin und… ; das Vermögen, die allgemeine Fähigkeit zu sprechen, sich zu verständigen; der Information… ; ein System von Einheiten und Regeln, das den Mitgliedern einer Sprachgemeinschaft als Mit… ; eine Varietät von 3, fachlich, regional, sozial, … bedingt ; Art der Sprachverwendung: Rede, Sprechweise, Schreibweise, Stil ; პროგრამირების ენა, Programmiersprache ; in eine Glocke gehängter am Ende verdickter Eisenstab, der beim Schwingen den Schlagring… ; bewegliche Lasche in der Mitte des Schuhs
-X	ვ		der sechste Buchstabe des georgischen Alphabets mit dem Namen Vin, georgisch ვინი (vini)…
-X	ვაშლად	n	Adverbial Singular des Substantivs ვაშლი
-X	ვაშლებად	n	Adverbial Plural des Substantivs ვაშლი
-X	ვაშლები	n	Nominativ Plural des Substantivs ვაშლი
-X	ვაშლებით	n	Instrumental Plural des Substantivs ვაშლი
-X	ვაშლების	n	Genitiv Plural des Substantivs ვაშლი
-X	ვაშლებმა	n	Narrativ Plural des Substantivs ვაშლი
-X	ვაშლებო	n	Vokativ Plural des Substantivs ვაშლი
-X	ვაშლებს	n	Dativ Plural des Substantivs ვაშლი
-X	ვაშლთ	n	Narrativ Plural des Substantivs ვაშლი ; Dativ Plural des Substantivs ვაშლი ; Genitiv Plural des Substantivs ვაშლი
-X	ვაშლთა	n	Narrativ Plural des Substantivs ვაშლი ; Dativ Plural des Substantivs ვაშლი ; Genitiv Plural des Substantivs ვაშლი
-X	ვაშლი	n	ein Obstbaum, der Äpfel als Früchte trägt; Apfelbaum ; Frucht des Apfelbaums
-X	ვაშლით	n	Instrumental Singular des Substantivs ვაშლი
-X	ვაშლის	n	Genitiv Singular des Substantivs ვაშლი
-X	ვაშლმა	n	Narrativ Singular des Substantivs ვაშლი
-X	ვაშლნი	n	Nominativ Plural des Substantivs ვაშლი
-X	ვაშლნო	n	Vokativ Plural des Substantivs ვაშლი
-X	ვაშლო	n	Vokativ Singular des Substantivs ვაშლი
-X	ვაშლს	n	Dativ Singular des Substantivs ვაშლი
-X	ვიქსიკონი	n	Wikiwörterbuch
-X	ზ		der siebte Buchstabe des georgischen Alphabets mit dem Namen Zen, georgisch ზენი (zeni) ^…
-X	ზაფხული	n	Sommer
-X	ზვიგენი	n	im Meer lebender Raubfisch (Überordnung Selachii) aus der Klasse der Knorpelfische
-X	ზურგჩანთა	n	Rucksack; sackartige, beutelartige, verschnürbare oder verschließbare, aus Stoff, Leder o…
-X	ზღარბი	n	stachelhäutiges Säugetier aus der Familie Erinaceidae
-X	თ		der ursprünglich neunte und aktuell achte Buchstabe des georgischen Alphabets mit dem Nam…
-X	თაგვი	n	Maus; Kleines graues oder braunes Säugetier mit überwiegend langem Schwanz, rattenähnlich…
-X	თაფლი	n	von Honigbienen hergestelltes Produkt aus Nektar oder Pflanzenlaussekreten und Speichel,…
-X	თბილისი	name	Hauptstadt Georgiens; Tiflis/Tbilissi
-X	თებერვალი	n	Februar
-X	თევზი	n	Tier, das unter Wasser lebt und durch Kiemen atmet; Fisch
-X	თითი	n	ein bewegliches Glied der Hand oder der entsprechende Teil des Fußes eines Menschen oder… ; eine alte georgische Maßeinheit der Länge, die etwa 2,1 Zentimeter entspricht
-X	თმა	n	einzelnes Haar, das auf dem Kopf wächst ; Gesamtheit der Kopfhaare einer Person ; Haare, die auf dem Körper von Menschen und Säugetieren wachsen
-X	თმად	n	Adverbial Singular des Substantivs თმა
-X	თმათ	n	Narrativ Plural des Substantivs თმა ; Dativ Plural des Substantivs თმა ; Genitiv Plural des Substantivs თმა
-X	თმათა	n	Narrativ Plural des Substantivs თმა ; Dativ Plural des Substantivs თმა ; Genitiv Plural des Substantivs თმა
-X	თმამ	n	Narrativ Singular des Substantivs თმა
-X	თმანი	n	Nominativ Plural des Substantivs თმა
-X	თმანო	n	Vokativ Plural des Substantivs თმა
-X	თმაო	n	Vokativ Singular des Substantivs თმა
-X	თმას	n	Dativ Singular des Substantivs თმა
-X	თმებად	n	Adverbial Plural des Substantivs თმა
-X	თმები	n	Nominativ Plural des Substantivs თმა
-X	თმებით	n	Instrumental Plural des Substantivs თმა
-X	თმების	n	Genitiv Plural des Substantivs თმა
-X	თმებმა	n	Narrativ Plural des Substantivs თმა
-X	თმებო	n	Vokativ Plural des Substantivs თმა
-X	თმებს	n	Dativ Plural des Substantivs თმა
-X	თმით	n	Instrumental Singular des Substantivs თმა
-X	თმის	n	Genitiv Singular des Substantivs თმა
-X	თუთიყუში	n	in den Tropen beheimateter, in zahlreichen Arten vorkommender auffällig (leuchtend) farbi…
-X	თქვენ	pron	2. Person Plural, ihr ; die offizielle Anrede (im Geschäftsleben, in und an Behörden, privat unter Erwachsenen) a…
-X	ი		der ursprünglich zehnte und aktuell neunte Buchstabe des georgischen Alphabets mit dem Na…
-X	ია	n,name	kleine, meist violettfarben blühende, stark duftende Blume der Gattung Viola, Veilchen ; weiblicher Vorname (kein Pl.)
-X	იად	n	Adverbial Singular des Substantivs ია
-X	იავ	n	Vokativ Singular des Substantivs ია
-X	იათ	n	Narrativ Plural des Substantivs ია ; Dativ Plural des Substantivs ია ; Genitiv Plural des Substantivs ია
-X	იათა	n	Narrativ Plural des Substantivs ია ; Dativ Plural des Substantivs ია ; Genitiv Plural des Substantivs ია
-X	იამ	n	Narrativ Singular des Substantivs ია
-X	იანვარი	n	Januar
-X	იანი	n	Yang, das männliche Prinzip in der chinesischen Naturphilosophie ; Nominativ Plural des Substantivs ია
-X	იანო	n	Vokativ Plural des Substantivs ია
-X	იაპონია	n	Staat und Inselgruppe in Ostasien; Japan
-X	იას	n	Dativ Singular des Substantivs ია
-X	იებად	n	Adverbial Plural des Substantivs ია
-X	იები	n	Nominativ Plural des Substantivs ია
-X	იებით	n	Instrumental Plural des Substantivs ია
-X	იების	n	Genitiv Plural des Substantivs ია
-X	იებმა	n	Narrativ Plural des Substantivs ია
-X	იებო	n	Vokativ Plural des Substantivs ია
-X	იებს	n	Dativ Plural des Substantivs ია
-X	ივლისი	n	Juli
-X	ივნისი	n	Juni
-X	იით	n	Instrumental Singular des Substantivs ია
-X	იის	n	Genitiv Singular des Substantivs ია
-X	ირანი	n	Iran
-X	ის	pron	er, sie, es
-X	ისინი	pron	sie (3. Person Plural)
-X	კ		der ursprünglich elfte und aktuell zehnte Buchstabe des georgischen Alphabets mit dem Nam…
-X	კარადა	n	geschlossenes Möbelstück, meistens mit Türen und zusätzlich optional auch Schubladen
-X	კარტოფილი	n	Kartoffel, eine Nutzpflanze mit weiß-bläulichen Blüten und grünen Beeren ; eine essbare Knolle von der gleichnamigen Pflanze
-X	კატა	n	dem Menschen verbundenes, anschmiegsames Haustier (Felis silvestris catus), in zahlreiche… ; eine zu den Kleinkatzen gehörende Gattung der Katzen; Echten Katzen
-X	კერძი	n	zubereitete Speise als eine Mahlzeit ; Anteil, zugeteilte Menge (insbesondere eines Gerichts) ; Anhänger, Unterstützer oder „rechte Hand“ jemandes
-X	კვერცხად	n	Adverbial Singular des Substantivs კვერცხი
-X	კვერცხებად	n	Adverbial Plural des Substantivs კვერცხი
-X	კვერცხები	n	Nominativ Plural des Substantivs კვერცხი
-X	კვერცხებით	n	Instrumental Plural des Substantivs კვერცხი
-X	კვერცხების	n	Genitiv Plural des Substantivs კვერცხი
-X	კვერცხებმა	n	Narrativ Plural des Substantivs კვერცხი
-X	კვერცხებო	n	Vokativ Plural des Substantivs კვერცხი
-X	კვერცხებს	n	Dativ Plural des Substantivs კვერცხი
-X	კვერცხთ	n	Narrativ Plural des Substantivs კვერცხი ; Dativ Plural des Substantivs კვერცხი ; Genitiv Plural des Substantivs კვერცხი
-X	კვერცხთა	n	Narrativ Plural des Substantivs კვერცხი ; Dativ Plural des Substantivs კვერცხი ; Genitiv Plural des Substantivs კვერცხი
-X	კვერცხი	n	eine Keimzelle ; ein Schalengebilde, in dem sich der Embryo oviparer Tierarten (zum Beispiel Vögel) bildet ; Inneres von Eiern als Nahrungsmittel ; die Hoden ; Maßeinheit der Masse, die etwa 50 Gramm entspricht
-X	კვერცხით	n	Instrumental Singular des Substantivs კვერცხი
-X	კვერცხის	n	Genitiv Singular des Substantivs კვერცხი
-X	კვერცხმა	n	Narrativ Singular des Substantivs კვერცხი
-X	კვერცხნი	n	Nominativ Plural des Substantivs კვერცხი
-X	კვერცხნო	n	Vokativ Plural des Substantivs კვერცხი
-X	კვერცხო	n	Vokativ Singular des Substantivs კვერცხი
-X	კვერცხს	n	Dativ Singular des Substantivs კვერცხი
-X	კირქვა	n	äußerst variables, überwiegend aus Calciumcarbonat bestehendes Sedimentgestein mit großer…
-X	კოშკი	n	hohes, schlankes, freistehendes Gebäude ; schlank aufragender Gebäudeteil
-X	კრამიტი	n	Bauteil, meist aus gebranntem Ton, zum Eindecken von Dächern
-X	კუ	n	im Wasser und an Land lebendes Reptil mit Schutzpanzer ; Schachfigur, die man nur diagonal bewegen darf ; Schildkrötenformation, eine militärisch-taktische Formation des römischen Heeres
-X	ლ		der ursprünglich zwölfte und aktuell elfte Buchstabe des georgischen Alphabets mit dem Na…
-X	ლაქა	n	Stelle, die andersfarbig ist ; Stelle, die verschmutzt (und schlecht) ist
-X	ლექსი	n	lyrisches sprachliches Kunstwerk, das meist schriftlich und in Strophen- und Versform vor…
-X	ლიმონი	n	eine gelbe Zitrusfrucht; Zitrone ; ein halbtropischer immergrüner Baum
-X	ლუდი	n	aus Hopfen, Malz und Wasser gebrautes (meistens) alkoholisches Getränk
-X	მ		der ursprünglich dreizehnte und aktuell zwölfte Buchstabe des georgischen Alphabets mit d…
-X	მაგიდა	n	Möbelstück, das aus einer Platte mit vier oder drei Beinen oder mittigen Standfuß besteht…
-X	მაისი	n	Mai
-X	მამა	n	männlicher Elternteil ; erwachsener, männlicher Mensch ; Partner der Muttertier bei der Zeugung von Nachwuchs ; die Ahnen ; Gott, Schöpfer ; Titel oder Anrede für Geistliche
-X	მართლწერა	n	eine durch Regeln festgelegte, allgemein gültige Schreibung für Wörter einer bestimmten S…
-X	მართლწინააღმდეგობა	n	Unvereinbarkeit der Handlung mit der Rechtsordnung; Rechtswidrigkeit
-X	მართლწინააღმდეგობად	n	Adverbial Singular des Substantivs მართლწინააღმდეგობა
-X	მართლწინააღმდეგობავ	n	Vokativ Singular des Substantivs მართლწინააღმდეგობა
-X	მართლწინააღმდეგობამ	n	Narrativ Singular des Substantivs მართლწინააღმდეგობა
-X	მართლწინააღმდეგობას	n	Dativ Singular des Substantivs მართლწინააღმდეგობა
-X	მართლწინააღმდეგობით	n	Instrumental Singular des Substantivs მართლწინააღმდეგობა
-X	მართლწინააღმდეგობის	n	Genitiv Singular des Substantivs მართლწინააღმდეგობა
-X	მარტი	n	März
-X	მარწყვი	n	ein Vertreter der Fragaria, der Gattung in der Unterfamilie der Rosoideae innerhalb der F… ; eine genießbare, rote Frucht dieser Pflanze; Erdbeere
-X	მასპინძელი	n	jemand, der jemanden als Gast zu sich einlädt; bei sich zu Gast hat ; derjenige oder diejenigen Teilnehmer an einer Veranstaltung, in dessen/deren Räumlichkeit…
-X	მაცივარი	n	schrankförmiges Behältnis zur Kühlung und Aufbewahrung von leicht verderblichen Lebensmit…
-X	მგზავრი	n	jemand, der ein Verkehrsmittel benutzt, ohne es selbst zu steuern
-X	მდინარე	n	ein natürliches, linienhaft fließendes Gewässer auf Landoberflächen
-X	მე	pron	ich
-X	მერქანი	n	aus Zellulose und Lignin bestehende Masse eines Baumes, Holz
-X	მეხამრიდი	n	technische Schutzeinrichtung an Gebäuden, die äußerlich einen Blitzeinschlag ins Erdreich…
-X	მეხსარიდი	n	technische Schutzeinrichtung an Gebäuden, die äußerlich einen Blitzeinschlag ins Erdreich…
-X	მზე	n	der Erde nächster Stern, Zentrum unseres Sonnensystems ; Sonnenschein oder -licht ; übertr. Quelle des Lebens ; allgemeine Bezeichnung für irgendeinen Stern
-X	მზედ	n	Adverbial Singular des Substantivs მზე
-X	მზეებად	n	Adverbial Plural des Substantivs მზე
-X	მზეები	n	Nominativ Plural des Substantivs მზე
-X	მზეებით	n	Instrumental Plural des Substantivs მზე
-X	მზეების	n	Genitiv Plural des Substantivs მზე
-X	მზეებმა	n	Narrativ Plural des Substantivs მზე
-X	მზეებო	n	Vokativ Plural des Substantivs მზე
-X	მზეებს	n	Dativ Plural des Substantivs მზე
-X	მზეთ	n	Narrativ Plural des Substantivs მზე ; Dativ Plural des Substantivs მზე ; Genitiv Plural des Substantivs მზე
-X	მზეთა	n	Narrativ Plural des Substantivs მზე ; Dativ Plural des Substantivs მზე ; Genitiv Plural des Substantivs მზე
-X	მზემ	n	Narrativ Singular des Substantivs მზე
-X	მზენი	n	Nominativ Plural des Substantivs მზე
-X	მზენო	n	Vokativ Plural des Substantivs მზე
-X	მზეო	n	Vokativ Singular des Substantivs მზე
-X	მზეს	n	Dativ Singular des Substantivs მზე
-X	მზით	n	Instrumental Singular des Substantivs მზე
-X	მზის	n	Genitiv Singular des Substantivs მზე
-X	მთა	n	große, steile Erhebung auf der Landoberfläche der Erde ; eine von Bergen geprägte Region
-X	მთად	n	Adverbial Singular des Substantivs მთა
-X	მთათ	n	Narrativ Plural des Substantivs მთა ; Dativ Plural des Substantivs მთა ; Genitiv Plural des Substantivs მთა
-X	მთათა	n	Narrativ Plural des Substantivs მთა ; Dativ Plural des Substantivs მთა ; Genitiv Plural des Substantivs მთა
-X	მთამ	n	Narrativ Singular des Substantivs მთა
-X	მთანი	n	Nominativ Plural des Substantivs მთა
-X	მთანო	n	Vokativ Plural des Substantivs მთა
-X	მთაო	n	Vokativ Singular des Substantivs მთა
-X	მთას	n	Dativ Singular des Substantivs მთა
-X	მთებად	n	Adverbial Plural des Substantivs მთა
-X	მთები	n	Nominativ Plural des Substantivs მთა
-X	მთებით	n	Instrumental Plural des Substantivs მთა
-X	მთების	n	Genitiv Plural des Substantivs მთა
-X	მთებმა	n	Narrativ Plural des Substantivs მთა
-X	მთებო	n	Vokativ Plural des Substantivs მთა
-X	მთებს	n	Dativ Plural des Substantivs მთა
-X	მთვარე	n	der die Erde umkreisende natürliche Satellit, der Mond, der Erdmond (kein Pl.) ; Himmelskörper, der einen Planeten umkreist ; kurz für den Halbmond, ein Symbol in Flaggen und Wappen
-X	მთვარედ	n	Adverbial Singular des Substantivs მთვარე
-X	მთვარეებად	n	Adverbial Plural des Substantivs მთვარე
-X	მთვარეები	n	Nominativ Plural des Substantivs მთვარე
-X	მთვარეებით	n	Instrumental Plural des Substantivs მთვარე
-X	მთვარეების	n	Genitiv Plural des Substantivs მთვარე
-X	მთვარეებმა	n	Narrativ Plural des Substantivs მთვარე
-X	მთვარეებო	n	Vokativ Plural des Substantivs მთვარე
-X	მთვარეებს	n	Dativ Plural des Substantivs მთვარე
-X	მთვარეთ	n	Narrativ Plural des Substantivs მთვარე ; Dativ Plural des Substantivs მთვარე ; Genitiv Plural des Substantivs მთვარე
-X	მთვარეთა	n	Narrativ Plural des Substantivs მთვარე ; Dativ Plural des Substantivs მთვარე ; Genitiv Plural des Substantivs მთვარე
-X	მთვარემ	n	Narrativ Singular des Substantivs მთვარე
-X	მთვარენი	n	Nominativ Plural des Substantivs მთვარე
-X	მთვარენო	n	Vokativ Plural des Substantivs მთვარე
-X	მთვარეო	n	veraltet: Vokativ Singular des Substantivs მთვარე
-X	მთვარეს	n	Dativ Singular des Substantivs მთვარე
-X	მთვარით	n	Instrumental Singular des Substantivs მთვარე
-X	მთვარის	n	Genitiv Singular des Substantivs მთვარე
-X	მთით	n	Instrumental Singular des Substantivs მთა
-X	მთის	n	Genitiv Singular des Substantivs მთა
-X	მიზეზი	n	vorhergehender Sachverhalt, der einen momentanen Sachverhalt wesentlich bestimmt hat ; eine Erklärung oder Angabe eines Grundes zur Rechtfertigung eines Fehlers oder Vergehenes
-X	მიწა	n	die nicht von Meer bedeckte Erdoberfläche ; lockere, obere Erdschicht ; Gebiet im Besitz von Menschen ; abgrenzbares, historisch oder natürlich zusammengehöriges Gebiet
-X	მონეტა	n	flaches, meist kreisförmiges und geprägtes Stück Metall, das als Zahlungsmittel benutzt w…
-X	მოქალაქე	n	Person, die Bürger eines bestimmten Staates ist; der oder die Staatsangehörige ; Einwohner einer Stadt ; Angehöriger der Mittelschicht, des Bürgertums, insbesondere in der Stadt Tiflis
-X	მოქალაქედ	n	Adverbial Singular des Substantivs მოქალაქე
-X	მოქალაქეებად	n	Adverbial Plural des Substantivs მოქალაქე
-X	მოქალაქეები	n	Nominativ Plural des Substantivs მოქალაქე
-X	მოქალაქეებით	n	Instrumental Plural des Substantivs მოქალაქე
-X	მოქალაქეების	n	Genitiv Plural des Substantivs მოქალაქე
-X	მოქალაქეებმა	n	Narrativ Plural des Substantivs მოქალაქე
-X	მოქალაქეებო	n	Vokativ Plural des Substantivs მოქალაქე
-X	მოქალაქეებს	n	Dativ Plural des Substantivs მოქალაქე
-X	მოქალაქევ	n	Vokativ Singular des Substantivs მოქალაქე
-X	მოქალაქეთ	n	Narrativ Plural des Substantivs მოქალაქე ; Dativ Plural des Substantivs მოქალაქე ; Genitiv Plural des Substantivs მოქალაქე
-X	მოქალაქეთა	n	Narrativ Plural des Substantivs მოქალაქე ; Dativ Plural des Substantivs მოქალაქე ; Genitiv Plural des Substantivs მოქალაქე
-X	მოქალაქემ	n	Narrativ Singular des Substantivs მოქალაქე
-X	მოქალაქენი	n	Nominativ Plural des Substantivs მოქალაქე
-X	მოქალაქენო	n	Vokativ Plural des Substantivs მოქალაქე
-X	მოქალაქეს	n	Dativ Singular des Substantivs მოქალაქე
-X	მოქალაქით	n	Instrumental Singular des Substantivs მოქალაქე
-X	მოქალაქის	n	Genitiv Singular des Substantivs მოქალაქე
-X	მჟავა	n	chemische Verbindung, die im Zuge einer Säure-Base-Reaktion Protonen abgeben kann
-X	მსხალი	n	Obstbaumart ; grün-gelbliche Frucht dieses Obstbaumes
-X	მტერი	n	Person oder Gruppe mit negativer Beziehung zu einer anderen ; Gegner in einem Krieg oder in einer Schlacht ; Etwas, was allgemein schädlich ist; eine als Bedrohung wahrgenommene natürliche Erscheinu…
-X	მუცელი	n	Bauch
-X	მცენარე	n	eukaryotischer Organismus, der meist in der Lage ist Photosynthese zu betreiben; Pflanze
-X	მწერი	n	Entomologie, Zoologie: mehrzelliges, gliederfüßiges Tier mit sechs Beinen
-X	ნ		der ursprünglich vierzehnte und aktuell dreizehnte Buchstabe des georgischen Alphabets mi…
-X	ნაგებობა	n	von Menschen gebauter, ortsfester Gegenstand
-X	ნაპრალი	n	tiefer Gesteinsriss, Spalt im Fels oder Erdboden
-X	ნატო	abk	Abkürzung für ჩრდილოატლანტიკური თანამშრომლობის ორგანიზაცია
-X	ნიორი	n	Gewürz- und Heilpflanze aus der Familie der Zwiebelgewächse mit der essbaren Wurzelknolle
-X	ნოემბერი	n	November
-X	ო		der ursprünglich sechszehnte und aktuell vierzehnte Buchstabe des georgischen Alphabets m…
-X	ობობა	n	achtbeiniges Gliedertier; Spinne
-X	ოთახი	n	Raum in einem Haus oder einer Wohnung, der für den Aufenthalt von Personen bestimmt ist
-X	ოქტომბერი	n	Oktober
-X	პ		der ursprünglich siebzehnte und aktuell fünfzehnte Buchstabe des georgischen Alphabets mi…
-X	პაპა	n	Vater des Vaters oder der Mutter
-X	პეპელა	n	Insekt mit farbig beschuppten Flügeln (Ordnung Lepidoptera); Schmetterling
-X	პლანეტა	n	der Planet
-X	პური	n	aus hauptsächlich Mehl, Wasser und Salz gebackenes Nahrungsmittel ; eine Getreideart, Weizen
-X	ჟ	num	sechzehnter georgischer Buchstabe mit dem Namen Schan ; Ziffern 90 im georgischen Zahlensystem
-X	რ	num	siebzehnter georgischer Buchstabe mit dem Namen Rae (georgisch რაე (rae) ^(→ ka)) ; Ziffern 100 im alten georgischen Zahlensystem
-X	რკუ	n	Schachfigur, die man nur diagonal bewegen darf
-X	როგორ	adv	wie, auf welche Weise
-X	ს	num	achtzehnter georgischer Buchstabe mit dem Namen San (georgisch სან-ი (san-i) ^(→ ka)) ; Ziffern 200 im alten georgischen Zahlensystem
-X	საბჭოთა კავშირი	name	Sowjetunion
-X	საბჭოთა სოციალისტური რესპუბლიკების კავშირი	name	Union der Sozialistischen Sowjetrepubliken
-X	საიდუმლო	adj,n	verborgene Handlung oder Information, Geheimnis ; ungelöste Fragestellung, ein Mysterium, ein Rätsel ; christliche Theologie: rituelle Handlung, die die unsichtbare Gnade Gottes wahrnehmbar üb… ; im Verborgenen, ohne das Wissen anderer ; mit einem Rätsel behaftet, von einem Rätsel umgeben
-X	საიდუმლოდ	n	Adverbial Singular des Substantivs საიდუმლო
-X	საიდუმლოება	n	ungelöste Fragestellung, ein Mysterium, ein Rätsel ; verborgene Handlung oder Information, Geheimnis ; christliche Theologie: rituelle Handlung, die die unsichtbare Gnade Gottes wahrnehmbar üb…
-X	საიდუმლოებად	n	Adverbial Plural des Substantivs საიდუმლო
-X	საიდუმლოები	n	Nominativ Plural des Substantivs საიდუმლო
-X	საიდუმლოებით	n	Instrumental Plural des Substantivs საიდუმლო
-X	საიდუმლოების	n	Genitiv Plural des Substantivs საიდუმლო
-X	საიდუმლოებმა	n	Narrativ Plural des Substantivs საიდუმლო
-X	საიდუმლოებო	n	Vokativ Plural des Substantivs საიდუმლო
-X	საიდუმლოებს	n	Dativ Plural des Substantivs საიდუმლო
-X	საიდუმლოვ	n	Vokativ Singular des Substantivs საიდუმლო
-X	საიდუმლოთ	n	Narrativ Plural des Substantivs საიდუმლო ; Dativ Plural des Substantivs საიდუმლო ; Genitiv Plural des Substantivs საიდუმლო
-X	საიდუმლოთა	n	Narrativ Plural des Substantivs საიდუმლო ; Dativ Plural des Substantivs საიდუმლო ; Genitiv Plural des Substantivs საიდუმლო
-X	საიდუმლოთი	n	Instrumental Singular des Substantivs საიდუმლო
-X	საიდუმლომ	n	Narrativ Singular des Substantivs საიდუმლო
-X	საიდუმლონი	n	Nominativ Plural des Substantivs საიდუმლო
-X	საიდუმლონო	n	Vokativ Plural des Substantivs საიდუმლო
-X	საიდუმლოს	n	Dativ Singular des Substantivs საიდუმლო ; Genitiv Singular des Substantivs საიდუმლო
-X	საიდუმლოსი	n	Genitiv Singular des Substantivs საიდუმლო
-X	სანთელი	n	Leuchtmittel mit offener Flamme; bestehend aus Wachs ; Wachs; Ester aus Fettsäuren und langkettigen Alkoholen
-X	სარკე	n	polierte Glas- oder Metallfläche, die Lichtstrahlen spiegelt oder reflektiert; Spiegel
-X	საქართველო	name	eurasischer Staat im Südkaukasus (Transkaukasien)
-X	საჭე	n	Vorrichtung zum Lenken eines Fahrzeuges, Flugzeuges oder Schiffes
-X	სახლი	n	zum Wohnen dienendes und genutztes Gebäude ; Gesamtheit der Bewohner eines Hauses oder Familienmitglieder, die gemeinsam wohnen ; aus mehreren Räumen bestehender, abgetrennter Bereich innerhalb eines Hauses, in dem sich…
-X	სექტემბერი	n	September
-X	სითხე	n	Materie in einem Aggregatzustand, in dem die Anordnung der Moleküle verschiebbar (im Gege…
-X	სკამი	n	Sitzmöbel, meist mit vier hohen Beinen, Rückenlehne und eventuell Armlehnen; Stuhl
-X	სომხეთი	n	Armenien
-X	სპორტი	n	Sport
-X	სსრკ	name	UdSSR
-X	ტ	num	neunzehnter georgischer Buchstabe mit dem Namen Tar (georgisch ტარ-ი (tar-i) ^(→ ka)) ; Ziffern 300 im alten georgischen Zahlensystem
-X	ტაბლეტი	n	Arzneimittel, Nahrungsergänzungsmittel oder anderes Mittel, welches zur bequemen, Einnahm…
-X	ტბა	n	stehendes Gewässer, das von Land umgeben ist; der See
-X	ტყე	n	größere von Bäumen dicht bewachsene Fläche
-X	ტყემალი	n	Kirschpflaume, eine Pflanzenart in der Familie der Rosengewächse ; Frucht der Kirschpflaume ; eine georgische scharf-saure Sauce, die aus gekochten Kirschpflaumen und mit verschiedene…
-X	ტყუილს მოკლე ფეხები აქვს	wend	Lügen lohnt sich nicht, weil die Wahrheit irgendwann doch herauskommt
-X	უ	num	zwanzigster georgischer Buchstabe mit dem Namen Un (georgisch უნ (un) ^(→ ka)) ; Ziffern 400 im alten georgischen Zahlensystem
-X	უამინდობა	n	schlechtes Wetter, Unwetter
-X	უდაბნო	n	(fast) wasserlose Gegend; Wüste
-X	უთო	n	Gerät zum Glätten (Bügeln) und In-Form-Bringen von Kleidungsstücken; Bügeleisen
-X	ულუფა	n	Anteil, abgemessene Menge (insbesondere eines Gerichts)
-X	უნარი	n	der angeborene und erworbene Zustand, zu etwas imstande zu sein ; (erworbene) Fähigkeit, etwas Bestimmtes zu können ; die außerordentliche Begabung einer Person in einem bestimmten Gebiet
-X	ფანქარი	n	Schreibgerät aus Holz mit einer Mine bestehend aus Graphit; Bleistift ; Kurzform für ფერადი ფანქარი, ein bleistiftähnliches Schreibgerät mit farbiger Mine; Bunts…
-X	ფაქტორი	n	der Faktor
-X	ფესვი	n	Organ, mit dem sich Pflanzen auf oder im Untergrund verankern und Nährstoffe aufnehmen ; Ort oder Sache, aus dem etwas oder jemand hervorgegangen ist ; kurz für კვადრატული ფესვი, Quadratwurzel ; Zahl, die sich aus dem Wurzelziehen, oder auch Radizieren, ergibt
-X	ფილმად	n	Adverbial Singular des Substantivs ფილმი
-X	ფილმებად	n	Adverbial Plural des Substantivs ფილმი
-X	ფილმები	n	Nominativ Plural des Substantivs ფილმი
-X	ფილმებით	n	Instrumental Plural des Substantivs ფილმი
-X	ფილმების	n	Genitiv Plural des Substantivs ფილმი
-X	ფილმებმა	n	Narrativ Plural des Substantivs ფილმი
-X	ფილმებო	n	Vokativ Plural des Substantivs ფილმი
-X	ფილმებს	n	Dativ Plural des Substantivs ფილმი
-X	ფილმთ	n	Narrativ Plural des Substantivs ფილმი ; Dativ Plural des Substantivs ფილმი ; Genitiv Plural des Substantivs ფილმი
-X	ფილმთა	n	Narrativ Plural des Substantivs ფილმი ; Dativ Plural des Substantivs ფილმი ; Genitiv Plural des Substantivs ფილმი
-X	ფილმი	n	Abfolge von verschiedenen Bildern (heute in der Regel mit Tonspur und digital) ; Material für die Fotografie von statischen Bildern
-X	ფილმით	n	Instrumental Singular des Substantivs ფილმი
-X	ფილმის	n	Genitiv Singular des Substantivs ფილმი
-X	ფილმმა	n	Narrativ Singular des Substantivs ფილმი
-X	ფილმნი	n	Nominativ Plural des Substantivs ფილმი
-X	ფილმნო	n	Vokativ Plural des Substantivs ფილმი
-X	ფილმო	n	Vokativ Singular des Substantivs ფილმი
-X	ფილმს	n	Dativ Singular des Substantivs ფილმი
-X	ფილოსოფია	n	Philosophie
-X	ფირნიში	n	beschriftete Platte zu Informationszwecken; Verkehrs-, Firmen- oder Hinweisschild
-X	ფიჭა	n	sechseckiges Gebilde aus Bienenwachs, in dem die Bienenlarve lebt oder Pollen und Honig g…
-X	ფიჭვი	n	Nadelbaum der Gattung Pinus
-X	ფოთოლი	n	Organ einer Pflanze für Luftaustausch und Photosynthese; Blatt
-X	ფორთოხალი	n	Apfelsine, Orange als Frucht ; Orangenbaum
-X	ქალაქად	n	Adverbial Singular des Substantivs ქალაქი
-X	ქალაქებად	n	Adverbial Plural des Substantivs ქალაქი
-X	ქალაქები	n	Nominativ Plural des Substantivs ქალაქი
-X	ქალაქებით	n	Instrumental Plural des Substantivs ქალაქი
-X	ქალაქების	n	Genitiv Plural des Substantivs ქალაქი
-X	ქალაქებმა	n	Narrativ Plural des Substantivs ქალაქი
-X	ქალაქებო	n	Vokativ Plural des Substantivs ქალაქი
-X	ქალაქებს	n	Dativ Plural des Substantivs ქალაქი
-X	ქალაქთ	n	Narrativ Plural des Substantivs ქალაქი ; Dativ Plural des Substantivs ქალაქი ; Genitiv Plural des Substantivs ქალაქი
-X	ქალაქთა	n	Narrativ Plural des Substantivs ქალაქი ; Dativ Plural des Substantivs ქალაქი ; Genitiv Plural des Substantivs ქალაქი
-X	ქალაქი	n	meist größere, zivile, zentralisierte, abgegrenzte, häufig und oft historisch mit Stadtre… ; die Hauptstadt Georgiens, Tiflis ; die Bevölkerung einer Stadt
-X	ქალაქით	n	Instrumental Singular des Substantivs ქალაქი
-X	ქალაქის	n	Genitiv Singular des Substantivs ქალაქი
-X	ქალაქმა	n	Narrativ Singular des Substantivs ქალაქი
-X	ქალაქნი	n	Nominativ Plural des Substantivs ქალაქი
-X	ქალაქნო	n	Vokativ Plural des Substantivs ქალაქი
-X	ქალაქო	n	Vokativ Singular des Substantivs ქალაქი
-X	ქალაქს	n	Dativ Singular des Substantivs ქალაქი
-X	ქართული	n	die Sprache Georgisch
-X	ქარი	n	starke Bewegung der Luft; Wind
-X	ქაღალდი	n	dünnes, in Form von Blättern vorliegendes, organisches Material, das in der Regel aus ein… ; offizielles Dokument, Schriftsatz, Ausweis, Bescheinigung ; Spielkarte; Karte, die in einem Spiel eine bestimmte Information und/oder Bedeutung trägt
-X	ქვაბი	n	Behälter, in dem Lebensmittel erwärmt, erhitzt oder gekocht werden; Kochtopf ; durch natürliche Prozesse entstandener, für Menschen zugänglicher hohler Raum in der Erdk…
-X	ქვესკნელი	n	das unterirdische Totenreich in der Mythologie, Unterwelt
-X	ყავადანი	n	Behälter, in dem Kaffee zubereitet, warmgehalten, transportiert und serviert werden kann
-X	ყვავილი	n	Reproduktionsorgan der Blütenpflanzen, Blüte ; Pflanzen, die als Fortpflanzungsorgan echte Blüten ausbilden ; eine für den Menschen gefährliche und lebensbedrohliche Infektionskrankheit, die von Pock…
-X	ყველი	n	ein festes Milchprodukt; Käse
-X	შემოსასვლელი	n	Öffnung zum Betreten eines begrenzten Bereiches (zum Beispiel eines Gebäudes) aus der Per…
-X	შენ	pron	du
-X	შესავალი	n	am Beginn befindlicher, in der Regel eigenständiger Teil eines Schriftstückes oder Werkes ; Öffnung zum Betreten eines begrenzten Bereiches, z. B. eines Gebäudes ; das Geld, das jemand in einem bestimmten Zeitraum bekommt, meist als Lohn, Gehalt oder al…
-X	შესასვლელი	n	Öffnung zum Betreten eines begrenzten Bereiches (z. B. eines Gebäudes), insbesondere aus…
-X	შვილთაშვილი	n	männliches oder weibliches Kind von Enkel / Enkelin
-X	შვილი	n	direkter Nachkomme von Menschen und Tieren, unabhängig vom Alter ; einer Region/Kultur entstammende, in ihr verwurzelte Person
-X	შვილიშვილი	n	männliches oder weibliches Kind des eigenen Sohnes oder der eigenen Tochter
-X	შობა	n	Fest der Geburt Christi am 25. Dezember; Weihnachten
-X	ჩაიდანი	n	Kanne, in der Tee oder Kräuteraufgüsse zubereitet und warmgehalten werden und die zum Ser…
-X	ჩანთა	n	tragbares Behältnis mit Griff, Trage- oder Umhängeriemen zum Transport von Gegenständen;…
-X	ჩვენ	pron	wir
-X	ცეპელინი	n	bekanntester Luftschifftyp, Zeppelin
-X	ცვილი	n	Wachs; Ester aus Fettsäuren und langkettigen Alkoholen
-X	ცხენი	n	domestizierter großer Unpaarhufer; equus caballus ; Tier aus der Familie der Pferde (Equidae) ; als Pferd^(1) gestaltete Schachfigur; Springer
-X	ცხვირი	n	ein Geruchs- und Atmungsorgan in der Mitte des Gesichts ; ein hervorstehender, herausragender Teil von etwas (zum Beispiel eines Berges)
-X	ძაღლად	n	Adverbial Singular des Substantivs ძაღლი
-X	ძაღლებად	n	Adverbial Plural des Substantivs ძაღლი
-X	ძაღლები	n	Nominativ Plural des Substantivs ძაღლი
-X	ძაღლებით	n	Instrumental Plural des Substantivs ძაღლი
-X	ძაღლების	n	Genitiv Plural des Substantivs ძაღლი
-X	ძაღლებმა	n	Narrativ Plural des Substantivs ძაღლი
-X	ძაღლებო	n	Vokativ Plural des Substantivs ძაღლი
-X	ძაღლებს	n	Dativ Plural des Substantivs ძაღლი
-X	ძაღლთ	n	Narrativ Plural des Substantivs ძაღლი ; Dativ Plural des Substantivs ძაღლი ; Genitiv Plural des Substantivs ძაღლი
-X	ძაღლთა	n	Narrativ Plural des Substantivs ძაღლი ; Dativ Plural des Substantivs ძაღლი ; Genitiv Plural des Substantivs ძაღლი
-X	ძაღლი	n	Haustier, dessen Vorfahre der Wolf ist; Hund ; Schimpfwort: für einen gerissenen, gemeinen, hinterhältigen oder brutalen Mitmenschen ; veraltet: der hellste Fixstern des Himmels, Sirius
-X	ძაღლით	n	Instrumental Singular des Substantivs ძაღლი
-X	ძაღლის	n	Genitiv Singular des Substantivs ძაღლი
-X	ძაღლმა	n	Narrativ Singular des Substantivs ძაღლი
-X	ძაღლნი	n	Nominativ Plural des Substantivs ძაღლი
-X	ძაღლნო	n	Vokativ Plural des Substantivs ძაღლი
-X	ძაღლო	n	Vokativ Singular des Substantivs ძაღლი
-X	ძაღლს	n	Dativ Singular des Substantivs ძაღლი
-X	ძილად	n	Adverbial Singular des Substantivs ძილი
-X	ძილი	n	Zustand der äußeren Ruhe bei Menschen und Tieren; Schlaf ; Name des achtundzwanzigsten Zeichens (ძ) des georgischen Alphabets.
-X	ძილით	n	Instrumental Singular des Substantivs ძილი
-X	ძილის	n	Genitiv Singular des Substantivs ძილი
-X	ძილმა	n	Narrativ Singular des Substantivs ძილი
-X	ძილო	n	Vokativ Singular des Substantivs ძილი
-X	ძილს	n	Dativ Singular des Substantivs ძილი
-X	წამწამი	n	kleines Haar an den Augenlidern ; Fortsatz zur Fortbewegung bei einigen Protozoa
-X	წელიწადი	n	periodischer wiederkehrender Zeitraum, etwa ein Umlauf der Erde um die Sonne, 12 Monate,…
-X	წვიმა	n	kondensierter Wasserdampf, der als Wassertropfen zu Boden fällt; Regen
-X	წიგნი	n	eine Sammlung von bedruckten, beschriebenen, bemalten oder auch leeren Blättern aus Papie… ; literarische Publikation in Buchform ; Gliederungseinheit eines literarischen Werkes, auch bei umfangreichen Gesetzbüchern (z. B… ; geschriebene, verschlossene Mitteilung, die per Post oder Boten verschickt wird ; Fähigkeit zu schreiben und zu lesen ; ein Schriftliches Dokument
-X	ჭიანჭველა	n	staatenbildendes Insekt der Familie Formicidae; Ameise
-X	ჭუჭყი	n	Schmutz, Unsauberkeit, feuchter Dreck, Staub
-X	ხახვად	n	Adverbial Singular des Substantivs ხახვი
-X	ხახვებად	n	Adverbial Plural des Substantivs ხახვი
-X	ხახვები	n	Nominativ Plural des Substantivs ხახვი
-X	ხახვებით	n	Instrumental Plural des Substantivs ხახვი
-X	ხახვების	n	Genitiv Plural des Substantivs ხახვი
-X	ხახვებმა	n	Narrativ Plural des Substantivs ხახვი
-X	ხახვებო	n	Vokativ Plural des Substantivs ხახვი
-X	ხახვებს	n	Dativ Plural des Substantivs ხახვი
-X	ხახვთ	n	Narrativ Plural des Substantivs ხახვი ; Dativ Plural des Substantivs ხახვი ; Genitiv Plural des Substantivs ხახვი
-X	ხახვთა	n	Narrativ Plural des Substantivs ხახვი ; Dativ Plural des Substantivs ხახვი ; Genitiv Plural des Substantivs ხახვი
-X	ხახვი	n	essbare Kulturpflanze aus der Gruppe der Zwiebelgewächse (Alliaceae); Zwiebel
-X	ხახვით	n	Instrumental Singular des Substantivs ხახვი
-X	ხახვის	n	Genitiv Singular des Substantivs ხახვი
-X	ხახვმა	n	Narrativ Singular des Substantivs ხახვი
-X	ხახვნი	n	Nominativ Plural des Substantivs ხახვი
-X	ხახვნო	n	Vokativ Plural des Substantivs ხახვი
-X	ხახვო	n	Vokativ Singular des Substantivs ხახვი
-X	ხახვს	n	Dativ Singular des Substantivs ხახვი
-X	ხე	n	aus Wurzel, Stamm, Krone, Rinde, Ast, Zweig, Blatt, Laub bestehende Gehölzpflanze, Baum ; Holzmaterial, Holz
-X	ხედ	n	Adverbial Singular des Substantivs ხე
-X	ხეებად	n	Adverbial Plural des Substantivs ხე
-X	ხეები	n	Nominativ Plural des Substantivs ხე
-X	ხეებით	n	Instrumental Plural des Substantivs ხე
-X	ხეების	n	Genitiv Plural des Substantivs ხე
-X	ხეებმა	n	Narrativ Plural des Substantivs ხე
-X	ხეებო	n	Vokativ Plural des Substantivs ხე
-X	ხეებს	n	Dativ Plural des Substantivs ხე
-X	ხეთ	n	Narrativ Plural des Substantivs ხე ; Dativ Plural des Substantivs ხე ; Genitiv Plural des Substantivs ხე
-X	ხეთა	n	Narrativ Plural des Substantivs ხე ; Dativ Plural des Substantivs ხე ; Genitiv Plural des Substantivs ხე
-X	ხელი	n	Greiforgan bei Menschen und Affen ; obere Extremität, Arm und Hand zusammen ; derjenige Teil eines Gegenstandes, der dafür vorgesehen ist, dass man ihn ergreift, wenn… ; Satz mehrerer zusammengehöriger Gegenstände ; Durchlauf eines Spiels oder Sportwettkampfes ; spezielle Ausprägung der handgeschrieben Schrift einer bestimmten Person
-X	ხელშეკრულება	n	rechtlich bindende Vereinbarung zwischen mindestens zwei verschiedenen Partnern
-X	ხემ	n	Narrativ Singular des Substantivs ხე
-X	ხენი	n	Nominativ Plural des Substantivs ხე
-X	ხენო	n	Vokativ Plural des Substantivs ხე
-X	ხეო	n	Vokativ Singular des Substantivs ხე
-X	ხეს	n	Dativ Singular des Substantivs ხე
-X	ხიდი	n	künstlicher Weg zur Überquerung eines Hindernisses ; die Verbindung über eine Trennung ; festsitzender Zahnersatz, der in einem Lückengebiss einen oder mehrere fehlende Zähne ers…
-X	ხით	n	Instrumental Singular des Substantivs ხე
-X	ხის	n	Genitiv Singular des Substantivs ხე
-X	ხმელეთი	n	die nicht von Meer bedeckte Erdoberfläche
-X	ჯოგი	n	eine Herde von größeren Säugetieren der gleichen Art, insbesondere von Pferden
-X	ჯოხი	n	länglicher zylindrischer Gegenstand, meist aus Holz, Stock
+X	ა		der erste Buchstabe des georgischen Alphabets mit dem Namen An, georgisch ანი (ani) ^(→ k…	w
+X	აბად	n	Adverbial Singular des Substantivs აბი	w
+X	აბაზანა	n	Badewanne ; Baden, Bad	w
+X	აბატი	n	Abt; ein Vorsteher und geistlicher Leiter eines katholischen Klosters im Rang einer Abtei	w
+X	აბატისა	n	Äbtissin; weiblicher Abt ; Genitiv Singular des Substantivs აბატი	w
+X	აბატობა	n	Das Amt, die Amtszeit oder die Würde eines Abtes	w
+X	აბდაუბდა	n	etwas Sinnloses; Quatsch	w
+X	აბებად	n	Adverbial Plural des Substantivs აბი	w
+X	აბები	n	Nominativ Plural des Substantivs აბი	w
+X	აბებით	n	Instrumental Plural des Substantivs აბი	w
+X	აბების	n	Genitiv Plural des Substantivs აბი	w
+X	აბებმა	n	Narrativ Plural des Substantivs აბი	w
+X	აბებო	n	Vokativ Plural des Substantivs აბი	w
+X	აბებს	n	Dativ Plural des Substantivs აბი	w
+X	აბზაცი	n	Einrückung der ersten Zeile ; gedruckter oder geschriebener Teil eines Text, der sich zwischen zwischen Einrückungen be…	w
+X	აბზინდა	n	ein gelbblühender Beifuß (Absinth, Artemisia absinthium), dessen seidenhaarige, aromatisc… ; Verschluss an einem Gürtel oder Riemen	w
+X	აბზინდი	n	Verschluss an einem Gürtel oder Riemen	w
+X	აბთ	n	Narrativ Plural des Substantivs აბი ; Dativ Plural des Substantivs აბი ; Genitiv Plural des Substantivs აბი	w
+X	აბთა	n	Narrativ Plural des Substantivs აბი ; Dativ Plural des Substantivs აბი ; Genitiv Plural des Substantivs აბი	w
+X	აბი	n	Arzneimittel, Nahrungsergänzungsmittel oder anderes Mittel, welches zur bequemen, Einnahm…	w
+X	აბით	n	Instrumental Singular des Substantivs აბი	w
+X	აბიოტური	adj	abiotisch	w
+X	აბის	n	Genitiv Singular des Substantivs აბი	w
+X	აბლაბუდა	n	aus Spinnenseide gesponnene Vorrichtung von Webspinnen, die dem Beutefang dient	w
+X	აბლაუტი	n	Linguistik: Vokalwechsel für Zwecke der Flexion oder Wortbildung	w
+X	აბმა	n	Narrativ Singular des Substantivs აბი	w
+X	აბნი	n	Nominativ Plural des Substantivs აბი	w
+X	აბნო	n	Vokativ Plural des Substantivs აბი	w
+X	აბო	n	Vokativ Singular des Substantivs აბი	w
+X	აბონემენტი	n	meist durch Vorauszahlung gesichertes Anrecht auf (meist) regelmäßige Inanspruchnahme bes…	w
+X	აბონენტი	n	Person, welche ein meist durch Vorauszahlung gesichertes Anrecht auf (meist) regelmäßige…	w
+X	აბორიგენი	n	Angehörige eines Volkes, das ein bestimmtes Gebiet ursprünglich bewohnte	w
+X	აბორტი	n	gynäkologisch durchgeführte Abtötung und Entfernung eines Embryos beziehungsweise Fötus a…	w
+X	აბრა	n	beschriftete Platte zu Informationszwecken; Verkehrs-, Firmen- oder Hinweisschild	w
+X	აბრად	n	Adverbial Singular des Substantivs აბრა	w
+X	აბრავ	n	Vokativ Singular des Substantivs აბრა	w
+X	აბრაზია	n	der verletzungs- oder verschleißbedingt Rückgang beziehungsweise die diagnostisch-therape… ; die flächenhafte Erosion oder Verwitterung aufgrund des Kollidierens von Frachtmaterial m…	w
+X	აბრათ	n	Narrativ Plural des Substantivs აბრა ; Dativ Plural des Substantivs აბრა ; Genitiv Plural des Substantivs აბრა	w
+X	აბრათა	n	Narrativ Plural des Substantivs აბრა ; Dativ Plural des Substantivs აბრა ; Genitiv Plural des Substantivs აბრა	w
+X	აბრაკადაბრა	n	Zauberwort ; sinnloses oder unverständliches Gerede	w
+X	აბრამ	n	Narrativ Singular des Substantivs აბრა	w
+X	აბრანი	n	Nominativ Plural des Substantivs აბრა	w
+X	აბრანო	n	Vokativ Plural des Substantivs აბრა	w
+X	აბრას	n	Dativ Singular des Substantivs აბრა	w
+X	აბრებად	n	Adverbial Plural des Substantivs აბრა	w
+X	აბრები	n	Nominativ Plural des Substantivs აბრა	w
+X	აბრებით	n	Instrumental Plural des Substantivs აბრა	w
+X	აბრების	n	Genitiv Plural des Substantivs აბრა	w
+X	აბრებმა	n	Narrativ Plural des Substantivs აბრა	w
+X	აბრებო	n	Vokativ Plural des Substantivs აბრა	w
+X	აბრებს	n	Dativ Plural des Substantivs აბრა	w
+X	აბრევიატურა	n	eine Abkürzung, die als eigenes Wort gesprochen wird ; Abkürzung in Schrift und Druck ; Abkürzung der Notenschrift, der Vortragsbezeichnung bei der instrumentellen Wiedergabe	w
+X	აბრეშუმად	n	Adverbial Singular des Substantivs აბრეშუმი	w
+X	აბრეშუმებად	n	Adverbial Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმები	n	Nominativ Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმებით	n	Instrumental Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმების	n	Genitiv Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმებმა	n	Narrativ Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმებო	n	Vokativ Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმებს	n	Dativ Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმთ	n	Narrativ Plural des Substantivs აბრეშუმი ; Dativ Plural des Substantivs აბრეშუმი ; Genitiv Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმთა	n	Narrativ Plural des Substantivs აბრეშუმი ; Dativ Plural des Substantivs აბრეშუმი ; Genitiv Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმი	n	feine Textilfaser, die aus den Kokons der Seidenraupe gewonnen wird ; häufig feines Gewebe, das aus den Kokons der Seidenraupe besteht	w
+X	აბრეშუმით	n	Instrumental Singular des Substantivs აბრეშუმი	w
+X	აბრეშუმის	n	Genitiv Singular des Substantivs აბრეშუმი	w
+X	აბრეშუმმა	n	Narrativ Singular des Substantivs აბრეშუმი	w
+X	აბრეშუმნი	n	Nominativ Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმნო	n	Vokativ Plural des Substantivs აბრეშუმი	w
+X	აბრეშუმო	n	Vokativ Singular des Substantivs აბრეშუმი	w
+X	აბრეშუმს	n	Dativ Singular des Substantivs აბრეშუმი	w
+X	აბრით	n	Instrumental Singular des Substantivs აბრა	w
+X	აბრის	n	Genitiv Singular des Substantivs აბრა	w
+X	აბროგაცია	n	vollständige Aufhebung oder Abschaffung durch ein neues Gesetz	w
+X	აბრუპტივი	n	nichtpulmonaler Konsonant, meist Plosiv, der durch eine rasche Aufwärtsbewegung des Kehlk…	w
+X	აბს	n	Dativ Singular des Substantivs აბი	w
+X	აბსენთი	n	Spirituose, die traditionell aus Wermut, Anis, Fenchel und weiteren Kräutern hergestellt…	w
+X	აბსოლუტიზმი	n	Herrschaftsform, in der der Herrscher – meist ein König oder Kaiser – uneingeschränkte Ma…	w
+X	აბსოლუტისტი	n	Person, die sich mit den Absolutismus verbunden fühlt, die den Absolutismus vertritt	w
+X	აბსორბენტი	n	absorbierender Stoff, absorbierendes Mittel	w
+X	აბსორბერი	n	ein Apparat zur Durchführung chemischer oder physikalischer Absorption	w
+X	აბსტრაქცია	n	Abstraktion, Verallgemeinerung, Generalisierung	w
+X	აბსტრაქციონიზმი	n	Abstraktionismus, abstrakte Kunst	w
+X	აბსტრაქციონისტი	n	abstrakter Künstler, Abstraktionist	w
+X	აბულია	n	krankhafte Willensschwäche	w
+X	აბჯართ	n	Narrativ Plural des Substantivs აბჯარი ; Dativ Plural des Substantivs აბჯარი ; Genitiv Plural des Substantivs აბჯარი	w
+X	აბჯართა	n	Narrativ Plural des Substantivs აბჯარი ; Dativ Plural des Substantivs აბჯარი ; Genitiv Plural des Substantivs აბჯარი	w
+X	აბჯარი	n	Schutzkleidung für den Körper von zum Beispiel Kämpfern	w
+X	აბჯარმა	n	Narrativ Singular des Substantivs აბჯარი	w
+X	აბჯარნი	n	Nominativ Plural des Substantivs აბჯარი	w
+X	აბჯარნო	n	Vokativ Plural des Substantivs აბჯარი	w
+X	აბჯარო	n	Vokativ Singular des Substantivs აბჯარი	w
+X	აბჯარს	n	Dativ Singular des Substantivs აბჯარი	w
+X	აბჯრად	n	Adverbial Singular des Substantivs აბჯარი	w
+X	აბჯრებად	n	Adverbial Plural des Substantivs აბჯარი	w
+X	აბჯრები	n	Nominativ Plural des Substantivs აბჯარი	w
+X	აბჯრებით	n	Instrumental Plural des Substantivs აბჯარი	w
+X	აბჯრების	n	Genitiv Plural des Substantivs აბჯარი	w
+X	აბჯრებმა	n	Narrativ Plural des Substantivs აბჯარი	w
+X	აბჯრებო	n	Vokativ Plural des Substantivs აბჯარი	w
+X	აბჯრებს	n	Dativ Plural des Substantivs აბჯარი	w
+X	აბჯრით	n	Instrumental Singular des Substantivs აბჯარი	w
+X	აბჯრის	n	Genitiv Singular des Substantivs აბჯარი	w
+X	აგავა	n	dickfleischige Pflanze der Tropen und Subtropen; eine Gattung in der Pflanzenfamilie der…	w
+X	აგამია	n	der Zustand der Ehelosigkeit ; Fortpflanzung, ohne dass eine Befruchtung erfolgt ist	w
+X	აგენტი	n	Person, die Vermittlungsdienstleistungen für ihre Kunden erbringt, insbesondere für Künst… ; Person, die im Staatsauftrag oder im Auftrag einer Organisation im Geheimen tätig ist	w
+X	აგვისტო	n	August	w
+X	აგიტატორი	n	Person, die Agitation betreibt	w
+X	აგიტაცია	n	Agitation, politische Aufklärung, politische Werbung	w
+X	აგლომერატი	n	Gesteinsmasse aus zusammengebackenem vulkanischen Trümmergestein ; aus feinkörnigen Erzen durch Sintern zu groben Stücken zusammengeschmolzenes Erz	w
+X	აგნოზია	n	Agnosie; Unfähigkeit, etwas wahrzunehmen	w
+X	აგნოსტიკოსი	n	Person, die der Meinung ist, dass man die Frage nach der Existenz oder Nichtexistenz eine…	w
+X	აგნოსტიციზმი	n	philosophische und theologische Weltanschauung, nach der die Existenz oder Nichtexistenz…	w
+X	აგონია	n	Todeskampf	w
+X	აგორა	n	Volksversammlung im alten Griechenland ; Versammlungs- und Marktplatz einer antiken griechischen Stadt	w
+X	აგორაფობია	n	krankhafte Angst vor weiten Plätzen, Menschenmengen oder Reisen	w
+X	აგრამატიზმი	n	kein Plural: spezielle Form der Aphasie (Sprachstörung), bei der die Verwendung der gramm…	w
+X	აგრარიები	n	Person, die über (meist große) landwirtschaftliche Flächen verfügt ; Vertreter wirtschaftspolitischer Interessen der Landwirte	w
+X	აგრაფია	n	Verlust der zuvor vorhandenen Fähigkeit zu schreiben	w
+X	აგრეგატი	n	Zusammenfassung mehrerer Kleinarten zu einer Sammelart ; Vereinigung mehrerer Apparate, Geräte oder Maschinen zur Erfüllung einer bestimmten techn… ; Gestein, das durch die Zusammenfügung mehrerer Minerale entstanden ist	w
+X	აგრესია	n	Vorgehen gegen jemand oder etwas ; feindliche Einstellung	w
+X	აგრესორი	n	Angreifer; jemand, der einen Konflikt auslöst	w
+X	აგრობიოლოგია	n	Fachrichtung, die sich mit den Gesetzmäßigkeiten in der Landwirtschaft beschäftigt	w
+X	აგრონომი	n	Wissenschaftler, der im Bereich des Ackerbaus/der Landwirtschaft forscht	w
+X	აგრონომია	n	wissenschaftliche Forschung über Ackerbau	w
+X	აგროქიმია	n	Agrochemie	w
+X	აგურად	n	Adverbial Singular des Substantivs აგური	w
+X	აგურებად	n	Adverbial Plural des Substantivs აგური	w
+X	აგურები	n	Nominativ Plural des Substantivs აგური	w
+X	აგურებით	n	Instrumental Plural des Substantivs აგური	w
+X	აგურების	n	Genitiv Plural des Substantivs აგური	w
+X	აგურებმა	n	Narrativ Plural des Substantivs აგური	w
+X	აგურებო	n	Vokativ Plural des Substantivs აგური	w
+X	აგურებს	n	Dativ Plural des Substantivs აგური	w
+X	აგურთ	n	Narrativ Plural des Substantivs აგური ; Dativ Plural des Substantivs აგური ; Genitiv Plural des Substantivs აგური	w
+X	აგურთა	n	Narrativ Plural des Substantivs აგური ; Dativ Plural des Substantivs აგური ; Genitiv Plural des Substantivs აგური	w
+X	აგური	n	Quader aus gebranntem Ton, der für den Bau einer Mauer verwendet wird ; Karo; eine der vier Farben (Symbole) des französischen Kartenspielblatts	w
+X	აგურით	n	Instrumental Singular des Substantivs აგური	w
+X	აგურის	n	Genitiv Singular des Substantivs აგური	w
+X	აგურმა	n	Narrativ Singular des Substantivs აგური	w
+X	აგურნი	n	Nominativ Plural des Substantivs აგური	w
+X	აგურნო	n	Vokativ Plural des Substantivs აგური	w
+X	აგურო	n	Vokativ Singular des Substantivs აგური	w
+X	აგურს	n	Dativ Singular des Substantivs აგური	w
+X	ადამიანად	n	Adverbial Singular des Substantivs ადამიანი	w
+X	ადამიანებად	n	Adverbial Plural des Substantivs ადამიანი	w
+X	ადამიანები	n	Nominativ Plural des Substantivs ადამიანი	w
+X	ადამიანებით	n	Instrumental Plural des Substantivs ადამიანი	w
+X	ადამიანების	n	Genitiv Plural des Substantivs ადამიანი	w
+X	ადამიანებმა	n	Narrativ Plural des Substantivs ადამიანი	w
+X	ადამიანებო	n	Vokativ Plural des Substantivs ადამიანი	w
+X	ადამიანებს	n	Dativ Plural des Substantivs ადამიანი	w
+X	ადამიანთ	n	Narrativ Plural des Substantivs ადამიანი ; Dativ Plural des Substantivs ადამიანი ; Genitiv Plural des Substantivs ადამიანი	w
+X	ადამიანთა	n	Narrativ Plural des Substantivs ადამიანი ; Dativ Plural des Substantivs ადამიანი ; Genitiv Plural des Substantivs ადამიანი	w
+X	ადამიანი	n	Mensch; Lebewesen, das sich durch folgende besondere Eigenschaften auszeichnet: aufrechte… ; Mensch als einzelnes Individuum	w
+X	ადამიანით	n	Instrumental Singular des Substantivs ადამიანი	w
+X	ადამიანის	n	Genitiv Singular des Substantivs ადამიანი	w
+X	ადამიანმა	n	Narrativ Singular des Substantivs ადამიანი	w
+X	ადამიანნი	n	Nominativ Plural des Substantivs ადამიანი	w
+X	ადამიანნო	n	Vokativ Plural des Substantivs ადამიანი	w
+X	ადამიანო	interj,n	Vokativ Singular des Substantivs ადამიანი ; Ausdruck der Verwunderung, Verärgerung, des Schreckes; Aufforderung an einen Mitmenschen,…	w
+X	ადამიანს	n	Dativ Singular des Substantivs ადამიანი	w
+X	ადგილად	n	Adverbial Singular des Substantivs ადგილი	w
+X	ადგილებად	n	Adverbial Plural des Substantivs ადგილი	w
+X	ადგილები	n	Nominativ Plural des Substantivs ადგილი	w
+X	ადგილებით	n	Instrumental Plural des Substantivs ადგილი	w
+X	ადგილების	n	Genitiv Plural des Substantivs ადგილი	w
+X	ადგილებმა	n	Narrativ Plural des Substantivs ადგილი	w
+X	ადგილებო	n	Vokativ Plural des Substantivs ადგილი	w
+X	ადგილებს	n	Dativ Plural des Substantivs ადგილი	w
+X	ადგილთ	n	Narrativ Plural des Substantivs ადგილი ; Dativ Plural des Substantivs ადგილი ; Genitiv Plural des Substantivs ადგილი	w
+X	ადგილთა	n	Narrativ Plural des Substantivs ადგილი ; Dativ Plural des Substantivs ადგილი ; Genitiv Plural des Substantivs ადგილი	w
+X	ადგილი	n	lokalisierbarer, begrenzter Platz, definierte Stelle (punktförmig oder ausgedehnt) auf ei… ; ein Stück Land ; Raum oder Stelle, an der Personen, Fahrzeuge, Geräte sich befinden oder aufhalten (sitzen… ; Abschnitt in einem Text oder Musikwerk ; die Position oder Anstellung in einem Betrieb oder einer Firma ; bestimmter Rang oder eine bestimmte Position	w
+X	ადგილით	n	Instrumental Singular des Substantivs ადგილი	w
+X	ადგილის	n	Genitiv Singular des Substantivs ადგილი	w
+X	ადგილმა	n	Narrativ Singular des Substantivs ადგილი	w
+X	ადგილნი	n	Nominativ Plural des Substantivs ადგილი	w
+X	ადგილნო	n	Vokativ Plural des Substantivs ადგილი	w
+X	ადგილო	n	Vokativ Singular des Substantivs ადგილი	w
+X	ადგილს	n	Dativ Singular des Substantivs ადგილი	w
+X	ადვოკატი	n	zur Rechtsberatung zugelassener Jurist, der freiberuflich tätig ist und der seine Auftrag…	w
+X	ადმინისტრატორი	n	Betreuer, Verwalter ; Verwalter eines Computersystems oder Computernetzes mit besonderen Rechten und Aufgaben	w
+X	ადრესანტი	n	Absender, Sender	w
+X	ადრესატი	n	Empfänger einer Nachricht, insbesondere im Postwesen	w
+X	აერობიკა	n	Fitnesstraining, bei dem meist in Begleitung von Musik die beiden Sportarten Gymnastik un…	w
+X	აეროდრომი	n	Areal, auf dem Flugzeuge starten und wieder landen	w
+X	აეროზოლი	n	Gemisch aus fein verteilten flüssigen oder festen Schwebeteilchen und Gasen	w
+X	აეროპორტი	n	Start- und Landeplatz für Flugzeuge	w
+X	ავადმყოფი	adj,n	jemand, der an einer Krankheit leidet ; körperlich, gesundheitlich eingeschränkt	w
+X	ავადმყოფობა	n	die Störung oder Einschränkung der normalen körperlichen oder seelischen Funktionen ; das Kranksein ; schlechte Manier beziehungsweise Gewohnheit	w
+X	ავადობა	n	die Störung oder Einschränkung der normalen körperlichen oder seelischen Funktionen ; das Kranksein ; Anzahl der in einem bestimmten Zeitraum (in der Regel ein Kalenderjahr) Erkrankten je 1.0…	w
+X	ავაზა	n	sehr schlankes, hochbeiniges Raubtier (Acinonyx jubatus), dessen Fell gelblich gefärbt so…	w
+X	ავაზაკი	n	Person, die einer anderen Person meist auf der Straße unter Androhung oder auch Anwendung… ; Verbrecher	w
+X	ავანგარდი	n	Vorhut einer Armee ; Vorkämpfer oder Vorreiter einer politischen oder künstlerischen Entwicklung	w
+X	ავარია	n	großes Schadensereignis (speziell im Verkehrswesen) wie Transportmittelunfall oder Güters…	w
+X	ავგური	n	römischer Priester/Beamter, der durch Beobachtung von Vögeln und anderen Tieren den Wille…	w
+X	ავდარი	n	schlechtes Wetter, Unwetter	w
+X	ავენიუ	n	Prachtstraße in einer Stadt, die mit Bäumen bepflanzt ist	w
+X	ავერსი	n	die Vorderseite einer Münze, Medaille oder Ähnlichem	w
+X	ავეჯი	n	Einrichtungsgegenstand, der zum Sitzen, Liegen, Aufbewahren von Kleidung, Wäsche, Hausrat…	w
+X	ავზი	n	Behälter zur Lagerung von Flüssigkeiten ; flacher, oben offener, oft fest installierter Behälter für Wasser oder eine andere Flüssi…	w
+X	ავიაკატასტროფა	n	Unfall, bei dem ein Flugzeug zu Boden (oder ins Wasser) stürzt	w
+X	ავიაკომპანია	n	Unternehmen, das einen regelmäßigen Flugverkehr für Passagiere oder Fracht bietet	w
+X	ავიაცია	n	Luftfahrt, Flugwesen, Fliegerei ; Gesamtheit der Luftstreitkräfte; Luftwaffe	w
+X	ავოკადო	n	tropischer Baum aus der Familie der Lorbeergewächse; Avocadobaum ; Frucht von diesem Baum; Avocado	w
+X	ავსტრალია	name	Kontinent Australien ; Staat auf 1	w
+X	ავსტრია	name	Österreich	w
+X	ავტოავარია	n	ein Verkehrsunfall mit einem beteiligten Kraftfahrzeug	w
+X	ავტობანი	n	kreuzungsfrei gebaute, richtungsgetrennte Schnellstraße mit mindestens zwei Fahrspuren je…	w
+X	ავტობიოგრაფია	n	Lebensbeschreibung einer Person, die von dieser Person selbst verfasst wird	w
+X	ავტობუსი	n	als Verkehrsmittel im öffentlichen Personennahverkehr eingesetztes vielsitziges, großes K…	w
+X	ავტოგამია	n	Befruchtung ohne Partner	w
+X	ავტოგრაფი	n	eigenhändige Niederschrift eines berühmten, herausragenden Verfassers (Schriftsteller, Ko… ; selbstgefertigte Signatur eines Prominenten	w
+X	ავტოდრომი	n	Rennstrecke für Autos oder Motorräder, häufig im Kreis angelegt	w
+X	ავტოკალამი	n	Schreibgerät, das einen kleinen Speicher für Tinte enthält und somit andauerndes Schreibe…	w
+X	ავტოკეფალია	n	kirchliche Selbstregierung der orthodoxen Kirchen, Unabhängigkeit von externen Patriarche…	w
+X	ავტომანქანა	n	von einem Motor angetriebenes Fahrzeug, meist zur Beförderung von Personen vorgesehen	w
+X	ავტომატი	n	Maschine oder technische Vorrichtung, die an Hand eines vorgegebenen (Computer-)Programms… ; vollautomatische Handfeuerwaffe mit geringer Masse und kurzem Lauf	w
+X	ავტომატიზაცია	n	Vorgang der Übertragung von Arbeit, die zuvor ein Mensch geleistet hat, auf Automaten	w
+X	ავტომექანიკოსი	n	Person, die beruflich Kraftfahrzeuge repariert und wartet	w
+X	ავტომობილი	n	von einem Motor angetriebenes Fahrzeug, meist zur Beförderung von Personen vorgesehen	w
+X	ავტომოპასუხე	n	Gerät, das Telefonanrufe annimmt und dem Anrufenden die Möglichkeit gibt, eine kurze Nach…	w
+X	ავტოპორტრეტი	n	bildliche oder plastische Darstellung derjenigen Person, die diese hergestellt hat	w
+X	ავტორი	n	Urheber eines Werks des literarischen oder wissenschaftlichen Textes, der Musik, des Film…	w
+X	ავტორიტარიზმი	n	Anspruch eines Regimes auf absolute Autorität	w
+X	ავტორიტეტი	n	maßgebender Einfluss, Geltung, Ansehen ; Person oder Institution, die die Autorität innehat	w
+X	ავშანი	n	Wermut, Absinth	w
+X	აზბესტი	n	ein mineralischer, feuerfester Faserstoff, dessen Fasern Asbestose auslösen können	w
+X	აზერბაიჯანი	name	Aserbaidschan	w
+X	აზიმუტი	n	Winkel zwischen der Vertikalebene eines Gestirns und dem südlichen Meridian	w
+X	აზოტი	n	chemisches Element der fünften Hauptgruppe; wichtiger Bestandteil von Aminosäuren ; farbloses, geruchloses, nicht brennbares Gas; Hauptbestandteil der Luft	w
+X	აზრად	n	Adverbial Singular des Substantivs აზრი	w
+X	აზრებად	n	Adverbial Plural des Substantivs აზრი	w
+X	აზრები	n	Nominativ Plural des Substantivs აზრი	w
+X	აზრებით	n	Instrumental Plural des Substantivs აზრი	w
+X	აზრების	n	Genitiv Plural des Substantivs აზრი	w
+X	აზრებმა	n	Narrativ Plural des Substantivs აზრი	w
+X	აზრებო	n	Vokativ Plural des Substantivs აზრი	w
+X	აზრებს	n	Dativ Plural des Substantivs აზრი	w
+X	აზრთ	n	Narrativ Plural des Substantivs აზრი ; Dativ Plural des Substantivs აზრი ; Genitiv Plural des Substantivs აზრი	w
+X	აზრთა	n	Narrativ Plural des Substantivs აზრი ; Dativ Plural des Substantivs აზრი ; Genitiv Plural des Substantivs აზრი	w
+X	აზრი	n	der selbst gebildete Standpunkt eines Menschen, Meinung ; im Bewusstsein der Allgemeinheit herrschende Auffassungen hinsichtlich bestimmter Sachver… ; Vorgang des Denkens, Gedanke ; Leitbild, das jemanden in seinem Denken, Handeln bestimmt ; die Bedeutungen und Vorstellungen, die sich mit einem sprachlichen Ausdruck verbinden ; die Absicht mit einer Handlung	w
+X	აზრით	n	Instrumental Singular des Substantivs აზრი	w
+X	აზრის	n	Genitiv Singular des Substantivs აზრი	w
+X	აზრმა	n	Narrativ Singular des Substantivs აზრი	w
+X	აზრნი	n	Nominativ Plural des Substantivs აზრი	w
+X	აზრნო	n	Vokativ Plural des Substantivs აზრი	w
+X	აზრო	n	Vokativ Singular des Substantivs აზრი	w
+X	აზროვნება	n	Denkfähigkeit oder Gehirnfunktion: Der Prozess des Denkens und des Ziehens von Schlussfol…	w
+X	აზრს	n	Dativ Singular des Substantivs აზრი	w
+X	ათასწლეული	n	die Zeitspanne von 1000 Jahren	w
+X	ათაშანგი	n	eine ansteckende Geschlechtskrankheit, die von Bakterien (Treponema pallidum) verursacht…	w
+X	ათეიზმი	n	Weltanschauung, Überzeugung, die von einer Welt ohne Gott beziehungsweise Götter ausgeht	w
+X	ათეისტი	n	Person, welche nicht an die Existenz von Göttern glaubt	w
+X	ათლეტი	n	Sportler und/oder Wettkämpfer ; Mensch mit kräftigem Körperbau und ausgeprägter Muskulatur	w
+X	ათწილადი	n	ein Bruch, dessen Nenner eine Potenz von Zehn mit natürlichzahligem Exponenten ist	w
+X	ათწლედი	n	Zehn-Klassen-Schule; insbesondere eine Musikschule mit zehn Klassen ; ein Zeitraum von zehn Jahren ; Zehnjahresplan für die Entwicklung der Volkswirtschaft in sozialistischen Ländern	w
+X	ათწლეული	n	der Zeitraum von zehn Jahren	w
+X	აიაზმა	n	von einem Priester geweihtes Wasser, das zur symbolischen Reinigung verwendet wird ; zeremonielle Weihe des Wassers von einem Priester	w
+X	აიათოლა	n	Ehrentitel für geistliche Würdenträger	w
+X	აივანი	n	ein Teil eines Gebäudes, der als Plattform ins Freie hinausragt und von halbhohem Mauerwe…	w
+X	აირი	n	Materie im gasförmigen Aggregatzustand, nicht Festkörper oder Flüssigkeit	w
+X	აირსადენი	n	Pipeline für den Transport von Gas	w
+X	აირწინაღი	n	Maske, die vor dem Gesicht getragen wird und vor giftigen Gasen schützen soll	w
+X	აისბერგი	n	große, auf dem Meer schwimmende Eismasse	w
+X	აისი	n	frühe Morgenstunden, wenn die Morgendämmerung einsetzt; Zeitraum, knapp um den Sonnenaufg…	w
+X	აიწონა-დაიწონა	n	Kinderspielgerät, bei dem sich auf einem senkrechten Ständer ein kippbarer Balken oder Br…	w
+X	აკადემია	n	öffentliche oder private Forschungsstätte, Lehreinrichtung, Bildungseinrichtung oder Ausb…	w
+X	აკადემიკოსი	n	Mitglied einer wissenschaftlichen Akademie	w
+X	აკაკი	n,name	ein früher zu den Ulmengewächsen und heute zu den Hanfgewächsen gestellter Baum der Mitte… ; männlicher Vorname	w
+X	აკაცია	n	Gattung dorniger Bäume und Sträucher der Tropen und Subtropen	w
+X	აკვალანგი	n	Aqualunge, Drucklufttauchgerät	w
+X	აკვამარინი	n	durchsichtiges Mineral, Varietät des Berylls, von hellblauer bis meergrüner Farbe, das al…	w
+X	აკვანთ	n	Narrativ Plural des Substantivs აკვანი ; Dativ Plural des Substantivs აკვანი ; Genitiv Plural des Substantivs აკვანი	w
+X	აკვანთა	n	Narrativ Plural des Substantivs აკვანი ; Dativ Plural des Substantivs აკვანი ; Genitiv Plural des Substantivs აკვანი	w
+X	აკვანი	n	Holzbettchen für Kleinkinder, mithilfe dessen der Säugling gewiegt beziehungsweise gescha… ; Ort, an dem etwas entsteht, sich entwickelt; Ort, von dem etwas ausgeht, entspringt	w
+X	აკვანმა	n	Narrativ Singular des Substantivs აკვანი	w
+X	აკვანნი	n	Nominativ Plural des Substantivs აკვანი	w
+X	აკვანნო	n	Vokativ Plural des Substantivs აკვანი	w
+X	აკვანო	n	Vokativ Singular des Substantivs აკვანი	w
+X	აკვანს	n	Dativ Singular des Substantivs აკვანი	w
+X	აკვანსა	n	Dativ Singular des Substantivs აკვანი	w
+X	აკვარელი	n	eine wasserlösliche Farbe (Wasserfarbe), die nicht deckend ist ; ein mit wasserlöslichen, nicht deckenden Farben angefertigtes Bild	w
+X	აკვარელისტი	n	Person, die Aquarelle malt	w
+X	აკვარიუმი	n	Behälter mit Wasser zur Haltung und Beobachtung von Wassertieren und -pflanzen ; Gebäude, Ausstellung mit mehreren Aquarien	w
+X	აკვატორია	n	Der Raum eines Reservoirs (Meer, Ozean usw.) innerhalb bestimmter Grenzen	w
+X	აკვედუკი	n	eine Wasserleitung, die meistens über eine steinerne Bogenkonstruktion führt	w
+X	აკვნად	n	Adverbial Singular des Substantivs აკვანი	w
+X	აკვნადა	n	Adverbial Singular des Substantivs აკვანი	w
+X	აკვნებად	n	Adverbial Plural des Substantivs აკვანი	w
+X	აკვნებადა	n	Adverbial Plural des Substantivs აკვანი	w
+X	აკვნები	n	Nominativ Plural des Substantivs აკვანი	w
+X	აკვნებით	n	Instrumental Plural des Substantivs აკვანი	w
+X	აკვნებითა	n	Instrumental Plural des Substantivs აკვანი	w
+X	აკვნების	n	Genitiv Plural des Substantivs აკვანი	w
+X	აკვნებისა	n	Genitiv Plural des Substantivs აკვანი	w
+X	აკვნებმა	n	Narrativ Plural des Substantivs აკვანი	w
+X	აკვნებო	n	Vokativ Plural des Substantivs აკვანი	w
+X	აკვნებს	n	Dativ Plural des Substantivs აკვანი	w
+X	აკვნებსა	n	Dativ Plural des Substantivs აკვანი	w
+X	აკვნით	n	Instrumental Singular des Substantivs აკვანი	w
+X	აკვნითა	n	Instrumental Singular des Substantivs აკვანი	w
+X	აკვნის	n	Genitiv Singular des Substantivs აკვანი	w
+X	აკვნისა	n	Genitiv Singular des Substantivs აკვანი	w
+X	აკლამაცია	n	eine Form der Wahl, bei der per Zuruf oder Handzeichen angenommen oder abgelehnt wird	w
+X	აკლდამა	n	gemauerter Raum (über- oder unterirdisch), in dem der Sarg bestattet wird	w
+X	აკლიმატიზაცია	n	Anpassung an veränderte Klimaverhältnisse	w
+X	აკლიმატიზება	n	Anpassung an veränderte Klimaverhältnisse	w
+X	აკომოდაცია	n	Anpassung des Körpers an äußere Umstände ; dynamische Anpassung der Brechkraft des Auges an die Entfernung des zu betrachtenden Obje…	w
+X	აკომპანემენტი	n	Begleitung auf einem Musikinstrument; Akkompagnement, Begleitung	w
+X	აკორდეონი	n	Musikinstrument mit Tasten oder Knöpfen, bei welchem der Ton durch eine Zunge, welche auf…	w
+X	აკორდეონისტი	n	Person, die Akkordeon spielt	w
+X	აკორდი	n	das gleichzeitige, harmonische Erklingen mehrerer Töne	w
+X	აკრი	n	englisches und nordamerikanisches Flächenmaß, entspricht circa 4047 m²	w
+X	აკრობატი	n	Variété- oder Zirkuskünstler, der ungewöhnliche, besondere Geschicklichkeit erfordernde k…	w
+X	აკროპოლი	n	eine für viele griechische Städte in der Antike typische burgähnliche Anlage, meist auf e…	w
+X	აკროპოლისი	n	eine für viele griechische Städte in der Antike typische burgähnliche Anlage, meist auf e…	w
+X	აკროსტიქი	n	Gedicht als Wortspiel, bei dem die Anfangsbuchstaben, -silben oder -wörter der Verse hint…	w
+X	აკუმულატორი	n	chemischer Energiespeicher, der elektrische Energie an einen Verbraucher abgeben kann	w
+X	აკუსტიკა	n	Lehre vom Schall, Lehre von den Tönen ; Eigenschaft eines Raums, die beschreibt, wie gut sich Klänge in ihm ausbreiten	w
+X	ალამი	n	ein ein- oder mehrfarbiges, leeres oder mit Bildern oder Symbolen versehenes, meist recht…	w
+X	ალაო	n	in Wasser gekeimtes und anschließend getrocknetes (gedarrtes) Getreide, meist Gerste; wir…	w
+X	ალაჰი	n	der Name Gottes	w
+X	ალბათობა	n	Grad von Möglichkeit	w
+X	ალბატროსი	n	Vogel aus der Familie Diomedeidae (Albatrosse)	w
+X	ალბინიზმი	n	genetisch bedingte Störung der Melaninsynthese bei Tieren und beim Menschen, die zum Fehl…	w
+X	ალბინოსი	n	Lebewesen mit der angeborenen Störung Albinismus	w
+X	ალბომი	n	Behältnis, ursprünglich in Buchform, das mehrere Sammelobjekte enthalten kann ; Zusammenstellung mehrerer Musikstücke eines Interpreten	w
+X	ალბუმინი	n	einfache Proteine (Eiweiße), die hauptsächlich im Blutplasma, in der Milch und in Eiern v…	w
+X	ალგებრა	n	eines der grundlegenden Teilgebiete der Mathematik, das sich mit den Eigenschaften von Re…	w
+X	ალგეზია	n	Schmerzempfindlichkeit, physiologische Schmerzempfindung	w
+X	ალგოლოგია	n	Wissenschaft von den Algen	w
+X	ალგორითმი	n	eine exakt beschriebene Vorgehensweise zum Lösen eines Problems in endlich vielen und ein…	w
+X	ალებარდა	n	spätmittelalterlich bis frühneuzeitliche Hieb- und Stoßwaffe, die eine axtförmige Bartenk…	w
+X	ალებასტრი	n	weiße, feinkörnige, meist leicht durchscheinende Gipsart, die Marmor ähnelt	w
+X	ალეგორია	n	personifizierende oder gegenständliche Darstellung eines abstrakten Sachverhaltes	w
+X	ალეგრეტო	n	mäßig schnelles Tempo; Allegretto ; Musikstück oder ein Teil von einem, das in mäßig schnellem Tempo gehalten ist; Allegretto	w
+X	ალერგენი	n	ein Stoff, welcher bei manchen Menschen eine allergische Reaktion auslöst	w
+X	ალერგია	n	heftige Immunreaktion auf normalerweise harmlose Substanzen oder Umweltstoffe	w
+X	ალერგოლოგი	n	Arzt mit Allergien als Spezialgebiet	w
+X	ალერგოლოგია	n	Wissenschaft, die sich mit der Untersuchung von Allergien beschäftigt	w
+X	ალერსი	n	zärtliche Berührung oder Streicheln	w
+X	ალექსანდრე	name	der männliche Vorname, Alexander	w
+X	ალექსანდრიტი	n	Mineral, Varietät des Chrysoberylls, Edelstein von tiefgrüner Farbe bei Tageslicht und vo…	w
+X	ალვა	n	eine Form der Schwarz-Pappel, die durch einen säulenförmigen Wuchs und die kegelförmige K… ; Nadelbaum der Gattung Cupressus ; ein Laubbaum der Pflanzenfamilie der Platanengewächse, der bis zu 50 Metern hoch wächst u…	w
+X	ალვეოლი	n	die kleinen Hohlräume in der Lunge, in denen der Gasaustausch bei der Atmung stattfindet ; Zahnfach, in dem sich ein Zahn befindet oder befunden hat	w
+X	ალი	n	eine helle, gelb-rote oder bläuliche Lichterscheinung, die bei Verbrennungsvorgängen ents… ; weibliches, bösgesinntes und dämonisches Märchen- oder Sagenwesen zumeist in Gestalt eine…	w
+X	ალია	n	die Rückkehr oder Emigration von Juden als Einzelne oder in Gruppen in das Gebiet von Isr…	w
+X	ალიანსი	n	Bündnis, (an einen Vertrag gebundener) Zusammenschluss	w
+X	ალიბი	n	Nachweis, nicht zum Zeitpunkt eines Verbrechens am Tatort gewesen zu sein	w
+X	ალიგატორი	n	Tier einer Gattung der Krokodile	w
+X	ალიზი	n	nicht gebrannter, sondern an der Luft getrockneter Ziegel aus Lehm, der bereits seit Jahr…	w
+X	ალილუია	n	ein in der Liturgie verwendeter Freudengesang, der das Wort „halleluja“ beinhaltet	w
+X	ალიმენტაცია	n	Versorgung mit Alimenten, Lebensunterhalt	w
+X	ალიმენტი	n	Geldbetrag, der regelmäßig für jemandes Lebensunterhalt zu entrichten ist	w
+X	ალიონი	n	frühe Morgenstunden, wenn die Morgendämmerung einsetzt; Zeitraum, knapp um den Sonnenaufg…	w
+X	ალიტერაცია	n	gleicher Anlaut bei aufeinanderfolgenden betonten Wörtern	w
+X	ალკოჰოლი	n	gängige Bezeichnung für Ethanol ; speziell und kurz für Getränk, welches Ethanol enthält; Trinkalkohol ; Bezeichnung für eine Kohlenstoffverbindung mit mindestens einer Hydroxylgruppe als funkti…	w
+X	ალკოჰოლიზმი	n	ist die seelische und körperliche Abhängigkeit von der Droge Alkohol	w
+X	ალკოჰოლიკი	n	jemand, der auf regelmäßigen Alkoholgenuss angewiesen und von Alkohol abhängig ist	w
+X	ალმა-მატერი	n	Hochschule, Universität	w
+X	ალმანახი	n	illustriertes Jahrbuch mit Texten aus verschiedenen Themenbereichen, meist in Kalenderform	w
+X	ალმანდინი	n	Varietät des Granats von roter oder bräunlicher Farbe, die als Schmuckstein getragen wird	w
+X	ალმასი	n	härtester, aus Kohlenstoff bestehender Kristall mit starker Lichtbrechung, Mineral, Edels… ; Werkzeug zum Durchtrennen von Glas	w
+X	ალმური	n	eine helle, gelb-rote oder bläuliche Lichterscheinung, die bei Verbrennungsvorgängen ents… ; Hitzeschleier	w
+X	ალოე	n	Vertreter der gleichnamigen Pflanzengattung aus der Familie der Grasbaumgewächse	w
+X	ალომორფი	n	Variante der kleinsten bedeutungstragenden Einheit einer Sprache, des Morphems	w
+X	ალოფონი	n	Variante eines Phonems (langue)	w
+X	ალოშა	n	eine Pflanzenart aus der Gattung der Glockenblumen (Campanula)	w
+X	ალპინარიუმი	n	ein spezieller Steingarten mit Schwerpunkt auf Alpenflora und Pflanzen aus anderen hochal…	w
+X	ალპინიზმი	n	Bergsteigen im Hochgebirge	w
+X	ალპინისტი	n	Bergsteiger im Hochgebirge	w
+X	ალჟირი	n	ein Staat in Nordafrika	w
+X	ალტრუიზმი	n	Selbstlosigkeit, Menschenliebe, Uneigennützigkeit	w
+X	ალტრუისტი	n	selbstloser Mensch	w
+X	ალუბალთ	n	Narrativ Plural des Substantivs ალუბალი ; Dativ Plural des Substantivs ალუბალი ; Genitiv Plural des Substantivs ალუბალი	w
+X	ალუბალთა	n	Narrativ Plural des Substantivs ალუბალი ; Dativ Plural des Substantivs ალუბალი ; Genitiv Plural des Substantivs ალუბალი	w
+X	ალუბალი	n	ein weitverbreiteter, weißblühender Obstbaum, der Kirschen als Früchte trägt ; Frucht des Kirschbaums	w
+X	ალუბალმა	n	Narrativ Singular des Substantivs ალუბალი	w
+X	ალუბალნი	n	Nominativ Plural des Substantivs ალუბალი	w
+X	ალუბალნო	n	Vokativ Plural des Substantivs ალუბალი	w
+X	ალუბალო	n	Vokativ Singular des Substantivs ალუბალი	w
+X	ალუბალს	n	Dativ Singular des Substantivs ალუბალი	w
+X	ალუბლად	n	Adverbial Singular des Substantivs ალუბალი	w
+X	ალუბლებად	n	Adverbial Plural des Substantivs ალუბალი	w
+X	ალუბლები	n	Nominativ Plural des Substantivs ალუბალი	w
+X	ალუბლებით	n	Instrumental Plural des Substantivs ალუბალი	w
+X	ალუბლების	n	Genitiv Plural des Substantivs ალუბალი	w
+X	ალუბლებმა	n	Narrativ Plural des Substantivs ალუბალი	w
+X	ალუბლებო	n	Vokativ Plural des Substantivs ალუბალი	w
+X	ალუბლებს	n	Dativ Plural des Substantivs ალუბალი	w
+X	ალუბლით	n	Instrumental Singular des Substantivs ალუბალი	w
+X	ალუბლის	n	Genitiv Singular des Substantivs ალუბალი	w
+X	ალუზია	n	die Verwendung eines Ausdrucks, der eine Handlung eher indirekt mit einem analogen Fall v…	w
+X	ალუმინი	n	chemisches Element; silberweißes, leicht formbares Leichtmetall	w
+X	ალუჩა	n	eine kaukasische Pflanzenart aus der Gattung Prunus in der Familie der Rosengewächse ; Frucht der Pflanzenart aus der Gattung Prunus	w
+X	ალფა	n	erstes Zeichen des griechischen Alphabets	w
+X	ალფა-ნაწილაკი	n	beim Alphazerfall, einer Art des radioaktiven Zerfalls von Atomkernen, auftretendes Teilc…	w
+X	ალფაბეტი	n	geordnete Menge der in einer Schriftsprache verwendeten Buchstaben, Alphabet	w
+X	ალქაჯი	n	bösgesinntes und dämonisches Märchen- oder Sagenwesen zumeist mit zerzausten Haaren ; ein ungezogenes Mädchen ; ein böser beziehungsweise unfreundlicher Mensch	w
+X	ალქი	n	bösgesinntes und dämonisches Märchen- oder Sagenwesen zumeist mit zerzausten Haaren	w
+X	ალქიმია	n	alter Zweig der Naturphilosophie; Vorläufer der modernen Chemie und Pharmakologie	w
+X	ალქიმიკოსი	n	jemand, der sich der Alchemie verschreibt	w
+X	ალღო	n	Die Fähigkeit, unbewusst zu entscheiden und zu handeln ; Die Fähigkeit der Tiere, den Geruch von etwas wahrzunehmen ; angeborene, nicht gesteuerte Verhaltensweise in bestimmen Situationen	w
+X	ალყა	n	etwas kreis- oder bogenformiges ; Umstellen einer Stadt oder Festung, um deren Besatzung durch aushungern zur Aufgabe zu zw… ; eine Saite aus Seide, Därmen von Tieren oder Metal, zumeist für die Musikinstrumente	w
+X	ალცჰაიმერი	n	kurz für ალცჰაიმერის დაავადება, Alzheimerkrankheit	w
+X	ამაგი	n	für eine bestimmte Person oder für etwas Bestimmtes vollbrachte gute Tat; verdienstvolle,…	w
+X	ამაზონიტი	n	Mineral von grüner Farbe, das vorwiegend in magmatischem Gestein vorkommt und als Schmuck…	w
+X	ამალა	n	eine Gruppe von Personen, die sich einer wichtigen Persönlichkeit anschließen und dieser… ; eine Gruppe von Personen, die immer oder oft eine bestimmte Person begleiten	w
+X	ამალგამა	n	eine Legierung auf Quecksilber-Basis ; Vereinigung oder Verbindung mehrerer (kulturellen, politischen, abstrakten, Kunst-)Elemen…	w
+X	ამანათი	n	etwas verpacktes oder zusammengepacktes, besonders in Papier und um es per Post zu senden ; Geisel ; etwas anvertrautes	w
+X	ამაოება	n	Nichtigkeit, Vergeblichkeit, Eitelkeit	w
+X	ამასობაში	adv	in der Zwischenzeit, nach Ablauf einer gewissen Zeit	w
+X	ამაყობა	n	das Gefühl einer großen Zufriedenheit mit sich selbst oder anderen, einer Hochachtung sei…	w
+X	ამბად	n	Adverbial Singular des Substantivs ამბავი	w
+X	ამბავთ	n	Narrativ Plural des Substantivs ამბავი ; Dativ Plural des Substantivs ამბავი ; Genitiv Plural des Substantivs ამბავი	w
+X	ამბავთა	n	Narrativ Plural des Substantivs ამბავი ; Dativ Plural des Substantivs ამბავი ; Genitiv Plural des Substantivs ამბავი	w
+X	ამბავი	n	eine Geschichte, mündliche oder schriftliche Erzählung oder Überlieferung ; eine Nachricht, Mitteilung von Informationen über jemanden oder etwas ; das, was vor sich geht, sich ereignet, das Geschehen ; Geschehen in einer Geschichte, deren Inhalt (auch in einem literarischen Werk)	w
+X	ამბავმა	n	Narrativ Singular des Substantivs ამბავი	w
+X	ამბავნი	n	Nominativ Plural des Substantivs ამბავი	w
+X	ამბავნო	n	Vokativ Plural des Substantivs ამბავი	w
+X	ამბავო	n	Vokativ Singular des Substantivs ამბავი	w
+X	ამბავს	n	Dativ Singular des Substantivs ამბავი	w
+X	ამბებად	n	Adverbial Plural des Substantivs ამბავი	w
+X	ამბები	n	Nominativ Plural des Substantivs ამბავი	w
+X	ამბებით	n	Instrumental Plural des Substantivs ამბავი	w
+X	ამბების	n	Genitiv Plural des Substantivs ამბავი	w
+X	ამბებმა	n	Narrativ Plural des Substantivs ამბავი	w
+X	ამბებო	n	Vokativ Plural des Substantivs ამბავი	w
+X	ამბებს	n	Dativ Plural des Substantivs ამბავი	w
+X	ამბით	n	Instrumental Singular des Substantivs ამბავი	w
+X	ამბიონი	n	ein erhöhter Ort für gottesdienstliche Lesungen in orthodoxen, katholischen und lutherisc…	w
+X	ამბის	n	Genitiv Singular des Substantivs ამბავი	w
+X	ამბიცია	n	Ehrgeiz, Streben nach Höherem	w
+X	ამბორი	n	ein oraler Körperkontakt mit einer Person oder einem Gegenstand	w
+X	ამბოხება	n	(häufig bewaffnete) Aktion des Widerstands gegen eine bestehende Regierung	w
+X	ამბოხი	n	(häufig bewaffnete) Aktion des Widerstands gegen eine bestehende Regierung	w
+X	ამება	n	eukaryotischer Einzeller, der durch ständige Änderung seiner Gestalt ausgezeichnet ist	w
+X	ამეთვისტო	n	Mineral, Varietät des Quarz, durchsichtiger Halbedelstein von violetter Farbe, der als Sc…	w
+X	ამერიკა	name	ein Doppelkontinent der Erde, der aus Nordamerika und Südamerika besteht ; Vereinigte Staaten von Amerika	w
+X	ანბანად	n	Adverbial Singular des Substantivs ანბანი	w
+X	ანბანებად	n	Adverbial Plural des Substantivs ანბანი	w
+X	ანბანები	n	Nominativ Plural des Substantivs ანბანი	w
+X	ანბანებით	n	Instrumental Plural des Substantivs ანბანი	w
+X	ანბანების	n	Genitiv Plural des Substantivs ანბანი	w
+X	ანბანებმა	n	Narrativ Plural des Substantivs ანბანი	w
+X	ანბანებო	n	Vokativ Plural des Substantivs ანბანი	w
+X	ანბანებს	n	Dativ Plural des Substantivs ანბანი	w
+X	ანბანთ	n	Narrativ Plural des Substantivs ანბანი ; Dativ Plural des Substantivs ანბანი ; Genitiv Plural des Substantivs ანბანი	w
+X	ანბანთა	n	Narrativ Plural des Substantivs ანბანი ; Dativ Plural des Substantivs ანბანი ; Genitiv Plural des Substantivs ანბანი	w
+X	ანბანი	n	geordnete Menge der in einer Schriftsprache verwendeten Buchstaben, Alphabet ; Handbuch für das Lernen des Alphabets ; etwas, das ganz einfach, leicht verständlich ist	w
+X	ანბანით	n	Instrumental Singular des Substantivs ანბანი	w
+X	ანბანის	n	Genitiv Singular des Substantivs ანბანი	w
+X	ანბანმა	n	Narrativ Singular des Substantivs ანბანი	w
+X	ანბანნი	n	Nominativ Plural des Substantivs ანბანი	w
+X	ანბანნო	n	Vokativ Plural des Substantivs ანბანი	w
+X	ანბანო	n	Vokativ Singular des Substantivs ანბანი	w
+X	ანბანს	n	Dativ Singular des Substantivs ანბანი	w
+X	ანკესი	n	gekrümmtes Metallteilchen am Ende der Angelschnur befestigt, um damit Fische zu fangen ; längliches Gerät für den Fischfang	w
+X	აპრილი	n	April	w
+X	არაყი	n	meist farblose Spirituose mit einem Alkoholgehalt von idealerweise 40 Volumenprozent; Wod…	w
+X	ასტრონომია	n	Sternkunde, Himmelskunde als exakte Naturwissenschaft	w
+X	ასტროფიზიკა	n	Astrophysik	w
+X	ატომი	n	kleinstes, nicht mehr chemisch weiter teilbares Teilchen mit ausgeglichener elektrischer…	w
+X	აქლემად	n	Adverbial Singular des Substantivs აქლემი	w
+X	აქლემებად	n	Adverbial Plural des Substantivs აქლემი	w
+X	აქლემები	n	Nominativ Plural des Substantivs აქლემი	w
+X	აქლემებით	n	Instrumental Plural des Substantivs აქლემი	w
+X	აქლემების	n	Genitiv Plural des Substantivs აქლემი	w
+X	აქლემებმა	n	Narrativ Plural des Substantivs აქლემი	w
+X	აქლემებო	n	Vokativ Plural des Substantivs აქლემი	w
+X	აქლემებს	n	Dativ Plural des Substantivs აქლემი	w
+X	აქლემთ	n	Narrativ Plural des Substantivs აქლემი ; Dativ Plural des Substantivs აქლემი ; Genitiv Plural des Substantivs აქლემი	w
+X	აქლემთა	n	Narrativ Plural des Substantivs აქლემი ; Dativ Plural des Substantivs აქლემი ; Genitiv Plural des Substantivs აქლემი	w
+X	აქლემი	n	großes Säugetier, das in Wüsten und Steppen beheimatet ist und als Last- und Reittier die…	w
+X	აქლემით	n	Instrumental Singular des Substantivs აქლემი	w
+X	აქლემის	n	Genitiv Singular des Substantivs აქლემი	w
+X	აქლემმა	n	Narrativ Singular des Substantivs აქლემი	w
+X	აქლემნი	n	Nominativ Plural des Substantivs აქლემი	w
+X	აქლემნო	n	Nominativ Plural des Substantivs აქლემი	w
+X	აქლემო	n	Vokativ Singular des Substantivs აქლემი	w
+X	აქლემს	n	Dativ Singular des Substantivs აქლემი	w
+X	აშშ	abk	USA	w
+X	ბ		der zweite Buchstabe des georgischen Alphabets mit dem Namen Ban, georgisch ბანი (bani) ^…	w
+X	ბაბუა	n	Vater des Vaters oder der Mutter	w
+X	ბავშვი	n	direkter Nachkomme, unabhängig vom Alter ; junger, noch nicht volljähriger Mensch	w
+X	ბალად	n	Adverbial Singular des Substantivs ბალი	w
+X	ბალთ	n	Narrativ Plural des Substantivs ბალი ; Dativ Plural des Substantivs ბალი ; Genitiv Plural des Substantivs ბალი	w
+X	ბალთა	n	Verschluss an einem Gürtel oder Riemen ; Narrativ Plural des Substantivs ბალი ; Dativ Plural des Substantivs ბალი ; Genitiv Plural des Substantivs ბალი	w
+X	ბალი	n	Baumart aus der Gattung Prunus in der Familie der Rosengewächse, Vogelkirsche ; Kirschsorte, die an einem Baum der Gattung Prunus wächst ; festliche Veranstaltung, gesellschaftliches Ereignis meist mit Tanz	w
+X	ბალმა	n	Narrativ Singular des Substantivs ბალი	w
+X	ბალნი	n	Nominativ Plural des Substantivs ბალი	w
+X	ბალნო	n	Vokativ Plural des Substantivs ბალი	w
+X	ბალო	n	Vokativ Singular des Substantivs ბალი	w
+X	ბალს	n	Dativ Singular des Substantivs ბალი	w
+X	ბებია	n	Mutter des Vaters oder der Mutter	w
+X	ბიოლოგია	n	Biologie	w
+X	ბლებად	n	Adverbial Plural des Substantivs ბალი	w
+X	ბლები	n	Nominativ Plural des Substantivs ბალი	w
+X	ბლებით	n	Instrumental Plural des Substantivs ბალი	w
+X	ბლების	n	Genitiv Plural des Substantivs ბალი	w
+X	ბლებმა	n	Narrativ Plural des Substantivs ბალი	w
+X	ბლებო	n	Vokativ Plural des Substantivs ბალი	w
+X	ბლებს	n	Dativ Plural des Substantivs ბალი	w
+X	ბლით	n	Instrumental Singular des Substantivs ბალი	w
+X	ბლის	n	Genitiv Singular des Substantivs ბალი	w
+X	გ		der dritte Buchstabe des georgischen Alphabets mit dem Namen Gan, georgisch განი (gani) ^…	w
+X	გეოგრაფია	n	Geographie	w
+X	გერმანია	name	Deutschland	w
+X	გვირაბი	n	längere Unterführung, Durchbruch durch Bergmassive oder unter bebauten Flächen oder Gewäs…	w
+X	გიტარა	n	ein populäres Zupfinstrument mit vier bis zwölf Saiten	w
+X	გოგო	n	weibliches Kind ; junge Frau ; weibliche Hausangestellte	w
+X	გოგონა	n	Koseform zu გოგო; kleines Mädchen oder junge Frau	w
+X	დ		der vierte Buchstabe des georgischen Alphabets mit dem Namen Don, georgisch დონი (doni) ^…	w
+X	დანია	n	Staat im südlichen Skandinavien; Dänemark	w
+X	დარბაზი	n	großer Raum in einem Haus/Gebäude ; großes Gebäude mit mindestens einem großen (Versammlungs-)Raum	w
+X	დედა	n	weibliches Elternteil; eine Frau, welche Kinder geboren hat ; erwachsener, weiblicher Mensch, eine Frau ; Tier, das ein Junges geboren hat ; Anfang, Quelle, Ursprung von etwas Bestimmten ; ein von den Spielteilnehmern gewählter Leiter oder Leiterin eines Kinderspieles ; etwas heimisches oder geliebtes wie eine eigene Mutter ; Anrede von Würdenträgerinnen in Religionen ; Mitglied eines Frauenordens	w
+X	დედიკო	n	Koseform zu დედა; Mutti	w
+X	დეკემბერი	n	Dezember	w
+X	დიდედა	n	Mutter des Vaters oder der Mutter	w
+X	დილა მშვიდობისა	wend	guten Morgen	w
+X	ე		der fünfte Buchstabe des georgischen Alphabets mit dem Namen En, georgisch ენი (eni) ^(→…	w
+X	ევროპის კავშირი	n	Europäische Union	w
+X	ეზო	n	umgrenzter Platz, Wirtschafts- und Verkehrsfläche auf einem Grundstück, in der Regel von…	w
+X	ეკლესია	n	geweihter Versammlungsort einer christlichen Glaubensgemeinschaft, in dem unter anderem G… ; christliche Glaubensgemeinschaft ; Institution zur Organisation einer christlichen Glaubensgemeinschaft	w
+X	ეკლესიად	n	Adverbial Singular des Substantivs ეკლესია	w
+X	ეკლესიავ	n	Vokativ Singular des Substantivs ეკლესია	w
+X	ეკლესიათ	n	Narrativ Plural des Substantivs ეკლესია ; Dativ Plural des Substantivs ეკლესია ; Genitiv Plural des Substantivs ეკლესია	w
+X	ეკლესიათა	n	Narrativ Plural des Substantivs ეკლესია ; Dativ Plural des Substantivs ეკლესია ; Genitiv Plural des Substantivs ეკლესია	w
+X	ეკლესიამ	n	Narrativ Singular des Substantivs ეკლესია	w
+X	ეკლესიანი	n	Nominativ Plural des Substantivs ეკლესია	w
+X	ეკლესიანო	n	Vokativ Plural des Substantivs ეკლესია	w
+X	ეკლესიას	n	Dativ Singular des Substantivs ეკლესია	w
+X	ეკლესიებად	n	Adverbial Plural des Substantivs ეკლესია	w
+X	ეკლესიები	n	Nominativ Plural des Substantivs ეკლესია	w
+X	ეკლესიებით	n	Instrumental Plural des Substantivs ეკლესია	w
+X	ეკლესიების	n	Genitiv Plural des Substantivs ეკლესია	w
+X	ეკლესიებმა	n	Narrativ Plural des Substantivs ეკლესია	w
+X	ეკლესიებო	n	Vokativ Plural des Substantivs ეკლესია	w
+X	ეკლესიებს	n	Dativ Plural des Substantivs ეკლესია	w
+X	ეკლესიით	n	Instrumental Singular des Substantivs ეკლესია	w
+X	ეკლესიის	n	Genitiv Singular des Substantivs ეკლესია	w
+X	ეკოლოგია	n	Ökologie	w
+X	ენა	n	das bewegliche Organ im Mund, mit dem man schmeckt, schleckt, leckt, die Nahrung hin und… ; das Vermögen, die allgemeine Fähigkeit zu sprechen, sich zu verständigen; der Information… ; ein System von Einheiten und Regeln, das den Mitgliedern einer Sprachgemeinschaft als Mit… ; eine Varietät von 3, fachlich, regional, sozial, … bedingt ; Art der Sprachverwendung: Rede, Sprechweise, Schreibweise, Stil ; პროგრამირების ენა, Programmiersprache ; in eine Glocke gehängter am Ende verdickter Eisenstab, der beim Schwingen den Schlagring… ; bewegliche Lasche in der Mitte des Schuhs	w
+X	ვ		der sechste Buchstabe des georgischen Alphabets mit dem Namen Vin, georgisch ვინი (vini)…	w
+X	ვაშლად	n	Adverbial Singular des Substantivs ვაშლი	w
+X	ვაშლებად	n	Adverbial Plural des Substantivs ვაშლი	w
+X	ვაშლები	n	Nominativ Plural des Substantivs ვაშლი	w
+X	ვაშლებით	n	Instrumental Plural des Substantivs ვაშლი	w
+X	ვაშლების	n	Genitiv Plural des Substantivs ვაშლი	w
+X	ვაშლებმა	n	Narrativ Plural des Substantivs ვაშლი	w
+X	ვაშლებო	n	Vokativ Plural des Substantivs ვაშლი	w
+X	ვაშლებს	n	Dativ Plural des Substantivs ვაშლი	w
+X	ვაშლთ	n	Narrativ Plural des Substantivs ვაშლი ; Dativ Plural des Substantivs ვაშლი ; Genitiv Plural des Substantivs ვაშლი	w
+X	ვაშლთა	n	Narrativ Plural des Substantivs ვაშლი ; Dativ Plural des Substantivs ვაშლი ; Genitiv Plural des Substantivs ვაშლი	w
+X	ვაშლი	n	ein Obstbaum, der Äpfel als Früchte trägt; Apfelbaum ; Frucht des Apfelbaums	w
+X	ვაშლით	n	Instrumental Singular des Substantivs ვაშლი	w
+X	ვაშლის	n	Genitiv Singular des Substantivs ვაშლი	w
+X	ვაშლმა	n	Narrativ Singular des Substantivs ვაშლი	w
+X	ვაშლნი	n	Nominativ Plural des Substantivs ვაშლი	w
+X	ვაშლნო	n	Vokativ Plural des Substantivs ვაშლი	w
+X	ვაშლო	n	Vokativ Singular des Substantivs ვაშლი	w
+X	ვაშლს	n	Dativ Singular des Substantivs ვაშლი	w
+X	ვიქსიკონი	n	Wikiwörterbuch	w
+X	ზ		der siebte Buchstabe des georgischen Alphabets mit dem Namen Zen, georgisch ზენი (zeni) ^…	w
+X	ზაფხული	n	Sommer	w
+X	ზვიგენი	n	im Meer lebender Raubfisch (Überordnung Selachii) aus der Klasse der Knorpelfische	w
+X	ზურგჩანთა	n	Rucksack; sackartige, beutelartige, verschnürbare oder verschließbare, aus Stoff, Leder o…	w
+X	ზღარბი	n	stachelhäutiges Säugetier aus der Familie Erinaceidae	w
+X	თ		der ursprünglich neunte und aktuell achte Buchstabe des georgischen Alphabets mit dem Nam…	w
+X	თაგვი	n	Maus; Kleines graues oder braunes Säugetier mit überwiegend langem Schwanz, rattenähnlich…	w
+X	თაფლი	n	von Honigbienen hergestelltes Produkt aus Nektar oder Pflanzenlaussekreten und Speichel,…	w
+X	თბილისი	name	Hauptstadt Georgiens; Tiflis/Tbilissi	w
+X	თებერვალი	n	Februar	w
+X	თევზი	n	Tier, das unter Wasser lebt und durch Kiemen atmet; Fisch	w
+X	თითი	n	ein bewegliches Glied der Hand oder der entsprechende Teil des Fußes eines Menschen oder… ; eine alte georgische Maßeinheit der Länge, die etwa 2,1 Zentimeter entspricht	w
+X	თმა	n	einzelnes Haar, das auf dem Kopf wächst ; Gesamtheit der Kopfhaare einer Person ; Haare, die auf dem Körper von Menschen und Säugetieren wachsen	w
+X	თმად	n	Adverbial Singular des Substantivs თმა	w
+X	თმათ	n	Narrativ Plural des Substantivs თმა ; Dativ Plural des Substantivs თმა ; Genitiv Plural des Substantivs თმა	w
+X	თმათა	n	Narrativ Plural des Substantivs თმა ; Dativ Plural des Substantivs თმა ; Genitiv Plural des Substantivs თმა	w
+X	თმამ	n	Narrativ Singular des Substantivs თმა	w
+X	თმანი	n	Nominativ Plural des Substantivs თმა	w
+X	თმანო	n	Vokativ Plural des Substantivs თმა	w
+X	თმაო	n	Vokativ Singular des Substantivs თმა	w
+X	თმას	n	Dativ Singular des Substantivs თმა	w
+X	თმებად	n	Adverbial Plural des Substantivs თმა	w
+X	თმები	n	Nominativ Plural des Substantivs თმა	w
+X	თმებით	n	Instrumental Plural des Substantivs თმა	w
+X	თმების	n	Genitiv Plural des Substantivs თმა	w
+X	თმებმა	n	Narrativ Plural des Substantivs თმა	w
+X	თმებო	n	Vokativ Plural des Substantivs თმა	w
+X	თმებს	n	Dativ Plural des Substantivs თმა	w
+X	თმით	n	Instrumental Singular des Substantivs თმა	w
+X	თმის	n	Genitiv Singular des Substantivs თმა	w
+X	თუთიყუში	n	in den Tropen beheimateter, in zahlreichen Arten vorkommender auffällig (leuchtend) farbi…	w
+X	თქვენ	pron	2. Person Plural, ihr ; die offizielle Anrede (im Geschäftsleben, in und an Behörden, privat unter Erwachsenen) a…	w
+X	ი		der ursprünglich zehnte und aktuell neunte Buchstabe des georgischen Alphabets mit dem Na…	w
+X	ია	n,name	kleine, meist violettfarben blühende, stark duftende Blume der Gattung Viola, Veilchen ; weiblicher Vorname (kein Pl.)	w
+X	იად	n	Adverbial Singular des Substantivs ია	w
+X	იავ	n	Vokativ Singular des Substantivs ია	w
+X	იათ	n	Narrativ Plural des Substantivs ია ; Dativ Plural des Substantivs ია ; Genitiv Plural des Substantivs ია	w
+X	იათა	n	Narrativ Plural des Substantivs ია ; Dativ Plural des Substantivs ია ; Genitiv Plural des Substantivs ია	w
+X	იამ	n	Narrativ Singular des Substantivs ია	w
+X	იანვარი	n	Januar	w
+X	იანი	n	Yang, das männliche Prinzip in der chinesischen Naturphilosophie ; Nominativ Plural des Substantivs ია	w
+X	იანო	n	Vokativ Plural des Substantivs ია	w
+X	იაპონია	n	Staat und Inselgruppe in Ostasien; Japan	w
+X	იას	n	Dativ Singular des Substantivs ია	w
+X	იებად	n	Adverbial Plural des Substantivs ია	w
+X	იები	n	Nominativ Plural des Substantivs ია	w
+X	იებით	n	Instrumental Plural des Substantivs ია	w
+X	იების	n	Genitiv Plural des Substantivs ია	w
+X	იებმა	n	Narrativ Plural des Substantivs ია	w
+X	იებო	n	Vokativ Plural des Substantivs ია	w
+X	იებს	n	Dativ Plural des Substantivs ია	w
+X	ივლისი	n	Juli	w
+X	ივნისი	n	Juni	w
+X	იით	n	Instrumental Singular des Substantivs ია	w
+X	იის	n	Genitiv Singular des Substantivs ია	w
+X	ირანი	n	Iran	w
+X	ის	pron	er, sie, es	w
+X	ისინი	pron	sie (3. Person Plural)	w
+X	კ		der ursprünglich elfte und aktuell zehnte Buchstabe des georgischen Alphabets mit dem Nam…	w
+X	კარადა	n	geschlossenes Möbelstück, meistens mit Türen und zusätzlich optional auch Schubladen	w
+X	კარტოფილი	n	Kartoffel, eine Nutzpflanze mit weiß-bläulichen Blüten und grünen Beeren ; eine essbare Knolle von der gleichnamigen Pflanze	w
+X	კატა	n	dem Menschen verbundenes, anschmiegsames Haustier (Felis silvestris catus), in zahlreiche… ; eine zu den Kleinkatzen gehörende Gattung der Katzen; Echten Katzen	w
+X	კერძი	n	zubereitete Speise als eine Mahlzeit ; Anteil, zugeteilte Menge (insbesondere eines Gerichts) ; Anhänger, Unterstützer oder „rechte Hand“ jemandes	w
+X	კვერცხად	n	Adverbial Singular des Substantivs კვერცხი	w
+X	კვერცხებად	n	Adverbial Plural des Substantivs კვერცხი	w
+X	კვერცხები	n	Nominativ Plural des Substantivs კვერცხი	w
+X	კვერცხებით	n	Instrumental Plural des Substantivs კვერცხი	w
+X	კვერცხების	n	Genitiv Plural des Substantivs კვერცხი	w
+X	კვერცხებმა	n	Narrativ Plural des Substantivs კვერცხი	w
+X	კვერცხებო	n	Vokativ Plural des Substantivs კვერცხი	w
+X	კვერცხებს	n	Dativ Plural des Substantivs კვერცხი	w
+X	კვერცხთ	n	Narrativ Plural des Substantivs კვერცხი ; Dativ Plural des Substantivs კვერცხი ; Genitiv Plural des Substantivs კვერცხი	w
+X	კვერცხთა	n	Narrativ Plural des Substantivs კვერცხი ; Dativ Plural des Substantivs კვერცხი ; Genitiv Plural des Substantivs კვერცხი	w
+X	კვერცხი	n	eine Keimzelle ; ein Schalengebilde, in dem sich der Embryo oviparer Tierarten (zum Beispiel Vögel) bildet ; Inneres von Eiern als Nahrungsmittel ; die Hoden ; Maßeinheit der Masse, die etwa 50 Gramm entspricht	w
+X	კვერცხით	n	Instrumental Singular des Substantivs კვერცხი	w
+X	კვერცხის	n	Genitiv Singular des Substantivs კვერცხი	w
+X	კვერცხმა	n	Narrativ Singular des Substantivs კვერცხი	w
+X	კვერცხნი	n	Nominativ Plural des Substantivs კვერცხი	w
+X	კვერცხნო	n	Vokativ Plural des Substantivs კვერცხი	w
+X	კვერცხო	n	Vokativ Singular des Substantivs კვერცხი	w
+X	კვერცხს	n	Dativ Singular des Substantivs კვერცხი	w
+X	კირქვა	n	äußerst variables, überwiegend aus Calciumcarbonat bestehendes Sedimentgestein mit großer…	w
+X	კოშკი	n	hohes, schlankes, freistehendes Gebäude ; schlank aufragender Gebäudeteil	w
+X	კრამიტი	n	Bauteil, meist aus gebranntem Ton, zum Eindecken von Dächern	w
+X	კუ	n	im Wasser und an Land lebendes Reptil mit Schutzpanzer ; Schachfigur, die man nur diagonal bewegen darf ; Schildkrötenformation, eine militärisch-taktische Formation des römischen Heeres	w
+X	ლ		der ursprünglich zwölfte und aktuell elfte Buchstabe des georgischen Alphabets mit dem Na…	w
+X	ლაქა	n	Stelle, die andersfarbig ist ; Stelle, die verschmutzt (und schlecht) ist	w
+X	ლექსი	n	lyrisches sprachliches Kunstwerk, das meist schriftlich und in Strophen- und Versform vor…	w
+X	ლიმონი	n	eine gelbe Zitrusfrucht; Zitrone ; ein halbtropischer immergrüner Baum	w
+X	ლუდი	n	aus Hopfen, Malz und Wasser gebrautes (meistens) alkoholisches Getränk	w
+X	მ		der ursprünglich dreizehnte und aktuell zwölfte Buchstabe des georgischen Alphabets mit d…	w
+X	მაგიდა	n	Möbelstück, das aus einer Platte mit vier oder drei Beinen oder mittigen Standfuß besteht…	w
+X	მაისი	n	Mai	w
+X	მამა	n	männlicher Elternteil ; erwachsener, männlicher Mensch ; Partner der Muttertier bei der Zeugung von Nachwuchs ; die Ahnen ; Gott, Schöpfer ; Titel oder Anrede für Geistliche	w
+X	მართლწერა	n	eine durch Regeln festgelegte, allgemein gültige Schreibung für Wörter einer bestimmten S…	w
+X	მართლწინააღმდეგობა	n	Unvereinbarkeit der Handlung mit der Rechtsordnung; Rechtswidrigkeit	w
+X	მართლწინააღმდეგობად	n	Adverbial Singular des Substantivs მართლწინააღმდეგობა	w
+X	მართლწინააღმდეგობავ	n	Vokativ Singular des Substantivs მართლწინააღმდეგობა	w
+X	მართლწინააღმდეგობამ	n	Narrativ Singular des Substantivs მართლწინააღმდეგობა	w
+X	მართლწინააღმდეგობას	n	Dativ Singular des Substantivs მართლწინააღმდეგობა	w
+X	მართლწინააღმდეგობით	n	Instrumental Singular des Substantivs მართლწინააღმდეგობა	w
+X	მართლწინააღმდეგობის	n	Genitiv Singular des Substantivs მართლწინააღმდეგობა	w
+X	მარტი	n	März	w
+X	მარწყვი	n	ein Vertreter der Fragaria, der Gattung in der Unterfamilie der Rosoideae innerhalb der F… ; eine genießbare, rote Frucht dieser Pflanze; Erdbeere	w
+X	მასპინძელი	n	jemand, der jemanden als Gast zu sich einlädt; bei sich zu Gast hat ; derjenige oder diejenigen Teilnehmer an einer Veranstaltung, in dessen/deren Räumlichkeit…	w
+X	მაცივარი	n	schrankförmiges Behältnis zur Kühlung und Aufbewahrung von leicht verderblichen Lebensmit…	w
+X	მგზავრი	n	jemand, der ein Verkehrsmittel benutzt, ohne es selbst zu steuern	w
+X	მდინარე	n	ein natürliches, linienhaft fließendes Gewässer auf Landoberflächen	w
+X	მე	pron	ich	w
+X	მერქანი	n	aus Zellulose und Lignin bestehende Masse eines Baumes, Holz	w
+X	მეხამრიდი	n	technische Schutzeinrichtung an Gebäuden, die äußerlich einen Blitzeinschlag ins Erdreich…	w
+X	მეხსარიდი	n	technische Schutzeinrichtung an Gebäuden, die äußerlich einen Blitzeinschlag ins Erdreich…	w
+X	მზე	n	der Erde nächster Stern, Zentrum unseres Sonnensystems ; Sonnenschein oder -licht ; übertr. Quelle des Lebens ; allgemeine Bezeichnung für irgendeinen Stern	w
+X	მზედ	n	Adverbial Singular des Substantivs მზე	w
+X	მზეებად	n	Adverbial Plural des Substantivs მზე	w
+X	მზეები	n	Nominativ Plural des Substantivs მზე	w
+X	მზეებით	n	Instrumental Plural des Substantivs მზე	w
+X	მზეების	n	Genitiv Plural des Substantivs მზე	w
+X	მზეებმა	n	Narrativ Plural des Substantivs მზე	w
+X	მზეებო	n	Vokativ Plural des Substantivs მზე	w
+X	მზეებს	n	Dativ Plural des Substantivs მზე	w
+X	მზეთ	n	Narrativ Plural des Substantivs მზე ; Dativ Plural des Substantivs მზე ; Genitiv Plural des Substantivs მზე	w
+X	მზეთა	n	Narrativ Plural des Substantivs მზე ; Dativ Plural des Substantivs მზე ; Genitiv Plural des Substantivs მზე	w
+X	მზემ	n	Narrativ Singular des Substantivs მზე	w
+X	მზენი	n	Nominativ Plural des Substantivs მზე	w
+X	მზენო	n	Vokativ Plural des Substantivs მზე	w
+X	მზეო	n	Vokativ Singular des Substantivs მზე	w
+X	მზეს	n	Dativ Singular des Substantivs მზე	w
+X	მზით	n	Instrumental Singular des Substantivs მზე	w
+X	მზის	n	Genitiv Singular des Substantivs მზე	w
+X	მთა	n	große, steile Erhebung auf der Landoberfläche der Erde ; eine von Bergen geprägte Region	w
+X	მთად	n	Adverbial Singular des Substantivs მთა	w
+X	მთათ	n	Narrativ Plural des Substantivs მთა ; Dativ Plural des Substantivs მთა ; Genitiv Plural des Substantivs მთა	w
+X	მთათა	n	Narrativ Plural des Substantivs მთა ; Dativ Plural des Substantivs მთა ; Genitiv Plural des Substantivs მთა	w
+X	მთამ	n	Narrativ Singular des Substantivs მთა	w
+X	მთანი	n	Nominativ Plural des Substantivs მთა	w
+X	მთანო	n	Vokativ Plural des Substantivs მთა	w
+X	მთაო	n	Vokativ Singular des Substantivs მთა	w
+X	მთას	n	Dativ Singular des Substantivs მთა	w
+X	მთებად	n	Adverbial Plural des Substantivs მთა	w
+X	მთები	n	Nominativ Plural des Substantivs მთა	w
+X	მთებით	n	Instrumental Plural des Substantivs მთა	w
+X	მთების	n	Genitiv Plural des Substantivs მთა	w
+X	მთებმა	n	Narrativ Plural des Substantivs მთა	w
+X	მთებო	n	Vokativ Plural des Substantivs მთა	w
+X	მთებს	n	Dativ Plural des Substantivs მთა	w
+X	მთვარე	n	der die Erde umkreisende natürliche Satellit, der Mond, der Erdmond (kein Pl.) ; Himmelskörper, der einen Planeten umkreist ; kurz für den Halbmond, ein Symbol in Flaggen und Wappen	w
+X	მთვარედ	n	Adverbial Singular des Substantivs მთვარე	w
+X	მთვარეებად	n	Adverbial Plural des Substantivs მთვარე	w
+X	მთვარეები	n	Nominativ Plural des Substantivs მთვარე	w
+X	მთვარეებით	n	Instrumental Plural des Substantivs მთვარე	w
+X	მთვარეების	n	Genitiv Plural des Substantivs მთვარე	w
+X	მთვარეებმა	n	Narrativ Plural des Substantivs მთვარე	w
+X	მთვარეებო	n	Vokativ Plural des Substantivs მთვარე	w
+X	მთვარეებს	n	Dativ Plural des Substantivs მთვარე	w
+X	მთვარეთ	n	Narrativ Plural des Substantivs მთვარე ; Dativ Plural des Substantivs მთვარე ; Genitiv Plural des Substantivs მთვარე	w
+X	მთვარეთა	n	Narrativ Plural des Substantivs მთვარე ; Dativ Plural des Substantivs მთვარე ; Genitiv Plural des Substantivs მთვარე	w
+X	მთვარემ	n	Narrativ Singular des Substantivs მთვარე	w
+X	მთვარენი	n	Nominativ Plural des Substantivs მთვარე	w
+X	მთვარენო	n	Vokativ Plural des Substantivs მთვარე	w
+X	მთვარეო	n	veraltet: Vokativ Singular des Substantivs მთვარე	w
+X	მთვარეს	n	Dativ Singular des Substantivs მთვარე	w
+X	მთვარით	n	Instrumental Singular des Substantivs მთვარე	w
+X	მთვარის	n	Genitiv Singular des Substantivs მთვარე	w
+X	მთით	n	Instrumental Singular des Substantivs მთა	w
+X	მთის	n	Genitiv Singular des Substantivs მთა	w
+X	მიზეზი	n	vorhergehender Sachverhalt, der einen momentanen Sachverhalt wesentlich bestimmt hat ; eine Erklärung oder Angabe eines Grundes zur Rechtfertigung eines Fehlers oder Vergehenes	w
+X	მიწა	n	die nicht von Meer bedeckte Erdoberfläche ; lockere, obere Erdschicht ; Gebiet im Besitz von Menschen ; abgrenzbares, historisch oder natürlich zusammengehöriges Gebiet	w
+X	მონეტა	n	flaches, meist kreisförmiges und geprägtes Stück Metall, das als Zahlungsmittel benutzt w…	w
+X	მოქალაქე	n	Person, die Bürger eines bestimmten Staates ist; der oder die Staatsangehörige ; Einwohner einer Stadt ; Angehöriger der Mittelschicht, des Bürgertums, insbesondere in der Stadt Tiflis	w
+X	მოქალაქედ	n	Adverbial Singular des Substantivs მოქალაქე	w
+X	მოქალაქეებად	n	Adverbial Plural des Substantivs მოქალაქე	w
+X	მოქალაქეები	n	Nominativ Plural des Substantivs მოქალაქე	w
+X	მოქალაქეებით	n	Instrumental Plural des Substantivs მოქალაქე	w
+X	მოქალაქეების	n	Genitiv Plural des Substantivs მოქალაქე	w
+X	მოქალაქეებმა	n	Narrativ Plural des Substantivs მოქალაქე	w
+X	მოქალაქეებო	n	Vokativ Plural des Substantivs მოქალაქე	w
+X	მოქალაქეებს	n	Dativ Plural des Substantivs მოქალაქე	w
+X	მოქალაქევ	n	Vokativ Singular des Substantivs მოქალაქე	w
+X	მოქალაქეთ	n	Narrativ Plural des Substantivs მოქალაქე ; Dativ Plural des Substantivs მოქალაქე ; Genitiv Plural des Substantivs მოქალაქე	w
+X	მოქალაქეთა	n	Narrativ Plural des Substantivs მოქალაქე ; Dativ Plural des Substantivs მოქალაქე ; Genitiv Plural des Substantivs მოქალაქე	w
+X	მოქალაქემ	n	Narrativ Singular des Substantivs მოქალაქე	w
+X	მოქალაქენი	n	Nominativ Plural des Substantivs მოქალაქე	w
+X	მოქალაქენო	n	Vokativ Plural des Substantivs მოქალაქე	w
+X	მოქალაქეს	n	Dativ Singular des Substantivs მოქალაქე	w
+X	მოქალაქით	n	Instrumental Singular des Substantivs მოქალაქე	w
+X	მოქალაქის	n	Genitiv Singular des Substantivs მოქალაქე	w
+X	მჟავა	n	chemische Verbindung, die im Zuge einer Säure-Base-Reaktion Protonen abgeben kann	w
+X	მსხალი	n	Obstbaumart ; grün-gelbliche Frucht dieses Obstbaumes	w
+X	მტერი	n	Person oder Gruppe mit negativer Beziehung zu einer anderen ; Gegner in einem Krieg oder in einer Schlacht ; Etwas, was allgemein schädlich ist; eine als Bedrohung wahrgenommene natürliche Erscheinu…	w
+X	მუცელი	n	Bauch	w
+X	მცენარე	n	eukaryotischer Organismus, der meist in der Lage ist Photosynthese zu betreiben; Pflanze	w
+X	მწერი	n	Entomologie, Zoologie: mehrzelliges, gliederfüßiges Tier mit sechs Beinen	w
+X	ნ		der ursprünglich vierzehnte und aktuell dreizehnte Buchstabe des georgischen Alphabets mi…	w
+X	ნაგებობა	n	von Menschen gebauter, ortsfester Gegenstand	w
+X	ნაპრალი	n	tiefer Gesteinsriss, Spalt im Fels oder Erdboden	w
+X	ნატო	abk	Abkürzung für ჩრდილოატლანტიკური თანამშრომლობის ორგანიზაცია	w
+X	ნიორი	n	Gewürz- und Heilpflanze aus der Familie der Zwiebelgewächse mit der essbaren Wurzelknolle	w
+X	ნოემბერი	n	November	w
+X	ო		der ursprünglich sechszehnte und aktuell vierzehnte Buchstabe des georgischen Alphabets m…	w
+X	ობობა	n	achtbeiniges Gliedertier; Spinne	w
+X	ოთახი	n	Raum in einem Haus oder einer Wohnung, der für den Aufenthalt von Personen bestimmt ist	w
+X	ოქტომბერი	n	Oktober	w
+X	პ		der ursprünglich siebzehnte und aktuell fünfzehnte Buchstabe des georgischen Alphabets mi…	w
+X	პაპა	n	Vater des Vaters oder der Mutter	w
+X	პეპელა	n	Insekt mit farbig beschuppten Flügeln (Ordnung Lepidoptera); Schmetterling	w
+X	პლანეტა	n	der Planet	w
+X	პური	n	aus hauptsächlich Mehl, Wasser und Salz gebackenes Nahrungsmittel ; eine Getreideart, Weizen	w
+X	ჟ	num	sechzehnter georgischer Buchstabe mit dem Namen Schan ; Ziffern 90 im georgischen Zahlensystem	w
+X	რ	num	siebzehnter georgischer Buchstabe mit dem Namen Rae (georgisch რაე (rae) ^(→ ka)) ; Ziffern 100 im alten georgischen Zahlensystem	w
+X	რკუ	n	Schachfigur, die man nur diagonal bewegen darf	w
+X	როგორ	adv	wie, auf welche Weise	w
+X	ს	num	achtzehnter georgischer Buchstabe mit dem Namen San (georgisch სან-ი (san-i) ^(→ ka)) ; Ziffern 200 im alten georgischen Zahlensystem	w
+X	საბჭოთა კავშირი	name	Sowjetunion	w
+X	საბჭოთა სოციალისტური რესპუბლიკების კავშირი	name	Union der Sozialistischen Sowjetrepubliken	w
+X	საიდუმლო	adj,n	verborgene Handlung oder Information, Geheimnis ; ungelöste Fragestellung, ein Mysterium, ein Rätsel ; christliche Theologie: rituelle Handlung, die die unsichtbare Gnade Gottes wahrnehmbar üb… ; im Verborgenen, ohne das Wissen anderer ; mit einem Rätsel behaftet, von einem Rätsel umgeben	w
+X	საიდუმლოდ	n	Adverbial Singular des Substantivs საიდუმლო	w
+X	საიდუმლოება	n	ungelöste Fragestellung, ein Mysterium, ein Rätsel ; verborgene Handlung oder Information, Geheimnis ; christliche Theologie: rituelle Handlung, die die unsichtbare Gnade Gottes wahrnehmbar üb…	w
+X	საიდუმლოებად	n	Adverbial Plural des Substantivs საიდუმლო	w
+X	საიდუმლოები	n	Nominativ Plural des Substantivs საიდუმლო	w
+X	საიდუმლოებით	n	Instrumental Plural des Substantivs საიდუმლო	w
+X	საიდუმლოების	n	Genitiv Plural des Substantivs საიდუმლო	w
+X	საიდუმლოებმა	n	Narrativ Plural des Substantivs საიდუმლო	w
+X	საიდუმლოებო	n	Vokativ Plural des Substantivs საიდუმლო	w
+X	საიდუმლოებს	n	Dativ Plural des Substantivs საიდუმლო	w
+X	საიდუმლოვ	n	Vokativ Singular des Substantivs საიდუმლო	w
+X	საიდუმლოთ	n	Narrativ Plural des Substantivs საიდუმლო ; Dativ Plural des Substantivs საიდუმლო ; Genitiv Plural des Substantivs საიდუმლო	w
+X	საიდუმლოთა	n	Narrativ Plural des Substantivs საიდუმლო ; Dativ Plural des Substantivs საიდუმლო ; Genitiv Plural des Substantivs საიდუმლო	w
+X	საიდუმლოთი	n	Instrumental Singular des Substantivs საიდუმლო	w
+X	საიდუმლომ	n	Narrativ Singular des Substantivs საიდუმლო	w
+X	საიდუმლონი	n	Nominativ Plural des Substantivs საიდუმლო	w
+X	საიდუმლონო	n	Vokativ Plural des Substantivs საიდუმლო	w
+X	საიდუმლოს	n	Dativ Singular des Substantivs საიდუმლო ; Genitiv Singular des Substantivs საიდუმლო	w
+X	საიდუმლოსი	n	Genitiv Singular des Substantivs საიდუმლო	w
+X	სანთელი	n	Leuchtmittel mit offener Flamme; bestehend aus Wachs ; Wachs; Ester aus Fettsäuren und langkettigen Alkoholen	w
+X	სარკე	n	polierte Glas- oder Metallfläche, die Lichtstrahlen spiegelt oder reflektiert; Spiegel	w
+X	საქართველო	name	eurasischer Staat im Südkaukasus (Transkaukasien)	w
+X	საჭე	n	Vorrichtung zum Lenken eines Fahrzeuges, Flugzeuges oder Schiffes	w
+X	სახლი	n	zum Wohnen dienendes und genutztes Gebäude ; Gesamtheit der Bewohner eines Hauses oder Familienmitglieder, die gemeinsam wohnen ; aus mehreren Räumen bestehender, abgetrennter Bereich innerhalb eines Hauses, in dem sich…	w
+X	სექტემბერი	n	September	w
+X	სითხე	n	Materie in einem Aggregatzustand, in dem die Anordnung der Moleküle verschiebbar (im Gege…	w
+X	სკამი	n	Sitzmöbel, meist mit vier hohen Beinen, Rückenlehne und eventuell Armlehnen; Stuhl	w
+X	სომხეთი	n	Armenien	w
+X	სპორტი	n	Sport	w
+X	სსრკ	name	UdSSR	w
+X	ტ	num	neunzehnter georgischer Buchstabe mit dem Namen Tar (georgisch ტარ-ი (tar-i) ^(→ ka)) ; Ziffern 300 im alten georgischen Zahlensystem	w
+X	ტაბლეტი	n	Arzneimittel, Nahrungsergänzungsmittel oder anderes Mittel, welches zur bequemen, Einnahm…	w
+X	ტბა	n	stehendes Gewässer, das von Land umgeben ist; der See	w
+X	ტყე	n	größere von Bäumen dicht bewachsene Fläche	w
+X	ტყემალი	n	Kirschpflaume, eine Pflanzenart in der Familie der Rosengewächse ; Frucht der Kirschpflaume ; eine georgische scharf-saure Sauce, die aus gekochten Kirschpflaumen und mit verschiedene…	w
+X	ტყუილს მოკლე ფეხები აქვს	wend	Lügen lohnt sich nicht, weil die Wahrheit irgendwann doch herauskommt	w
+X	უ	num	zwanzigster georgischer Buchstabe mit dem Namen Un (georgisch უნ (un) ^(→ ka)) ; Ziffern 400 im alten georgischen Zahlensystem	w
+X	უამინდობა	n	schlechtes Wetter, Unwetter	w
+X	უდაბნო	n	(fast) wasserlose Gegend; Wüste	w
+X	უთო	n	Gerät zum Glätten (Bügeln) und In-Form-Bringen von Kleidungsstücken; Bügeleisen	w
+X	ულუფა	n	Anteil, abgemessene Menge (insbesondere eines Gerichts)	w
+X	უნარი	n	der angeborene und erworbene Zustand, zu etwas imstande zu sein ; (erworbene) Fähigkeit, etwas Bestimmtes zu können ; die außerordentliche Begabung einer Person in einem bestimmten Gebiet	w
+X	ფანქარი	n	Schreibgerät aus Holz mit einer Mine bestehend aus Graphit; Bleistift ; Kurzform für ფერადი ფანქარი, ein bleistiftähnliches Schreibgerät mit farbiger Mine; Bunts…	w
+X	ფაქტორი	n	der Faktor	w
+X	ფესვი	n	Organ, mit dem sich Pflanzen auf oder im Untergrund verankern und Nährstoffe aufnehmen ; Ort oder Sache, aus dem etwas oder jemand hervorgegangen ist ; kurz für კვადრატული ფესვი, Quadratwurzel ; Zahl, die sich aus dem Wurzelziehen, oder auch Radizieren, ergibt	w
+X	ფილმად	n	Adverbial Singular des Substantivs ფილმი	w
+X	ფილმებად	n	Adverbial Plural des Substantivs ფილმი	w
+X	ფილმები	n	Nominativ Plural des Substantivs ფილმი	w
+X	ფილმებით	n	Instrumental Plural des Substantivs ფილმი	w
+X	ფილმების	n	Genitiv Plural des Substantivs ფილმი	w
+X	ფილმებმა	n	Narrativ Plural des Substantivs ფილმი	w
+X	ფილმებო	n	Vokativ Plural des Substantivs ფილმი	w
+X	ფილმებს	n	Dativ Plural des Substantivs ფილმი	w
+X	ფილმთ	n	Narrativ Plural des Substantivs ფილმი ; Dativ Plural des Substantivs ფილმი ; Genitiv Plural des Substantivs ფილმი	w
+X	ფილმთა	n	Narrativ Plural des Substantivs ფილმი ; Dativ Plural des Substantivs ფილმი ; Genitiv Plural des Substantivs ფილმი	w
+X	ფილმი	n	Abfolge von verschiedenen Bildern (heute in der Regel mit Tonspur und digital) ; Material für die Fotografie von statischen Bildern	w
+X	ფილმით	n	Instrumental Singular des Substantivs ფილმი	w
+X	ფილმის	n	Genitiv Singular des Substantivs ფილმი	w
+X	ფილმმა	n	Narrativ Singular des Substantivs ფილმი	w
+X	ფილმნი	n	Nominativ Plural des Substantivs ფილმი	w
+X	ფილმნო	n	Vokativ Plural des Substantivs ფილმი	w
+X	ფილმო	n	Vokativ Singular des Substantivs ფილმი	w
+X	ფილმს	n	Dativ Singular des Substantivs ფილმი	w
+X	ფილოსოფია	n	Philosophie	w
+X	ფირნიში	n	beschriftete Platte zu Informationszwecken; Verkehrs-, Firmen- oder Hinweisschild	w
+X	ფიჭა	n	sechseckiges Gebilde aus Bienenwachs, in dem die Bienenlarve lebt oder Pollen und Honig g…	w
+X	ფიჭვი	n	Nadelbaum der Gattung Pinus	w
+X	ფოთოლი	n	Organ einer Pflanze für Luftaustausch und Photosynthese; Blatt	w
+X	ფორთოხალი	n	Apfelsine, Orange als Frucht ; Orangenbaum	w
+X	ქალაქად	n	Adverbial Singular des Substantivs ქალაქი	w
+X	ქალაქებად	n	Adverbial Plural des Substantivs ქალაქი	w
+X	ქალაქები	n	Nominativ Plural des Substantivs ქალაქი	w
+X	ქალაქებით	n	Instrumental Plural des Substantivs ქალაქი	w
+X	ქალაქების	n	Genitiv Plural des Substantivs ქალაქი	w
+X	ქალაქებმა	n	Narrativ Plural des Substantivs ქალაქი	w
+X	ქალაქებო	n	Vokativ Plural des Substantivs ქალაქი	w
+X	ქალაქებს	n	Dativ Plural des Substantivs ქალაქი	w
+X	ქალაქთ	n	Narrativ Plural des Substantivs ქალაქი ; Dativ Plural des Substantivs ქალაქი ; Genitiv Plural des Substantivs ქალაქი	w
+X	ქალაქთა	n	Narrativ Plural des Substantivs ქალაქი ; Dativ Plural des Substantivs ქალაქი ; Genitiv Plural des Substantivs ქალაქი	w
+X	ქალაქი	n	meist größere, zivile, zentralisierte, abgegrenzte, häufig und oft historisch mit Stadtre… ; die Hauptstadt Georgiens, Tiflis ; die Bevölkerung einer Stadt	w
+X	ქალაქით	n	Instrumental Singular des Substantivs ქალაქი	w
+X	ქალაქის	n	Genitiv Singular des Substantivs ქალაქი	w
+X	ქალაქმა	n	Narrativ Singular des Substantivs ქალაქი	w
+X	ქალაქნი	n	Nominativ Plural des Substantivs ქალაქი	w
+X	ქალაქნო	n	Vokativ Plural des Substantivs ქალაქი	w
+X	ქალაქო	n	Vokativ Singular des Substantivs ქალაქი	w
+X	ქალაქს	n	Dativ Singular des Substantivs ქალაქი	w
+X	ქართული	n	die Sprache Georgisch	w
+X	ქარი	n	starke Bewegung der Luft; Wind	w
+X	ქაღალდი	n	dünnes, in Form von Blättern vorliegendes, organisches Material, das in der Regel aus ein… ; offizielles Dokument, Schriftsatz, Ausweis, Bescheinigung ; Spielkarte; Karte, die in einem Spiel eine bestimmte Information und/oder Bedeutung trägt	w
+X	ქვაბი	n	Behälter, in dem Lebensmittel erwärmt, erhitzt oder gekocht werden; Kochtopf ; durch natürliche Prozesse entstandener, für Menschen zugänglicher hohler Raum in der Erdk…	w
+X	ქვესკნელი	n	das unterirdische Totenreich in der Mythologie, Unterwelt	w
+X	ყავადანი	n	Behälter, in dem Kaffee zubereitet, warmgehalten, transportiert und serviert werden kann	w
+X	ყვავილი	n	Reproduktionsorgan der Blütenpflanzen, Blüte ; Pflanzen, die als Fortpflanzungsorgan echte Blüten ausbilden ; eine für den Menschen gefährliche und lebensbedrohliche Infektionskrankheit, die von Pock…	w
+X	ყველი	n	ein festes Milchprodukt; Käse	w
+X	შემოსასვლელი	n	Öffnung zum Betreten eines begrenzten Bereiches (zum Beispiel eines Gebäudes) aus der Per…	w
+X	შენ	pron	du	w
+X	შესავალი	n	am Beginn befindlicher, in der Regel eigenständiger Teil eines Schriftstückes oder Werkes ; Öffnung zum Betreten eines begrenzten Bereiches, z. B. eines Gebäudes ; das Geld, das jemand in einem bestimmten Zeitraum bekommt, meist als Lohn, Gehalt oder al…	w
+X	შესასვლელი	n	Öffnung zum Betreten eines begrenzten Bereiches (z. B. eines Gebäudes), insbesondere aus…	w
+X	შვილთაშვილი	n	männliches oder weibliches Kind von Enkel / Enkelin	w
+X	შვილი	n	direkter Nachkomme von Menschen und Tieren, unabhängig vom Alter ; einer Region/Kultur entstammende, in ihr verwurzelte Person	w
+X	შვილიშვილი	n	männliches oder weibliches Kind des eigenen Sohnes oder der eigenen Tochter	w
+X	შობა	n	Fest der Geburt Christi am 25. Dezember; Weihnachten	w
+X	ჩაიდანი	n	Kanne, in der Tee oder Kräuteraufgüsse zubereitet und warmgehalten werden und die zum Ser…	w
+X	ჩანთა	n	tragbares Behältnis mit Griff, Trage- oder Umhängeriemen zum Transport von Gegenständen;…	w
+X	ჩვენ	pron	wir	w
+X	ცეპელინი	n	bekanntester Luftschifftyp, Zeppelin	w
+X	ცვილი	n	Wachs; Ester aus Fettsäuren und langkettigen Alkoholen	w
+X	ცხენი	n	domestizierter großer Unpaarhufer; equus caballus ; Tier aus der Familie der Pferde (Equidae) ; als Pferd^(1) gestaltete Schachfigur; Springer	w
+X	ცხვირი	n	ein Geruchs- und Atmungsorgan in der Mitte des Gesichts ; ein hervorstehender, herausragender Teil von etwas (zum Beispiel eines Berges)	w
+X	ძაღლად	n	Adverbial Singular des Substantivs ძაღლი	w
+X	ძაღლებად	n	Adverbial Plural des Substantivs ძაღლი	w
+X	ძაღლები	n	Nominativ Plural des Substantivs ძაღლი	w
+X	ძაღლებით	n	Instrumental Plural des Substantivs ძაღლი	w
+X	ძაღლების	n	Genitiv Plural des Substantivs ძაღლი	w
+X	ძაღლებმა	n	Narrativ Plural des Substantivs ძაღლი	w
+X	ძაღლებო	n	Vokativ Plural des Substantivs ძაღლი	w
+X	ძაღლებს	n	Dativ Plural des Substantivs ძაღლი	w
+X	ძაღლთ	n	Narrativ Plural des Substantivs ძაღლი ; Dativ Plural des Substantivs ძაღლი ; Genitiv Plural des Substantivs ძაღლი	w
+X	ძაღლთა	n	Narrativ Plural des Substantivs ძაღლი ; Dativ Plural des Substantivs ძაღლი ; Genitiv Plural des Substantivs ძაღლი	w
+X	ძაღლი	n	Haustier, dessen Vorfahre der Wolf ist; Hund ; Schimpfwort: für einen gerissenen, gemeinen, hinterhältigen oder brutalen Mitmenschen ; veraltet: der hellste Fixstern des Himmels, Sirius	w
+X	ძაღლით	n	Instrumental Singular des Substantivs ძაღლი	w
+X	ძაღლის	n	Genitiv Singular des Substantivs ძაღლი	w
+X	ძაღლმა	n	Narrativ Singular des Substantivs ძაღლი	w
+X	ძაღლნი	n	Nominativ Plural des Substantivs ძაღლი	w
+X	ძაღლნო	n	Vokativ Plural des Substantivs ძაღლი	w
+X	ძაღლო	n	Vokativ Singular des Substantivs ძაღლი	w
+X	ძაღლს	n	Dativ Singular des Substantivs ძაღლი	w
+X	ძილად	n	Adverbial Singular des Substantivs ძილი	w
+X	ძილი	n	Zustand der äußeren Ruhe bei Menschen und Tieren; Schlaf ; Name des achtundzwanzigsten Zeichens (ძ) des georgischen Alphabets.	w
+X	ძილით	n	Instrumental Singular des Substantivs ძილი	w
+X	ძილის	n	Genitiv Singular des Substantivs ძილი	w
+X	ძილმა	n	Narrativ Singular des Substantivs ძილი	w
+X	ძილო	n	Vokativ Singular des Substantivs ძილი	w
+X	ძილს	n	Dativ Singular des Substantivs ძილი	w
+X	წამწამი	n	kleines Haar an den Augenlidern ; Fortsatz zur Fortbewegung bei einigen Protozoa	w
+X	წელიწადი	n	periodischer wiederkehrender Zeitraum, etwa ein Umlauf der Erde um die Sonne, 12 Monate,…	w
+X	წვიმა	n	kondensierter Wasserdampf, der als Wassertropfen zu Boden fällt; Regen	w
+X	წიგნი	n	eine Sammlung von bedruckten, beschriebenen, bemalten oder auch leeren Blättern aus Papie… ; literarische Publikation in Buchform ; Gliederungseinheit eines literarischen Werkes, auch bei umfangreichen Gesetzbüchern (z. B… ; geschriebene, verschlossene Mitteilung, die per Post oder Boten verschickt wird ; Fähigkeit zu schreiben und zu lesen ; ein Schriftliches Dokument	w
+X	ჭიანჭველა	n	staatenbildendes Insekt der Familie Formicidae; Ameise	w
+X	ჭუჭყი	n	Schmutz, Unsauberkeit, feuchter Dreck, Staub	w
+X	ხახვად	n	Adverbial Singular des Substantivs ხახვი	w
+X	ხახვებად	n	Adverbial Plural des Substantivs ხახვი	w
+X	ხახვები	n	Nominativ Plural des Substantivs ხახვი	w
+X	ხახვებით	n	Instrumental Plural des Substantivs ხახვი	w
+X	ხახვების	n	Genitiv Plural des Substantivs ხახვი	w
+X	ხახვებმა	n	Narrativ Plural des Substantivs ხახვი	w
+X	ხახვებო	n	Vokativ Plural des Substantivs ხახვი	w
+X	ხახვებს	n	Dativ Plural des Substantivs ხახვი	w
+X	ხახვთ	n	Narrativ Plural des Substantivs ხახვი ; Dativ Plural des Substantivs ხახვი ; Genitiv Plural des Substantivs ხახვი	w
+X	ხახვთა	n	Narrativ Plural des Substantivs ხახვი ; Dativ Plural des Substantivs ხახვი ; Genitiv Plural des Substantivs ხახვი	w
+X	ხახვი	n	essbare Kulturpflanze aus der Gruppe der Zwiebelgewächse (Alliaceae); Zwiebel	w
+X	ხახვით	n	Instrumental Singular des Substantivs ხახვი	w
+X	ხახვის	n	Genitiv Singular des Substantivs ხახვი	w
+X	ხახვმა	n	Narrativ Singular des Substantivs ხახვი	w
+X	ხახვნი	n	Nominativ Plural des Substantivs ხახვი	w
+X	ხახვნო	n	Vokativ Plural des Substantivs ხახვი	w
+X	ხახვო	n	Vokativ Singular des Substantivs ხახვი	w
+X	ხახვს	n	Dativ Singular des Substantivs ხახვი	w
+X	ხე	n	aus Wurzel, Stamm, Krone, Rinde, Ast, Zweig, Blatt, Laub bestehende Gehölzpflanze, Baum ; Holzmaterial, Holz	w
+X	ხედ	n	Adverbial Singular des Substantivs ხე	w
+X	ხეებად	n	Adverbial Plural des Substantivs ხე	w
+X	ხეები	n	Nominativ Plural des Substantivs ხე	w
+X	ხეებით	n	Instrumental Plural des Substantivs ხე	w
+X	ხეების	n	Genitiv Plural des Substantivs ხე	w
+X	ხეებმა	n	Narrativ Plural des Substantivs ხე	w
+X	ხეებო	n	Vokativ Plural des Substantivs ხე	w
+X	ხეებს	n	Dativ Plural des Substantivs ხე	w
+X	ხეთ	n	Narrativ Plural des Substantivs ხე ; Dativ Plural des Substantivs ხე ; Genitiv Plural des Substantivs ხე	w
+X	ხეთა	n	Narrativ Plural des Substantivs ხე ; Dativ Plural des Substantivs ხე ; Genitiv Plural des Substantivs ხე	w
+X	ხელი	n	Greiforgan bei Menschen und Affen ; obere Extremität, Arm und Hand zusammen ; derjenige Teil eines Gegenstandes, der dafür vorgesehen ist, dass man ihn ergreift, wenn… ; Satz mehrerer zusammengehöriger Gegenstände ; Durchlauf eines Spiels oder Sportwettkampfes ; spezielle Ausprägung der handgeschrieben Schrift einer bestimmten Person	w
+X	ხელშეკრულება	n	rechtlich bindende Vereinbarung zwischen mindestens zwei verschiedenen Partnern	w
+X	ხემ	n	Narrativ Singular des Substantivs ხე	w
+X	ხენი	n	Nominativ Plural des Substantivs ხე	w
+X	ხენო	n	Vokativ Plural des Substantivs ხე	w
+X	ხეო	n	Vokativ Singular des Substantivs ხე	w
+X	ხეს	n	Dativ Singular des Substantivs ხე	w
+X	ხიდი	n	künstlicher Weg zur Überquerung eines Hindernisses ; die Verbindung über eine Trennung ; festsitzender Zahnersatz, der in einem Lückengebiss einen oder mehrere fehlende Zähne ers…	w
+X	ხით	n	Instrumental Singular des Substantivs ხე	w
+X	ხის	n	Genitiv Singular des Substantivs ხე	w
+X	ხმელეთი	n	die nicht von Meer bedeckte Erdoberfläche	w
+X	ჯოგი	n	eine Herde von größeren Säugetieren der gleichen Art, insbesondere von Pferden	w
+X	ჯოხი	n	länglicher zylindrischer Gegenstand, meist aus Holz, Stock	w

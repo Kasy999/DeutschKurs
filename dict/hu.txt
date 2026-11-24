@@ -54386,1759 +54386,1759 @@ D	Čakavisch	das			ča nyelvjárás	e
 D	Łódź	das			Łódź	e
 D	Œuvre	das	Œuvres	n	mű, életmű	e
 D	Žilina	das			Zsolna	e
-X	A		erster Buchstabe (Majuskel) des ungarischen Alphabets
-X	a	art	die Artikel der, die und das existieren in der ungarischen Sprache nicht. Stattdessen ver… ; Wörter die mit einem Konsonanten (b, c, cs, d, f, g, gy, h, j, k, l, ly, m, n, p, q, r, s… ; erster Buchstabe (Minuskel) des ungarischen Alphabets
-X	abba	adv	darein
-X	abbahagy	v	etwas vorübergehend oder vollkommen unterbrechen
-X	abbamarad	v	etwas vorübergehend liegen lassen ; mit etwas vollkommen aufhören
-X	abban	adv	darin ; in dem, in der
-X	abbé	n	(der) Abt m
-X	abbéban	n	Inessiv Singular des Substantivs abbé
-X	abbéhoz	n	Allativ Singular des Substantivs abbé
-X	abbéig	n	Terminativ Singular des Substantivs abbé
-X	abbék	n	Nominativ Plural des Substantivs abbé
-X	abbékat	n	Akkusativ Plural des Substantivs abbé
-X	abbékban	n	Inessiv Plural des Substantivs abbé
-X	abbékhoz	n	Allativ Plural des Substantivs abbé
-X	abbékig	n	Terminativ Plural des Substantivs abbé
-X	abbékkal	n	Komitativ Plural des Substantivs abbé
-X	abbéknak	n	Dativ Plural des Substantivs abbé
-X	abbéknál	n	Adessiv Plural des Substantivs abbé
-X	abbénak	n	Dativ Singular des Substantivs abbé
-X	abbénál	n	Adessiv Singular des Substantivs abbé
-X	abbét	n	Akkusativ Singular des Substantivs abbé
-X	abbéval	n	Komitativ Singular des Substantivs abbé
-X	ablak	n	(das) Fenster n
-X	ablakban	n	Insessiv Singular des Substantivs ablak
-X	ablakhoz	n	Allativ Singular des Substantivs ablak
-X	ablakkal	n	Komitativ Singular des Substantivs ablak
-X	ablaknak	n	Dativ Singular des Substantivs ablak
-X	ablaknál	n	Adessiv Singular des Substantivs ablak
-X	ablakok	n	Plural des Substantivs ablak
-X	ablakokat	n	Akkusativ Plural des Substantivs ablak
-X	ablakokban	n	Insessiv Plural des Substantivs ablak
-X	ablakokhoz	n	Allativ Plural des Substantivs ablak
-X	ablakokkal	n	Komitativ Plural des Substantivs ablak
-X	ablakoknak	n	Dativ Plural des Substantivs ablak
-X	ablakoknál	n	Adessiv Plural des Substantivs ablak
-X	ablakot	n	Akkusativ Singular des Substantivs ablak
-X	abál	v	abbrühen
-X	abált	adj	gekocht
-X	acél	n	Legierung aus Eisen und Kohlenstoff; Stahl
-X	ad	v	geben
-X	agy	n	Gehirn
-X	agát	n	(der) Achat
-X	agátban	n	Inessiv Singular des Substantivs agát
-X	agáthoz	n	Allativ Singular des Substantivs agát
-X	agátig	n	Terminativ Singular des Substantivs agát
-X	agátnak	n	Dativ Singular des Substantivs agát
-X	agátnál	n	Adessiv Singular des Substantivs agát
-X	agátok	n	Plural des Substantivs agát
-X	agátokat	n	Akkusativ Plural des Substantivs agát
-X	agátokban	n	Inessiv Plural des Substantivs agát
-X	agátokhoz	n	Allativ Plural des Substantivs agát
-X	agátokig	n	Terminativ Plural des Substantivs agát
-X	agátokkal	n	Komitativ Plural des Substantivs agát
-X	agátoknak	n	Dativ Plural des Substantivs agát
-X	agátoknál	n	Adessiv Plural des Substantivs agát
-X	agátot	n	Akkusativ Singular des Substantivs agát
-X	agáttal	n	Komitativ Singular des Substantivs agát
-X	Aigeusz	name	ungarischer männlicher Vorname
-X	ajtó	n	(die) Tür f
-X	ajtóban	n	Inessiv Singular des Substantivs ajtó
-X	ajtóhoz	n	Allativ Singular des Substantivs ajtó
-X	ajtóig	n	Terminativ Singular des Substantivs ajtó
-X	ajtók	n	Plural des Substantivs ajtó
-X	ajtókat	n	Akkusativ Plural des Substantivs ajtó
-X	ajtókban	n	Inessiv Plural des Substantivs ajtó
-X	ajtókhoz	n	Allativ Plural des Substantivs ajtó
-X	ajtókig	n	Terminativ Plural des Substantivs ajtó
-X	ajtókkal	n	Komitativ Plural des Substantivs ajtó
-X	ajtóknak	n	Dativ Plural des Substantivs ajtó
-X	ajtóknál	n	Adessiv Plural des Substantivs ajtó
-X	ajtónak	n	Dativ Singular des Substantivs ajtó
-X	ajtónál	n	Adessiv Singular des Substantivs ajtó
-X	ajtót	n	Akkusativ Singular des Substantivs ajtó
-X	ajtóval	n	Komitativ Singular des Substantivs ajtó
-X	Akhilleusz	name	ungarischer männlicher Vorname
-X	Alajos	name	ungarischer männlicher Vorname
-X	alibi	n	(das) Alibi n
-X	alibiben	n	Inessiv Singular des Substantivs alibi
-X	alibihez	n	Allativ Singular des Substantivs alibi
-X	alibiig	n	Terminativ Singular des Substantivs alibi
-X	alibik	n	Plural des Substantivs alibi
-X	alibikben	n	Inessiv Plural des Substantivs alibi
-X	alibiket	n	Akkusativ Plural des Substantivs alibi
-X	alibikhez	n	Allativ Plural des Substantivs alibi
-X	alibikig	n	Terminativ Plural des Substantivs alibi
-X	alibikkel	n	Komitativ Plural des Substantivs alibi
-X	alibiknek	n	Dativ Plural des Substantivs alibi
-X	alibiknél	n	Adessiv Plural des Substantivs alibi
-X	alibinek	n	Dativ Singular des Substantivs alibi
-X	alibinél	n	Adessiv Singular des Substantivs alibi
-X	alibit	n	Akkusativ Singular des Substantivs alibi
-X	alibivel	n	Komitativ Singular des Substantivs alibi
-X	alma	n	(der) Apfel m
-X	Ambrus	name	ungarischer männlicher Vorname
-X	amper	n	Ampere
-X	Anglia	name	England
-X	angyal	n	Engel
-X	angyalban	n	Inessiv Singular des Substantivs angyal
-X	angyalhoz	n	Allativ Singular des Substantivs angyal
-X	angyalig	n	Terminativ Singular des Substantivs angyal
-X	angyallal	n	Komitativ Singular des Substantivs angyal
-X	angyalnak	n	Dativ Singular des Substantivs angyal
-X	angyalnál	n	Adessiv Singular des Substantivs angyal
-X	angyalok	n	Plural des Substantivs angyal
-X	angyalokat	n	Akkusativ Plural des Substantivs angyal
-X	angyalokban	n	Inessiv Plural des Substantivs angyal
-X	angyalokhoz	n	Allativ Plural des Substantivs angyal
-X	angyalokig	n	Terminativ Plural des Substantivs angyal
-X	angyalokkal	n	Komitativ Plural des Substantivs angyal
-X	angyaloknak	n	Dativ Plural des Substantivs angyal
-X	angyaloknál	n	Adessiv Plural des Substantivs angyal
-X	angyalt	n	Akkusativ Singular des Substantivs angyal
-X	Antal	name	ungarischer männlicher Vorname
-X	apostol	n	Apostel
-X	apostoli	adj	apostolisch
-X	aranyos	adj	goldig
-X	aranysárga	adj	goldgelb
-X	arc	n	(das) Gesicht n
-X	arcban	n	Inessiv Singular des Substantivs arc
-X	arccal	n	Komitativ Singular des Substantivs arc
-X	archoz	n	Allativ Singular des Substantivs arc
-X	arcig	n	Terminativ Singular des Substantivs arc
-X	arcnak	n	Dativ Singular des Substantivs arc
-X	arcnál	n	Adessiv Singular des Substantivs arc
-X	arcok	n	Plural des Substantivs arc
-X	arcokat	n	Akkusativ Plural des Substantivs arc
-X	arcokban	n	Inessiv Plural des Substantivs arc
-X	arcokhoz	n	Allativ Plural des Substantivs arc
-X	arcokig	n	Terminativ Plural des Substantivs arc
-X	arcokkal	n	Komitativ Plural des Substantivs arc
-X	arcoknak	n	Dativ Plural des Substantivs arc
-X	arcoknál	n	Adessiv Plural des Substantivs arc
-X	arcot	n	Akkusativ Singular des Substantivs arc
-X	Arisztotelész	name	ungarischer männlicher Vorname
-X	arzén	n	das 33. chemische Element im Periodensystem; Arsen
-X	asztal	n	Möbelstück, das aus einer Platte mit vier oder drei Beinen oder mittigen Standfuß besteht…
-X	asztalos	n	Handwerker, der aus Holz Möbel oder Fenster und Türen herstellt; Tischler
-X	Attila	name	ungarischer männlicher Vorname
-X	augusztus	n	(der) August m
-X	augusztusban	n	Inessiv Singular des Substantivs augusztus
-X	augusztushoz	n	Allativ Singular des Substantivs augusztus
-X	augusztusig	n	Terminativ Singular des Substantivs augusztus
-X	augusztusnak	n	Dativ Singular des Substantivs augusztus
-X	augusztusnál	n	Adessiv Singular des Substantivs augusztus
-X	augusztusok	n	Nominativ Plural des Substantivs augusztus
-X	augusztusokat	n	Akkusativ Plural des Substantivs augusztus
-X	augusztusokban	n	Inessiv Plural des Substantivs augusztus
-X	augusztusokhoz	n	Allativ Plural des Substantivs augusztus
-X	augusztusokig	n	Terminativ Plural des Substantivs augusztus
-X	augusztusokkal	n	Komitativ Plural des Substantivs augusztus
-X	augusztusoknak	n	Dativ Plural des Substantivs augusztus
-X	augusztusoknál	n	Adessiv Plural des Substantivs augusztus
-X	augusztussal	n	Komitativ Singular des Substantivs augusztus
-X	augusztust	n	Akkusativ Singular des Substantivs augusztus
-X	automata	n	(der) Automat m
-X	automatában	n	Inessiv Singular des Substantivs automata
-X	automatához	n	Allativ Singular des Substantivs automata
-X	automatáig	n	Terminativ Singular des Substantivs automata
-X	automaták	n	Plural des Substantivs automata
-X	automatákat	n	Akkusativ Plural des Substantivs automata
-X	automatákban	n	Inessiv Plural des Substantivs automata
-X	automatákhoz	n	Allativ Plural des Substantivs automata
-X	automatákig	n	Terminativ Plural des Substantivs automata
-X	automatákkal	n	Komitativ Plural des Substantivs automata
-X	automatáknak	n	Dativ Plural des Substantivs automata
-X	automatáknál	n	Adessiv Plural des Substantivs automata
-X	automatának	n	Dativ Singular des Substantivs automata
-X	automatánál	n	Adessiv Singular des Substantivs automata
-X	automatát	n	Akkusativ Singular des Substantivs automata
-X	automatával	n	Komitativ Singular des Substantivs automata
-X	autó	n	ein Fahrzeug
-X	autópálya	n	sehr breite, kreuzungsfreie Schnellstraße
-X	az	art	Die Artikel der, die, das existieren in der ungarische Sprache nicht. Stattdessen verwend…
-X	azért	konj	deshalb
-X	B		dritter Buchstabe (Majuskel) des ungarischen Alphabets
-X	b		dritter Buchstabe (Minuskel) des ungarischen Alphabets
-X	bab	n	Bohne
-X	bak	n	Bock
-X	bank	n	(die) Bank (Geldinstitut für Finanzdienstleistungen)
-X	banán	n	(die) Banane f
-X	barna	adj	braun
-X	Barnabás	name	ungarischer männlicher Vorname
-X	barnamedve	n	Braunbär
-X	baromfi	n	(das) Geflügel n
-X	baromfiban	n	Inessiv Singular des Substantivs baromfi
-X	baromfihoz	n	Allativ Singular des Substantivs baromfi
-X	baromfiig	n	Terminativ Singular des Substantivs baromfi
-X	baromfik	n	Plural des Substantivs baromfi
-X	baromfikat	n	Akkusativ Plural des Substantivs baromfi
-X	baromfikban	n	Inessiv Plural des Substantivs baromfi
-X	baromfikhoz	n	Allativ Plural des Substantivs baromfi
-X	baromfikig	n	Terminativ Plural des Substantivs baromfi
-X	baromfikkal	n	Komitativ Plural des Substantivs baromfi
-X	baromfiknak	n	Dativ Plural des Substantivs baromfi
-X	baromfiknál	n	Adessiv Plural des Substantivs baromfi
-X	baromfinak	n	Dativ Singular des Substantivs baromfi
-X	baromfinál	n	Adessiv Singular des Substantivs baromfi
-X	baromfit	n	Akkusativ Singular des Substantivs baromfi
-X	baromfival	n	Komitativ Singular des Substantivs baromfi
-X	barát	n	Freund
-X	barátnő	n	Freundin
-X	barátságos	adj	freundlich
-X	barázda	n	eine längliche Vertiefung, für gewöhnlich auf einem Feld; Furche
-X	benzin	n	als Treibstoff oder Lösungsmittel verwendete brennbare Flüssigkeit; Benzin
-X	benzinfogyasztás	n	Verbrauch an Benzin; Benzinverbrauch
-X	benzinkutas	n	Beschäftigter einer Tankstelle, der die Zapfanlage bedient; Tankwart
-X	benzinkút	n	Station zum Betanken von Fahrzeugen; Tankstelle
-X	benzinmotor	n	Verbrennungsmotor, der mit Benzin betrieben wird; Benzinmotor
-X	Berlin	name	die Hauptstadt der Bundesrepublik Deutschland ; ein Bundesland und Stadtstaat Deutschlands
-X	beszél	v	sprechen, reden
-X	beteg	adj	krank ; unsinnig, absurd
-X	beton	n	aus Zement, Wasser und Gesteinskörnung hergestellter Baustoff; Beton
-X	bika	n	(der) Stier m
-X	bikában	n	Inessiv Singular des Substantivs bika
-X	bikához	n	Allativ Singular des Substantivs bika
-X	bikáig	n	Terminativ Singular des Substantivs bika
-X	bikák	n	Plural des Substantivs bika
-X	bikákat	n	Akkusativ Plural des Substantivs bika
-X	bikákban	n	Inessiv Plural des Substantivs bika
-X	bikákhoz	n	Allativ Plural des Substantivs bika
-X	bikákig	n	Terminativ Plural des Substantivs bika
-X	bikákkal	n	Komitativ Plural des Substantivs bika
-X	bikáknak	n	Dativ Plural des Substantivs bika
-X	bikáknál	n	Adessiv Plural des Substantivs bika
-X	bikának	n	Dativ Singular des Substantivs bika
-X	bikánál	n	Adessiv Singular des Substantivs bika
-X	bikát	n	Akkusativ Singular des Substantivs bika
-X	bikával	n	Komitativ Singular des Substantivs bika
-X	bivaly	n	in Asien oder Afrika lebendes Rind; Büffel
-X	boldog születésnapot kívánok	interj	Ich wünsche dir einen glücklichen Geburtstag
-X	bolha	n	flügelloses Insekt mit flachem Körper, langen Sprungbeinen und Mundwerkzeugen zum Blutsau…
-X	bolhapiac	n	größerer Platz, wo gebrauchte Gegenstände durch Privatpersonen angeboten werden; Flohmarkt
-X	bomba	n	Bombe f
-X	bombában	n	Inessiv Singular des Substantivs bomba
-X	bombához	n	Allativ Singular des Substantivs bomba
-X	bombáig	n	Terminativ Singular des Substantivs bomba
-X	bombák	n	Plural des Substantivs bomba
-X	bombákat	n	Akkusativ Plural des Substantivs bomba
-X	bombákban	n	Inessiv Plural des Substantivs bomba
-X	bombákhoz	n	Allativ Plural des Substantivs bomba
-X	bombákig	n	Terminativ Plural des Substantivs bomba
-X	bombákkal	n	Komitativ Plural des Substantivs bomba
-X	bombáknak	n	Dativ Plural des Substantivs bomba
-X	bombáknál	n	Adessiv Plural des Substantivs bomba
-X	bombának	n	Dativ Singular des Substantivs bomba
-X	bombánál	n	Adessiv Singular des Substantivs bomba
-X	bombát	n	Akkusativ Singular des Substantivs bomba
-X	bombával	n	Komitativ Singular des Substantivs bomba
-X	bor	n	(der) Wein m
-X	borban	n	Inessiv Singular des Substantivs bor
-X	Borbála	name	ungarischer weiblicher Vorname
-X	borda	n	(die) Rippe
-X	bordában	n	Inessiv Singular des Substantivs borda
-X	bordához	n	Allativ Singular des Substantivs borda
-X	bordáig	n	Terminativ Singular des Substantivs borda
-X	bordák	n	Plural des Substantivs borda
-X	bordákat	n	Akkusativ Plural des Substantivs borda
-X	bordákban	n	Inessiv Plural des Substantivs borda
-X	bordákhoz	n	Allativ Plural des Substantivs borda
-X	bordákig	n	Terminativ Plural des Substantivs borda
-X	bordákkal	n	Komitativ Plural des Substantivs borda
-X	bordáknak	n	Dativ Plural des Substantivs borda
-X	bordáknál	n	Adessiv Plural des Substantivs borda
-X	bordának	n	Dativ Singular des Substantivs borda
-X	bordánál	n	Adessiv Singular des Substantivs borda
-X	bordát	n	Akkusativ Singular des Substantivs borda
-X	bordával	n	Komitativ Singular des Substantivs borda
-X	borhoz	n	Allativ Singular des Substantivs bor
-X	borig	n	Terminativ Singular des Substantivs bor
-X	borjak	n	Plural des Substantivs borjú
-X	borjakat	n	Akkusativ Plural des Substantivs borjú
-X	borjakban	n	Inessiv Plural des Substantivs borjú
-X	borjakhoz	n	Allativ Plural des Substantivs borjú
-X	borjakig	n	Terminativ Plural des Substantivs borjú
-X	borjakkal	n	Komitativ Plural des Substantivs borjú
-X	borjaknak	n	Dativ Plural des Substantivs borjú
-X	borjaknál	n	Adessiv Plural des Substantivs borjú
-X	borjú	n	(der) Kalb m
-X	borjúban	n	Inessiv Singular des Substantivs borjú
-X	borjúhoz	n	Allativ Singular des Substantivs borjú
-X	borjúig	n	Terminativ Singular des Substantivs borjú
-X	borjúnak	n	Dativ Singular des Substantivs borjú
-X	borjúnál	n	Adessiv Singular des Substantivs borjú
-X	borjút	n	Akkusativ Singular des Substantivs borjú
-X	borjúval	n	Komitativ Singular des Substantivs borjú
-X	bornak	n	Dativ Singular des Substantivs bor
-X	bornál	n	Adessiv Singular des Substantivs bor
-X	borok	n	Plural des Substantivs bor
-X	borokat	n	Akkusativ Plural des Substantivs bor
-X	borokban	n	Inessiv Plural des Substantivs bor
-X	borokhoz	n	Allativ Plural des Substantivs bor
-X	borokig	n	Terminativ Plural des Substantivs bor
-X	borokkal	n	Komitativ Plural des Substantivs bor
-X	boroknak	n	Dativ Plural des Substantivs bor
-X	boroknál	n	Adessiv Plural des Substantivs bor
-X	borona	n	Ackerbaugerät zum Einebnen der Pflugfurchen und zum Unterbringen des Saatgutes oder des D…
-X	borotva	n	Werkzeug oder elektronisches Gerät zum Entfernen von Haaren; Rasierer
-X	borotvál	v	jemandem die Haare oder Barthaare abschneiden; rasieren
-X	borral	n	Komitativ Singular des Substantivs bor
-X	bors	n	(der) Pfeffer
-X	borsban	n	Inessiv Singular des Substantivs bors
-X	borshoz	n	Allativ Singular des Substantivs bors
-X	borsig	n	Terminativ Singular des Substantivs bors
-X	borsnak	n	Dativ Singular des Substantivs bors
-X	borsnál	n	Adessiv Singular des Substantivs bors
-X	borsokat	n	Akkusativ Plural des Substantivs bors
-X	borsokban	n	Inessiv Plural des Substantivs bors
-X	borsokig	n	Terminativ Plural des Substantivs bors
-X	borsokkal	n	Komitativ Plural des Substantivs bors
-X	borsoknak	n	Dativ Plural des Substantivs bors
-X	borsoknál	n	Adessiv Plural des Substantivs bors
-X	borsot	n	Akkusativ Singular des Substantivs bors
-X	borssal	n	Komitativ Singular des Substantivs bors
-X	bort	n	Akkusativ Singular des Substantivs bor
-X	borz	n	(der) Dachs
-X	borzban	n	Inessiv Singular des Substantivs borz
-X	borzhoz	n	Allativ Singular des Substantivs borz
-X	borzig	n	Terminativ Singular des Substantivs borz
-X	borznak	n	Dativ Singular des Substantivs borz
-X	borznál	n	Adessiv Singular des Substantivs borz
-X	borzok	n	Nominativ Plural des Substantivs borz
-X	borzokat	n	Akkusativ Plural des Substantivs borz
-X	borzokban	n	Inessiv Plural des Substantivs borz
-X	borzokhoz	n	Allativ Plural des Substantivs borz
-X	borzokig	n	Terminativ Plural des Substantivs borz
-X	borzokkal	n	Komitativ Plural des Substantivs borz
-X	borzoknak	n	Dativ Plural des Substantivs borz
-X	borzoknál	n	Adessiv Plural des Substantivs borz
-X	borzot	n	Akkusativ Singular des Substantivs borz
-X	borzzal	n	Komitativ Singular des Substantivs borz
-X	bot	n	(der) Stock
-X	botanika	n	(die) Botanik f
-X	botanikában	n	Inessiv Singular des Substantivs botanika
-X	botanikához	n	Allativ Singular des Substantivs botanika
-X	botanikáig	n	Terminativ Singular des Substantivs botanika
-X	botanikának	n	Dativ Singular des Substantivs botanika
-X	botanikánál	n	Adessiv Singular des Substantivs botanika
-X	botanikát	n	Akkusativ Singular des Substantivs botanika
-X	botanikával	n	Komtativ Singular des Substantivs botanika
-X	botban	n	Inessiv Singular des Substantivs bot
-X	bothoz	n	Allativ Singular des Substantivs bot
-X	botig	n	Terminativ Singular des Substantivs bot
-X	botnak	n	Dativ Singular des Substantivs bot
-X	botnál	n	Adessiv Singular des Substantivs bot
-X	botok	n	Plural des Substantivs bot
-X	botokat	n	Akkusativ Plural des Substantivs bot
-X	botokban	n	Inessiv Plural des Substantivs bot
-X	botokhoz	n	Allativ Plural des Substantivs bot
-X	botokig	n	Terminativ Plural des Substantivs bot
-X	botokkal	n	Komitativ Plural des Substantivs bot
-X	botoknak	n	Dativ Plural des Substantivs bot
-X	botoknál	n	Adessiv Plural des Substantivs bot
-X	botot	n	Akkusativ Singular des Substantivs bot
-X	bottal	n	Komitativ Singular des Substantivs bot
-X	Brandenburg	name	ein Bundesland in der Bundesrepublik Deutschland ; kreisfreie Stadt in ^(1)
-X	burgonya	n	(die) Kartoffel f
-X	buta	adj	dumm
-X	butaság	n	Dummheit
-X	Bálint	name	ungarischer männlicher Vorname
-X	bálna	n	(der) Wal
-X	bálnában	n	Inessiv Singular des Substantivs bálna
-X	bálnához	n	Allativ Singular des Substantivs bálna
-X	bálnáig	n	Terminativ Singular des Substantivs bálna
-X	bálnák	n	Plural des Substantivs bálna
-X	bálnákat	n	Akkusativ Plural des Substantivs bálna
-X	bálnákban	n	Inessiv Plural des Substantivs bálna
-X	bálnákhoz	n	Allativ Plural des Substantivs bálna
-X	bálnákig	n	Terminativ Plural des Substantivs bálna
-X	bálnákkal	n	Komitativ Plural des Substantivs bálna
-X	bálnáknak	n	Dativ Plural des Substantivs bálna
-X	bálnáknál	n	Adessiv Plural des Substantivs bálna
-X	bálnának	n	Dativ Singular des Substantivs bálna
-X	bálnánál	n	Adessiv Singular des Substantivs bálna
-X	bálnát	n	Akkusativ Singular des Substantivs bálna
-X	bálnával	n	Komitativ Singular des Substantivs bálna
-X	bársony	n	feines Baumwollgewebe; Samt
-X	bárány	n	junges Schaf; Lamm
-X	béka	n	(der) Frosch m
-X	békában	n	Inessiv Singular des Substantivs béka
-X	békához	n	Allativ Singular des Substantivs béka
-X	békáig	n	Terminativ Singular des Substantivs béka
-X	békák	n	Plural des Substantivs béka
-X	békákat	n	Akkusativ Plural des Substantivs béka
-X	békákban	n	Inessiv Plural des Substantivs béka
-X	békákhoz	n	Allativ Plural des Substantivs béka
-X	békákig	n	Terminativ Plural des Substantivs béka
-X	békákkal	n	Komitativ Plural des Substantivs béka
-X	békáknak	n	Dativ Plural des Substantivs béka
-X	békáknál	n	Adessiv Plural des Substantivs béka
-X	békának	n	Dativ Singular des Substantivs béka
-X	békánál	n	Adessiv Singular des Substantivs béka
-X	békát	n	Akkusativ Singular des Substantivs béka
-X	békával	n	Komitativ Singular des Substantivs béka
-X	bűzlik	v	etwas oder jemand riecht schlecht, stinkt, mieft
-X	C		vierter Buchstabe (Majuskel) des ungarischen Alphabets
-X	c		vierter Buchstabe (Minuskel) des ungarischen Alphabets
-X	Cecília	name	ungarischer weiblicher Vorname
-X	cica	n	Haustier, Kätzchen
-X	cicában	n	Inessiv Singular des Substantivs cica
-X	cicához	n	Allativ Singular des Substantivs cica
-X	cicáig	n	Terminativ Singular des Substantivs cica
-X	cicák	n	Plural des Substantivs cica
-X	cicákat	n	Akkusativ Plural des Substantivs cica
-X	cicákban	n	Inessiv Plural des Substantivs cica
-X	cicákhoz	n	Allativ Plural des Substantivs cica
-X	cicákig	n	Terminativ Plural des Substantivs cica
-X	cicákkal	n	Komitativ Plural des Substantivs cica
-X	cicáknak	n	Dativ Plural des Substantivs cica
-X	cicáknál	n	Adessiv Plural des Substantivs cica
-X	cicának	n	Dativ Singular des Substantivs cica
-X	cicánál	n	Adessiv Singular des Substantivs cica
-X	cicát	n	Akkusativ Singular des Substantivs cica
-X	cicával	n	Komitativ Singular des Substantivs cica
-X	citromsárga	adj	zitronengelb
-X	comb	n	Oberschenkel
-X	combbal	n	Komitativ Singular des Substantivs comb
-X	combban	n	Inessiv Singular des Substantivs comb
-X	combhoz	n	Allativ Singular des Substantivs comb
-X	combig	n	Terminativ Singular des Substantivs comb
-X	combnak	n	Dativ Singular des Substantivs comb
-X	combnál	n	Adessiv Singular des Substantivs comb
-X	combok	n	Plural des Substantivs comb
-X	combokban	n	Inessiv Plural des Substantivs comb
-X	combokhoz	n	Allativ Plural des Substantivs comb
-X	combokig	n	Terminativ Plural des Substantivs comb
-X	combokkal	n	Komitativ Plural des Substantivs comb
-X	comboknak	n	Dativ Plural des Substantivs comb
-X	comboknál	n	Adessiv Plural des Substantivs comb
-X	copf	n	(der) Zopf m
-X	Cs		fünfter Buchstabe (Majuskel) des ungarischen Alphabets
-X	cs		fünfter Buchstabe (Minuskel) des ungarischen Alphabets
-X	csak	adv	nur
-X	család	n	Familie
-X	családban	n	Inessiv Singular des Substantivs család
-X	családdal	n	Komitativ Singular des Substantivs család
-X	családhoz	n	Allativ Singular des Substantivs család
-X	családig	n	Terminativ Singular des Substantivs család
-X	családnak	n	Dativ Singular des Substantivs család
-X	családnál	n	Adessiv Singular des Substantivs család
-X	családok	n	Plural des Substantivs család
-X	családokat	n	Akkusativ Plural des Substantivs család
-X	családokban	n	Inessiv Plural des Substantivs család
-X	családokhoz	n	Allativ Plural des Substantivs család
-X	családokig	n	Terminativ Plural des Substantivs család
-X	családokkal	n	Komitativ Plural des Substantivs család
-X	családoknak	n	Dativ Plural des Substantivs család
-X	családoknál	n	Adessiv Plural des Substantivs család
-X	családot	n	Akkusativ Singular des Substantivs család
-X	csap	n	(der) Hahn
-X	csapadék	n	Niederschlag
-X	csapadékban	n	Inessiv Singular des Substantivs csapadék
-X	csapadékhoz	n	Allativ Singular des Substantivs csapadék
-X	csapadékig	n	Terminativ Singular des Substantivs csapadék
-X	csapadékkal	n	Komitativ Singular des Substantivs csapadék
-X	csapadéknak	n	Dativ Singular des Substantivs csapadék
-X	csapadéknál	n	Adessiv Singular des Substantivs csapadék
-X	csapadékok	n	Plural des Substantivs csapadék
-X	csapadékokat	n	Akkusativ Plural des Substantivs csapadék
-X	csapadékokban	n	Inessiv Plural des Substantivs csapadék
-X	csapadékokhoz	n	Allativ Plural des Substantivs csapadék
-X	csapadékokig	n	Terminativ Plural des Substantivs csapadék
-X	csapadékokkal	n	Komitativ Plural des Substantivs csapadék
-X	csapadékoknak	n	Dativ Plural des Substantivs csapadék
-X	csapadékoknál	n	Adessiv Plural des Substantivs csapadék
-X	csapadékot	n	Akkusativ Singular des Substantivs csapadék
-X	csapat	n	(die) Mannschaft f
-X	csapatban	n	Inessiv Singular des Substantivs csapat
-X	csapathoz	n	Allativ Singular des Substantivs csapat
-X	csapatig	n	Terminativ Singular des Substantivs csapat
-X	csapatnak	n	Dativ Singular des Substantivs csapat
-X	csapatnál	n	Adessiv Singular des Substantivs csapat
-X	csapatok	n	Plural des Substantivs csapat
-X	csapatokat	n	Akkusativ Plural des Substantivs csapat
-X	csapatokban	n	Inessiv Plural des Substantivs csapat
-X	csapatokhoz	n	Allativ Plural des Substantivs csapat
-X	csapatokig	n	Terminativ Plural des Substantivs csapat
-X	csapatokkal	n	Komitativ Plural des Substantivs csapat
-X	csapatoknak	n	Dativ Plural des Substantivs csapat
-X	csapatoknál	n	Adessiv Plural des Substantivs csapat
-X	csapatot	n	Akkusativ Singular des Substantivs csapat
-X	csapattal	n	Komitativ Singular des Substantivs csapat
-X	csapban	n	Inessiv Singular des Substantivs csap
-X	csaphoz	n	Allativ Singular des Substantivs csap
-X	csapig	n	Terminativ Singular des Substantivs csap
-X	csapnak	n	Dativ Singular des Substantivs csap
-X	csapnál	n	Adessiv Singular des Substantivs csap
-X	csapok	n	Plural des Substantivs csap
-X	csapokat	n	Akkusativ Plural des Substantivs csap
-X	csapokban	n	Inessiv Plural des Substantivs csap
-X	csapokhoz	n	Allativ Plural des Substantivs csap
-X	csapokig	n	Terminativ Plural des Substantivs csap
-X	csapokkal	n	Komitativ Plural des Substantivs csap
-X	csapoknak	n	Dativ Plural des Substantivs csap
-X	csapoknál	n	Adessiv Plural des Substantivs csap
-X	csapot	n	Akkusativ Singular des Substantivs csap
-X	csappal	n	Komitativ Singular des Substantivs csap
-X	csapóajtó	n	(die) Falltür f
-X	csapóajtóban	n	Inessiv Singular des Substantivs csapóajtó
-X	csapóajtóhoz	n	Allativ Singular des Substantivs csapóajtó
-X	csapóajtóig	n	Terminativ Singular des Substantivs csapóajtó
-X	csapóajtók	n	Plural des Substantivs csapóajtó
-X	csapóajtókat	n	Akkusativ Plural des Substantivs csapóajtó
-X	csapóajtókban	n	Inessiv Plural des Substantivs csapóajtó
-X	csapóajtókhoz	n	Allativ Plural des Substantivs csapóajtó
-X	csapóajtókig	n	Terminativ Plural des Substantivs csapóajtó
-X	csapóajtókkal	n	Komitativ Plural des Substantivs csapóajtó
-X	csapóajtóknak	n	Dativ Plural des Substantivs csapóajtó
-X	csapóajtóknál	n	Adessiv Plural des Substantivs csapóajtó
-X	csapóajtónak	n	Dativ Singular des Substantivs csapóajtó
-X	csapóajtónál	n	Adessiv Singular des Substantivs csapóajtó
-X	csapóajtót	n	Akkusativ Singular des Substantivs csapóajtó
-X	csapóajtóval	n	Komitativ Singular des Substantivs csapóajtó
-X	csendes	adj	still ; leise ; ruhig
-X	cseresznyefa	n	eine Obstbaumart
-X	Cseszneky	name	ungarischer Familienname
-X	csiga	n	(die) Schnecke f
-X	csigában	n	Inessiv Singular des Substantivs csiga
-X	csigához	n	Allativ Singular des Substantivs csiga
-X	csigáig	n	Terminativ Singular des Substantivs csiga
-X	csigák	n	Plural des Substantivs csiga
-X	csigákat	n	Akkusativ Plural des Substantivs csiga
-X	csigákban	n	Inessiv Plural des Substantivs csiga
-X	csigákhoz	n	Allativ Plural des Substantivs csiga
-X	csigákig	n	Terminativ Plural des Substantivs csiga
-X	csigákkal	n	Komitativ Plural des Substantivs csiga
-X	csigáknak	n	Dativ Plural des Substantivs csiga
-X	csigáknál	n	Adessiv Plural des Substantivs csiga
-X	csigának	n	Dativ Singular des Substantivs csiga
-X	csigánál	n	Adessiv Singular des Substantivs csiga
-X	csigát	n	Akkusativ Singular des Substantivs csiga
-X	csigával	n	Komitativ Singular des Substantivs csiga
-X	Csilla	name	ungarischer weiblicher Vorname
-X	csillag	n	Stern (Himmelskörper)
-X	csillagban	n	Inessiv Singular des Substantivs csillag
-X	csillaggal	n	Komitativ Singular des Substantivs csillag
-X	csillaghoz	n	Allativ Singular des Substantivs csillag
-X	csillagig	n	Terminativ Singular des Substantivs csillag
-X	csillagnak	n	Dativ Singular des Substantivs csillag
-X	csillagnál	n	Adessiv Singular des Substantivs csillag
-X	csillagok	n	Plural des Substantivs csillag
-X	csillagokat	n	Akkusativ Plural des Substantivs csillag
-X	csillagokban	n	Inessiv Plural des Substantivs csillag
-X	csillagokhoz	n	Allativ Plural des Substantivs csillag
-X	csillagokig	n	Terminativ Plural des Substantivs csillag
-X	csillagokkal	n	Komitativ Plural des Substantivs csillag
-X	csillagoknak	n	Dativ Plural des Substantivs csillag
-X	csillagoknál	n	Adessiv Plural des Substantivs csillag
-X	csillagot	n	Akkusativ Singular des Substantivs csillag
-X	csillagvizsgáló	n	Sternwarte
-X	csillagvizsgálóban	n	Inessiv Singular des Substantivs csillagvizsgáló
-X	csillagvizsgálóhoz	n	Allativ Singular des Substantivs csillagvizsgáló
-X	csillagvizsgálóig	n	Terminativ Singular des Substantivs csillagvizsgáló
-X	csillagvizsgálók	n	Nominativ Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálókat	n	Akkusativ Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálókban	n	Inessiv Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálókhoz	n	Allativ Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálókig	n	Terminativ Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálókkal	n	Komitativ Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálóknak	n	Dativ Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálóknál	n	Adessiv Plural des Substantivs csillagvizsgáló
-X	csillagvizsgálónak	n	Dativ Singular des Substantivs csillagvizsgáló
-X	csillagvizsgálónál	n	Adessiv Singular des Substantivs csillagvizsgáló
-X	csillagvizsgálót	n	Akkusativ Singular des Substantivs csillagvizsgáló
-X	csillagvizsgálóval	n	Komitativ Singular des Substantivs csillagvizsgáló
-X	csinos	adj	hübsch ; attraktiv ; fesch
-X	csoda	n	(das) Wunder n
-X	csodában	n	Inessiv Singular des Substantivs csoda
-X	csodához	n	Allativ Singular des Substantivs csoda
-X	csodáig	n	Terminativ Singular des Substantivs csoda
-X	csodák	n	Plural des Substantivs csoda
-X	csodákat	n	Akkusativ Plural des Substantivs csoda
-X	csodákban	n	Inessiv Plural des Substantivs csoda
-X	csodákhoz	n	Allativ Plural des Substantivs csoda
-X	csodákig	n	Terminativ Plural des Substantivs csoda
-X	csodákkal	n	Komitativ Plural des Substantivs csoda
-X	csodáknak	n	Dativ Plural des Substantivs csoda
-X	csodáknál	n	Adessiv Plural des Substantivs csoda
-X	csodának	n	Dativ Singular des Substantivs csoda
-X	csodánál	n	Adessiv Singular des Substantivs csoda
-X	csodát	n	Akkusativ Singular des Substantivs csoda
-X	csodával	n	Komitativ Singular des Substantivs csoda
-X	csokoládé	n	(die) Schokolade f
-X	Csongor	name	ungarischer männlicher Vorname
-X	csuka	n	länglicher Raubfisch des Süßwassers, mit langem Kopf und starken Zähnen; Hecht
-X	csupa szív	adj	seelenvoll
-X	csóka	n	schwarzgrauer Vogel; Dohle
-X	csúnya	adj	hässlich ; unschön
-X	csütörtök	n	Wochentag nach Mittwoch; Donnerstag
-X	csütörtökben	n	Inessiv Singular des Substantivs csütörtök
-X	csütörtökhöz	n	Allativ Singular des Substantivs csütörtök
-X	csütörtökig	n	Terminativ Singular des Substantivs csütörtök
-X	csütörtökkel	n	Komitativ Singular des Substantivs csütörtök
-X	csütörtöknek	n	Dativ Singular des Substantivs csütörtök
-X	csütörtöknél	n	Adessiv Singular des Substantivs csütörtök
-X	csütörtökök	n	Plural des Substantivs csütörtök
-X	csütörtökökben	n	Inessiv Plural des Substantivs csütörtök
-X	csütörtököket	n	Akkusativ Plural des Substantivs csütörtök
-X	csütörtökökhöz	n	Allativ Plural des Substantivs csütörtök
-X	csütörtökökig	n	Terminativ Plural des Substantivs csütörtök
-X	csütörtökökkel	n	Komitativ Plural des Substantivs csütörtök
-X	csütörtököknek	n	Dativ Plural des Substantivs csütörtök
-X	csütörtököknél	n	Adessiv Plural des Substantivs csütörtök
-X	csütörtököt	n	Akkusativ Singular des Substantivs csütörtök
-X	cukor	n	(der) Zucker m
-X	cukorban	n	Inessiv Singular des Substantivs cukor
-X	cukorhoz	n	Allativ Singular des Substantivs cukor
-X	cukorig	n	Terminativ Singular des Substantivs cukor
-X	cukornak	n	Dativ Singular des Substantivs cukor
-X	cukornál	n	Adessiv Singular des Substantivs cukor
-X	cukorral	n	Komitativ Singular des Substantivs cukor
-X	cukrok	n	Plural des Substantivs cukor
-X	cukrokat	n	Akkusativ Plural des Substantivs cukor
-X	cukrokban	n	Inessiv Plural des Substantivs cukor
-X	cukrokhoz	n	Allativ Plural des Substantivs cukor
-X	cukrokig	n	Terminativ Plural des Substantivs cukor
-X	cukrokkal	n	Komitativ Plural des Substantivs cukor
-X	cukroknak	n	Dativ Plural des Substantivs cukor
-X	cukroknál	n	Adessiv Plural des Substantivs cukor
-X	cukrot	n	Akkusativ Singular des Substantivs cukor
-X	cápa	n	(der) Hai m
-X	cápában	n	Inessiv Singular des Substantivs cápa
-X	cápához	n	Allativ Singular des Substantivs cápa
-X	cápáig	n	Terminativ Singular des Substantivs cápa
-X	cápák	n	Plural des Substantivs cápa
-X	cápákat	n	Akkusativ Plural des Substantivs cápa
-X	cápákban	n	Inessiv Plural des Substantivs cápa
-X	cápákhoz	n	Allativ Plural des Substantivs cápa
-X	cápákig	n	Terminativ Plural des Substantivs cápa
-X	cápákkal	n	Komtativ Plural des Substantivs cápa
-X	cápáknak	n	Dativ Plural des Substantivs cápa
-X	cápáknál	n	Adessiv Plural des Substantivs cápa
-X	cápának	n	Dativ Singular des Substantivs cápa
-X	cápánál	n	Adessiv Singular des Substantivs cápa
-X	cápát	n	Akkusativ Singular des Substantivs cápa
-X	cápával	n	Komitativ Singular des Substantivs cápa
-X	D		sechster Buchstabe (Majuskel) des ungarischen Alphabets
-X	d		sechster Buchstabe (Majuskel) des ungarischen Alphabets
-X	darazsak	n	Plural des Substantivs darázs
-X	darazsakat	n	Akkusativ Plural des Substantivs darázs
-X	darazsakban	n	Inessiv Plural des Substantivs darázs
-X	darazsakhoz	n	Allativ Plural des Substantivs darázs
-X	darazsakig	n	Terminativ Plural des Substantivs darázs
-X	darazsakkal	n	Komitativ Plural des Substantivs darázs
-X	darazsaknak	n	Dativ Plural des Substantivs darázs
-X	darazsaknál	n	Adessiv Plural des Substantivs darázs
-X	daru	n	(der) Kran m ; (der) Kranich m
-X	daruban	n	Inessiv Singular des Substantivs daru
-X	daruhoz	n	Allativ Singular des Substantivs daru
-X	daruig	n	Terminativ Singular des Substantivs daru
-X	daruk	n	Plural des Substantivs daru
-X	darukat	n	Akkusativ Plural des Substantivs daru
-X	darukban	n	Inessiv Plural des Substantivs daru
-X	darukhoz	n	Allativ Plural des Substantivs daru
-X	darukig	n	Terminativ Plural des Substantivs daru
-X	darukkal	n	Komitativ Plural des Substantivs daru
-X	daruknak	n	Dativ Plural des Substantivs daru
-X	daruknál	n	Adessiv Plural des Substantivs daru
-X	darunak	n	Dativ Singular des Substantivs daru
-X	darunál	n	Adessiv Singular des Substantivs daru
-X	darut	n	Akkusativ Singular des Substantivs daru
-X	daruval	n	Komitativ Singular des Substantivs daru
-X	darázs	n	Wespe
-X	darázsban	n	Inessiv Singular des Substantivs darázs
-X	darázshoz	n	Allativ Singular des Substantivs darázs
-X	darázsig	n	Terminativ Singular des Substantivs darázs
-X	darázsnak	n	Dativ Singular des Substantivs darázs
-X	darázsnál	n	Adessiv Singular des Substantivs darázs
-X	darázst	n	Akkusativ Singular des Substantivs darázs
-X	darázzsal	n	Komitativ Singular des Substantivs darázs
-X	de	konj	aber
-X	december	n	(der) Dezember m
-X	decemberben	n	Inessiv Singular des Substantivs december
-X	decemberek	n	Plural des Substantivs december
-X	decemberekben	n	Inessiv Plural des Substantivs december
-X	decembereket	n	Akkusativ Plural des Substantivs december
-X	decemberekhez	n	Allativ Plural des Substantivs december
-X	decemberekig	n	Terminativ Plural des Substantivs december
-X	decemberekkel	n	Komitativ Plural des Substantivs december
-X	decembereknek	n	Dativ Plural des Substantivs december
-X	decembereknél	n	Adessiv Plural des Substantivs december
-X	decemberhez	n	Allativ Singular des Substantivs december
-X	decemberig	n	Terminativ Singular des Substantivs december
-X	decembernek	n	Dativ Singular des Substantivs december
-X	decembernél	n	Adessiv Singular des Substantivs december
-X	decemberrel	n	Komitativ Singular des Substantivs december
-X	decembert	n	Akkusativ Singular des Substantivs december
-X	deviza	n	(die) Devise f
-X	devizában	n	Inessiv Singular des Substantivs deviza
-X	devizához	n	Allativ Singular des Substantivs deviza
-X	devizáig	n	Terminativ Singular des Substantivs deviza
-X	devizák	n	Plural des Substantivs deviza
-X	devizákat	n	Akkusativ Plural des Substantivs deviza
-X	devizákban	n	Inessiv Plural des Substantivs deviza
-X	devizákhoz	n	Allativ Plural des Substantivs deviza
-X	devizákig	n	Terminativ Plural des Substantivs deviza
-X	devizákkal	n	Komitativ Plural des Substantivs deviza
-X	devizáknak	n	Dativ Plural des Substantivs deviza
-X	devizáknál	n	Adessiv Plural des Substantivs deviza
-X	devizának	n	Dativ Singular des Substantivs deviza
-X	devizánál	n	Adessiv Singular des Substantivs deviza
-X	devizát	n	Akkusativ Singular des Substantivs deviza
-X	devizával	n	Komitativ Singular des Substantivs deviza
-X	disznó	n	(das) Schwein
-X	disznóban	n	Inessiv Singular des Substantivs disznó
-X	disznóhoz	n	Allativ Singular des Substantivs disznó
-X	disznóig	n	Terminativ Singular des Substantivs disznó
-X	disznók	n	Plural des Substantivs disznó
-X	disznókat	n	Akkusativ Plural des Substantivs disznó
-X	disznókban	n	Inessiv Plural des Substantivs disznó
-X	disznókhoz	n	Allativ Plural des Substantivs disznó
-X	disznókig	n	Terminativ Plural des Substantivs disznó
-X	disznókkal	n	Komitativ Plural des Substantivs disznó
-X	disznóknak	n	Dativ Plural des Substantivs disznó
-X	disznóknál	n	Adessiv Plural des Substantivs disznó
-X	disznónak	n	Dativ Singular des Substantivs disznó
-X	disznónál	n	Adessiv Singular des Substantivs disznó
-X	disznót	n	Akkusativ Singular des Substantivs disznó
-X	disznóval	n	Komitativ Singular des Substantivs disznó
-X	diák	n	(der) Schüler
-X	diákban	n	Inessiv Singular des Substantivs diák
-X	diákhoz	n	Allativ Singular des Substantivs diák
-X	diákig	n	Terminativ Singular des Substantivs diák
-X	diákkal	n	Komitativ Singular des Substantivs diák
-X	diáknak	n	Dativ Singular des Substantivs diák
-X	diáknál	n	Adessiv Singular des Substantivs diák
-X	diákok	n	Nominativ Plural des Substantivs diák
-X	diákokat	n	Akkusativ Plural des Substantivs diák
-X	diákokban	n	Inessiv Plural des Substantivs diák
-X	diákokhoz	n	Allativ Plural des Substantivs diák
-X	diákokig	n	Terminativ Plural des Substantivs diák
-X	diákokkal	n	Komitativ Plural des Substantivs diák
-X	diákoknak	n	Dativ Plural des Substantivs diák
-X	diákoknál	n	Adessiv Plural des Substantivs diák
-X	diákot	n	Akkusativ Singular des Substantivs diák
-X	diéta	n	(die) Diät f
-X	diétában	n	Inessiv Singular des Substantivs diéta
-X	diétához	n	Allativ Singular des Substantivs diéta
-X	diétáig	n	Terminativ Singular des Substantivs diéta
-X	diéták	n	Plural des Substantivs diéta
-X	diétákat	n	Akkusativ Plural des Substantivs diéta
-X	diétákban	n	Inessiv Plural des Substantivs diéta
-X	diétákhoz	n	Allativ Plural des Substantivs diéta
-X	diétákig	n	Terminativ Plural des Substantivs diéta
-X	diétákkal	n	Komitativ Plural des Substantivs diéta
-X	diétáknak	n	Dativ Plural des Substantivs diéta
-X	diétáknál	n	Adessiv Plural des Substantivs diéta
-X	diétának	n	Dativ Singular des Substantivs diéta
-X	diétánál	n	Adessiv Singular des Substantivs diéta
-X	diétát	n	Akkusativ Singular des Substantivs diéta
-X	diétával	n	Komitativ Singular des Substantivs diéta
-X	doboz	n	kleiner bis mittelgroßer, meist eckiger oder zylindrischer Behälter
-X	dobozban	n	Inessiv Singular des Substantivs doboz
-X	dobozhoz	n	Allativ Singular des Substantivs doboz
-X	dobozig	n	Terminativ Singular des Substantivs doboz
-X	doboznak	n	Dativ Singular des Substantivs doboz
-X	doboznál	n	Adessiv Singular des Substantivs doboz
-X	dobozok	n	Plural des Substantivs doboz
-X	dobozokat	n	Akkusativ Plural des Substantivs doboz
-X	dobozokban	n	Inessiv Plural des Substantivs doboz
-X	dobozokhoz	n	Allativ Plural des Substantivs doboz
-X	dobozokig	n	Terminativ Plural des Substantivs doboz
-X	dobozokkal	n	Komitativ Plural des Substantivs doboz
-X	dobozoknak	n	Dativ Plural des Substantivs doboz
-X	dobozoknál	n	Adessiv Plural des Substantivs doboz
-X	dobozt	n	Akkusativ Singular des Substantivs doboz
-X	dobozzal	n	Komitativ Singular des Substantivs doboz
-X	dongó	n	Hummel
-X	dongóban	n	Inessiv Singular des Substantivs dongó
-X	dongóhoz	n	Allativ Singular des Substantivs dongó
-X	dongóig	n	Terminativ Singular des Substantivs dongó
-X	dongók	n	Plural des Substantivs dongó
-X	dongókat	n	Akkusativ Plural des Substantivs dongó
-X	dongókban	n	Inessiv Plural des Substantivs dongó
-X	dongókhoz	n	Allativ Plural des Substantivs dongó
-X	dongókig	n	Terminativ Plural des Substantivs dongó
-X	dongókkal	n	Komitativ Plural des Substantivs dongó
-X	dongóknak	n	Dativ Plural des Substantivs dongó
-X	dongóknál	n	Adessiv Plural des Substantivs dongó
-X	dongónak	n	Dativ Singular des Substantivs dongó
-X	dongónál	n	Adessiv Singular des Substantivs dongó
-X	dongót	n	Akkusativ Singular des Substantivs dongó
-X	dongóval	n	Komitativ Singular des Substantivs dongó
-X	Dz		siebenter Buchstabe (Majuskel) des ungarischen Alphabets
-X	dz		siebenter Buchstabe (Minuskel) des ungarischen Alphabets
-X	Dzs		achter Buchstabe (Majuskel) des ungarischen Alphabets
-X	dzs		achter Buchstabe (Minuskel) des ungarischen Alphabets
-X	dzsungel	n	Dschungel
-X	délibáb	n	(die) Luftspiegelung
-X	délibábbal	n	Komitativ Singular des Substantivs délibáb
-X	délibábban	n	Inessiv Singular des Substantivs délibáb
-X	délibábhoz	n	Allativ Singular des Substantivs délibáb
-X	délibábig	n	Terminativ Singular des Substantivs délibáb
-X	délibábnak	n	Dativ Singular des Substantivs délibáb
-X	délibábnál	n	Adessiv Singular des Substantivs délibáb
-X	délibábok	n	Plural des Substantivs délibáb
-X	délibábokat	n	Akkusativ Plural des Substantivs délibáb
-X	délibábokban	n	Inessiv Plural des Substantivs délibáb
-X	délibábokhoz	n	Allativ Plural des Substantivs délibáb
-X	délibábokig	n	Terminativ Plural des Substantivs délibáb
-X	délibábokkal	n	Komitativ Plural des Substantivs délibáb
-X	délibáboknak	n	Dativ Plural des Substantivs délibáb
-X	délibáboknál	n	Adessiv Plural des Substantivs délibáb
-X	délibábot	n	Akkusativ Singular des Substantivs délibáb
-X	démon	n	(der) Dämon
-X	démonban	n	Inessiv Singular des Substantivs démon
-X	démonhoz	n	Allativ Singular des Substantivs démon
-X	démonig	n	Terminativ Singular des Substantivs démon
-X	démonnak	n	Dativ Singular des Substantivs démon
-X	démonnal	n	Komitativ Singular des Substantivs démon
-X	démonnál	n	Adessiv Singular des Substantivs démon
-X	démonok	n	Plural des Substantivs démon
-X	démonokat	n	Akkusativ Plural des Substantivs démon
-X	démonokban	n	Inessiv Plural des Substantivs démon
-X	démonokhoz	n	Allativ Plural des Substantivs démon
-X	démonokig	n	Terminativ Plural des Substantivs démon
-X	démonokkal	n	Komitativ Plural des Substantivs démon
-X	démonoknak	n	Dativ Plural des Substantivs démon
-X	démonoknál	n	Adessiv Plural des Substantivs démon
-X	démont	n	Akkusativ Singular des Substantivs démon
-X	dűne	n	Hügel aus zusammengewehtem Sand (an Küsten und in Trockengebieten)
-X	E		neunter Buchstabe (Majuskel) des ungarischen Alphabets
-X	e		neunter Buchstabe (Minuskel) des ungarischen Alphabets
-X	eb	n	(der) Hund m
-X	ebek	n	Plural des Substantivs eb
-X	ebéd	n	Mahlzeit, die zur Mittagszeit eingenommen wird; Mittagessen
-X	ecet	n	sauer schmeckendes, flüssiges Würz- und Konservierungsmittel; Essig
-X	edény	n	(das) Gefäß n
-X	edények	n	Plural des Substantivs edény
-X	Eger	name	Stadt in Ungarn
-X	egerek	n	Plural des Substantivs egér
-X	egy	num	eins
-X	egyedüllét	n	Einsamkeit f
-X	egyedüllétek	n	Plural des Substantivs egyedüllét
-X	egér	n	Maus
-X	egészséges	adj	nicht krank
-X	el	adv	weg ; Perfektiv (siehe auch meg)
-X	elefánt	n	(der) Elefant
-X	elefántok	n	Plural des Substantivs elefánt
-X	elhagyatott	adj	verlassen ; vereinsamt ; einsam ; menschenleer ; verödet ; öde
-X	első	adj,num	erstmalig ; erste
-X	ember	n	(der) Mensch m ; Mann
-X	Endre	name	ungarischer männlicher Vorname
-X	enged	v	jemand oder etwas lassen ; ändern
-X	engem	pron	(Akkusativ, 1. Person Singular) mich
-X	eper	n	(die) Erdbeere f
-X	eprek	n	Plural des Substantivs eper
-X	erdő	n	Wald
-X	erdők	n	Plural des Substantivs erdő
-X	erdős	adj	bewaldet ; waldreich ; waldig
-X	erdőség	n	(die) Waldung f
-X	erdőségek	n	Plural des Substantivs erdőség
-X	eredmény	n	(das) Ergebnis n
-X	eredmények	n	Plural des Substantivs eredmény
-X	erős	adj	stark ; scharf ; fest
-X	eszik	v	essen
-X	eső	n	Regen
-X	esőerdő	n	Regenwald
-X	Etelka	name	ungarischer weiblicher Vorname
-X	Európa	name	Erdteil Europa
-X	Európai Unió	name	Zusammenschluss von europäischen Staaten; Europäische Union
-X	evőkanál	n	Esslöffel
-X	ez nekem kínai	wend	das ist chinesisch für mich, es kommt mir spanisch vor, ich verstehe nur Bahnhof
-X	ezer	num	tausend, 10 x 10 x 10
-X	ezért	konj	deswegen
-X	F		elfter Buchstabe (Majuskel) des ungarischen Alphabets
-X	f		elfter Buchstabe (Minuskel) des ungarischen Alphabets
-X	fa	n	Baum ; Holz
-X	fagylalt	n	Eis (Speiseeis)
-X	fagylaltkehely	n	Eisbecher (Dessertzubehör)
-X	fagylaltkelyhek	n	Plural des Substantivs fagylaltkehely
-X	fagylaltok	n	Plural des Substantivs *Ungarisch: 1 fagylalt ^(→ hu)
-X	fagyos	adj	eisig ; vereist ; eiskalt ; frostig
-X	fal	n	die Wand
-X	falak	n	Plural des Substantivs fal
-X	farkas	n	Wolf
-X	farkasok	n	Plural des Substantivs farkas
-X	február	n	(der) Februar m
-X	februárok	n	Plural des Substantivs február
-X	fegyver	n	Waffe
-X	fehér	adj	weiß
-X	fejezet	n	Abschnitt eines Buches; Kapitel
-X	fekete	adj	schwarz
-X	fekete lyuk	wend	astronomisches Objekt
-X	fel	adv	auf
-X	felett	adv	(örtlich) oberhalb
-X	felfelé	adv	in Richtung auf
-X	felhőkarcoló	n	ein besonders hohes Gebäude
-X	feláll	v	sich von seinem Sitz erheben
-X	femur	n	Oberschenkelknochen m
-X	ferde	adj	schräg ; schief ; quer
-X	Ferenc	name	ungarischer männlicher Vorname
-X	Fertő tó	name	See (tó) zwischen österreichischem und ungarischem Staatsgebiet; Neusiedler See
-X	film	n	(der) Film m
-X	fizika	n	Lehre von den grundlegenden Gesetzen der Natur; Physik
-X	fjord	n	(der) Fjord m
-X	fog	v	(er, sie, es) greift, hält ; (er, sie, es) fängt, nimmt, empfängt ; Hilfsverb zum Ausdruck eines in naher Zukunft liegenden Geschehens, 3. Person, Singular
-X	fogni	v	greifen, halten ; fangen, nehmen, empfangen ; Hilfsverb zum Ausdruck eines in naher Zukunft liegenden Geschehens
-X	fogok	v	(ich) greife, halte ; (ich) fange, nehme, empfange ; Hilfsverb zum Ausdruck eines in naher Zukunft liegenden Geschehens (ich werde, ich will)
-X	folt	n	verschmutzte Stelle
-X	forró	adj	heiß
-X	forrófejű	adj	hitzig ; hitzköpfig
-X	forróság	n	Hitze
-X	forróságok	n	Plural des Substantivs forróság
-X	Frigyes	name	ungarischer männlicher Vorname
-X	friss	adj	frisch
-X	Fruzsina	name	ungarischer weiblicher Vorname mit der Bedeutung „Freude, Fröhlichkeit“
-X	fák	n	Plural des Substantivs fa
-X	fáklya	n	mit einer brennbaren Schicht am oberen Ende versehener Stab, dessen Flamme hell leuchtet;…
-X	Félix	name	ungarischer männlicher Vorname
-X	fém	n	(das) Metall n
-X	fémek	n	Plural des Substantivs fém
-X	fémkohászat	n	(die) Metallurgie f
-X	fémkohászatok	n	Plural des Substantivs fémkohászat
-X	fémpénz	n	(das) Metallgeld n
-X	fémpénzek	n	Plural des Substantivs fémpénz
-X	fémtárgy	n	(der) Metallgegenstand
-X	fémtárgyak	n	Nominativ Plural des Substantivs fémtárgy
-X	fénykép	n	Bild ; Foto ; Fotografie
-X	férfi	n	Mann
-X	fóka	n	Seehund
-X	fókák	n	Plural des Substantivs fóka
-X	fül	n	Ohr
-X	fülek	n	Plural des Substantivs fül
-X	főnév	n	Substantiv
-X	főváros	n	Hauptstadt
-X	főz	v	kochen ; Bier brauen
-X	G		zwölfter Buchstabe (Majuskel) des ungarischen Alphabets
-X	g		zwölfter Buchstabe (Minuskel) des ungarischen Alphabets
-X	galagonya	n	Pflanze mit Dornen als Zweige; Weißdorn
-X	galaxis	n	astronomisches Objekt
-X	garázs	n	(die) Garage f
-X	garázsok	n	Plural des Substantivs garázs
-X	gazdaságos	adj	wirtschaftlich ; ökonomisch ; rationell
-X	gazella	n	(die) Gazelle f
-X	geometria	n	die Geometrie
-X	giccs	n	Objekt der Kunst, Musik oder Literatur, welches als klischeehaft und geschmacklos angeseh…
-X	giliszta	n	(der) Wurm m
-X	giliszták	n	Plural des Substantivs giliszta
-X	golyó	n	Kugel
-X	golyók	n	Plural des Substantivs golyó
-X	golyóscsapágy	n	(das) Kugellager n
-X	golyóscsapágyak	n	Plural des Substantivs golyóscsapágy
-X	golyóstoll	n	(der) Kugelschreiber m
-X	golyóstollak	n	Plural des Substantivs golyóstoll
-X	golyóstollbetét	n	(die) Kugelschreibermine f
-X	golyóstollbetétek	n	Plural des Substantivs golyóstollbetét
-X	gomb	n	(der) Knopf
-X	gomba	n	(der) Pilz m
-X	gombok	n	Plural des Substantivs gomb
-X	gombák	n	Plural des Substantivs gomba
-X	guggol	v	hocken, kauern
-X	Gy		dreizehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	gy		dreizehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	gyenge	adj	schwach
-X	gyerek	n	Kind
-X	gyerekes	adj	kindisch
-X	gyermek	n	Kind
-X	gyár	n	Fabrik
-X	György	name	ungarischer männlicher Vorname
-X	gyümölcs	n	(das) Obst n
-X	gép	n	Maschine
-X	Géza	name	ungarischer männlicher Vorname
-X	gömb	n	(die) Kugel f
-X	gömbök	n	Plural des Substantivs gömb
-X	gömbölyű	adj	kugelrund
-X	gúnár	n	männliche Gans; Gänserich
-X	H		vierzehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	h		vierzehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	ha	konj	falls, ob, wenn
-X	ha nincs otthon a macska, cincognak az egerek	wend	bei fehlender Aufsicht nutzen manche die Situation aus, indem sie sich unbekümmert Dinge…
-X	hab	n	gasförmige Bläschen; Schaum
-X	haj	n	(das) Haar n
-X	Hajnalka	name	ungarischer weiblicher Vorname (wörtlich: "wenn die Sonne aufkommt", sinngemäß "Morgenröt…
-X	hal	n	Fisch
-X	halak	n	Plural des Substantivs hal
-X	hangya	n	(die) Ameise f
-X	hangyák	n	Plural des Substantivs hangya
-X	harmadik	num	die Ordnungszahl zur Kardinalzahl drei
-X	Harmadik Birodalom	name	Bezeichnung für das nationalsozialistische Deutschland von 1933 bis 1945
-X	harminc	num	dreißig
-X	hat	num,v	sechs ; greifen
-X	határozószó	n	Adverb
-X	hatékony	adj	mit Erfolg wirkend
-X	havas	adj	verschneit, schneebedeckt
-X	Hedda	name	ungarischer weiblicher Vorname
-X	here	n	Hoden
-X	hering	n	(der) Hering m
-X	heringek	n	Plural des Substantivs hering
-X	hiba	n	Fehler
-X	hideg	adj	kalt
-X	hint	v	gehoben: 2. Person Singular Indikativ Präsens Aktiv unbestimmt des Verbs hinteni ; 3. Person Singular Indikativ Präsens Aktiv unbestimmt des Verbs hinteni
-X	hol	adv	wo
-X	hold	n	(der) Mond m
-X	holdvilág	n	(der) Mondschein m ; (das) Mondlicht n
-X	holnap	adv	morgen
-X	homok	n	mineralisches lockeres Bodenmaterial; Sand
-X	hosszú	adj	lang
-X	hullámos	adj	wellenförmig ; wellig ; lockig
-X	hullámverés	n	(der) Seegang m, (der) Wellengang m, (die) Wallung f ; übertr. auch körperl. Wallung bei Menschen
-X	hullámverések	n	Plural des Substantivs hullámverés
-X	hullámzás	n	(der) Seegang m, (der) Wellengang m, (die) Wallung f ; übertr. auch körperl. Wallung bei Menschen
-X	hullámzások	n	Plural des Substantivs hullámzás
-X	hullócsillag	n	(die) Sternschnuppe f
-X	hullócsillagok	n	Plural des Substantivs hullócsillag
-X	husok	n	Plural des Substantivs hús
-X	huszonegy	num	einundzwanzig
-X	huszonhat	num	sechsundzwanzig
-X	huszonhárom	num	dreiundzwanzig
-X	huszonhét	num	siebenundzwanzig
-X	huszonkettő	num	zweiundzwanzig
-X	huszonkilenc	num	neunundzwanzig
-X	huszonnyolc	num	achtundzwanzig
-X	huszonnégy	num	vierundzwanzig
-X	huszonöt	num	fünfundzwanzig
-X	három	num	drei
-X	ház	n	Haus
-X	házias	adj	häuslich
-X	házikó	n	Häuschen
-X	háziállat	n	Haustier
-X	hét	n,num	sieben ; Woche
-X	hétfő	n	Wochentag nach Sonntag; Montag
-X	hétfők	n	Plural des Substantivs hétfő
-X	hétköznap	n	Wochentag
-X	hó	n	Schnee
-X	hónap	n	Monat
-X	hónapok	n	Plural des Substantivs hónap
-X	hörcsög	n	Nagetier mit Backentaschen; Hamster
-X	hús	n	Fleisch
-X	húsvéti nyúl	n	(der) Osterhase m
-X	húsz	num	zwanzig
-X	I		fünfzehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	i		fünfzehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	ibolyakék	adj	violett
-X	ideológia	n	(die) Ideologie f
-X	ideológiák	n	Plural des Substantivs ideológia
-X	idő	n	Zeit
-X	ige	n	Verb
-X	igen	adv	ja
-X	Ildikó	name	ungarischer weiblicher Vorname
-X	illatozik	v	duften, riechen; angenehm/herrlich/wunderbar riechen
-X	illem	n	(der) Anstand m
-X	illemek	n	Plural des Substantivs illem
-X	illemhely	n	(die) Toilette f
-X	illemhelyek	n	Plural des Substantivs illemhely
-X	illemtudó	adj	anständig ; sittsam ; formgerecht ; höflich ; wohlerzogen ; artig
-X	Ilona	name	ungarischer weiblicher Vorname
-X	ing	n	(das) Hemd n
-X	is	adv	auch
-X	Isten	n	Gott
-X	isten	n	Gott
-X	istennő	n	Göttin
-X	iszik	v	trinken
-X	itt	adv	hier
-X	izmok	n	Plural des Substantivs izom
-X	izom	n	(der) Muskel m
-X	izomláz	n	(der) Muskelkater m
-X	izomlázak	n	Plural des Substantivs izomláz
-X	J		siebzehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	j		siebzehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	január	n	(der) Monat Januar
-X	januárok	n	Plural des Substantivs január
-X	jeges	adj	vereist ; eisig ; eiskalt
-X	jegesmedve	n	Eisbär
-X	jelen	adj,n	gegenwärtig, aktuell, derzeitig ; Gegenwart f, Präsens n
-X	jobb	adj	Steigerungsform von gut; besser ; auf der rechten Seite befindlich
-X	János	name	ungarischer männlicher Vorname
-X	jég	n	gefrorenes Wasser; Eis
-X	jégeső	n	Hagel
-X	jó	adj	gut ; brav ; richtig
-X	jó napot	wend	Gruß am Tag; guten Tag
-X	jó reggelt	wend	guten Morgen
-X	jódli	n	Jodler, Jodel
-X	jólelkű	adj	gutmütig ; gutherzig
-X	jóságos	adj	gütig
-X	jön	v	kommen
-X	Júlia	name	ungarischer weiblicher Vorname
-X	július	n	(der) Juli m
-X	júliusok	n	Plural des Substantivs július
-X	június	n	(der) Juni m
-X	júniusok	n	Plural des Substantivs június
-X	K		achtzehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	k		achtzehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	kacsa	n	Ente
-X	kacsák	n	Nominativ Plural des Substantivs kacsa
-X	kakukk	n	Vogel, der seine Eier in fremde Nester legt; Kuckuck
-X	kalapács	n	Hammer
-X	kaldaunepörkölt	n	(der) Kaldaunegulasch m
-X	kalóz	n	(der) Pirat m
-X	kalózok	n	Plural des Substantivs kalóz
-X	kanca	n	Stute
-X	kanál	n	Löffel
-X	kapu	n	(das) Tor n
-X	kapuk	n	Plural des Substantivs kapu
-X	kard	n	Schwert
-X	Karácsony	n	das Weihnachten
-X	karácsonyfa	n	(der) Weihnachtsbaum m
-X	karácsonyfák	n	Plural des Substantivs karácsonyfa
-X	kas	n	(der) Bienenkorb m, (der) Korb m
-X	katasztrófa	n	Katastrophe
-X	katasztrófák	n	Plural des Substantivs katasztrófa
-X	kecske	n	Ziege
-X	kedd	n	Wochentag nach Montag; Dienstag
-X	keddek	n	Plural des Substantivs kedd
-X	kellemes	adj	angenehm
-X	kellemetlen	adj	unangenehm
-X	kenguru	n	in Australien lebendes großes Beuteltier; Känguru
-X	kenguruban	n	Inessiv Singular des Substantivs kenguru
-X	kenguruja	n	Besitzform Singular 3. Person Singular des Substantivs kenguru
-X	kenguruk	n	Nominativ Plural des Substantivs kenguru
-X	kengurukat	n	Akkusativ Plural des Substantivs kenguru
-X	kengurukban	n	Inessiv Plural des Substantivs kenguru
-X	kenguruknak	n	Dativ Plural des Substantivs kenguru
-X	kengurunak	n	Dativ Singular des Substantivs kenguru
-X	kengurut	n	Akkusativ Singular des Substantivs kenguru
-X	keresztes lovag	n	(der) Kreuzritter m
-X	keresztes lovagok	wend	Plural des Substantivs keresztes lovag
-X	kert	n	Garten
-X	kettő	num	zwei
-X	kevés	adj	wenig(e) ; kurz
-X	kicsi	adj	klein
-X	kiejtés	n	Aussprache
-X	kilenc	num	neun
-X	kivi	n	(die) Kiwi f
-X	kivon	v	több számokat egymásból kivonni (mehrere Zahlen voneinander abziehen)
-X	kolléga	n	(der) Kollege m
-X	koncert	n	Konzert
-X	konyha	n	(die) Küche f
-X	kor	n	Altersangabe, Zeitalter ; (-kor) Präposition: um, zu
-X	korhatár	n	(die) Altersgrenze f
-X	korhatárok	n	Plural des Substantivs korhatár
-X	korok	n	Plural des Substantivs kor
-X	kort	n	Akkusativ Singular des Substantivs kor
-X	kortárs	n	(der) Zeitgenosse m
-X	kortársak	n	Plural des Substantivs kortárs
-X	koszos	adj	schmutzig
-X	Krisztina	name	ungarischer weiblicher Vorname
-X	krokodil	n	(das) Krokodil n
-X	krumpli	n	(die) Kartoffel f
-X	kukac	n	(die) Made f, (der) Wurm m ; Symbol in der E-Mail-Adresse: Klammeraffe³ @
-X	kukacok	n	Plural des Substantivs kukac
-X	kutya	n	Hund
-X	kutyák	n	Plural des Substantivs kutya
-X	Károly	name	ungarischer männlicher Vorname
-X	kávé	n	Kaffee
-X	kávébab	n	(die) Kaffeebohne f
-X	kávédaráló	n	(die) Kaffeemühle f
-X	kávéfilter	n	(der) Kaffeefilter m
-X	kávéfőző	n	(die) Kaffeemaschine f
-X	kávéscsésze	n	(die) Kaffeetasse f
-X	kávéskanna	n	(die) Kaffeekanne f
-X	kávéskanál	n	(der) Kaffeelöffel m
-X	kávéskészlet	n	(das) Kaffeeservice n, (das) Kaffeegeschirr n
-X	kávészünet	n	(die) Kaffeepause f
-X	kék	adj	blau
-X	kés	n	Messer
-X	kéz	n	Hand
-X	kór	n	(die) Krankheit f, (die) Sucht f
-X	kórok	n	Plural des Substantivs kór
-X	kórterem	n	(das) Krankenzimmer n, (der) Krankensaal m
-X	kórtermek	n	Plural des Substantivs kórterem
-X	könnyű	adj	etwas oder jemand ist ; leicht ; einfach
-X	könyv	n	Buch
-X	könyvtár	n	Bibliothek
-X	könyvtáros	n	Bibliothekar
-X	könyvtárosnő	n	Bibliothekarin
-X	környezetvédő	n	(der) Umweltschützer n
-X	környezetvédők	n	Plural des Substantivs környezetvédő
-X	körte	n	(die) Birne f ; (die) Birne f, (die) Glühbirne f ; Brust ; Busen ; Kopf
-X	körtefa	n	eine Baumart
-X	köröm	n	Nagel ; Klaue, Kralle
-X	körülbelül	adv	nicht genau
-X	köszönöm	interj	Äußerung des Dankes
-X	kötőszavak	n	Plural des Substantivs kötőszó
-X	kötőszó	n	(die) Konjunktion f (Bindewort)
-X	L		neunzehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	l		neunzehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	labda	n	(der) Ball m ; weibliche Brust ; weibliche Busen ; Kopf
-X	langyos	adj	lauwarm, lau ; für bisexuell
-X	lapát	n	Schaufel
-X	lassú	adj	langsam
-X	le	adj	ab
-X	lefelé	adv	in Richtung herunter
-X	legyek	n	Plural des Substantivs légy
-X	lelkek	n	Plural des Substantivs lélek
-X	lelketlen	adj	herzlos ; gefühllos ; seelenlos
-X	lelkipásztor	n	(der) Seelsorger m
-X	lelkipásztorok	n	Plural des Substantivs lelkipásztor
-X	lelkiállapot	n	(der) Seelenzustand m, (der) Geisteszustand m
-X	lelkiállapotok	n	Plural des Substantivs lelkiállapot
-X	lenni	v	sein ; sein, sich befinden
-X	lepke	n	(der) Schmetterling m
-X	lepkék	n	Plural des Substantivs lepke
-X	lever	v	rammen
-X	leves	n	Suppe
-X	levesek	n	Plural des Substantivs leves
-X	liba	n	(die) Gans f
-X	libabőr	n	(die) Gänsehaut f
-X	libák	n	Plural des Substantivs liba
-X	lila	adj	lila
-X	lop	v	etwas stehlen, rauben
-X	lovag	n	(der) Ritter m
-X	lovagok	n	Plural des Substantivs lovag
-X	Luca	name	ungarischer weiblicher Vorname
-X	Ly		zwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ly		zwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	lábfej	n	Fuß
-X	László	name	ungarischer männlicher Vorname
-X	légy	n	(die) Fliege f
-X	lélek	n	(der) Geist m, (die) Psyche f, (die) Seele f
-X	ló	n	Pferd ; Schachfigur; Springer
-X	M		einundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	m		einundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	ma	adv	heute; an diesem Tage
-X	maci	n	(der) Teddybär m
-X	macik	n	Plural des Substantivs maci
-X	mackó	n	(der) Bär m ; umgangssprachlich für: (der) Jogginganzug m
-X	mackók	n	Plural des Substantivs mackó
-X	mackónadrág	n	(die) Jogginghose f
-X	mackónadrágok	n	Plural des Substantivs mackónadrág
-X	macska	n	Haustier: Katze
-X	macskák	n	Plural des Substantivs macska
-X	madarak	n	Plural des Substantivs madár
-X	madár	n	(der) Vogel m
-X	madárlátta	wend	Wörtlich übersetzt: madár  Vogel, látta  gesehene; "von Vögeln gesehene" ; Brot ; Hasenbrot
-X	magánhangzó	n	(der) Vokal, Selbstlaut m
-X	mandarin	n	(der) Mandarin m ; (die) Mandarine f
-X	mandarinréce	n	Mandarinente
-X	mandarinrécék	n	Plural des Substantivs mandarinréce
-X	marha	n	(das) Rind n
-X	marhák	n	Plural des Substantivs marha
-X	matrica	n	Ein Aufkleber; meistens einseitig klebend mit verschiedenen Motiven ; Autobahnvignette ; Kinderaufkleber ; Werbeaufkleber
-X	matricák	n	Plural des Substantivs matrica
-X	medve	n	Bär
-X	medvék	n	Plural des Substantivs medve
-X	meg	adv	Präteritum: kennzeichnet eine Handlung als abgeschlossen ; Präsens ; zeigt an, dass eine Handlung gerade beginnt oder ; bald abgeschlossen sein wird ; plus
-X	megy	v	gehen ; fahren
-X	meleg	adj	warm ; homosexuell
-X	melléknév	n	Adjektiv
-X	menet	n	(der) Marsch m
-X	menetek	n	Plural des Substantivs menet
-X	Menyhért	name	ungarischer männlicher Vorname
-X	mese	n	Märchen
-X	mi	pron	wir
-X	milliárd	num	(die) Milliarde f, 1000 x 1000 x 1000, 1000000000
-X	mirigy	n	Organ, das eine spezielle Substanz bildet und als Sekret nach außen, oder als Hormon in d…
-X	miért	adv	warum?
-X	Mohamed	name	ungarischer männlicher Vorname
-X	molesztál	v	belästigen
-X	most	adv	jetzt, nun, in diesem Moment
-X	motiváció	n	Motivation
-X	motor	n	Motor
-X	mozi	n	(das) Kino n
-X	mozik	n	Plural des Substantivs mozi
-X	mustár	n	Senf
-X	mustárok	n	Plural des Substantivs mustár
-X	május	n	(der) Mai m
-X	májusok	n	Plural des Substantivs május
-X	mák	n	(der) Mohn m
-X	mákok	n	Plural des Substantivs mák
-X	málna	n	(die) Himbeere f
-X	március	n	(der) März m
-X	márciusok	n	Plural des Substantivs március
-X	második	num	zweite
-X	másodperc	n	Sekunde
-X	mássalhangzó	n	(der) Konsonant, Mitlaut
-X	médiatörténész	n	Medienhistoriker
-X	méh	n	(die) Biene f ; (die) Gebärmutter f
-X	méhek	n	Plural des Substantivs méh
-X	mély érzésű	adj	seelenvoll
-X	méreg	n	Gift
-X	méz	n	(der) Honig m
-X	mézek	n	Plural des Substantivs méz
-X	móka	n	(der) Spaß, (der) Scherz
-X	mókus	n	(das) Eichhörnchen n
-X	mókusok	n	Plural des Substantivs mókus
-X	N		zweiundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	n		zweiundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	nadrág	n	(die) Hose f
-X	nagy	adj	groß
-X	nagyság	n	Größe
-X	nap	n	Tag ; Sonne
-X	napsütés	n	(der) Sonnenschein m
-X	narancssárga	adj	orange
-X	nedves	adj	feucht
-X	negyedik	num	die Ordnungszahl zur Kardinalzahl vier
-X	nehéz	adj	Etwas oder jemand ist ; schwer
-X	nem	adv	nein ; nicht
-X	nem esik messze az alma a fájától	wend	deutet an, dass ein Kind Eigenschaften und Verhaltensweisen von den Eltern übernimmt
-X	nincs otthon a macska, cincognak az egerek	wend	bei fehlender Aufsicht nutzen manche die Situation aus, indem sie sich unbekümmert Dinge…
-X	Norbert	name	deutscher männlicher Vorname ; ungarischer männlicher Vorname
-X	november	n	(der) November m
-X	novemberek	n	Plural des Substantivs november
-X	Ny		dreiundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ny		dreiundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	nyak	n	Hals
-X	nyakak	n	Plural des Substantivs nyak
-X	nyakas	adj	hartnäckig ; halsstarrig ; eigensinnig ; dickköpfig
-X	nyakasság	n	(der) Starrsinn m
-X	nyakasságok	n	Plural des Substantivs nyakasság
-X	nyakatekert	adj	verschroben
-X	nyakcsigolya	n	(der) Halswirbel m
-X	nyakcsigolyák	n	Plural des Substantivs nyakcsigolya
-X	nyakigláb	adj	Hopfenstange ; langbeinig ; baumlang, Lulatsch
-X	nyakkendő	n	(die) Krawatte f
-X	nyakkendők	n	Plural des Substantivs nyakkendő
-X	nyaklánc	n	Halskette, Halsband
-X	nyakláncok	n	Plural des Substantivs nyaklánc
-X	nyakszirt	n	(das) Genick n
-X	nyakszirtek	n	Plural des Substantivs nyakszirt
-X	nyakörv	n	(das) Halsband n
-X	nyakörvek	n	Plural des Substantivs nyakörv
-X	nyarak	n	Plural des Substantivs nyár
-X	nyelv	n	Zunge ; Sprache
-X	nyelvek	n	Plural des Substantivs nyelv
-X	nyelvtudomány	n	Sprachwissenschaft
-X	nyolc	num	acht
-X	nyomós	adj	triftig ; gewichtig ; schwerwiegend
-X	nyugodt	adj	ruhig
-X	nyulak	n	Plural des Substantivs nyúl
-X	nyár	n	heiße, sonnige Jahreszeit; Sommer
-X	nyúl	n	(der) Hase m ; (das) Kaninchen n
-X	náci karlendítés	wend	In der Zeit des Nationalsozialismus die verpflichtende Grußform.
-X	négy	num	vier
-X	német	adj,n	deutsch ; die Sprache Deutsch ; ein Deutscher, eine Deutsche
-X	Német Szövetségi Köztársaság	n	Bundesrepublik Deutschland
-X	Németország	name	Deutschland
-X	névmás	n	Pronomen
-X	nő	n	Frau
-X	O		vierundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	o		vierundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	obeliszk	n	(der) Obelisk m
-X	objektív	n	(das) Objektiv n ; objektiv
-X	oboa	n	Holzblasinstrument mit Doppelrohrblatt; Oboe
-X	okos	adj	klug
-X	okosság	n	Klugheit
-X	október	n	(der) Oktober m
-X	októberek	n	Plural des Substantivs október
-X	oltár	n	tischähnliche Einrichtung zur Feier eines Gottesdienstes, zur kultischen Verehrung oder d…
-X	orca	n	Backe ; Wange
-X	oroszlán	n	(der) Löwe m
-X	oroszlánok	n	Plural des Substantivs oroszlán
-X	orr	n	Nase
-X	orrok	n	Plural des Substantivs orr
-X	Orsolya	name	ungarischer weiblicher Vorname
-X	oszlop	n	(die) Säule
-X	oszlopok	n	Plural des Substantivs oszlop
-X	oszt	v	zwei Zahlen voneinander dividieren
-X	osztriga	n	Muschel, deren Inneres zum Verzehr geeignet ist und als Delikatesse gilt; Auster
-X	ott	adv	dort
-X	oázis	n	(die) Oase f
-X	P		achtundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	p		achtundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	pacal	n	(die) Kuttel f
-X	pacalok	n	Plural des Substantivs pacal
-X	pacalpörkölt	n	(das/der) Kuttelgulasch n/m
-X	pacientúra	n	(der) Patientenkreis m
-X	pacientúrák	n	Plural des Substantivs pacientúra
-X	pacsirta	n	(die) Lerche
-X	pacsirtaszó	n	(der) Lerchenklang m
-X	pacsirták	n	Plural Nominativ des Substantivs pacsirta
-X	pad	n	(die) Sitzbank f (verwendet in der Park, Schule, Anklagebank)
-X	padok	n	Plural des Substantivs pad
-X	pajkos	adj	übermütig ; schelmisch ; keck ; lausbubenhaft, lausbübisch ; schalkhaft ; frivol
-X	paletta	n	(die) Palette f
-X	paletták	n	Plural des Substantivs paletta
-X	papír	n	(das) Papier
-X	paradicsom	n	(die) Tomate f ; (das) Paradies n
-X	paradicsomok	n	Plural des Substantivs paradicsom
-X	paraszt	n	(der) Bauer m
-X	parasztasszony	n	(die) Bäuerin f
-X	parasztasszonyok	n	Plural des Substantivs parasztasszony
-X	parasztbútor	n	(das) Bauernmöbel n
-X	parasztbútorok	n	Plural des Substantivs parasztbútor
-X	parasztcsalád	n	(die) Bauernfamilie
-X	parasztcsaládok	n	Nominativ Plural des Substantivs parasztcsalád
-X	parasztház	n	(das) Bauernhaus n
-X	parasztházak	n	Plural des Substantivs parasztház
-X	parasztok	n	Plural des Substantivs paraszt
-X	parasztélet	n	(das) Bauernleben n
-X	pata	n	mit Hornsubstanz ummantelter Fuß von Unpaarhufern
-X	patak	n	(der) Bach m
-X	patakok	n	Plural des Substantivs patak
-X	patkány	n	(die) Ratte f
-X	patkányok	n	Plural des Substantivs patkány
-X	paták	n	Plural des Substantivs pata
-X	perc	n	Minute
-X	piac	n	(der) Markt m
-X	piacok	n	Plural des Substantivs piac
-X	pillangó	n	(der) Schmetterling m
-X	pillangók	n	Plural des Substantivs pillangó
-X	pingvin	n	flugunfähiger Seevogel; Pinguin
-X	pipa	n	(die) Pfeife f
-X	pipák	n	Plural des Substantivs pipa
-X	piros	adj	rot
-X	piszkos	adj	schmutzig
-X	pisztoly	n	Schießwaffe mit eher kurzem Lauf, die aus der Hand abgeschossen wird; Pistole
-X	pont	n	(der) Punkt m
-X	poros	adj	staubig ; staubbedeckt ; verstaubt
-X	páciens	n	(der) Patient m
-X	páciensek	n	Plural des Substantivs páciens
-X	párduc	n	(der) Panther m
-X	párducok	n	Plural des Substantivs párduc
-X	péntek	n	Wochentag nach Donnerstag; Freitag
-X	péntekek	n	Plural des Substantivs péntek
-X	pénz	n	gesetzliches Zahlungsmittel; Geld
-X	Péter	name	ungarischer männlicher Vorname
-X	pók	n	(die) Spinne f
-X	pókok	n	Plural des Substantivs pók
-X	Q		neunundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	q		neunundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	R		dreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	r		dreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	radiátor	n	(der) Heizkörper m
-X	radiátorok	n	Plural des Substantivs radiátor
-X	rag	n	(die) Nachsilbe f
-X	ragban	n	Inessiv Singular des Substantivs rag
-X	raggal	n	Komitativ Singular des Substantivs rag
-X	raghoz	n	Allativ Singular des Substantivs rag
-X	ragig	n	Terminativ Singular des Substantivs rag
-X	ragnak	n	Dativ Singular des Substantivs rag
-X	ragnál	n	Adessiv Singular des Substantivs rag
-X	ragokat	n	Akkusativ Plural des Substantivs rag
-X	ragokban	n	Inessiv Plural des Substantivs rag
-X	ragokhoz	n	Allativ Plural des Substantivs rag
-X	ragokig	n	Terminativ Plural des Substantivs rag
-X	ragokkal	n	Komitativ Plural des Substantivs rag
-X	ragoknak	n	Dativ Plural des Substantivs rag
-X	ragoknál	n	Adessiv Plural des Substantivs rag
-X	ragot	n	Akkusativ Singular des Substantivs rag
-X	reggeli	n	Frühstück
-X	remegés	n	Beben
-X	retkes	adj	für schmutzig
-X	rossz	adj	schlecht ; schlimm ; kaputt ; verdorben
-X	réce	n	(volkst. für) Ente
-X	récék	n	Plural des Substantivs réce
-X	Réka	name	ungarischer weibliche Vorname
-X	rétisas	n	(der) Seeadler m
-X	rétisasok	n	Plural des Substantivs rétisas
-X	rézsútos	adj	schräg ; schief
-X	róka	n	Fuchs
-X	rókák	n	Plural des Substantivs róka
-X	rövid	adj	kurz
-X	S		einunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	s		einunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	sajtos	adj	käsig
-X	savanyú	adj	sauer
-X	segg	n	(der) Arsch m
-X	seggek	n	Plural des Substantivs segg
-X	seggfej	n	(das) Arschloch n
-X	seggfejek	n	Plural des Substantivs seggfej
-X	sima	adj	eben ; glatt
-X	sok	adj	viel
-X	sorompó	n	(die) Bahnschranke f
-X	sorompók	n	Plural des Substantivs sorompó
-X	sport	n	(der) Sport m
-X	stadion	n	(das) Stadion n
-X	strand	n	in ein Gewässer hineinragender, langgestreckter, flacher, sandiger oder kiesiger Streifen… ; öffentliches Schwimmbad im Freien mit einem Badestrand
-X	Svédország	name	Schweden (Staat in Skandinavien)
-X	Sz		zweiunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	sz		zweiunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	szagol	v	etwas oder jemanden mit der Nase als Riechorgan wahrnehmen, riechen. ; einen strengen Geruch haben; stinken
-X	szamarak	n	Nominativ Plural des Substantivs szamár
-X	szamár	n	Esel
-X	szarka	n	langschwänziger Vogel aus der Familie der Rabenvögel; Elster
-X	szarvas	n	(der) Hirsch m
-X	szarvasok	n	Plural des Substantivs szarvas
-X	szegénység	n	(die) Armut f, (die) Mittellosigkeit f
-X	szegénységek	n	Plural des Substantivs szegénység
-X	szeles	adj,n	windig ; schusselig ; fahrig ; leichtfertig ; (der) Sausewind m
-X	szelíd	adj	sanft, sanftmütig, mild ; gutartig, zahm
-X	szem	n	Auge
-X	szeptember	n	(der) September m
-X	szeptemberek	n	Plural des Substantivs szeptember
-X	szerda	n	Wochentag nach Dienstag; Mittwoch
-X	szerdák	n	Plural des Substantivs szerda
-X	szerelem	n	(die) Liebe f
-X	szerelmek	n	Plural des Substantivs szerelem
-X	szerszám	n	Mittel zur Arbeitserleichterung; Werkzeug
-X	szia	interj	Äußerung bei Begrüßung; kann als Begrüßung ebenso wie zur Verabschiedung verwendet werden
-X	Szilvia	name	ungarischer weiblicher Vorname
-X	szilánk	n	Bruchstück; Splitter
-X	szivar	n	(die) Zigarre f
-X	szivarok	n	Plural des Substantivs szivar
-X	szivárvány	n	Regenbogen
-X	szivárványok	n	Plural des Substantivs szivárvány
-X	szombat	n	Wochentag nach Freitag; Samstag
-X	szombatok	n	Plural des Substantivs szombat
-X	szoros	adj	im übertragenen Sinn: eng, knapp ; gespannt stramm, straff ; in der Nähe von jemand/etwas: dicht, knapp ; streng, genau ; ausgeglichen, eng, knapp
-X	szoroz	v	multiplizieren
-X	Szovjet Szocialista Köztársaságok Szövetsége	name	Union der Sozialistischen Sowjetrepubliken
-X	Szovjetunió	name	Sowjetunion
-X	SZSZKSZ	name	UdSSR
-X	száj	n	Mund
-X	szájak	n	Plural des Substantivs száj
-X	szám	n	Zahl
-X	számológép	n	Rechenmaschine
-X	számrendszer	n	Zahlensystem
-X	számítógép	n	Computer, Rechner
-X	száraz	adj	trocken
-X	száz	num	hundert, 10 x 10
-X	széles	adj	breit
-X	szép	adj	schön ; hübsch
-X	szín	n	(die) Farbe f
-X	szó	n	Wort
-X	szófaj	n	Wortart
-X	szög	n	Nagel ; Winkel
-X	szürke	adj	grau
-X	szűk	adj	eng
-X	sárga	adj	gelb
-X	sátor	n	eine zum leichten Aufstellen und Abbauen gedachte Konstruktion; Zelt
-X	sáv	n	(die) Zone f
-X	sávok	n	Plural des Substantivs sáv
-X	sós	adj	salzig
-X	súlylökés	n	Kugelstoßen
-X	súlylökések	n	Plural des Substantivs súlylökés
-X	T		dreiunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	t		dreiunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	Takács de Saár	name	ungarischer Familienname
-X	tampon	n	Hygiene: (der) Tampon m, (der) Stöpsel m ; Medizin: siehe 1
-X	tanya	n	(der) Bauernhof
-X	tanyák	n	Plural des Substantivs tanya
-X	tapasz	n	(das) Pflaster n
-X	tapaszok	n	Plural des Substantivs tapasz
-X	tartalom	n	Inhalt
-X	tavak	n	Plural des Substantivs tó
-X	tavasz	n	Frühling
-X	tavaszok	n	Plural des Substantivs tavasz
-X	te	pron	; du
-X	tegnap	adv	gestern
-X	tehenek	n	Plural des Substantivs tehén
-X	tehát	konj	also
-X	tehén	n	(die) Kuh f
-X	tej	n	(die) Milch f
-X	tejberizs	n	(der) Milchreis m
-X	tejcsokoládé	n	(die) Milchschokolade f
-X	tejespohár	n	(das) Milchglas
-X	tejföl	n	Schmand
-X	tejfölök	n	Plural des Substantivs tejföl
-X	tejpor	n	(das) Milchpulver n
-X	tejszínhab	n	(die) Schlagsahne f
-X	telek	n	Plural des Substantivs tél
-X	telt	adj	voll
-X	tenger	n	(das) Meer, (die) See, ( z. B. Nordsee, Ostsee)
-X	tengerek	n	Nominativ Plural des Substantivs tenger
-X	tengerhajózás	n	(die) Seefahrt f
-X	tengerhajózások	n	Plural des Substantivs tengerhajózás
-X	tengeri fürdő	n	(das) Seebad n
-X	tengeri fürdők	wend	Plural des Substantivs tengeri fürdő
-X	tengeri haderő	n	(die) Seestreitkräfte f
-X	tengeri haderők	wend	Plural des Substantivs tengeri haderő
-X	tengeri utak	wend	Plural des Substantivs tengeri út
-X	tengeri utazás	n	(die) Seefahrt f
-X	tengeri utazások	wend	Plural des Substantivs tengeri utazás
-X	tengeri út	n	(die) Seefahrt f
-X	tengeribeteg	adj	seekrank
-X	tengerész	n	(der) Seemann m
-X	tengerészek	n	Plural des Substantivs tengerész
-X	tenyésztés	n	(die) Zucht, (die) Züchtung, (die) Aufzucht
-X	tenyésztések	n	Nominativ Plural des Substantivs tenyésztés
-X	terelőút	n	eine Ausweichroute
-X	természetbarát	n	Naturfreund
-X	természetbarátok	n	Plural des Substantivs természetbarát
-X	természetvédő	n	(der) Naturschützer m
-X	természetvédők	n	Plural des Substantivs természetvédő
-X	test	n	Körper m
-X	testamentum	n	(jura) Testament
-X	testek	n	Plural des Substantivs test
-X	testtartás	n	(die) Haltung f
-X	testtartások	n	Plural des Substantivs testtartás
-X	tető	n	(das) Dach n, (der) Gipfel m
-X	tetők	n	Plural des Substantivs tető
-X	teve	n	(das) Kamel n
-X	tevék	n	Plural des Substantivs teve
-X	teáskanál	n	Teelöffel
-X	ti	pron	; ihr
-X	Tibor	name	ungarischer männlicher Vorname
-X	tigris	n	Tiger
-X	tigrisek	n	Plural des Substantivs tigris
-X	tiszta	adj	sauber
-X	Tivadar	name	ungarischer männlicher Vorname
-X	tizenegy	num	elf
-X	tizenhat	num	sechzehn
-X	tizenhárom	num	dreizehn
-X	tizenhét	num	siebzehn
-X	tizenkettő	num	zwölf
-X	tizenkilenc	num	neunzehn
-X	tizennyolc	num	achtzehn
-X	tizennégy	num	vierzehn
-X	tizenöt	num	fünfzehn
-X	torta	n	(die) Torte f
-X	trón	n	(der) Thron m ; Töpfchen (für Kinder)
-X	tudakozó	n	(die) Auskunft
-X	tudomány	n	Wissenschaft
-X	tulajdonság	n	Eigenschaft
-X	tulipán	n	Blütenpflanze aus der Familie der Liliengewächse; Tulpe
-X	turbina	n	(die) Turbine f
-X	turbinák	n	Plural des Substantivs turbina
-X	turista	n	(der) Tourist
-X	Ty		vierunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ty		vierunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	tábor	n	Lager, Camp
-X	táborok	n	Plural des Substantivs tábor
-X	tágas	adj	geräumig ; breit
-X	tányér	n	Teller
-X	tél	n	Winter
-X	térd	n	(das) Knie n
-X	térdek	n	Plural des Substantivs térd
-X	tíz	num	zehn
-X	tó	n	(der) See m, (der) Teich m ( Binnensee, Inland Gewässer)
-X	tündér	n	Fee
-X	tűz	n	Feuer
-X	U		fünfunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	u		fünfunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	uborka	n	(die) Gurke f
-X	uborkagyalu	n	(der) Gurkenhobel m
-X	uborkasaláta	n	(der) Gurkensalat m
-X	uborkasaláták	n	Plural des Substantivs uborkasaláta
-X	uborkaszezon	n	(die) Sauregurkenzeit f
-X	uborkaszezonok	n	Plural des Substantivs uborkaszezon
-X	uborkák	n	Plural des Substantivs uborka
-X	ugrik	v	springen
-X	unalmas	adj	langweilig
-X	und	v	2. Person Singular Bestimmt Konjunktiv/Imperativ Präsens Aktiv des Verbs un („sich langwe…
-X	utak	n	Plural des Substantivs út
-X	V		neununddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	v		neununddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	vad	adj,n	wild ; Wild
-X	vaddisznó	n	(das) Wildschwein n
-X	vaddisznók	n	Plural des Substantivs vaddisznó
-X	vadkacsa	n	Wildente
-X	vadállat	n	Wildtier
-X	vagy	adv,konj,v	etwa ; oder ; 2. Person Singular des Verbs lenni
-X	van	v	3. Person Singular des Verbs lenni
-X	vas	n	(das) Eisen
-X	vasárnap	n	Wochentag nach Samstag; Sonntag
-X	vasárnapok	n	Plural des Substantivs vasárnap
-X	vedel	v	übertragen trinken
-X	verseny	n	Rennen ; Turnier ; Wettbewerb ; Wettkampf
-X	vicc	n	Witz
-X	vidra	n	kleines Säugetier, das im und am Wasser lebt und zur Familie der Marder gehört; Otter
-X	villa	n	(die) Gabel f ; (die) Villa f, (das) Landhaus n
-X	villák	n	Plural des Substantivs villa
-X	Vilmos	name	ungarischer männlicher Vorname
-X	virág	n	(die) Blume
-X	virágok	n	Plural des Substantivs virág
-X	virágágy	n	(das) Blumenbeet
-X	virágágyak	n	Plural des Substantivs virágágy
-X	viszontlátásra	interj	Abschiedsgruß
-X	vita	n	(die) Auseinandersetzung f, (die) Diskussion f
-X	vizek	n	Plural des Substantivs víz
-X	vizes	adj	nass ; feucht
-X	vizilovak	n	Plural des Substantivs viziló
-X	vádli	n	Wade
-X	vár	n	Burg
-X	város	n	Stadt
-X	váza	n	Vase
-X	víz	n	Wasser
-X	víziló	n	(das) Flusspferd n
-X	vízvezeték-szerelő	n	Klempner
-X	W		vierzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	w		vierzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	X		einundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	x		einundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	Y		zweiundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	y		zweiundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	Z		dreiundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	z		dreiundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	zavarodott	adj	verlegen ; verwirrt ; wirr ; irre
-X	zebra	n	ein in Afrika beheimatetes, zur Familie der Pferde (Equidae) gehörendes, wildlebendes Huf… ; durch weiße, quer über eine Straße verlaufende Streifen gekennzeichnete Stelle, die anzei…
-X	zebrák	n	Plural des Substantivs zebra
-X	zene	n	(die) Musik f
-X	zenei	adj	musikalisch
-X	zenekar	n	(die) Kapelle f, (das) Orchester n
-X	zenekarok	n	Plural des Substantivs zenekar
-X	zeneszerző	n	Komponist
-X	zeneszerzők	n	Plural des Substantivs zeneszerző
-X	zeneértő	adj	musikalisch
-X	zenék	n	Plural des Substantivs zene
-X	zongora	n	Tasteninstrument, dessen Klang durch Saiten erzeugt wird; Klavier
-X	Zs		vierundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	zs		vierundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	zsiráf	n	(die) Giraffe f
-X	zsiráfok	n	Plural des Substantivs zsiráf
-X	Zsuzsanna	name	ungarischer weiblicher Vorname
-X	zóna	n	Zone
-X	zónák	n	Plural des Substantivs zóna
-X	zöld	adj	grün
-X	zöldség	n	(das) Gemüse n
-X	Á		zweiter Buchstabe (Majuskel) des ungarischen Alphabets
-X	á		zweiter Buchstabe (Minuskel) des ungarischen Alphabets
-X	Ádám	name	ungarischer männlicher Vorname
-X	ágy	n	Bett
-X	áll	n,v	Kinn ; auf den Beinen sein und sich nicht fortbewegen, stehen ; sich irgendwo befinden, etwas befindet sich irgendwo, steht
-X	állat	n	Tier
-X	április	n	(der) April m
-X	áprilisok	n	Plural des Substantivs április
-X	ár	n	Preis, Kaufsumme ; Ahle ; Ar ; Flut, Hochwasser ; Flut
-X	árnyék	n	(der) Schatten m
-X	áru	n	(die) Ware f
-X	áruház	n	(das) Kaufhaus n, (das) Warenhaus n
-X	árukészlet	n	(der) Warenbestand m
-X	ásó	n	Spaten
-X	É		zehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	é		zehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	édes	adj	süß
-X	égett	adj	verbrannt ; gebrannt
-X	élelmiszer	n	(das) Lebensmittel n ; (das) Nahrungsmittel n
-X	életmód	n	(die) Lebensart f
-X	életmódok	n	Plural des Substantivs életmód
-X	én	pron	ich
-X	értesült	adj	informiert ; unterrichtet
-X	érvényes	adj	gültig
-X	és	konj	und
-X	év	n	Jahr
-X	évek	n	Plural des Substantivs év
-X	Í		sechzehnter Buchstabe (Majuskel) des ungarischen Alphabets
-X	í		sechzehnter Buchstabe (Minuskel) des ungarischen Alphabets
-X	ír	v	schreiben
-X	íz	n	(der) Geschmack m ; (der) Grad m ; (das) Segment n ; (das) Glied n
-X	ízek	n	Plural des Substantivs íz
-X	ízlelés	n	(der) Geschmackssinn m, (die) Geschmacksempfindung f
-X	ízlelések	n	Plural des Substantivs ízlelés
-X	ízlés	n	(das) Geschmack n
-X	ízlések	n	Plural des Substantivs ízlés
-X	Ó		fünfundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ó		fünfundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	óra	n	Stunde ; Uhr
-X	Ö		sechsundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ö		sechsundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	ördög	n	(der) Teufel m
-X	ördögök	n	Plural des Substantivs ördög
-X	örül	v	sich freuen
-X	összead	v	zusammenzählen mehrerer Zahlen
-X	öt	num	fünf
-X	ötödik	num	die Ordnungszahl zur Kardinalzahl fünf
-X	övezet	n	(die) Zone f
-X	övezetek	n	Plural des Substantivs övezet
-X	Ú		sechsunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ú		sechsunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	Úr	n	Anrede / Bezeichnung für Gott
-X	úr	n	Bezeichnung für einen Mann (férfi megszólítás) ; Anrede für einen Mann (férfi szólítás) ; Meister, Vorgesetzter (Úr, uraság)
-X	út	n	(der) Weg m
-X	Ü		siebenunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ü		siebenunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
-X	Üdvöske	name	ungarischer weiblicher Vorname
-X	üregi nyulak	wend	Plural des Substantivs üregi nyúl
-X	üregi nyúl	n	(das) Wildkaninchen n
-X	üzlet	n	(das) Geschäft n
-X	üzletek	n	Plural des Substantivs üzlet
-X	Ő		siebenundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ő	pron	siebenundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets ; er, sie, es
-X	ők	pron	Personalpronomen der 3. Person Plural Nominativ ; 1 sie
-X	ősz	n	Herbst
-X	őszök	n	Plural des Substantivs ősz
-X	Ű		achtunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets
-X	ű		achtunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets
+X	A		erster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	a	art	die Artikel der, die und das existieren in der ungarischen Sprache nicht. Stattdessen ver… ; Wörter die mit einem Konsonanten (b, c, cs, d, f, g, gy, h, j, k, l, ly, m, n, p, q, r, s… ; erster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	abba	adv	darein	w
+X	abbahagy	v	etwas vorübergehend oder vollkommen unterbrechen	w
+X	abbamarad	v	etwas vorübergehend liegen lassen ; mit etwas vollkommen aufhören	w
+X	abban	adv	darin ; in dem, in der	w
+X	abbé	n	(der) Abt m	w
+X	abbéban	n	Inessiv Singular des Substantivs abbé	w
+X	abbéhoz	n	Allativ Singular des Substantivs abbé	w
+X	abbéig	n	Terminativ Singular des Substantivs abbé	w
+X	abbék	n	Nominativ Plural des Substantivs abbé	w
+X	abbékat	n	Akkusativ Plural des Substantivs abbé	w
+X	abbékban	n	Inessiv Plural des Substantivs abbé	w
+X	abbékhoz	n	Allativ Plural des Substantivs abbé	w
+X	abbékig	n	Terminativ Plural des Substantivs abbé	w
+X	abbékkal	n	Komitativ Plural des Substantivs abbé	w
+X	abbéknak	n	Dativ Plural des Substantivs abbé	w
+X	abbéknál	n	Adessiv Plural des Substantivs abbé	w
+X	abbénak	n	Dativ Singular des Substantivs abbé	w
+X	abbénál	n	Adessiv Singular des Substantivs abbé	w
+X	abbét	n	Akkusativ Singular des Substantivs abbé	w
+X	abbéval	n	Komitativ Singular des Substantivs abbé	w
+X	ablak	n	(das) Fenster n	w
+X	ablakban	n	Insessiv Singular des Substantivs ablak	w
+X	ablakhoz	n	Allativ Singular des Substantivs ablak	w
+X	ablakkal	n	Komitativ Singular des Substantivs ablak	w
+X	ablaknak	n	Dativ Singular des Substantivs ablak	w
+X	ablaknál	n	Adessiv Singular des Substantivs ablak	w
+X	ablakok	n	Plural des Substantivs ablak	w
+X	ablakokat	n	Akkusativ Plural des Substantivs ablak	w
+X	ablakokban	n	Insessiv Plural des Substantivs ablak	w
+X	ablakokhoz	n	Allativ Plural des Substantivs ablak	w
+X	ablakokkal	n	Komitativ Plural des Substantivs ablak	w
+X	ablakoknak	n	Dativ Plural des Substantivs ablak	w
+X	ablakoknál	n	Adessiv Plural des Substantivs ablak	w
+X	ablakot	n	Akkusativ Singular des Substantivs ablak	w
+X	abál	v	abbrühen	w
+X	abált	adj	gekocht	w
+X	acél	n	Legierung aus Eisen und Kohlenstoff; Stahl	w
+X	ad	v	geben	w
+X	agy	n	Gehirn	w
+X	agát	n	(der) Achat	w
+X	agátban	n	Inessiv Singular des Substantivs agát	w
+X	agáthoz	n	Allativ Singular des Substantivs agát	w
+X	agátig	n	Terminativ Singular des Substantivs agát	w
+X	agátnak	n	Dativ Singular des Substantivs agát	w
+X	agátnál	n	Adessiv Singular des Substantivs agát	w
+X	agátok	n	Plural des Substantivs agát	w
+X	agátokat	n	Akkusativ Plural des Substantivs agát	w
+X	agátokban	n	Inessiv Plural des Substantivs agát	w
+X	agátokhoz	n	Allativ Plural des Substantivs agát	w
+X	agátokig	n	Terminativ Plural des Substantivs agát	w
+X	agátokkal	n	Komitativ Plural des Substantivs agát	w
+X	agátoknak	n	Dativ Plural des Substantivs agát	w
+X	agátoknál	n	Adessiv Plural des Substantivs agát	w
+X	agátot	n	Akkusativ Singular des Substantivs agát	w
+X	agáttal	n	Komitativ Singular des Substantivs agát	w
+X	Aigeusz	name	ungarischer männlicher Vorname	w
+X	ajtó	n	(die) Tür f	w
+X	ajtóban	n	Inessiv Singular des Substantivs ajtó	w
+X	ajtóhoz	n	Allativ Singular des Substantivs ajtó	w
+X	ajtóig	n	Terminativ Singular des Substantivs ajtó	w
+X	ajtók	n	Plural des Substantivs ajtó	w
+X	ajtókat	n	Akkusativ Plural des Substantivs ajtó	w
+X	ajtókban	n	Inessiv Plural des Substantivs ajtó	w
+X	ajtókhoz	n	Allativ Plural des Substantivs ajtó	w
+X	ajtókig	n	Terminativ Plural des Substantivs ajtó	w
+X	ajtókkal	n	Komitativ Plural des Substantivs ajtó	w
+X	ajtóknak	n	Dativ Plural des Substantivs ajtó	w
+X	ajtóknál	n	Adessiv Plural des Substantivs ajtó	w
+X	ajtónak	n	Dativ Singular des Substantivs ajtó	w
+X	ajtónál	n	Adessiv Singular des Substantivs ajtó	w
+X	ajtót	n	Akkusativ Singular des Substantivs ajtó	w
+X	ajtóval	n	Komitativ Singular des Substantivs ajtó	w
+X	Akhilleusz	name	ungarischer männlicher Vorname	w
+X	Alajos	name	ungarischer männlicher Vorname	w
+X	alibi	n	(das) Alibi n	w
+X	alibiben	n	Inessiv Singular des Substantivs alibi	w
+X	alibihez	n	Allativ Singular des Substantivs alibi	w
+X	alibiig	n	Terminativ Singular des Substantivs alibi	w
+X	alibik	n	Plural des Substantivs alibi	w
+X	alibikben	n	Inessiv Plural des Substantivs alibi	w
+X	alibiket	n	Akkusativ Plural des Substantivs alibi	w
+X	alibikhez	n	Allativ Plural des Substantivs alibi	w
+X	alibikig	n	Terminativ Plural des Substantivs alibi	w
+X	alibikkel	n	Komitativ Plural des Substantivs alibi	w
+X	alibiknek	n	Dativ Plural des Substantivs alibi	w
+X	alibiknél	n	Adessiv Plural des Substantivs alibi	w
+X	alibinek	n	Dativ Singular des Substantivs alibi	w
+X	alibinél	n	Adessiv Singular des Substantivs alibi	w
+X	alibit	n	Akkusativ Singular des Substantivs alibi	w
+X	alibivel	n	Komitativ Singular des Substantivs alibi	w
+X	alma	n	(der) Apfel m	w
+X	Ambrus	name	ungarischer männlicher Vorname	w
+X	amper	n	Ampere	w
+X	Anglia	name	England	w
+X	angyal	n	Engel	w
+X	angyalban	n	Inessiv Singular des Substantivs angyal	w
+X	angyalhoz	n	Allativ Singular des Substantivs angyal	w
+X	angyalig	n	Terminativ Singular des Substantivs angyal	w
+X	angyallal	n	Komitativ Singular des Substantivs angyal	w
+X	angyalnak	n	Dativ Singular des Substantivs angyal	w
+X	angyalnál	n	Adessiv Singular des Substantivs angyal	w
+X	angyalok	n	Plural des Substantivs angyal	w
+X	angyalokat	n	Akkusativ Plural des Substantivs angyal	w
+X	angyalokban	n	Inessiv Plural des Substantivs angyal	w
+X	angyalokhoz	n	Allativ Plural des Substantivs angyal	w
+X	angyalokig	n	Terminativ Plural des Substantivs angyal	w
+X	angyalokkal	n	Komitativ Plural des Substantivs angyal	w
+X	angyaloknak	n	Dativ Plural des Substantivs angyal	w
+X	angyaloknál	n	Adessiv Plural des Substantivs angyal	w
+X	angyalt	n	Akkusativ Singular des Substantivs angyal	w
+X	Antal	name	ungarischer männlicher Vorname	w
+X	apostol	n	Apostel	w
+X	apostoli	adj	apostolisch	w
+X	aranyos	adj	goldig	w
+X	aranysárga	adj	goldgelb	w
+X	arc	n	(das) Gesicht n	w
+X	arcban	n	Inessiv Singular des Substantivs arc	w
+X	arccal	n	Komitativ Singular des Substantivs arc	w
+X	archoz	n	Allativ Singular des Substantivs arc	w
+X	arcig	n	Terminativ Singular des Substantivs arc	w
+X	arcnak	n	Dativ Singular des Substantivs arc	w
+X	arcnál	n	Adessiv Singular des Substantivs arc	w
+X	arcok	n	Plural des Substantivs arc	w
+X	arcokat	n	Akkusativ Plural des Substantivs arc	w
+X	arcokban	n	Inessiv Plural des Substantivs arc	w
+X	arcokhoz	n	Allativ Plural des Substantivs arc	w
+X	arcokig	n	Terminativ Plural des Substantivs arc	w
+X	arcokkal	n	Komitativ Plural des Substantivs arc	w
+X	arcoknak	n	Dativ Plural des Substantivs arc	w
+X	arcoknál	n	Adessiv Plural des Substantivs arc	w
+X	arcot	n	Akkusativ Singular des Substantivs arc	w
+X	Arisztotelész	name	ungarischer männlicher Vorname	w
+X	arzén	n	das 33. chemische Element im Periodensystem; Arsen	w
+X	asztal	n	Möbelstück, das aus einer Platte mit vier oder drei Beinen oder mittigen Standfuß besteht…	w
+X	asztalos	n	Handwerker, der aus Holz Möbel oder Fenster und Türen herstellt; Tischler	w
+X	Attila	name	ungarischer männlicher Vorname	w
+X	augusztus	n	(der) August m	w
+X	augusztusban	n	Inessiv Singular des Substantivs augusztus	w
+X	augusztushoz	n	Allativ Singular des Substantivs augusztus	w
+X	augusztusig	n	Terminativ Singular des Substantivs augusztus	w
+X	augusztusnak	n	Dativ Singular des Substantivs augusztus	w
+X	augusztusnál	n	Adessiv Singular des Substantivs augusztus	w
+X	augusztusok	n	Nominativ Plural des Substantivs augusztus	w
+X	augusztusokat	n	Akkusativ Plural des Substantivs augusztus	w
+X	augusztusokban	n	Inessiv Plural des Substantivs augusztus	w
+X	augusztusokhoz	n	Allativ Plural des Substantivs augusztus	w
+X	augusztusokig	n	Terminativ Plural des Substantivs augusztus	w
+X	augusztusokkal	n	Komitativ Plural des Substantivs augusztus	w
+X	augusztusoknak	n	Dativ Plural des Substantivs augusztus	w
+X	augusztusoknál	n	Adessiv Plural des Substantivs augusztus	w
+X	augusztussal	n	Komitativ Singular des Substantivs augusztus	w
+X	augusztust	n	Akkusativ Singular des Substantivs augusztus	w
+X	automata	n	(der) Automat m	w
+X	automatában	n	Inessiv Singular des Substantivs automata	w
+X	automatához	n	Allativ Singular des Substantivs automata	w
+X	automatáig	n	Terminativ Singular des Substantivs automata	w
+X	automaták	n	Plural des Substantivs automata	w
+X	automatákat	n	Akkusativ Plural des Substantivs automata	w
+X	automatákban	n	Inessiv Plural des Substantivs automata	w
+X	automatákhoz	n	Allativ Plural des Substantivs automata	w
+X	automatákig	n	Terminativ Plural des Substantivs automata	w
+X	automatákkal	n	Komitativ Plural des Substantivs automata	w
+X	automatáknak	n	Dativ Plural des Substantivs automata	w
+X	automatáknál	n	Adessiv Plural des Substantivs automata	w
+X	automatának	n	Dativ Singular des Substantivs automata	w
+X	automatánál	n	Adessiv Singular des Substantivs automata	w
+X	automatát	n	Akkusativ Singular des Substantivs automata	w
+X	automatával	n	Komitativ Singular des Substantivs automata	w
+X	autó	n	ein Fahrzeug	w
+X	autópálya	n	sehr breite, kreuzungsfreie Schnellstraße	w
+X	az	art	Die Artikel der, die, das existieren in der ungarische Sprache nicht. Stattdessen verwend…	w
+X	azért	konj	deshalb	w
+X	B		dritter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	b		dritter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	bab	n	Bohne	w
+X	bak	n	Bock	w
+X	bank	n	(die) Bank (Geldinstitut für Finanzdienstleistungen)	w
+X	banán	n	(die) Banane f	w
+X	barna	adj	braun	w
+X	Barnabás	name	ungarischer männlicher Vorname	w
+X	barnamedve	n	Braunbär	w
+X	baromfi	n	(das) Geflügel n	w
+X	baromfiban	n	Inessiv Singular des Substantivs baromfi	w
+X	baromfihoz	n	Allativ Singular des Substantivs baromfi	w
+X	baromfiig	n	Terminativ Singular des Substantivs baromfi	w
+X	baromfik	n	Plural des Substantivs baromfi	w
+X	baromfikat	n	Akkusativ Plural des Substantivs baromfi	w
+X	baromfikban	n	Inessiv Plural des Substantivs baromfi	w
+X	baromfikhoz	n	Allativ Plural des Substantivs baromfi	w
+X	baromfikig	n	Terminativ Plural des Substantivs baromfi	w
+X	baromfikkal	n	Komitativ Plural des Substantivs baromfi	w
+X	baromfiknak	n	Dativ Plural des Substantivs baromfi	w
+X	baromfiknál	n	Adessiv Plural des Substantivs baromfi	w
+X	baromfinak	n	Dativ Singular des Substantivs baromfi	w
+X	baromfinál	n	Adessiv Singular des Substantivs baromfi	w
+X	baromfit	n	Akkusativ Singular des Substantivs baromfi	w
+X	baromfival	n	Komitativ Singular des Substantivs baromfi	w
+X	barát	n	Freund	w
+X	barátnő	n	Freundin	w
+X	barátságos	adj	freundlich	w
+X	barázda	n	eine längliche Vertiefung, für gewöhnlich auf einem Feld; Furche	w
+X	benzin	n	als Treibstoff oder Lösungsmittel verwendete brennbare Flüssigkeit; Benzin	w
+X	benzinfogyasztás	n	Verbrauch an Benzin; Benzinverbrauch	w
+X	benzinkutas	n	Beschäftigter einer Tankstelle, der die Zapfanlage bedient; Tankwart	w
+X	benzinkút	n	Station zum Betanken von Fahrzeugen; Tankstelle	w
+X	benzinmotor	n	Verbrennungsmotor, der mit Benzin betrieben wird; Benzinmotor	w
+X	Berlin	name	die Hauptstadt der Bundesrepublik Deutschland ; ein Bundesland und Stadtstaat Deutschlands	w
+X	beszél	v	sprechen, reden	w
+X	beteg	adj	krank ; unsinnig, absurd	w
+X	beton	n	aus Zement, Wasser und Gesteinskörnung hergestellter Baustoff; Beton	w
+X	bika	n	(der) Stier m	w
+X	bikában	n	Inessiv Singular des Substantivs bika	w
+X	bikához	n	Allativ Singular des Substantivs bika	w
+X	bikáig	n	Terminativ Singular des Substantivs bika	w
+X	bikák	n	Plural des Substantivs bika	w
+X	bikákat	n	Akkusativ Plural des Substantivs bika	w
+X	bikákban	n	Inessiv Plural des Substantivs bika	w
+X	bikákhoz	n	Allativ Plural des Substantivs bika	w
+X	bikákig	n	Terminativ Plural des Substantivs bika	w
+X	bikákkal	n	Komitativ Plural des Substantivs bika	w
+X	bikáknak	n	Dativ Plural des Substantivs bika	w
+X	bikáknál	n	Adessiv Plural des Substantivs bika	w
+X	bikának	n	Dativ Singular des Substantivs bika	w
+X	bikánál	n	Adessiv Singular des Substantivs bika	w
+X	bikát	n	Akkusativ Singular des Substantivs bika	w
+X	bikával	n	Komitativ Singular des Substantivs bika	w
+X	bivaly	n	in Asien oder Afrika lebendes Rind; Büffel	w
+X	boldog születésnapot kívánok	interj	Ich wünsche dir einen glücklichen Geburtstag	w
+X	bolha	n	flügelloses Insekt mit flachem Körper, langen Sprungbeinen und Mundwerkzeugen zum Blutsau…	w
+X	bolhapiac	n	größerer Platz, wo gebrauchte Gegenstände durch Privatpersonen angeboten werden; Flohmarkt	w
+X	bomba	n	Bombe f	w
+X	bombában	n	Inessiv Singular des Substantivs bomba	w
+X	bombához	n	Allativ Singular des Substantivs bomba	w
+X	bombáig	n	Terminativ Singular des Substantivs bomba	w
+X	bombák	n	Plural des Substantivs bomba	w
+X	bombákat	n	Akkusativ Plural des Substantivs bomba	w
+X	bombákban	n	Inessiv Plural des Substantivs bomba	w
+X	bombákhoz	n	Allativ Plural des Substantivs bomba	w
+X	bombákig	n	Terminativ Plural des Substantivs bomba	w
+X	bombákkal	n	Komitativ Plural des Substantivs bomba	w
+X	bombáknak	n	Dativ Plural des Substantivs bomba	w
+X	bombáknál	n	Adessiv Plural des Substantivs bomba	w
+X	bombának	n	Dativ Singular des Substantivs bomba	w
+X	bombánál	n	Adessiv Singular des Substantivs bomba	w
+X	bombát	n	Akkusativ Singular des Substantivs bomba	w
+X	bombával	n	Komitativ Singular des Substantivs bomba	w
+X	bor	n	(der) Wein m	w
+X	borban	n	Inessiv Singular des Substantivs bor	w
+X	Borbála	name	ungarischer weiblicher Vorname	w
+X	borda	n	(die) Rippe	w
+X	bordában	n	Inessiv Singular des Substantivs borda	w
+X	bordához	n	Allativ Singular des Substantivs borda	w
+X	bordáig	n	Terminativ Singular des Substantivs borda	w
+X	bordák	n	Plural des Substantivs borda	w
+X	bordákat	n	Akkusativ Plural des Substantivs borda	w
+X	bordákban	n	Inessiv Plural des Substantivs borda	w
+X	bordákhoz	n	Allativ Plural des Substantivs borda	w
+X	bordákig	n	Terminativ Plural des Substantivs borda	w
+X	bordákkal	n	Komitativ Plural des Substantivs borda	w
+X	bordáknak	n	Dativ Plural des Substantivs borda	w
+X	bordáknál	n	Adessiv Plural des Substantivs borda	w
+X	bordának	n	Dativ Singular des Substantivs borda	w
+X	bordánál	n	Adessiv Singular des Substantivs borda	w
+X	bordát	n	Akkusativ Singular des Substantivs borda	w
+X	bordával	n	Komitativ Singular des Substantivs borda	w
+X	borhoz	n	Allativ Singular des Substantivs bor	w
+X	borig	n	Terminativ Singular des Substantivs bor	w
+X	borjak	n	Plural des Substantivs borjú	w
+X	borjakat	n	Akkusativ Plural des Substantivs borjú	w
+X	borjakban	n	Inessiv Plural des Substantivs borjú	w
+X	borjakhoz	n	Allativ Plural des Substantivs borjú	w
+X	borjakig	n	Terminativ Plural des Substantivs borjú	w
+X	borjakkal	n	Komitativ Plural des Substantivs borjú	w
+X	borjaknak	n	Dativ Plural des Substantivs borjú	w
+X	borjaknál	n	Adessiv Plural des Substantivs borjú	w
+X	borjú	n	(der) Kalb m	w
+X	borjúban	n	Inessiv Singular des Substantivs borjú	w
+X	borjúhoz	n	Allativ Singular des Substantivs borjú	w
+X	borjúig	n	Terminativ Singular des Substantivs borjú	w
+X	borjúnak	n	Dativ Singular des Substantivs borjú	w
+X	borjúnál	n	Adessiv Singular des Substantivs borjú	w
+X	borjút	n	Akkusativ Singular des Substantivs borjú	w
+X	borjúval	n	Komitativ Singular des Substantivs borjú	w
+X	bornak	n	Dativ Singular des Substantivs bor	w
+X	bornál	n	Adessiv Singular des Substantivs bor	w
+X	borok	n	Plural des Substantivs bor	w
+X	borokat	n	Akkusativ Plural des Substantivs bor	w
+X	borokban	n	Inessiv Plural des Substantivs bor	w
+X	borokhoz	n	Allativ Plural des Substantivs bor	w
+X	borokig	n	Terminativ Plural des Substantivs bor	w
+X	borokkal	n	Komitativ Plural des Substantivs bor	w
+X	boroknak	n	Dativ Plural des Substantivs bor	w
+X	boroknál	n	Adessiv Plural des Substantivs bor	w
+X	borona	n	Ackerbaugerät zum Einebnen der Pflugfurchen und zum Unterbringen des Saatgutes oder des D…	w
+X	borotva	n	Werkzeug oder elektronisches Gerät zum Entfernen von Haaren; Rasierer	w
+X	borotvál	v	jemandem die Haare oder Barthaare abschneiden; rasieren	w
+X	borral	n	Komitativ Singular des Substantivs bor	w
+X	bors	n	(der) Pfeffer	w
+X	borsban	n	Inessiv Singular des Substantivs bors	w
+X	borshoz	n	Allativ Singular des Substantivs bors	w
+X	borsig	n	Terminativ Singular des Substantivs bors	w
+X	borsnak	n	Dativ Singular des Substantivs bors	w
+X	borsnál	n	Adessiv Singular des Substantivs bors	w
+X	borsokat	n	Akkusativ Plural des Substantivs bors	w
+X	borsokban	n	Inessiv Plural des Substantivs bors	w
+X	borsokig	n	Terminativ Plural des Substantivs bors	w
+X	borsokkal	n	Komitativ Plural des Substantivs bors	w
+X	borsoknak	n	Dativ Plural des Substantivs bors	w
+X	borsoknál	n	Adessiv Plural des Substantivs bors	w
+X	borsot	n	Akkusativ Singular des Substantivs bors	w
+X	borssal	n	Komitativ Singular des Substantivs bors	w
+X	bort	n	Akkusativ Singular des Substantivs bor	w
+X	borz	n	(der) Dachs	w
+X	borzban	n	Inessiv Singular des Substantivs borz	w
+X	borzhoz	n	Allativ Singular des Substantivs borz	w
+X	borzig	n	Terminativ Singular des Substantivs borz	w
+X	borznak	n	Dativ Singular des Substantivs borz	w
+X	borznál	n	Adessiv Singular des Substantivs borz	w
+X	borzok	n	Nominativ Plural des Substantivs borz	w
+X	borzokat	n	Akkusativ Plural des Substantivs borz	w
+X	borzokban	n	Inessiv Plural des Substantivs borz	w
+X	borzokhoz	n	Allativ Plural des Substantivs borz	w
+X	borzokig	n	Terminativ Plural des Substantivs borz	w
+X	borzokkal	n	Komitativ Plural des Substantivs borz	w
+X	borzoknak	n	Dativ Plural des Substantivs borz	w
+X	borzoknál	n	Adessiv Plural des Substantivs borz	w
+X	borzot	n	Akkusativ Singular des Substantivs borz	w
+X	borzzal	n	Komitativ Singular des Substantivs borz	w
+X	bot	n	(der) Stock	w
+X	botanika	n	(die) Botanik f	w
+X	botanikában	n	Inessiv Singular des Substantivs botanika	w
+X	botanikához	n	Allativ Singular des Substantivs botanika	w
+X	botanikáig	n	Terminativ Singular des Substantivs botanika	w
+X	botanikának	n	Dativ Singular des Substantivs botanika	w
+X	botanikánál	n	Adessiv Singular des Substantivs botanika	w
+X	botanikát	n	Akkusativ Singular des Substantivs botanika	w
+X	botanikával	n	Komtativ Singular des Substantivs botanika	w
+X	botban	n	Inessiv Singular des Substantivs bot	w
+X	bothoz	n	Allativ Singular des Substantivs bot	w
+X	botig	n	Terminativ Singular des Substantivs bot	w
+X	botnak	n	Dativ Singular des Substantivs bot	w
+X	botnál	n	Adessiv Singular des Substantivs bot	w
+X	botok	n	Plural des Substantivs bot	w
+X	botokat	n	Akkusativ Plural des Substantivs bot	w
+X	botokban	n	Inessiv Plural des Substantivs bot	w
+X	botokhoz	n	Allativ Plural des Substantivs bot	w
+X	botokig	n	Terminativ Plural des Substantivs bot	w
+X	botokkal	n	Komitativ Plural des Substantivs bot	w
+X	botoknak	n	Dativ Plural des Substantivs bot	w
+X	botoknál	n	Adessiv Plural des Substantivs bot	w
+X	botot	n	Akkusativ Singular des Substantivs bot	w
+X	bottal	n	Komitativ Singular des Substantivs bot	w
+X	Brandenburg	name	ein Bundesland in der Bundesrepublik Deutschland ; kreisfreie Stadt in ^(1)	w
+X	burgonya	n	(die) Kartoffel f	w
+X	buta	adj	dumm	w
+X	butaság	n	Dummheit	w
+X	Bálint	name	ungarischer männlicher Vorname	w
+X	bálna	n	(der) Wal	w
+X	bálnában	n	Inessiv Singular des Substantivs bálna	w
+X	bálnához	n	Allativ Singular des Substantivs bálna	w
+X	bálnáig	n	Terminativ Singular des Substantivs bálna	w
+X	bálnák	n	Plural des Substantivs bálna	w
+X	bálnákat	n	Akkusativ Plural des Substantivs bálna	w
+X	bálnákban	n	Inessiv Plural des Substantivs bálna	w
+X	bálnákhoz	n	Allativ Plural des Substantivs bálna	w
+X	bálnákig	n	Terminativ Plural des Substantivs bálna	w
+X	bálnákkal	n	Komitativ Plural des Substantivs bálna	w
+X	bálnáknak	n	Dativ Plural des Substantivs bálna	w
+X	bálnáknál	n	Adessiv Plural des Substantivs bálna	w
+X	bálnának	n	Dativ Singular des Substantivs bálna	w
+X	bálnánál	n	Adessiv Singular des Substantivs bálna	w
+X	bálnát	n	Akkusativ Singular des Substantivs bálna	w
+X	bálnával	n	Komitativ Singular des Substantivs bálna	w
+X	bársony	n	feines Baumwollgewebe; Samt	w
+X	bárány	n	junges Schaf; Lamm	w
+X	béka	n	(der) Frosch m	w
+X	békában	n	Inessiv Singular des Substantivs béka	w
+X	békához	n	Allativ Singular des Substantivs béka	w
+X	békáig	n	Terminativ Singular des Substantivs béka	w
+X	békák	n	Plural des Substantivs béka	w
+X	békákat	n	Akkusativ Plural des Substantivs béka	w
+X	békákban	n	Inessiv Plural des Substantivs béka	w
+X	békákhoz	n	Allativ Plural des Substantivs béka	w
+X	békákig	n	Terminativ Plural des Substantivs béka	w
+X	békákkal	n	Komitativ Plural des Substantivs béka	w
+X	békáknak	n	Dativ Plural des Substantivs béka	w
+X	békáknál	n	Adessiv Plural des Substantivs béka	w
+X	békának	n	Dativ Singular des Substantivs béka	w
+X	békánál	n	Adessiv Singular des Substantivs béka	w
+X	békát	n	Akkusativ Singular des Substantivs béka	w
+X	békával	n	Komitativ Singular des Substantivs béka	w
+X	bűzlik	v	etwas oder jemand riecht schlecht, stinkt, mieft	w
+X	C		vierter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	c		vierter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Cecília	name	ungarischer weiblicher Vorname	w
+X	cica	n	Haustier, Kätzchen	w
+X	cicában	n	Inessiv Singular des Substantivs cica	w
+X	cicához	n	Allativ Singular des Substantivs cica	w
+X	cicáig	n	Terminativ Singular des Substantivs cica	w
+X	cicák	n	Plural des Substantivs cica	w
+X	cicákat	n	Akkusativ Plural des Substantivs cica	w
+X	cicákban	n	Inessiv Plural des Substantivs cica	w
+X	cicákhoz	n	Allativ Plural des Substantivs cica	w
+X	cicákig	n	Terminativ Plural des Substantivs cica	w
+X	cicákkal	n	Komitativ Plural des Substantivs cica	w
+X	cicáknak	n	Dativ Plural des Substantivs cica	w
+X	cicáknál	n	Adessiv Plural des Substantivs cica	w
+X	cicának	n	Dativ Singular des Substantivs cica	w
+X	cicánál	n	Adessiv Singular des Substantivs cica	w
+X	cicát	n	Akkusativ Singular des Substantivs cica	w
+X	cicával	n	Komitativ Singular des Substantivs cica	w
+X	citromsárga	adj	zitronengelb	w
+X	comb	n	Oberschenkel	w
+X	combbal	n	Komitativ Singular des Substantivs comb	w
+X	combban	n	Inessiv Singular des Substantivs comb	w
+X	combhoz	n	Allativ Singular des Substantivs comb	w
+X	combig	n	Terminativ Singular des Substantivs comb	w
+X	combnak	n	Dativ Singular des Substantivs comb	w
+X	combnál	n	Adessiv Singular des Substantivs comb	w
+X	combok	n	Plural des Substantivs comb	w
+X	combokban	n	Inessiv Plural des Substantivs comb	w
+X	combokhoz	n	Allativ Plural des Substantivs comb	w
+X	combokig	n	Terminativ Plural des Substantivs comb	w
+X	combokkal	n	Komitativ Plural des Substantivs comb	w
+X	comboknak	n	Dativ Plural des Substantivs comb	w
+X	comboknál	n	Adessiv Plural des Substantivs comb	w
+X	copf	n	(der) Zopf m	w
+X	Cs		fünfter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	cs		fünfter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	csak	adv	nur	w
+X	család	n	Familie	w
+X	családban	n	Inessiv Singular des Substantivs család	w
+X	családdal	n	Komitativ Singular des Substantivs család	w
+X	családhoz	n	Allativ Singular des Substantivs család	w
+X	családig	n	Terminativ Singular des Substantivs család	w
+X	családnak	n	Dativ Singular des Substantivs család	w
+X	családnál	n	Adessiv Singular des Substantivs család	w
+X	családok	n	Plural des Substantivs család	w
+X	családokat	n	Akkusativ Plural des Substantivs család	w
+X	családokban	n	Inessiv Plural des Substantivs család	w
+X	családokhoz	n	Allativ Plural des Substantivs család	w
+X	családokig	n	Terminativ Plural des Substantivs család	w
+X	családokkal	n	Komitativ Plural des Substantivs család	w
+X	családoknak	n	Dativ Plural des Substantivs család	w
+X	családoknál	n	Adessiv Plural des Substantivs család	w
+X	családot	n	Akkusativ Singular des Substantivs család	w
+X	csap	n	(der) Hahn	w
+X	csapadék	n	Niederschlag	w
+X	csapadékban	n	Inessiv Singular des Substantivs csapadék	w
+X	csapadékhoz	n	Allativ Singular des Substantivs csapadék	w
+X	csapadékig	n	Terminativ Singular des Substantivs csapadék	w
+X	csapadékkal	n	Komitativ Singular des Substantivs csapadék	w
+X	csapadéknak	n	Dativ Singular des Substantivs csapadék	w
+X	csapadéknál	n	Adessiv Singular des Substantivs csapadék	w
+X	csapadékok	n	Plural des Substantivs csapadék	w
+X	csapadékokat	n	Akkusativ Plural des Substantivs csapadék	w
+X	csapadékokban	n	Inessiv Plural des Substantivs csapadék	w
+X	csapadékokhoz	n	Allativ Plural des Substantivs csapadék	w
+X	csapadékokig	n	Terminativ Plural des Substantivs csapadék	w
+X	csapadékokkal	n	Komitativ Plural des Substantivs csapadék	w
+X	csapadékoknak	n	Dativ Plural des Substantivs csapadék	w
+X	csapadékoknál	n	Adessiv Plural des Substantivs csapadék	w
+X	csapadékot	n	Akkusativ Singular des Substantivs csapadék	w
+X	csapat	n	(die) Mannschaft f	w
+X	csapatban	n	Inessiv Singular des Substantivs csapat	w
+X	csapathoz	n	Allativ Singular des Substantivs csapat	w
+X	csapatig	n	Terminativ Singular des Substantivs csapat	w
+X	csapatnak	n	Dativ Singular des Substantivs csapat	w
+X	csapatnál	n	Adessiv Singular des Substantivs csapat	w
+X	csapatok	n	Plural des Substantivs csapat	w
+X	csapatokat	n	Akkusativ Plural des Substantivs csapat	w
+X	csapatokban	n	Inessiv Plural des Substantivs csapat	w
+X	csapatokhoz	n	Allativ Plural des Substantivs csapat	w
+X	csapatokig	n	Terminativ Plural des Substantivs csapat	w
+X	csapatokkal	n	Komitativ Plural des Substantivs csapat	w
+X	csapatoknak	n	Dativ Plural des Substantivs csapat	w
+X	csapatoknál	n	Adessiv Plural des Substantivs csapat	w
+X	csapatot	n	Akkusativ Singular des Substantivs csapat	w
+X	csapattal	n	Komitativ Singular des Substantivs csapat	w
+X	csapban	n	Inessiv Singular des Substantivs csap	w
+X	csaphoz	n	Allativ Singular des Substantivs csap	w
+X	csapig	n	Terminativ Singular des Substantivs csap	w
+X	csapnak	n	Dativ Singular des Substantivs csap	w
+X	csapnál	n	Adessiv Singular des Substantivs csap	w
+X	csapok	n	Plural des Substantivs csap	w
+X	csapokat	n	Akkusativ Plural des Substantivs csap	w
+X	csapokban	n	Inessiv Plural des Substantivs csap	w
+X	csapokhoz	n	Allativ Plural des Substantivs csap	w
+X	csapokig	n	Terminativ Plural des Substantivs csap	w
+X	csapokkal	n	Komitativ Plural des Substantivs csap	w
+X	csapoknak	n	Dativ Plural des Substantivs csap	w
+X	csapoknál	n	Adessiv Plural des Substantivs csap	w
+X	csapot	n	Akkusativ Singular des Substantivs csap	w
+X	csappal	n	Komitativ Singular des Substantivs csap	w
+X	csapóajtó	n	(die) Falltür f	w
+X	csapóajtóban	n	Inessiv Singular des Substantivs csapóajtó	w
+X	csapóajtóhoz	n	Allativ Singular des Substantivs csapóajtó	w
+X	csapóajtóig	n	Terminativ Singular des Substantivs csapóajtó	w
+X	csapóajtók	n	Plural des Substantivs csapóajtó	w
+X	csapóajtókat	n	Akkusativ Plural des Substantivs csapóajtó	w
+X	csapóajtókban	n	Inessiv Plural des Substantivs csapóajtó	w
+X	csapóajtókhoz	n	Allativ Plural des Substantivs csapóajtó	w
+X	csapóajtókig	n	Terminativ Plural des Substantivs csapóajtó	w
+X	csapóajtókkal	n	Komitativ Plural des Substantivs csapóajtó	w
+X	csapóajtóknak	n	Dativ Plural des Substantivs csapóajtó	w
+X	csapóajtóknál	n	Adessiv Plural des Substantivs csapóajtó	w
+X	csapóajtónak	n	Dativ Singular des Substantivs csapóajtó	w
+X	csapóajtónál	n	Adessiv Singular des Substantivs csapóajtó	w
+X	csapóajtót	n	Akkusativ Singular des Substantivs csapóajtó	w
+X	csapóajtóval	n	Komitativ Singular des Substantivs csapóajtó	w
+X	csendes	adj	still ; leise ; ruhig	w
+X	cseresznyefa	n	eine Obstbaumart	w
+X	Cseszneky	name	ungarischer Familienname	w
+X	csiga	n	(die) Schnecke f	w
+X	csigában	n	Inessiv Singular des Substantivs csiga	w
+X	csigához	n	Allativ Singular des Substantivs csiga	w
+X	csigáig	n	Terminativ Singular des Substantivs csiga	w
+X	csigák	n	Plural des Substantivs csiga	w
+X	csigákat	n	Akkusativ Plural des Substantivs csiga	w
+X	csigákban	n	Inessiv Plural des Substantivs csiga	w
+X	csigákhoz	n	Allativ Plural des Substantivs csiga	w
+X	csigákig	n	Terminativ Plural des Substantivs csiga	w
+X	csigákkal	n	Komitativ Plural des Substantivs csiga	w
+X	csigáknak	n	Dativ Plural des Substantivs csiga	w
+X	csigáknál	n	Adessiv Plural des Substantivs csiga	w
+X	csigának	n	Dativ Singular des Substantivs csiga	w
+X	csigánál	n	Adessiv Singular des Substantivs csiga	w
+X	csigát	n	Akkusativ Singular des Substantivs csiga	w
+X	csigával	n	Komitativ Singular des Substantivs csiga	w
+X	Csilla	name	ungarischer weiblicher Vorname	w
+X	csillag	n	Stern (Himmelskörper)	w
+X	csillagban	n	Inessiv Singular des Substantivs csillag	w
+X	csillaggal	n	Komitativ Singular des Substantivs csillag	w
+X	csillaghoz	n	Allativ Singular des Substantivs csillag	w
+X	csillagig	n	Terminativ Singular des Substantivs csillag	w
+X	csillagnak	n	Dativ Singular des Substantivs csillag	w
+X	csillagnál	n	Adessiv Singular des Substantivs csillag	w
+X	csillagok	n	Plural des Substantivs csillag	w
+X	csillagokat	n	Akkusativ Plural des Substantivs csillag	w
+X	csillagokban	n	Inessiv Plural des Substantivs csillag	w
+X	csillagokhoz	n	Allativ Plural des Substantivs csillag	w
+X	csillagokig	n	Terminativ Plural des Substantivs csillag	w
+X	csillagokkal	n	Komitativ Plural des Substantivs csillag	w
+X	csillagoknak	n	Dativ Plural des Substantivs csillag	w
+X	csillagoknál	n	Adessiv Plural des Substantivs csillag	w
+X	csillagot	n	Akkusativ Singular des Substantivs csillag	w
+X	csillagvizsgáló	n	Sternwarte	w
+X	csillagvizsgálóban	n	Inessiv Singular des Substantivs csillagvizsgáló	w
+X	csillagvizsgálóhoz	n	Allativ Singular des Substantivs csillagvizsgáló	w
+X	csillagvizsgálóig	n	Terminativ Singular des Substantivs csillagvizsgáló	w
+X	csillagvizsgálók	n	Nominativ Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálókat	n	Akkusativ Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálókban	n	Inessiv Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálókhoz	n	Allativ Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálókig	n	Terminativ Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálókkal	n	Komitativ Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálóknak	n	Dativ Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálóknál	n	Adessiv Plural des Substantivs csillagvizsgáló	w
+X	csillagvizsgálónak	n	Dativ Singular des Substantivs csillagvizsgáló	w
+X	csillagvizsgálónál	n	Adessiv Singular des Substantivs csillagvizsgáló	w
+X	csillagvizsgálót	n	Akkusativ Singular des Substantivs csillagvizsgáló	w
+X	csillagvizsgálóval	n	Komitativ Singular des Substantivs csillagvizsgáló	w
+X	csinos	adj	hübsch ; attraktiv ; fesch	w
+X	csoda	n	(das) Wunder n	w
+X	csodában	n	Inessiv Singular des Substantivs csoda	w
+X	csodához	n	Allativ Singular des Substantivs csoda	w
+X	csodáig	n	Terminativ Singular des Substantivs csoda	w
+X	csodák	n	Plural des Substantivs csoda	w
+X	csodákat	n	Akkusativ Plural des Substantivs csoda	w
+X	csodákban	n	Inessiv Plural des Substantivs csoda	w
+X	csodákhoz	n	Allativ Plural des Substantivs csoda	w
+X	csodákig	n	Terminativ Plural des Substantivs csoda	w
+X	csodákkal	n	Komitativ Plural des Substantivs csoda	w
+X	csodáknak	n	Dativ Plural des Substantivs csoda	w
+X	csodáknál	n	Adessiv Plural des Substantivs csoda	w
+X	csodának	n	Dativ Singular des Substantivs csoda	w
+X	csodánál	n	Adessiv Singular des Substantivs csoda	w
+X	csodát	n	Akkusativ Singular des Substantivs csoda	w
+X	csodával	n	Komitativ Singular des Substantivs csoda	w
+X	csokoládé	n	(die) Schokolade f	w
+X	Csongor	name	ungarischer männlicher Vorname	w
+X	csuka	n	länglicher Raubfisch des Süßwassers, mit langem Kopf und starken Zähnen; Hecht	w
+X	csupa szív	adj	seelenvoll	w
+X	csóka	n	schwarzgrauer Vogel; Dohle	w
+X	csúnya	adj	hässlich ; unschön	w
+X	csütörtök	n	Wochentag nach Mittwoch; Donnerstag	w
+X	csütörtökben	n	Inessiv Singular des Substantivs csütörtök	w
+X	csütörtökhöz	n	Allativ Singular des Substantivs csütörtök	w
+X	csütörtökig	n	Terminativ Singular des Substantivs csütörtök	w
+X	csütörtökkel	n	Komitativ Singular des Substantivs csütörtök	w
+X	csütörtöknek	n	Dativ Singular des Substantivs csütörtök	w
+X	csütörtöknél	n	Adessiv Singular des Substantivs csütörtök	w
+X	csütörtökök	n	Plural des Substantivs csütörtök	w
+X	csütörtökökben	n	Inessiv Plural des Substantivs csütörtök	w
+X	csütörtököket	n	Akkusativ Plural des Substantivs csütörtök	w
+X	csütörtökökhöz	n	Allativ Plural des Substantivs csütörtök	w
+X	csütörtökökig	n	Terminativ Plural des Substantivs csütörtök	w
+X	csütörtökökkel	n	Komitativ Plural des Substantivs csütörtök	w
+X	csütörtököknek	n	Dativ Plural des Substantivs csütörtök	w
+X	csütörtököknél	n	Adessiv Plural des Substantivs csütörtök	w
+X	csütörtököt	n	Akkusativ Singular des Substantivs csütörtök	w
+X	cukor	n	(der) Zucker m	w
+X	cukorban	n	Inessiv Singular des Substantivs cukor	w
+X	cukorhoz	n	Allativ Singular des Substantivs cukor	w
+X	cukorig	n	Terminativ Singular des Substantivs cukor	w
+X	cukornak	n	Dativ Singular des Substantivs cukor	w
+X	cukornál	n	Adessiv Singular des Substantivs cukor	w
+X	cukorral	n	Komitativ Singular des Substantivs cukor	w
+X	cukrok	n	Plural des Substantivs cukor	w
+X	cukrokat	n	Akkusativ Plural des Substantivs cukor	w
+X	cukrokban	n	Inessiv Plural des Substantivs cukor	w
+X	cukrokhoz	n	Allativ Plural des Substantivs cukor	w
+X	cukrokig	n	Terminativ Plural des Substantivs cukor	w
+X	cukrokkal	n	Komitativ Plural des Substantivs cukor	w
+X	cukroknak	n	Dativ Plural des Substantivs cukor	w
+X	cukroknál	n	Adessiv Plural des Substantivs cukor	w
+X	cukrot	n	Akkusativ Singular des Substantivs cukor	w
+X	cápa	n	(der) Hai m	w
+X	cápában	n	Inessiv Singular des Substantivs cápa	w
+X	cápához	n	Allativ Singular des Substantivs cápa	w
+X	cápáig	n	Terminativ Singular des Substantivs cápa	w
+X	cápák	n	Plural des Substantivs cápa	w
+X	cápákat	n	Akkusativ Plural des Substantivs cápa	w
+X	cápákban	n	Inessiv Plural des Substantivs cápa	w
+X	cápákhoz	n	Allativ Plural des Substantivs cápa	w
+X	cápákig	n	Terminativ Plural des Substantivs cápa	w
+X	cápákkal	n	Komtativ Plural des Substantivs cápa	w
+X	cápáknak	n	Dativ Plural des Substantivs cápa	w
+X	cápáknál	n	Adessiv Plural des Substantivs cápa	w
+X	cápának	n	Dativ Singular des Substantivs cápa	w
+X	cápánál	n	Adessiv Singular des Substantivs cápa	w
+X	cápát	n	Akkusativ Singular des Substantivs cápa	w
+X	cápával	n	Komitativ Singular des Substantivs cápa	w
+X	D		sechster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	d		sechster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	darazsak	n	Plural des Substantivs darázs	w
+X	darazsakat	n	Akkusativ Plural des Substantivs darázs	w
+X	darazsakban	n	Inessiv Plural des Substantivs darázs	w
+X	darazsakhoz	n	Allativ Plural des Substantivs darázs	w
+X	darazsakig	n	Terminativ Plural des Substantivs darázs	w
+X	darazsakkal	n	Komitativ Plural des Substantivs darázs	w
+X	darazsaknak	n	Dativ Plural des Substantivs darázs	w
+X	darazsaknál	n	Adessiv Plural des Substantivs darázs	w
+X	daru	n	(der) Kran m ; (der) Kranich m	w
+X	daruban	n	Inessiv Singular des Substantivs daru	w
+X	daruhoz	n	Allativ Singular des Substantivs daru	w
+X	daruig	n	Terminativ Singular des Substantivs daru	w
+X	daruk	n	Plural des Substantivs daru	w
+X	darukat	n	Akkusativ Plural des Substantivs daru	w
+X	darukban	n	Inessiv Plural des Substantivs daru	w
+X	darukhoz	n	Allativ Plural des Substantivs daru	w
+X	darukig	n	Terminativ Plural des Substantivs daru	w
+X	darukkal	n	Komitativ Plural des Substantivs daru	w
+X	daruknak	n	Dativ Plural des Substantivs daru	w
+X	daruknál	n	Adessiv Plural des Substantivs daru	w
+X	darunak	n	Dativ Singular des Substantivs daru	w
+X	darunál	n	Adessiv Singular des Substantivs daru	w
+X	darut	n	Akkusativ Singular des Substantivs daru	w
+X	daruval	n	Komitativ Singular des Substantivs daru	w
+X	darázs	n	Wespe	w
+X	darázsban	n	Inessiv Singular des Substantivs darázs	w
+X	darázshoz	n	Allativ Singular des Substantivs darázs	w
+X	darázsig	n	Terminativ Singular des Substantivs darázs	w
+X	darázsnak	n	Dativ Singular des Substantivs darázs	w
+X	darázsnál	n	Adessiv Singular des Substantivs darázs	w
+X	darázst	n	Akkusativ Singular des Substantivs darázs	w
+X	darázzsal	n	Komitativ Singular des Substantivs darázs	w
+X	de	konj	aber	w
+X	december	n	(der) Dezember m	w
+X	decemberben	n	Inessiv Singular des Substantivs december	w
+X	decemberek	n	Plural des Substantivs december	w
+X	decemberekben	n	Inessiv Plural des Substantivs december	w
+X	decembereket	n	Akkusativ Plural des Substantivs december	w
+X	decemberekhez	n	Allativ Plural des Substantivs december	w
+X	decemberekig	n	Terminativ Plural des Substantivs december	w
+X	decemberekkel	n	Komitativ Plural des Substantivs december	w
+X	decembereknek	n	Dativ Plural des Substantivs december	w
+X	decembereknél	n	Adessiv Plural des Substantivs december	w
+X	decemberhez	n	Allativ Singular des Substantivs december	w
+X	decemberig	n	Terminativ Singular des Substantivs december	w
+X	decembernek	n	Dativ Singular des Substantivs december	w
+X	decembernél	n	Adessiv Singular des Substantivs december	w
+X	decemberrel	n	Komitativ Singular des Substantivs december	w
+X	decembert	n	Akkusativ Singular des Substantivs december	w
+X	deviza	n	(die) Devise f	w
+X	devizában	n	Inessiv Singular des Substantivs deviza	w
+X	devizához	n	Allativ Singular des Substantivs deviza	w
+X	devizáig	n	Terminativ Singular des Substantivs deviza	w
+X	devizák	n	Plural des Substantivs deviza	w
+X	devizákat	n	Akkusativ Plural des Substantivs deviza	w
+X	devizákban	n	Inessiv Plural des Substantivs deviza	w
+X	devizákhoz	n	Allativ Plural des Substantivs deviza	w
+X	devizákig	n	Terminativ Plural des Substantivs deviza	w
+X	devizákkal	n	Komitativ Plural des Substantivs deviza	w
+X	devizáknak	n	Dativ Plural des Substantivs deviza	w
+X	devizáknál	n	Adessiv Plural des Substantivs deviza	w
+X	devizának	n	Dativ Singular des Substantivs deviza	w
+X	devizánál	n	Adessiv Singular des Substantivs deviza	w
+X	devizát	n	Akkusativ Singular des Substantivs deviza	w
+X	devizával	n	Komitativ Singular des Substantivs deviza	w
+X	disznó	n	(das) Schwein	w
+X	disznóban	n	Inessiv Singular des Substantivs disznó	w
+X	disznóhoz	n	Allativ Singular des Substantivs disznó	w
+X	disznóig	n	Terminativ Singular des Substantivs disznó	w
+X	disznók	n	Plural des Substantivs disznó	w
+X	disznókat	n	Akkusativ Plural des Substantivs disznó	w
+X	disznókban	n	Inessiv Plural des Substantivs disznó	w
+X	disznókhoz	n	Allativ Plural des Substantivs disznó	w
+X	disznókig	n	Terminativ Plural des Substantivs disznó	w
+X	disznókkal	n	Komitativ Plural des Substantivs disznó	w
+X	disznóknak	n	Dativ Plural des Substantivs disznó	w
+X	disznóknál	n	Adessiv Plural des Substantivs disznó	w
+X	disznónak	n	Dativ Singular des Substantivs disznó	w
+X	disznónál	n	Adessiv Singular des Substantivs disznó	w
+X	disznót	n	Akkusativ Singular des Substantivs disznó	w
+X	disznóval	n	Komitativ Singular des Substantivs disznó	w
+X	diák	n	(der) Schüler	w
+X	diákban	n	Inessiv Singular des Substantivs diák	w
+X	diákhoz	n	Allativ Singular des Substantivs diák	w
+X	diákig	n	Terminativ Singular des Substantivs diák	w
+X	diákkal	n	Komitativ Singular des Substantivs diák	w
+X	diáknak	n	Dativ Singular des Substantivs diák	w
+X	diáknál	n	Adessiv Singular des Substantivs diák	w
+X	diákok	n	Nominativ Plural des Substantivs diák	w
+X	diákokat	n	Akkusativ Plural des Substantivs diák	w
+X	diákokban	n	Inessiv Plural des Substantivs diák	w
+X	diákokhoz	n	Allativ Plural des Substantivs diák	w
+X	diákokig	n	Terminativ Plural des Substantivs diák	w
+X	diákokkal	n	Komitativ Plural des Substantivs diák	w
+X	diákoknak	n	Dativ Plural des Substantivs diák	w
+X	diákoknál	n	Adessiv Plural des Substantivs diák	w
+X	diákot	n	Akkusativ Singular des Substantivs diák	w
+X	diéta	n	(die) Diät f	w
+X	diétában	n	Inessiv Singular des Substantivs diéta	w
+X	diétához	n	Allativ Singular des Substantivs diéta	w
+X	diétáig	n	Terminativ Singular des Substantivs diéta	w
+X	diéták	n	Plural des Substantivs diéta	w
+X	diétákat	n	Akkusativ Plural des Substantivs diéta	w
+X	diétákban	n	Inessiv Plural des Substantivs diéta	w
+X	diétákhoz	n	Allativ Plural des Substantivs diéta	w
+X	diétákig	n	Terminativ Plural des Substantivs diéta	w
+X	diétákkal	n	Komitativ Plural des Substantivs diéta	w
+X	diétáknak	n	Dativ Plural des Substantivs diéta	w
+X	diétáknál	n	Adessiv Plural des Substantivs diéta	w
+X	diétának	n	Dativ Singular des Substantivs diéta	w
+X	diétánál	n	Adessiv Singular des Substantivs diéta	w
+X	diétát	n	Akkusativ Singular des Substantivs diéta	w
+X	diétával	n	Komitativ Singular des Substantivs diéta	w
+X	doboz	n	kleiner bis mittelgroßer, meist eckiger oder zylindrischer Behälter	w
+X	dobozban	n	Inessiv Singular des Substantivs doboz	w
+X	dobozhoz	n	Allativ Singular des Substantivs doboz	w
+X	dobozig	n	Terminativ Singular des Substantivs doboz	w
+X	doboznak	n	Dativ Singular des Substantivs doboz	w
+X	doboznál	n	Adessiv Singular des Substantivs doboz	w
+X	dobozok	n	Plural des Substantivs doboz	w
+X	dobozokat	n	Akkusativ Plural des Substantivs doboz	w
+X	dobozokban	n	Inessiv Plural des Substantivs doboz	w
+X	dobozokhoz	n	Allativ Plural des Substantivs doboz	w
+X	dobozokig	n	Terminativ Plural des Substantivs doboz	w
+X	dobozokkal	n	Komitativ Plural des Substantivs doboz	w
+X	dobozoknak	n	Dativ Plural des Substantivs doboz	w
+X	dobozoknál	n	Adessiv Plural des Substantivs doboz	w
+X	dobozt	n	Akkusativ Singular des Substantivs doboz	w
+X	dobozzal	n	Komitativ Singular des Substantivs doboz	w
+X	dongó	n	Hummel	w
+X	dongóban	n	Inessiv Singular des Substantivs dongó	w
+X	dongóhoz	n	Allativ Singular des Substantivs dongó	w
+X	dongóig	n	Terminativ Singular des Substantivs dongó	w
+X	dongók	n	Plural des Substantivs dongó	w
+X	dongókat	n	Akkusativ Plural des Substantivs dongó	w
+X	dongókban	n	Inessiv Plural des Substantivs dongó	w
+X	dongókhoz	n	Allativ Plural des Substantivs dongó	w
+X	dongókig	n	Terminativ Plural des Substantivs dongó	w
+X	dongókkal	n	Komitativ Plural des Substantivs dongó	w
+X	dongóknak	n	Dativ Plural des Substantivs dongó	w
+X	dongóknál	n	Adessiv Plural des Substantivs dongó	w
+X	dongónak	n	Dativ Singular des Substantivs dongó	w
+X	dongónál	n	Adessiv Singular des Substantivs dongó	w
+X	dongót	n	Akkusativ Singular des Substantivs dongó	w
+X	dongóval	n	Komitativ Singular des Substantivs dongó	w
+X	Dz		siebenter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	dz		siebenter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Dzs		achter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	dzs		achter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	dzsungel	n	Dschungel	w
+X	délibáb	n	(die) Luftspiegelung	w
+X	délibábbal	n	Komitativ Singular des Substantivs délibáb	w
+X	délibábban	n	Inessiv Singular des Substantivs délibáb	w
+X	délibábhoz	n	Allativ Singular des Substantivs délibáb	w
+X	délibábig	n	Terminativ Singular des Substantivs délibáb	w
+X	délibábnak	n	Dativ Singular des Substantivs délibáb	w
+X	délibábnál	n	Adessiv Singular des Substantivs délibáb	w
+X	délibábok	n	Plural des Substantivs délibáb	w
+X	délibábokat	n	Akkusativ Plural des Substantivs délibáb	w
+X	délibábokban	n	Inessiv Plural des Substantivs délibáb	w
+X	délibábokhoz	n	Allativ Plural des Substantivs délibáb	w
+X	délibábokig	n	Terminativ Plural des Substantivs délibáb	w
+X	délibábokkal	n	Komitativ Plural des Substantivs délibáb	w
+X	délibáboknak	n	Dativ Plural des Substantivs délibáb	w
+X	délibáboknál	n	Adessiv Plural des Substantivs délibáb	w
+X	délibábot	n	Akkusativ Singular des Substantivs délibáb	w
+X	démon	n	(der) Dämon	w
+X	démonban	n	Inessiv Singular des Substantivs démon	w
+X	démonhoz	n	Allativ Singular des Substantivs démon	w
+X	démonig	n	Terminativ Singular des Substantivs démon	w
+X	démonnak	n	Dativ Singular des Substantivs démon	w
+X	démonnal	n	Komitativ Singular des Substantivs démon	w
+X	démonnál	n	Adessiv Singular des Substantivs démon	w
+X	démonok	n	Plural des Substantivs démon	w
+X	démonokat	n	Akkusativ Plural des Substantivs démon	w
+X	démonokban	n	Inessiv Plural des Substantivs démon	w
+X	démonokhoz	n	Allativ Plural des Substantivs démon	w
+X	démonokig	n	Terminativ Plural des Substantivs démon	w
+X	démonokkal	n	Komitativ Plural des Substantivs démon	w
+X	démonoknak	n	Dativ Plural des Substantivs démon	w
+X	démonoknál	n	Adessiv Plural des Substantivs démon	w
+X	démont	n	Akkusativ Singular des Substantivs démon	w
+X	dűne	n	Hügel aus zusammengewehtem Sand (an Küsten und in Trockengebieten)	w
+X	E		neunter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	e		neunter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	eb	n	(der) Hund m	w
+X	ebek	n	Plural des Substantivs eb	w
+X	ebéd	n	Mahlzeit, die zur Mittagszeit eingenommen wird; Mittagessen	w
+X	ecet	n	sauer schmeckendes, flüssiges Würz- und Konservierungsmittel; Essig	w
+X	edény	n	(das) Gefäß n	w
+X	edények	n	Plural des Substantivs edény	w
+X	Eger	name	Stadt in Ungarn	w
+X	egerek	n	Plural des Substantivs egér	w
+X	egy	num	eins	w
+X	egyedüllét	n	Einsamkeit f	w
+X	egyedüllétek	n	Plural des Substantivs egyedüllét	w
+X	egér	n	Maus	w
+X	egészséges	adj	nicht krank	w
+X	el	adv	weg ; Perfektiv (siehe auch meg)	w
+X	elefánt	n	(der) Elefant	w
+X	elefántok	n	Plural des Substantivs elefánt	w
+X	elhagyatott	adj	verlassen ; vereinsamt ; einsam ; menschenleer ; verödet ; öde	w
+X	első	adj,num	erstmalig ; erste	w
+X	ember	n	(der) Mensch m ; Mann	w
+X	Endre	name	ungarischer männlicher Vorname	w
+X	enged	v	jemand oder etwas lassen ; ändern	w
+X	engem	pron	(Akkusativ, 1. Person Singular) mich	w
+X	eper	n	(die) Erdbeere f	w
+X	eprek	n	Plural des Substantivs eper	w
+X	erdő	n	Wald	w
+X	erdők	n	Plural des Substantivs erdő	w
+X	erdős	adj	bewaldet ; waldreich ; waldig	w
+X	erdőség	n	(die) Waldung f	w
+X	erdőségek	n	Plural des Substantivs erdőség	w
+X	eredmény	n	(das) Ergebnis n	w
+X	eredmények	n	Plural des Substantivs eredmény	w
+X	erős	adj	stark ; scharf ; fest	w
+X	eszik	v	essen	w
+X	eső	n	Regen	w
+X	esőerdő	n	Regenwald	w
+X	Etelka	name	ungarischer weiblicher Vorname	w
+X	Európa	name	Erdteil Europa	w
+X	Európai Unió	name	Zusammenschluss von europäischen Staaten; Europäische Union	w
+X	evőkanál	n	Esslöffel	w
+X	ez nekem kínai	wend	das ist chinesisch für mich, es kommt mir spanisch vor, ich verstehe nur Bahnhof	w
+X	ezer	num	tausend, 10 x 10 x 10	w
+X	ezért	konj	deswegen	w
+X	F		elfter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	f		elfter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	fa	n	Baum ; Holz	w
+X	fagylalt	n	Eis (Speiseeis)	w
+X	fagylaltkehely	n	Eisbecher (Dessertzubehör)	w
+X	fagylaltkelyhek	n	Plural des Substantivs fagylaltkehely	w
+X	fagylaltok	n	Plural des Substantivs *Ungarisch: 1 fagylalt ^(→ hu)	w
+X	fagyos	adj	eisig ; vereist ; eiskalt ; frostig	w
+X	fal	n	die Wand	w
+X	falak	n	Plural des Substantivs fal	w
+X	farkas	n	Wolf	w
+X	farkasok	n	Plural des Substantivs farkas	w
+X	február	n	(der) Februar m	w
+X	februárok	n	Plural des Substantivs február	w
+X	fegyver	n	Waffe	w
+X	fehér	adj	weiß	w
+X	fejezet	n	Abschnitt eines Buches; Kapitel	w
+X	fekete	adj	schwarz	w
+X	fekete lyuk	wend	astronomisches Objekt	w
+X	fel	adv	auf	w
+X	felett	adv	(örtlich) oberhalb	w
+X	felfelé	adv	in Richtung auf	w
+X	felhőkarcoló	n	ein besonders hohes Gebäude	w
+X	feláll	v	sich von seinem Sitz erheben	w
+X	femur	n	Oberschenkelknochen m	w
+X	ferde	adj	schräg ; schief ; quer	w
+X	Ferenc	name	ungarischer männlicher Vorname	w
+X	Fertő tó	name	See (tó) zwischen österreichischem und ungarischem Staatsgebiet; Neusiedler See	w
+X	film	n	(der) Film m	w
+X	fizika	n	Lehre von den grundlegenden Gesetzen der Natur; Physik	w
+X	fjord	n	(der) Fjord m	w
+X	fog	v	(er, sie, es) greift, hält ; (er, sie, es) fängt, nimmt, empfängt ; Hilfsverb zum Ausdruck eines in naher Zukunft liegenden Geschehens, 3. Person, Singular	w
+X	fogni	v	greifen, halten ; fangen, nehmen, empfangen ; Hilfsverb zum Ausdruck eines in naher Zukunft liegenden Geschehens	w
+X	fogok	v	(ich) greife, halte ; (ich) fange, nehme, empfange ; Hilfsverb zum Ausdruck eines in naher Zukunft liegenden Geschehens (ich werde, ich will)	w
+X	folt	n	verschmutzte Stelle	w
+X	forró	adj	heiß	w
+X	forrófejű	adj	hitzig ; hitzköpfig	w
+X	forróság	n	Hitze	w
+X	forróságok	n	Plural des Substantivs forróság	w
+X	Frigyes	name	ungarischer männlicher Vorname	w
+X	friss	adj	frisch	w
+X	Fruzsina	name	ungarischer weiblicher Vorname mit der Bedeutung „Freude, Fröhlichkeit“	w
+X	fák	n	Plural des Substantivs fa	w
+X	fáklya	n	mit einer brennbaren Schicht am oberen Ende versehener Stab, dessen Flamme hell leuchtet;…	w
+X	Félix	name	ungarischer männlicher Vorname	w
+X	fém	n	(das) Metall n	w
+X	fémek	n	Plural des Substantivs fém	w
+X	fémkohászat	n	(die) Metallurgie f	w
+X	fémkohászatok	n	Plural des Substantivs fémkohászat	w
+X	fémpénz	n	(das) Metallgeld n	w
+X	fémpénzek	n	Plural des Substantivs fémpénz	w
+X	fémtárgy	n	(der) Metallgegenstand	w
+X	fémtárgyak	n	Nominativ Plural des Substantivs fémtárgy	w
+X	fénykép	n	Bild ; Foto ; Fotografie	w
+X	férfi	n	Mann	w
+X	fóka	n	Seehund	w
+X	fókák	n	Plural des Substantivs fóka	w
+X	fül	n	Ohr	w
+X	fülek	n	Plural des Substantivs fül	w
+X	főnév	n	Substantiv	w
+X	főváros	n	Hauptstadt	w
+X	főz	v	kochen ; Bier brauen	w
+X	G		zwölfter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	g		zwölfter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	galagonya	n	Pflanze mit Dornen als Zweige; Weißdorn	w
+X	galaxis	n	astronomisches Objekt	w
+X	garázs	n	(die) Garage f	w
+X	garázsok	n	Plural des Substantivs garázs	w
+X	gazdaságos	adj	wirtschaftlich ; ökonomisch ; rationell	w
+X	gazella	n	(die) Gazelle f	w
+X	geometria	n	die Geometrie	w
+X	giccs	n	Objekt der Kunst, Musik oder Literatur, welches als klischeehaft und geschmacklos angeseh…	w
+X	giliszta	n	(der) Wurm m	w
+X	giliszták	n	Plural des Substantivs giliszta	w
+X	golyó	n	Kugel	w
+X	golyók	n	Plural des Substantivs golyó	w
+X	golyóscsapágy	n	(das) Kugellager n	w
+X	golyóscsapágyak	n	Plural des Substantivs golyóscsapágy	w
+X	golyóstoll	n	(der) Kugelschreiber m	w
+X	golyóstollak	n	Plural des Substantivs golyóstoll	w
+X	golyóstollbetét	n	(die) Kugelschreibermine f	w
+X	golyóstollbetétek	n	Plural des Substantivs golyóstollbetét	w
+X	gomb	n	(der) Knopf	w
+X	gomba	n	(der) Pilz m	w
+X	gombok	n	Plural des Substantivs gomb	w
+X	gombák	n	Plural des Substantivs gomba	w
+X	guggol	v	hocken, kauern	w
+X	Gy		dreizehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	gy		dreizehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	gyenge	adj	schwach	w
+X	gyerek	n	Kind	w
+X	gyerekes	adj	kindisch	w
+X	gyermek	n	Kind	w
+X	gyár	n	Fabrik	w
+X	György	name	ungarischer männlicher Vorname	w
+X	gyümölcs	n	(das) Obst n	w
+X	gép	n	Maschine	w
+X	Géza	name	ungarischer männlicher Vorname	w
+X	gömb	n	(die) Kugel f	w
+X	gömbök	n	Plural des Substantivs gömb	w
+X	gömbölyű	adj	kugelrund	w
+X	gúnár	n	männliche Gans; Gänserich	w
+X	H		vierzehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	h		vierzehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	ha	konj	falls, ob, wenn	w
+X	ha nincs otthon a macska, cincognak az egerek	wend	bei fehlender Aufsicht nutzen manche die Situation aus, indem sie sich unbekümmert Dinge…	w
+X	hab	n	gasförmige Bläschen; Schaum	w
+X	haj	n	(das) Haar n	w
+X	Hajnalka	name	ungarischer weiblicher Vorname (wörtlich: "wenn die Sonne aufkommt", sinngemäß "Morgenröt…	w
+X	hal	n	Fisch	w
+X	halak	n	Plural des Substantivs hal	w
+X	hangya	n	(die) Ameise f	w
+X	hangyák	n	Plural des Substantivs hangya	w
+X	harmadik	num	die Ordnungszahl zur Kardinalzahl drei	w
+X	Harmadik Birodalom	name	Bezeichnung für das nationalsozialistische Deutschland von 1933 bis 1945	w
+X	harminc	num	dreißig	w
+X	hat	num,v	sechs ; greifen	w
+X	határozószó	n	Adverb	w
+X	hatékony	adj	mit Erfolg wirkend	w
+X	havas	adj	verschneit, schneebedeckt	w
+X	Hedda	name	ungarischer weiblicher Vorname	w
+X	here	n	Hoden	w
+X	hering	n	(der) Hering m	w
+X	heringek	n	Plural des Substantivs hering	w
+X	hiba	n	Fehler	w
+X	hideg	adj	kalt	w
+X	hint	v	gehoben: 2. Person Singular Indikativ Präsens Aktiv unbestimmt des Verbs hinteni ; 3. Person Singular Indikativ Präsens Aktiv unbestimmt des Verbs hinteni	w
+X	hol	adv	wo	w
+X	hold	n	(der) Mond m	w
+X	holdvilág	n	(der) Mondschein m ; (das) Mondlicht n	w
+X	holnap	adv	morgen	w
+X	homok	n	mineralisches lockeres Bodenmaterial; Sand	w
+X	hosszú	adj	lang	w
+X	hullámos	adj	wellenförmig ; wellig ; lockig	w
+X	hullámverés	n	(der) Seegang m, (der) Wellengang m, (die) Wallung f ; übertr. auch körperl. Wallung bei Menschen	w
+X	hullámverések	n	Plural des Substantivs hullámverés	w
+X	hullámzás	n	(der) Seegang m, (der) Wellengang m, (die) Wallung f ; übertr. auch körperl. Wallung bei Menschen	w
+X	hullámzások	n	Plural des Substantivs hullámzás	w
+X	hullócsillag	n	(die) Sternschnuppe f	w
+X	hullócsillagok	n	Plural des Substantivs hullócsillag	w
+X	husok	n	Plural des Substantivs hús	w
+X	huszonegy	num	einundzwanzig	w
+X	huszonhat	num	sechsundzwanzig	w
+X	huszonhárom	num	dreiundzwanzig	w
+X	huszonhét	num	siebenundzwanzig	w
+X	huszonkettő	num	zweiundzwanzig	w
+X	huszonkilenc	num	neunundzwanzig	w
+X	huszonnyolc	num	achtundzwanzig	w
+X	huszonnégy	num	vierundzwanzig	w
+X	huszonöt	num	fünfundzwanzig	w
+X	három	num	drei	w
+X	ház	n	Haus	w
+X	házias	adj	häuslich	w
+X	házikó	n	Häuschen	w
+X	háziállat	n	Haustier	w
+X	hét	n,num	sieben ; Woche	w
+X	hétfő	n	Wochentag nach Sonntag; Montag	w
+X	hétfők	n	Plural des Substantivs hétfő	w
+X	hétköznap	n	Wochentag	w
+X	hó	n	Schnee	w
+X	hónap	n	Monat	w
+X	hónapok	n	Plural des Substantivs hónap	w
+X	hörcsög	n	Nagetier mit Backentaschen; Hamster	w
+X	hús	n	Fleisch	w
+X	húsvéti nyúl	n	(der) Osterhase m	w
+X	húsz	num	zwanzig	w
+X	I		fünfzehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	i		fünfzehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	ibolyakék	adj	violett	w
+X	ideológia	n	(die) Ideologie f	w
+X	ideológiák	n	Plural des Substantivs ideológia	w
+X	idő	n	Zeit	w
+X	ige	n	Verb	w
+X	igen	adv	ja	w
+X	Ildikó	name	ungarischer weiblicher Vorname	w
+X	illatozik	v	duften, riechen; angenehm/herrlich/wunderbar riechen	w
+X	illem	n	(der) Anstand m	w
+X	illemek	n	Plural des Substantivs illem	w
+X	illemhely	n	(die) Toilette f	w
+X	illemhelyek	n	Plural des Substantivs illemhely	w
+X	illemtudó	adj	anständig ; sittsam ; formgerecht ; höflich ; wohlerzogen ; artig	w
+X	Ilona	name	ungarischer weiblicher Vorname	w
+X	ing	n	(das) Hemd n	w
+X	is	adv	auch	w
+X	Isten	n	Gott	w
+X	isten	n	Gott	w
+X	istennő	n	Göttin	w
+X	iszik	v	trinken	w
+X	itt	adv	hier	w
+X	izmok	n	Plural des Substantivs izom	w
+X	izom	n	(der) Muskel m	w
+X	izomláz	n	(der) Muskelkater m	w
+X	izomlázak	n	Plural des Substantivs izomláz	w
+X	J		siebzehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	j		siebzehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	január	n	(der) Monat Januar	w
+X	januárok	n	Plural des Substantivs január	w
+X	jeges	adj	vereist ; eisig ; eiskalt	w
+X	jegesmedve	n	Eisbär	w
+X	jelen	adj,n	gegenwärtig, aktuell, derzeitig ; Gegenwart f, Präsens n	w
+X	jobb	adj	Steigerungsform von gut; besser ; auf der rechten Seite befindlich	w
+X	János	name	ungarischer männlicher Vorname	w
+X	jég	n	gefrorenes Wasser; Eis	w
+X	jégeső	n	Hagel	w
+X	jó	adj	gut ; brav ; richtig	w
+X	jó napot	wend	Gruß am Tag; guten Tag	w
+X	jó reggelt	wend	guten Morgen	w
+X	jódli	n	Jodler, Jodel	w
+X	jólelkű	adj	gutmütig ; gutherzig	w
+X	jóságos	adj	gütig	w
+X	jön	v	kommen	w
+X	Júlia	name	ungarischer weiblicher Vorname	w
+X	július	n	(der) Juli m	w
+X	júliusok	n	Plural des Substantivs július	w
+X	június	n	(der) Juni m	w
+X	júniusok	n	Plural des Substantivs június	w
+X	K		achtzehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	k		achtzehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	kacsa	n	Ente	w
+X	kacsák	n	Nominativ Plural des Substantivs kacsa	w
+X	kakukk	n	Vogel, der seine Eier in fremde Nester legt; Kuckuck	w
+X	kalapács	n	Hammer	w
+X	kaldaunepörkölt	n	(der) Kaldaunegulasch m	w
+X	kalóz	n	(der) Pirat m	w
+X	kalózok	n	Plural des Substantivs kalóz	w
+X	kanca	n	Stute	w
+X	kanál	n	Löffel	w
+X	kapu	n	(das) Tor n	w
+X	kapuk	n	Plural des Substantivs kapu	w
+X	kard	n	Schwert	w
+X	Karácsony	n	das Weihnachten	w
+X	karácsonyfa	n	(der) Weihnachtsbaum m	w
+X	karácsonyfák	n	Plural des Substantivs karácsonyfa	w
+X	kas	n	(der) Bienenkorb m, (der) Korb m	w
+X	katasztrófa	n	Katastrophe	w
+X	katasztrófák	n	Plural des Substantivs katasztrófa	w
+X	kecske	n	Ziege	w
+X	kedd	n	Wochentag nach Montag; Dienstag	w
+X	keddek	n	Plural des Substantivs kedd	w
+X	kellemes	adj	angenehm	w
+X	kellemetlen	adj	unangenehm	w
+X	kenguru	n	in Australien lebendes großes Beuteltier; Känguru	w
+X	kenguruban	n	Inessiv Singular des Substantivs kenguru	w
+X	kenguruja	n	Besitzform Singular 3. Person Singular des Substantivs kenguru	w
+X	kenguruk	n	Nominativ Plural des Substantivs kenguru	w
+X	kengurukat	n	Akkusativ Plural des Substantivs kenguru	w
+X	kengurukban	n	Inessiv Plural des Substantivs kenguru	w
+X	kenguruknak	n	Dativ Plural des Substantivs kenguru	w
+X	kengurunak	n	Dativ Singular des Substantivs kenguru	w
+X	kengurut	n	Akkusativ Singular des Substantivs kenguru	w
+X	keresztes lovag	n	(der) Kreuzritter m	w
+X	keresztes lovagok	wend	Plural des Substantivs keresztes lovag	w
+X	kert	n	Garten	w
+X	kettő	num	zwei	w
+X	kevés	adj	wenig(e) ; kurz	w
+X	kicsi	adj	klein	w
+X	kiejtés	n	Aussprache	w
+X	kilenc	num	neun	w
+X	kivi	n	(die) Kiwi f	w
+X	kivon	v	több számokat egymásból kivonni (mehrere Zahlen voneinander abziehen)	w
+X	kolléga	n	(der) Kollege m	w
+X	koncert	n	Konzert	w
+X	konyha	n	(die) Küche f	w
+X	kor	n	Altersangabe, Zeitalter ; (-kor) Präposition: um, zu	w
+X	korhatár	n	(die) Altersgrenze f	w
+X	korhatárok	n	Plural des Substantivs korhatár	w
+X	korok	n	Plural des Substantivs kor	w
+X	kort	n	Akkusativ Singular des Substantivs kor	w
+X	kortárs	n	(der) Zeitgenosse m	w
+X	kortársak	n	Plural des Substantivs kortárs	w
+X	koszos	adj	schmutzig	w
+X	Krisztina	name	ungarischer weiblicher Vorname	w
+X	krokodil	n	(das) Krokodil n	w
+X	krumpli	n	(die) Kartoffel f	w
+X	kukac	n	(die) Made f, (der) Wurm m ; Symbol in der E-Mail-Adresse: Klammeraffe³ @	w
+X	kukacok	n	Plural des Substantivs kukac	w
+X	kutya	n	Hund	w
+X	kutyák	n	Plural des Substantivs kutya	w
+X	Károly	name	ungarischer männlicher Vorname	w
+X	kávé	n	Kaffee	w
+X	kávébab	n	(die) Kaffeebohne f	w
+X	kávédaráló	n	(die) Kaffeemühle f	w
+X	kávéfilter	n	(der) Kaffeefilter m	w
+X	kávéfőző	n	(die) Kaffeemaschine f	w
+X	kávéscsésze	n	(die) Kaffeetasse f	w
+X	kávéskanna	n	(die) Kaffeekanne f	w
+X	kávéskanál	n	(der) Kaffeelöffel m	w
+X	kávéskészlet	n	(das) Kaffeeservice n, (das) Kaffeegeschirr n	w
+X	kávészünet	n	(die) Kaffeepause f	w
+X	kék	adj	blau	w
+X	kés	n	Messer	w
+X	kéz	n	Hand	w
+X	kór	n	(die) Krankheit f, (die) Sucht f	w
+X	kórok	n	Plural des Substantivs kór	w
+X	kórterem	n	(das) Krankenzimmer n, (der) Krankensaal m	w
+X	kórtermek	n	Plural des Substantivs kórterem	w
+X	könnyű	adj	etwas oder jemand ist ; leicht ; einfach	w
+X	könyv	n	Buch	w
+X	könyvtár	n	Bibliothek	w
+X	könyvtáros	n	Bibliothekar	w
+X	könyvtárosnő	n	Bibliothekarin	w
+X	környezetvédő	n	(der) Umweltschützer n	w
+X	környezetvédők	n	Plural des Substantivs környezetvédő	w
+X	körte	n	(die) Birne f ; (die) Birne f, (die) Glühbirne f ; Brust ; Busen ; Kopf	w
+X	körtefa	n	eine Baumart	w
+X	köröm	n	Nagel ; Klaue, Kralle	w
+X	körülbelül	adv	nicht genau	w
+X	köszönöm	interj	Äußerung des Dankes	w
+X	kötőszavak	n	Plural des Substantivs kötőszó	w
+X	kötőszó	n	(die) Konjunktion f (Bindewort)	w
+X	L		neunzehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	l		neunzehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	labda	n	(der) Ball m ; weibliche Brust ; weibliche Busen ; Kopf	w
+X	langyos	adj	lauwarm, lau ; für bisexuell	w
+X	lapát	n	Schaufel	w
+X	lassú	adj	langsam	w
+X	le	adj	ab	w
+X	lefelé	adv	in Richtung herunter	w
+X	legyek	n	Plural des Substantivs légy	w
+X	lelkek	n	Plural des Substantivs lélek	w
+X	lelketlen	adj	herzlos ; gefühllos ; seelenlos	w
+X	lelkipásztor	n	(der) Seelsorger m	w
+X	lelkipásztorok	n	Plural des Substantivs lelkipásztor	w
+X	lelkiállapot	n	(der) Seelenzustand m, (der) Geisteszustand m	w
+X	lelkiállapotok	n	Plural des Substantivs lelkiállapot	w
+X	lenni	v	sein ; sein, sich befinden	w
+X	lepke	n	(der) Schmetterling m	w
+X	lepkék	n	Plural des Substantivs lepke	w
+X	lever	v	rammen	w
+X	leves	n	Suppe	w
+X	levesek	n	Plural des Substantivs leves	w
+X	liba	n	(die) Gans f	w
+X	libabőr	n	(die) Gänsehaut f	w
+X	libák	n	Plural des Substantivs liba	w
+X	lila	adj	lila	w
+X	lop	v	etwas stehlen, rauben	w
+X	lovag	n	(der) Ritter m	w
+X	lovagok	n	Plural des Substantivs lovag	w
+X	Luca	name	ungarischer weiblicher Vorname	w
+X	Ly		zwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ly		zwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	lábfej	n	Fuß	w
+X	László	name	ungarischer männlicher Vorname	w
+X	légy	n	(die) Fliege f	w
+X	lélek	n	(der) Geist m, (die) Psyche f, (die) Seele f	w
+X	ló	n	Pferd ; Schachfigur; Springer	w
+X	M		einundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	m		einundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	ma	adv	heute; an diesem Tage	w
+X	maci	n	(der) Teddybär m	w
+X	macik	n	Plural des Substantivs maci	w
+X	mackó	n	(der) Bär m ; umgangssprachlich für: (der) Jogginganzug m	w
+X	mackók	n	Plural des Substantivs mackó	w
+X	mackónadrág	n	(die) Jogginghose f	w
+X	mackónadrágok	n	Plural des Substantivs mackónadrág	w
+X	macska	n	Haustier: Katze	w
+X	macskák	n	Plural des Substantivs macska	w
+X	madarak	n	Plural des Substantivs madár	w
+X	madár	n	(der) Vogel m	w
+X	madárlátta	wend	Wörtlich übersetzt: madár  Vogel, látta  gesehene; "von Vögeln gesehene" ; Brot ; Hasenbrot	w
+X	magánhangzó	n	(der) Vokal, Selbstlaut m	w
+X	mandarin	n	(der) Mandarin m ; (die) Mandarine f	w
+X	mandarinréce	n	Mandarinente	w
+X	mandarinrécék	n	Plural des Substantivs mandarinréce	w
+X	marha	n	(das) Rind n	w
+X	marhák	n	Plural des Substantivs marha	w
+X	matrica	n	Ein Aufkleber; meistens einseitig klebend mit verschiedenen Motiven ; Autobahnvignette ; Kinderaufkleber ; Werbeaufkleber	w
+X	matricák	n	Plural des Substantivs matrica	w
+X	medve	n	Bär	w
+X	medvék	n	Plural des Substantivs medve	w
+X	meg	adv	Präteritum: kennzeichnet eine Handlung als abgeschlossen ; Präsens ; zeigt an, dass eine Handlung gerade beginnt oder ; bald abgeschlossen sein wird ; plus	w
+X	megy	v	gehen ; fahren	w
+X	meleg	adj	warm ; homosexuell	w
+X	melléknév	n	Adjektiv	w
+X	menet	n	(der) Marsch m	w
+X	menetek	n	Plural des Substantivs menet	w
+X	Menyhért	name	ungarischer männlicher Vorname	w
+X	mese	n	Märchen	w
+X	mi	pron	wir	w
+X	milliárd	num	(die) Milliarde f, 1000 x 1000 x 1000, 1000000000	w
+X	mirigy	n	Organ, das eine spezielle Substanz bildet und als Sekret nach außen, oder als Hormon in d…	w
+X	miért	adv	warum?	w
+X	Mohamed	name	ungarischer männlicher Vorname	w
+X	molesztál	v	belästigen	w
+X	most	adv	jetzt, nun, in diesem Moment	w
+X	motiváció	n	Motivation	w
+X	motor	n	Motor	w
+X	mozi	n	(das) Kino n	w
+X	mozik	n	Plural des Substantivs mozi	w
+X	mustár	n	Senf	w
+X	mustárok	n	Plural des Substantivs mustár	w
+X	május	n	(der) Mai m	w
+X	májusok	n	Plural des Substantivs május	w
+X	mák	n	(der) Mohn m	w
+X	mákok	n	Plural des Substantivs mák	w
+X	málna	n	(die) Himbeere f	w
+X	március	n	(der) März m	w
+X	márciusok	n	Plural des Substantivs március	w
+X	második	num	zweite	w
+X	másodperc	n	Sekunde	w
+X	mássalhangzó	n	(der) Konsonant, Mitlaut	w
+X	médiatörténész	n	Medienhistoriker	w
+X	méh	n	(die) Biene f ; (die) Gebärmutter f	w
+X	méhek	n	Plural des Substantivs méh	w
+X	mély érzésű	adj	seelenvoll	w
+X	méreg	n	Gift	w
+X	méz	n	(der) Honig m	w
+X	mézek	n	Plural des Substantivs méz	w
+X	móka	n	(der) Spaß, (der) Scherz	w
+X	mókus	n	(das) Eichhörnchen n	w
+X	mókusok	n	Plural des Substantivs mókus	w
+X	N		zweiundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	n		zweiundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	nadrág	n	(die) Hose f	w
+X	nagy	adj	groß	w
+X	nagyság	n	Größe	w
+X	nap	n	Tag ; Sonne	w
+X	napsütés	n	(der) Sonnenschein m	w
+X	narancssárga	adj	orange	w
+X	nedves	adj	feucht	w
+X	negyedik	num	die Ordnungszahl zur Kardinalzahl vier	w
+X	nehéz	adj	Etwas oder jemand ist ; schwer	w
+X	nem	adv	nein ; nicht	w
+X	nem esik messze az alma a fájától	wend	deutet an, dass ein Kind Eigenschaften und Verhaltensweisen von den Eltern übernimmt	w
+X	nincs otthon a macska, cincognak az egerek	wend	bei fehlender Aufsicht nutzen manche die Situation aus, indem sie sich unbekümmert Dinge…	w
+X	Norbert	name	deutscher männlicher Vorname ; ungarischer männlicher Vorname	w
+X	november	n	(der) November m	w
+X	novemberek	n	Plural des Substantivs november	w
+X	Ny		dreiundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ny		dreiundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	nyak	n	Hals	w
+X	nyakak	n	Plural des Substantivs nyak	w
+X	nyakas	adj	hartnäckig ; halsstarrig ; eigensinnig ; dickköpfig	w
+X	nyakasság	n	(der) Starrsinn m	w
+X	nyakasságok	n	Plural des Substantivs nyakasság	w
+X	nyakatekert	adj	verschroben	w
+X	nyakcsigolya	n	(der) Halswirbel m	w
+X	nyakcsigolyák	n	Plural des Substantivs nyakcsigolya	w
+X	nyakigláb	adj	Hopfenstange ; langbeinig ; baumlang, Lulatsch	w
+X	nyakkendő	n	(die) Krawatte f	w
+X	nyakkendők	n	Plural des Substantivs nyakkendő	w
+X	nyaklánc	n	Halskette, Halsband	w
+X	nyakláncok	n	Plural des Substantivs nyaklánc	w
+X	nyakszirt	n	(das) Genick n	w
+X	nyakszirtek	n	Plural des Substantivs nyakszirt	w
+X	nyakörv	n	(das) Halsband n	w
+X	nyakörvek	n	Plural des Substantivs nyakörv	w
+X	nyarak	n	Plural des Substantivs nyár	w
+X	nyelv	n	Zunge ; Sprache	w
+X	nyelvek	n	Plural des Substantivs nyelv	w
+X	nyelvtudomány	n	Sprachwissenschaft	w
+X	nyolc	num	acht	w
+X	nyomós	adj	triftig ; gewichtig ; schwerwiegend	w
+X	nyugodt	adj	ruhig	w
+X	nyulak	n	Plural des Substantivs nyúl	w
+X	nyár	n	heiße, sonnige Jahreszeit; Sommer	w
+X	nyúl	n	(der) Hase m ; (das) Kaninchen n	w
+X	náci karlendítés	wend	In der Zeit des Nationalsozialismus die verpflichtende Grußform.	w
+X	négy	num	vier	w
+X	német	adj,n	deutsch ; die Sprache Deutsch ; ein Deutscher, eine Deutsche	w
+X	Német Szövetségi Köztársaság	n	Bundesrepublik Deutschland	w
+X	Németország	name	Deutschland	w
+X	névmás	n	Pronomen	w
+X	nő	n	Frau	w
+X	O		vierundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	o		vierundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	obeliszk	n	(der) Obelisk m	w
+X	objektív	n	(das) Objektiv n ; objektiv	w
+X	oboa	n	Holzblasinstrument mit Doppelrohrblatt; Oboe	w
+X	okos	adj	klug	w
+X	okosság	n	Klugheit	w
+X	október	n	(der) Oktober m	w
+X	októberek	n	Plural des Substantivs október	w
+X	oltár	n	tischähnliche Einrichtung zur Feier eines Gottesdienstes, zur kultischen Verehrung oder d…	w
+X	orca	n	Backe ; Wange	w
+X	oroszlán	n	(der) Löwe m	w
+X	oroszlánok	n	Plural des Substantivs oroszlán	w
+X	orr	n	Nase	w
+X	orrok	n	Plural des Substantivs orr	w
+X	Orsolya	name	ungarischer weiblicher Vorname	w
+X	oszlop	n	(die) Säule	w
+X	oszlopok	n	Plural des Substantivs oszlop	w
+X	oszt	v	zwei Zahlen voneinander dividieren	w
+X	osztriga	n	Muschel, deren Inneres zum Verzehr geeignet ist und als Delikatesse gilt; Auster	w
+X	ott	adv	dort	w
+X	oázis	n	(die) Oase f	w
+X	P		achtundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	p		achtundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	pacal	n	(die) Kuttel f	w
+X	pacalok	n	Plural des Substantivs pacal	w
+X	pacalpörkölt	n	(das/der) Kuttelgulasch n/m	w
+X	pacientúra	n	(der) Patientenkreis m	w
+X	pacientúrák	n	Plural des Substantivs pacientúra	w
+X	pacsirta	n	(die) Lerche	w
+X	pacsirtaszó	n	(der) Lerchenklang m	w
+X	pacsirták	n	Plural Nominativ des Substantivs pacsirta	w
+X	pad	n	(die) Sitzbank f (verwendet in der Park, Schule, Anklagebank)	w
+X	padok	n	Plural des Substantivs pad	w
+X	pajkos	adj	übermütig ; schelmisch ; keck ; lausbubenhaft, lausbübisch ; schalkhaft ; frivol	w
+X	paletta	n	(die) Palette f	w
+X	paletták	n	Plural des Substantivs paletta	w
+X	papír	n	(das) Papier	w
+X	paradicsom	n	(die) Tomate f ; (das) Paradies n	w
+X	paradicsomok	n	Plural des Substantivs paradicsom	w
+X	paraszt	n	(der) Bauer m	w
+X	parasztasszony	n	(die) Bäuerin f	w
+X	parasztasszonyok	n	Plural des Substantivs parasztasszony	w
+X	parasztbútor	n	(das) Bauernmöbel n	w
+X	parasztbútorok	n	Plural des Substantivs parasztbútor	w
+X	parasztcsalád	n	(die) Bauernfamilie	w
+X	parasztcsaládok	n	Nominativ Plural des Substantivs parasztcsalád	w
+X	parasztház	n	(das) Bauernhaus n	w
+X	parasztházak	n	Plural des Substantivs parasztház	w
+X	parasztok	n	Plural des Substantivs paraszt	w
+X	parasztélet	n	(das) Bauernleben n	w
+X	pata	n	mit Hornsubstanz ummantelter Fuß von Unpaarhufern	w
+X	patak	n	(der) Bach m	w
+X	patakok	n	Plural des Substantivs patak	w
+X	patkány	n	(die) Ratte f	w
+X	patkányok	n	Plural des Substantivs patkány	w
+X	paták	n	Plural des Substantivs pata	w
+X	perc	n	Minute	w
+X	piac	n	(der) Markt m	w
+X	piacok	n	Plural des Substantivs piac	w
+X	pillangó	n	(der) Schmetterling m	w
+X	pillangók	n	Plural des Substantivs pillangó	w
+X	pingvin	n	flugunfähiger Seevogel; Pinguin	w
+X	pipa	n	(die) Pfeife f	w
+X	pipák	n	Plural des Substantivs pipa	w
+X	piros	adj	rot	w
+X	piszkos	adj	schmutzig	w
+X	pisztoly	n	Schießwaffe mit eher kurzem Lauf, die aus der Hand abgeschossen wird; Pistole	w
+X	pont	n	(der) Punkt m	w
+X	poros	adj	staubig ; staubbedeckt ; verstaubt	w
+X	páciens	n	(der) Patient m	w
+X	páciensek	n	Plural des Substantivs páciens	w
+X	párduc	n	(der) Panther m	w
+X	párducok	n	Plural des Substantivs párduc	w
+X	péntek	n	Wochentag nach Donnerstag; Freitag	w
+X	péntekek	n	Plural des Substantivs péntek	w
+X	pénz	n	gesetzliches Zahlungsmittel; Geld	w
+X	Péter	name	ungarischer männlicher Vorname	w
+X	pók	n	(die) Spinne f	w
+X	pókok	n	Plural des Substantivs pók	w
+X	Q		neunundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	q		neunundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	R		dreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	r		dreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	radiátor	n	(der) Heizkörper m	w
+X	radiátorok	n	Plural des Substantivs radiátor	w
+X	rag	n	(die) Nachsilbe f	w
+X	ragban	n	Inessiv Singular des Substantivs rag	w
+X	raggal	n	Komitativ Singular des Substantivs rag	w
+X	raghoz	n	Allativ Singular des Substantivs rag	w
+X	ragig	n	Terminativ Singular des Substantivs rag	w
+X	ragnak	n	Dativ Singular des Substantivs rag	w
+X	ragnál	n	Adessiv Singular des Substantivs rag	w
+X	ragokat	n	Akkusativ Plural des Substantivs rag	w
+X	ragokban	n	Inessiv Plural des Substantivs rag	w
+X	ragokhoz	n	Allativ Plural des Substantivs rag	w
+X	ragokig	n	Terminativ Plural des Substantivs rag	w
+X	ragokkal	n	Komitativ Plural des Substantivs rag	w
+X	ragoknak	n	Dativ Plural des Substantivs rag	w
+X	ragoknál	n	Adessiv Plural des Substantivs rag	w
+X	ragot	n	Akkusativ Singular des Substantivs rag	w
+X	reggeli	n	Frühstück	w
+X	remegés	n	Beben	w
+X	retkes	adj	für schmutzig	w
+X	rossz	adj	schlecht ; schlimm ; kaputt ; verdorben	w
+X	réce	n	(volkst. für) Ente	w
+X	récék	n	Plural des Substantivs réce	w
+X	Réka	name	ungarischer weibliche Vorname	w
+X	rétisas	n	(der) Seeadler m	w
+X	rétisasok	n	Plural des Substantivs rétisas	w
+X	rézsútos	adj	schräg ; schief	w
+X	róka	n	Fuchs	w
+X	rókák	n	Plural des Substantivs róka	w
+X	rövid	adj	kurz	w
+X	S		einunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	s		einunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	sajtos	adj	käsig	w
+X	savanyú	adj	sauer	w
+X	segg	n	(der) Arsch m	w
+X	seggek	n	Plural des Substantivs segg	w
+X	seggfej	n	(das) Arschloch n	w
+X	seggfejek	n	Plural des Substantivs seggfej	w
+X	sima	adj	eben ; glatt	w
+X	sok	adj	viel	w
+X	sorompó	n	(die) Bahnschranke f	w
+X	sorompók	n	Plural des Substantivs sorompó	w
+X	sport	n	(der) Sport m	w
+X	stadion	n	(das) Stadion n	w
+X	strand	n	in ein Gewässer hineinragender, langgestreckter, flacher, sandiger oder kiesiger Streifen… ; öffentliches Schwimmbad im Freien mit einem Badestrand	w
+X	Svédország	name	Schweden (Staat in Skandinavien)	w
+X	Sz		zweiunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	sz		zweiunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	szagol	v	etwas oder jemanden mit der Nase als Riechorgan wahrnehmen, riechen. ; einen strengen Geruch haben; stinken	w
+X	szamarak	n	Nominativ Plural des Substantivs szamár	w
+X	szamár	n	Esel	w
+X	szarka	n	langschwänziger Vogel aus der Familie der Rabenvögel; Elster	w
+X	szarvas	n	(der) Hirsch m	w
+X	szarvasok	n	Plural des Substantivs szarvas	w
+X	szegénység	n	(die) Armut f, (die) Mittellosigkeit f	w
+X	szegénységek	n	Plural des Substantivs szegénység	w
+X	szeles	adj,n	windig ; schusselig ; fahrig ; leichtfertig ; (der) Sausewind m	w
+X	szelíd	adj	sanft, sanftmütig, mild ; gutartig, zahm	w
+X	szem	n	Auge	w
+X	szeptember	n	(der) September m	w
+X	szeptemberek	n	Plural des Substantivs szeptember	w
+X	szerda	n	Wochentag nach Dienstag; Mittwoch	w
+X	szerdák	n	Plural des Substantivs szerda	w
+X	szerelem	n	(die) Liebe f	w
+X	szerelmek	n	Plural des Substantivs szerelem	w
+X	szerszám	n	Mittel zur Arbeitserleichterung; Werkzeug	w
+X	szia	interj	Äußerung bei Begrüßung; kann als Begrüßung ebenso wie zur Verabschiedung verwendet werden	w
+X	Szilvia	name	ungarischer weiblicher Vorname	w
+X	szilánk	n	Bruchstück; Splitter	w
+X	szivar	n	(die) Zigarre f	w
+X	szivarok	n	Plural des Substantivs szivar	w
+X	szivárvány	n	Regenbogen	w
+X	szivárványok	n	Plural des Substantivs szivárvány	w
+X	szombat	n	Wochentag nach Freitag; Samstag	w
+X	szombatok	n	Plural des Substantivs szombat	w
+X	szoros	adj	im übertragenen Sinn: eng, knapp ; gespannt stramm, straff ; in der Nähe von jemand/etwas: dicht, knapp ; streng, genau ; ausgeglichen, eng, knapp	w
+X	szoroz	v	multiplizieren	w
+X	Szovjet Szocialista Köztársaságok Szövetsége	name	Union der Sozialistischen Sowjetrepubliken	w
+X	Szovjetunió	name	Sowjetunion	w
+X	SZSZKSZ	name	UdSSR	w
+X	száj	n	Mund	w
+X	szájak	n	Plural des Substantivs száj	w
+X	szám	n	Zahl	w
+X	számológép	n	Rechenmaschine	w
+X	számrendszer	n	Zahlensystem	w
+X	számítógép	n	Computer, Rechner	w
+X	száraz	adj	trocken	w
+X	száz	num	hundert, 10 x 10	w
+X	széles	adj	breit	w
+X	szép	adj	schön ; hübsch	w
+X	szín	n	(die) Farbe f	w
+X	szó	n	Wort	w
+X	szófaj	n	Wortart	w
+X	szög	n	Nagel ; Winkel	w
+X	szürke	adj	grau	w
+X	szűk	adj	eng	w
+X	sárga	adj	gelb	w
+X	sátor	n	eine zum leichten Aufstellen und Abbauen gedachte Konstruktion; Zelt	w
+X	sáv	n	(die) Zone f	w
+X	sávok	n	Plural des Substantivs sáv	w
+X	sós	adj	salzig	w
+X	súlylökés	n	Kugelstoßen	w
+X	súlylökések	n	Plural des Substantivs súlylökés	w
+X	T		dreiunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	t		dreiunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Takács de Saár	name	ungarischer Familienname	w
+X	tampon	n	Hygiene: (der) Tampon m, (der) Stöpsel m ; Medizin: siehe 1	w
+X	tanya	n	(der) Bauernhof	w
+X	tanyák	n	Plural des Substantivs tanya	w
+X	tapasz	n	(das) Pflaster n	w
+X	tapaszok	n	Plural des Substantivs tapasz	w
+X	tartalom	n	Inhalt	w
+X	tavak	n	Plural des Substantivs tó	w
+X	tavasz	n	Frühling	w
+X	tavaszok	n	Plural des Substantivs tavasz	w
+X	te	pron	; du	w
+X	tegnap	adv	gestern	w
+X	tehenek	n	Plural des Substantivs tehén	w
+X	tehát	konj	also	w
+X	tehén	n	(die) Kuh f	w
+X	tej	n	(die) Milch f	w
+X	tejberizs	n	(der) Milchreis m	w
+X	tejcsokoládé	n	(die) Milchschokolade f	w
+X	tejespohár	n	(das) Milchglas	w
+X	tejföl	n	Schmand	w
+X	tejfölök	n	Plural des Substantivs tejföl	w
+X	tejpor	n	(das) Milchpulver n	w
+X	tejszínhab	n	(die) Schlagsahne f	w
+X	telek	n	Plural des Substantivs tél	w
+X	telt	adj	voll	w
+X	tenger	n	(das) Meer, (die) See, ( z. B. Nordsee, Ostsee)	w
+X	tengerek	n	Nominativ Plural des Substantivs tenger	w
+X	tengerhajózás	n	(die) Seefahrt f	w
+X	tengerhajózások	n	Plural des Substantivs tengerhajózás	w
+X	tengeri fürdő	n	(das) Seebad n	w
+X	tengeri fürdők	wend	Plural des Substantivs tengeri fürdő	w
+X	tengeri haderő	n	(die) Seestreitkräfte f	w
+X	tengeri haderők	wend	Plural des Substantivs tengeri haderő	w
+X	tengeri utak	wend	Plural des Substantivs tengeri út	w
+X	tengeri utazás	n	(die) Seefahrt f	w
+X	tengeri utazások	wend	Plural des Substantivs tengeri utazás	w
+X	tengeri út	n	(die) Seefahrt f	w
+X	tengeribeteg	adj	seekrank	w
+X	tengerész	n	(der) Seemann m	w
+X	tengerészek	n	Plural des Substantivs tengerész	w
+X	tenyésztés	n	(die) Zucht, (die) Züchtung, (die) Aufzucht	w
+X	tenyésztések	n	Nominativ Plural des Substantivs tenyésztés	w
+X	terelőút	n	eine Ausweichroute	w
+X	természetbarát	n	Naturfreund	w
+X	természetbarátok	n	Plural des Substantivs természetbarát	w
+X	természetvédő	n	(der) Naturschützer m	w
+X	természetvédők	n	Plural des Substantivs természetvédő	w
+X	test	n	Körper m	w
+X	testamentum	n	(jura) Testament	w
+X	testek	n	Plural des Substantivs test	w
+X	testtartás	n	(die) Haltung f	w
+X	testtartások	n	Plural des Substantivs testtartás	w
+X	tető	n	(das) Dach n, (der) Gipfel m	w
+X	tetők	n	Plural des Substantivs tető	w
+X	teve	n	(das) Kamel n	w
+X	tevék	n	Plural des Substantivs teve	w
+X	teáskanál	n	Teelöffel	w
+X	ti	pron	; ihr	w
+X	Tibor	name	ungarischer männlicher Vorname	w
+X	tigris	n	Tiger	w
+X	tigrisek	n	Plural des Substantivs tigris	w
+X	tiszta	adj	sauber	w
+X	Tivadar	name	ungarischer männlicher Vorname	w
+X	tizenegy	num	elf	w
+X	tizenhat	num	sechzehn	w
+X	tizenhárom	num	dreizehn	w
+X	tizenhét	num	siebzehn	w
+X	tizenkettő	num	zwölf	w
+X	tizenkilenc	num	neunzehn	w
+X	tizennyolc	num	achtzehn	w
+X	tizennégy	num	vierzehn	w
+X	tizenöt	num	fünfzehn	w
+X	torta	n	(die) Torte f	w
+X	trón	n	(der) Thron m ; Töpfchen (für Kinder)	w
+X	tudakozó	n	(die) Auskunft	w
+X	tudomány	n	Wissenschaft	w
+X	tulajdonság	n	Eigenschaft	w
+X	tulipán	n	Blütenpflanze aus der Familie der Liliengewächse; Tulpe	w
+X	turbina	n	(die) Turbine f	w
+X	turbinák	n	Plural des Substantivs turbina	w
+X	turista	n	(der) Tourist	w
+X	Ty		vierunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ty		vierunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	tábor	n	Lager, Camp	w
+X	táborok	n	Plural des Substantivs tábor	w
+X	tágas	adj	geräumig ; breit	w
+X	tányér	n	Teller	w
+X	tél	n	Winter	w
+X	térd	n	(das) Knie n	w
+X	térdek	n	Plural des Substantivs térd	w
+X	tíz	num	zehn	w
+X	tó	n	(der) See m, (der) Teich m ( Binnensee, Inland Gewässer)	w
+X	tündér	n	Fee	w
+X	tűz	n	Feuer	w
+X	U		fünfunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	u		fünfunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	uborka	n	(die) Gurke f	w
+X	uborkagyalu	n	(der) Gurkenhobel m	w
+X	uborkasaláta	n	(der) Gurkensalat m	w
+X	uborkasaláták	n	Plural des Substantivs uborkasaláta	w
+X	uborkaszezon	n	(die) Sauregurkenzeit f	w
+X	uborkaszezonok	n	Plural des Substantivs uborkaszezon	w
+X	uborkák	n	Plural des Substantivs uborka	w
+X	ugrik	v	springen	w
+X	unalmas	adj	langweilig	w
+X	und	v	2. Person Singular Bestimmt Konjunktiv/Imperativ Präsens Aktiv des Verbs un („sich langwe…	w
+X	utak	n	Plural des Substantivs út	w
+X	V		neununddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	v		neununddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	vad	adj,n	wild ; Wild	w
+X	vaddisznó	n	(das) Wildschwein n	w
+X	vaddisznók	n	Plural des Substantivs vaddisznó	w
+X	vadkacsa	n	Wildente	w
+X	vadállat	n	Wildtier	w
+X	vagy	adv,konj,v	etwa ; oder ; 2. Person Singular des Verbs lenni	w
+X	van	v	3. Person Singular des Verbs lenni	w
+X	vas	n	(das) Eisen	w
+X	vasárnap	n	Wochentag nach Samstag; Sonntag	w
+X	vasárnapok	n	Plural des Substantivs vasárnap	w
+X	vedel	v	übertragen trinken	w
+X	verseny	n	Rennen ; Turnier ; Wettbewerb ; Wettkampf	w
+X	vicc	n	Witz	w
+X	vidra	n	kleines Säugetier, das im und am Wasser lebt und zur Familie der Marder gehört; Otter	w
+X	villa	n	(die) Gabel f ; (die) Villa f, (das) Landhaus n	w
+X	villák	n	Plural des Substantivs villa	w
+X	Vilmos	name	ungarischer männlicher Vorname	w
+X	virág	n	(die) Blume	w
+X	virágok	n	Plural des Substantivs virág	w
+X	virágágy	n	(das) Blumenbeet	w
+X	virágágyak	n	Plural des Substantivs virágágy	w
+X	viszontlátásra	interj	Abschiedsgruß	w
+X	vita	n	(die) Auseinandersetzung f, (die) Diskussion f	w
+X	vizek	n	Plural des Substantivs víz	w
+X	vizes	adj	nass ; feucht	w
+X	vizilovak	n	Plural des Substantivs viziló	w
+X	vádli	n	Wade	w
+X	vár	n	Burg	w
+X	város	n	Stadt	w
+X	váza	n	Vase	w
+X	víz	n	Wasser	w
+X	víziló	n	(das) Flusspferd n	w
+X	vízvezeték-szerelő	n	Klempner	w
+X	W		vierzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	w		vierzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	X		einundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	x		einundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Y		zweiundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	y		zweiundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Z		dreiundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	z		dreiundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	zavarodott	adj	verlegen ; verwirrt ; wirr ; irre	w
+X	zebra	n	ein in Afrika beheimatetes, zur Familie der Pferde (Equidae) gehörendes, wildlebendes Huf… ; durch weiße, quer über eine Straße verlaufende Streifen gekennzeichnete Stelle, die anzei…	w
+X	zebrák	n	Plural des Substantivs zebra	w
+X	zene	n	(die) Musik f	w
+X	zenei	adj	musikalisch	w
+X	zenekar	n	(die) Kapelle f, (das) Orchester n	w
+X	zenekarok	n	Plural des Substantivs zenekar	w
+X	zeneszerző	n	Komponist	w
+X	zeneszerzők	n	Plural des Substantivs zeneszerző	w
+X	zeneértő	adj	musikalisch	w
+X	zenék	n	Plural des Substantivs zene	w
+X	zongora	n	Tasteninstrument, dessen Klang durch Saiten erzeugt wird; Klavier	w
+X	Zs		vierundvierzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	zs		vierundvierzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	zsiráf	n	(die) Giraffe f	w
+X	zsiráfok	n	Plural des Substantivs zsiráf	w
+X	Zsuzsanna	name	ungarischer weiblicher Vorname	w
+X	zóna	n	Zone	w
+X	zónák	n	Plural des Substantivs zóna	w
+X	zöld	adj	grün	w
+X	zöldség	n	(das) Gemüse n	w
+X	Á		zweiter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	á		zweiter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Ádám	name	ungarischer männlicher Vorname	w
+X	ágy	n	Bett	w
+X	áll	n,v	Kinn ; auf den Beinen sein und sich nicht fortbewegen, stehen ; sich irgendwo befinden, etwas befindet sich irgendwo, steht	w
+X	állat	n	Tier	w
+X	április	n	(der) April m	w
+X	áprilisok	n	Plural des Substantivs április	w
+X	ár	n	Preis, Kaufsumme ; Ahle ; Ar ; Flut, Hochwasser ; Flut	w
+X	árnyék	n	(der) Schatten m	w
+X	áru	n	(die) Ware f	w
+X	áruház	n	(das) Kaufhaus n, (das) Warenhaus n	w
+X	árukészlet	n	(der) Warenbestand m	w
+X	ásó	n	Spaten	w
+X	É		zehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	é		zehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	édes	adj	süß	w
+X	égett	adj	verbrannt ; gebrannt	w
+X	élelmiszer	n	(das) Lebensmittel n ; (das) Nahrungsmittel n	w
+X	életmód	n	(die) Lebensart f	w
+X	életmódok	n	Plural des Substantivs életmód	w
+X	én	pron	ich	w
+X	értesült	adj	informiert ; unterrichtet	w
+X	érvényes	adj	gültig	w
+X	és	konj	und	w
+X	év	n	Jahr	w
+X	évek	n	Plural des Substantivs év	w
+X	Í		sechzehnter Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	í		sechzehnter Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	ír	v	schreiben	w
+X	íz	n	(der) Geschmack m ; (der) Grad m ; (das) Segment n ; (das) Glied n	w
+X	ízek	n	Plural des Substantivs íz	w
+X	ízlelés	n	(der) Geschmackssinn m, (die) Geschmacksempfindung f	w
+X	ízlelések	n	Plural des Substantivs ízlelés	w
+X	ízlés	n	(das) Geschmack n	w
+X	ízlések	n	Plural des Substantivs ízlés	w
+X	Ó		fünfundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ó		fünfundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	óra	n	Stunde ; Uhr	w
+X	Ö		sechsundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ö		sechsundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	ördög	n	(der) Teufel m	w
+X	ördögök	n	Plural des Substantivs ördög	w
+X	örül	v	sich freuen	w
+X	összead	v	zusammenzählen mehrerer Zahlen	w
+X	öt	num	fünf	w
+X	ötödik	num	die Ordnungszahl zur Kardinalzahl fünf	w
+X	övezet	n	(die) Zone f	w
+X	övezetek	n	Plural des Substantivs övezet	w
+X	Ú		sechsunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ú		sechsunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Úr	n	Anrede / Bezeichnung für Gott	w
+X	úr	n	Bezeichnung für einen Mann (férfi megszólítás) ; Anrede für einen Mann (férfi szólítás) ; Meister, Vorgesetzter (Úr, uraság)	w
+X	út	n	(der) Weg m	w
+X	Ü		siebenunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ü		siebenunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
+X	Üdvöske	name	ungarischer weiblicher Vorname	w
+X	üregi nyulak	wend	Plural des Substantivs üregi nyúl	w
+X	üregi nyúl	n	(das) Wildkaninchen n	w
+X	üzlet	n	(das) Geschäft n	w
+X	üzletek	n	Plural des Substantivs üzlet	w
+X	Ő		siebenundzwanzigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ő	pron	siebenundzwanzigster Buchstabe (Minuskel) des ungarischen Alphabets ; er, sie, es	w
+X	ők	pron	Personalpronomen der 3. Person Plural Nominativ ; 1 sie	w
+X	ősz	n	Herbst	w
+X	őszök	n	Plural des Substantivs ősz	w
+X	Ű		achtunddreißigster Buchstabe (Majuskel) des ungarischen Alphabets	w
+X	ű		achtunddreißigster Buchstabe (Minuskel) des ungarischen Alphabets	w
