@@ -28889,7 +28889,7 @@ X	աղավնիճ	n	Eisenkraut	e
 X	աղատ	n	Flehen, Bitte, Bitten, Liebkosung, Umarmung, Streicheln	e
 X	աղարտել	v	plündern, ruinieren, verderben, auf die Knie zwingen, vernichten, verzerren, verziehen, drehen	e
 X	աղաց	n	Mühle, Mahlwerk, Fabrik	e
-X	աղաք	n	Frontseite, Vorderseite, Front, Straße, vor, in der Vergangenheit, früher	e
+X	աղաք	n	Frontseite, Vorderseite, Front, Straße, vor	e
 X	աղբ	n	Abfall, Müll, Mist, Ramsch, Quatsch, Blödsinn, Fäkalien, Kot	e
 X	աղբանոց	n	Kippe, Müllkippe, Deponie, schmutzig, dreckig, verdreckt	e
 X	աղբատար խողովակ	n	Müllschlucker	e
@@ -28962,11 +28962,10 @@ X	Ամազոն	name	Amazonas	e
 X	ամայանալ	v	unbewohnt, sinnlos, bedeutungslos, frei adj.: leer	e
 X	ամայի	adj	unbewohnt, verlassen, verwüstet, leer, inhaltslos, frei adj.: leer	e
 X	աման	n	Schiff, Boot, Wasserfahrzeug, Krug, Becher, Topf	e
-X	ամանակ	n	Mora, More, Maß, Mass, Messung, Tempo, Zeit, Zit	e
+X	ամանակ	n	Mora, More, Maß, Mass, Messung, Tempo	e
 X	ամանեղեն	n	Abwasch, Aufwasch, Abwäsche, Geschirr	e
 X	Ամանոր	n	Neujahr	e
 X	ամանորյա	adj	Neujahr, Silvester	e
-X	ամաչել	v	sich schämen	e
 X	ամաչկոտ	adj	scheu, schüchtern, verlegen	e
 X	ամառ	n	wärmste Jahreszeit, zwischen Frühling und Herbst; Sommer	w
 X	ամառային	adj	Sommer, Sommerzeit	e
@@ -29011,7 +29010,6 @@ X	ամենակալ	adj	allmächtig, omnipotent	e
 X	ամենայն	pron	all, alle, jeder, ganz, gesamt	e
 X	ամենուր	adv	überall	e
 X	ամենուրեք	adv	überall	e
-X	ամենևին	adv	auf keinen Fall, keineswegs, mitnichten, überhaupt, gar	e
 X	ամեոբա	n	Amöbe, Wechseltierchen	e
 X	Ամերիկա	name	Vereinigte Staaten von Amerika, USA ; Amerika	w
 X	ամերիկական	adj	amerikanisch, US-amerikanisch	e
@@ -29036,7 +29034,7 @@ X	ամորձի	n	Hoden, Testikel	e
 X	ամուլ	adj	unfruchtbar, steril, dürr, erntelos, fruchtlos, eitel, unnütz, vergeblich	e
 X	ամուսին	n	Ehemann, Mann, Gemahl, Gatte, Gattin, Ehepartner, Lebenspartner, Lebenspartnerin	e
 X	ամուսնալուծություն	n	Scheidung, Ehescheidung	e
-X	ամուսնանալ	v	heiraten, in die Ehe geben, verheiraten, sich verheiraten	e
+X	ամուսնանալ	v	heiraten, in die Ehe geben, verheiraten	e
 X	ամուսնացած	adj	verheiratet	e
 X	ամուսնացնել	v	trauen, verheiraten, vermählen, heiraten, in die Ehe geben	e
 X	ամուսնություն	n	Ehe, Heirat, Hochzeit	e
@@ -29069,17 +29067,14 @@ X	Այգաստղ	n	Venus f	w
 X	այգեպան	n	Gärtner, Gärtnerin	e
 X	այգեստան	n	Weinberg, Weingarten	e
 X	այգի	n	Weinberg, Weingarten, Garten, Garte, Goatn, Park	e
-X	այդ	art	jener, jene, jenes	e
-X	այդ դեպքում	adv	in diesem Fall, dann	e
 X	այդուհանդերձ	adv	jedoch, allerdings, nichtsdestoweniger	e
-X	այդպես	adv	so, sehr, also, demnach	e
-X	այդպիսի	pron	solch, so	e
+X	այդպես	adv	so, also, demnach	e
+X	այդպիսի	pron	so	e
 X	այդտեղ	pron	es	e
-X	այժմ	adv	jetzt, nun, gerade, momentan, aktuell, gegenwärtig	e
+X	այժմ	adv	jetzt, nun, gerade	e
 X	այժմիկ	adv	jetzt, nun, gerade	e
 X	այժմու	adj	gegenwärtig, jetzig, anwesend, modern	e
-X	այլ	pron	andere, sonstig, anders, aber, aber trotzdem, sondern, stattdessen, anstatt	e
-X	այլ կերպ ասած	adv	mit anderen Worten, anders gesagt	e
+X	այլ	pron	andere, sonstig, anders, stattdessen, anstatt	e
 X	այլախոհ	adj	Dissident, Dissidentin, Regimekritiker	e
 X	այլանդակություն	n	Hässlichkeit, Abweichung, Abnormalität, Untat, Gräueltat, (empörendes) Verbrechen, Ungnade, Schande	e
 X	այլասիրական	adj	altruistisch, selbstlos, uneigennützig	e
@@ -29094,28 +29089,23 @@ X	այլուրեքութիւն	n	Alibi	w
 X	այլուրեքութիւններ		Nominativ Plural von այլուրեքութիւն ; Akkusativ Plural von այլուրեքութիւն	w
 X	այլք	pron	andere, Andere	e
 X	այլևայլ	adj	verschiedene, gemischt	e
-X	այլևս	adv	nicht mehr, nicht länger, nimmer	e
 X	այծ	n	Ziege, Geiß, Bock	e
 X	Այծեղջյուր	name	Steinbock	e
 X	այծյամ	n	Reh, Bock, Rammler, Rüde, männlicher Hirsch, Hirschbock, Gämse, Gams	e
 X	այծքաղ	n	Antilope	e
 X	այմարա	n	Aymara	e
 X	այն	art	jener, jene, jenes	e
-X	այնուամենայնիվ	adv	jedoch, allerdings, nichtsdestoweniger, trotzdem, dennoch, jedenfalls, sowieso	e
+X	այնուամենայնիվ	adv	jedoch, allerdings, nichtsdestoweniger, trotzdem, dennoch, noch, doch	e
 X	այնուհետև	adv	danach, nachher, anschließend, dann, damals	e
-X	այնպես	adv	so, sehr	e
-X	այնպիսի	pron	solch, derartig	e
+X	այնպիսի	pron	derartig, solch	e
 X	այնտեղ	pron	es	e
 X	այո	part	ja, jo, doch	e
-X	այս	art	dieser, folgend, so ein, diese	e
 X	այսբերգ	n	Eisberg	e
-X	այսինքն	konj	Bedeutung, Sinn, mit anderen Worten, anders gesagt, als, wie, im Sinne	e
-X	այսու	pron	damit	e
+X	այսինքն	konj	Bedeutung, Sinn	e
 X	այսուամենայնիվ	adv	nichtsdestoweniger, nichtsdestotrotz, jedoch, allerdings, wie auch immer, egal wie	e
 X	այսուհանդերձ	konj	trotz, obwohl, obgleich, wenngleich, trotzdem, dennoch	e
 X	այսուհետև	adv	künftig, fürderhin, hinfort, in der Zukunft, später	e
-X	այսպես	adv	so, sehr, also, demnach	e
-X	այսպիսի	pron	solch	e
+X	այսպես	adv	so, also, demnach	e
 X	այստեղ	pron	hier, hierher, hierhin	e
 X	այստեղ-այնտեղ	adv	hier und da	e
 X	այստեղացի	n	Ortsmann, Einheimischer, Ortsverband, lokal, örtlich	e
@@ -29175,11 +29165,11 @@ X	անբիծ	adj	makellos	e
 X	անբնակ	adj	unbewohnt, verlassen, verwüstet, obdachlos, wohnungslos	e
 X	անբովանդակ	adj	leer, inhaltslos, vergeblich, umsonst, frei, vakant	e
 X	անբոքսինգ	n	Auspacken	e
-X	անգամ	n	Zeit, Zit, Ziit, eben, gleichmäßig, gleich	e
+X	անգամ	n	eben, gleichmäßig, gleich	e
 X	անգեղ	adj	hässlich, häßlich (pre-1996), unschön	e
 X	անգի	adj	dünn, tünn, schlank, ausgemergelt, abgemagert	e
 X	անգինա	n	Mandelentzündung, Tonsillitis	e
-X	անգիր	adj	ungeschrieben, oral, mündlich, auswendig	e
+X	անգիր	adj	ungeschrieben, oral, mündlich	e
 X	անգլերեն	n	Engländer, Mittel, englisch, engländisch, englischsprachig	e
 X	Անգլիա	name	England, Großbritannien, Vereinigtes Königreich	e
 X	անգլիական	adj	englisch, engländisch, englischsprachig, britisch, großbritannisch	e
@@ -29189,7 +29179,7 @@ X	անգլուհի	n	Engländerin	e
 X	անգղ	n	Geier, Geierin, Aasgeier	e
 X	անգնահատելի	adj	unbezahlbar, unschätzbar	e
 X	Անգոլա	name	Angola n	w
-X	անգործ	adj	arbeitslos, ungenutzt, Mußezeit, Totzeit, fehlerhaft, defekt, mangelhaft, durcheinander	e
+X	անգործ	adj	arbeitslos, ungenutzt, Mußezeit, Totzeit, fehlerhaft, defekt, mangelhaft	e
 X	անգործածելի	adj	unbenutzbar	e
 X	անգործություն	n	Untätigkeit, Tatenlosigkeit, Trägheit	e
 X	անգրագետ	adj	analphabetisch, ungebildet, ungelehrt, ignorant	e
@@ -29331,10 +29321,10 @@ X	անհասկանալի	adj	unverständlich, unbegreiflich, unfassbar	e
 X	անհավանական	adj	unwahrscheinlich	e
 X	անհավասարություն	n	Ungleichheit, Ungleichung	e
 X	անհավատ	adj	Ungläubiger, Ungläubige, unzuverlässig, nicht vertrauenswürdig, herzlos, grausam	e
-X	անհատ	n	Person, Mensch, Körper, Individuum, einzeln, einzigartig, ungewöhnlich, unikal	e
+X	անհատ	n	Individuum, einzeln, einzigartig, ungewöhnlich, unikal, einzig	e
 X	անհատակ	adj	unermesslich, unergründlich, abgrundtief	e
 X	անհատական	adj	persönlich, Personal-	e
-X	անհատականություն	n	Persönlichkeit, Person, Mensch, Körper	e
+X	անհատականություն	n	Persönlichkeit	e
 X	անհարգալից	adj	respektlos, despektierlich, unhöflich	e
 X	անհարմար	adj	unbequem, ungemütlich, unbehaglich, unpraktisch, ungünstig, ungeschickt, unbeholfen, umständlich	e
 X	անհեթեթ	adj	absurd, lächerlich, sinnwidrig, unsinnig, widersinnig, stumpf, gegenstandslos, irrelevant	e
@@ -29354,7 +29344,7 @@ X	անհույս	adj	hoffnungslos, verzweifelt bemüht, sehnsuchtsvoll verlangen
 X	անհուն	adj	unendlich, endlos, unzählige, grenzenlos, unbegrenzt	e
 X	անհրաժեշտ	adj	nötig, notwendig, erforderlich	e
 X	անհրաժեշտություն	n	Notwendigkeit, Nezessität, Not, Bedarf, Bedürfnis	e
-X	անձ	n	Person, Mensch, Körper, Wesen, Einheit, Gebilde, Persönlichkeit, Gefährte	e
+X	անձ	n	Wesen, Einheit, Gebilde, Persönlichkeit, Gefährte, Kamerad, Paar, hohes Tier	e
 X	անձամբ	adv	persönlich, personaliter	e
 X	անձավ	n	Höhle, Grotte	e
 X	անձավաբնակ	adj	Höhlenbewohner, Höhlenmensch	e
@@ -29412,7 +29402,7 @@ X	անշեն	adj	unbewohnt, leerstehend, frei, unbeschäftigt, vakant, leer	e
 X	անշեջ	adj	unlöschbar, unstillbar, unerbittlich, unnachgiebig, unnachlässig, unablässig	e
 X	անշշուկ	adj	still, schweigen, schweigsam, geräuschlos	e
 X	անշունչ	adj	atemlos, leblos, bewegungslos, unbewegbar	e
-X	անշուշտ	adv	zweifellos, sicherlich, gewiss, bestimmt, natürlich, sicher, selbstverständlich	e
+X	անշուշտ	adv	zweifellos, sicherlich, gewiss, bestimmt, natürlich	e
 X	անշուք	adj	schlicht, Natur-, einfach, simpel, bar, nackt	e
 X	անշրջելի	adj	irreversibel, unumkehrbar	e
 X	անոդ	n	Anode	e
@@ -29450,7 +29440,6 @@ X	անջրդի	adj	arid	e
 X	անջրպետ	n	Block, Barren, Stange, Sperre, Schranke, Schlagbaum	e
 X	անսամբլ	n	Ensemble	e
 X	անսասան	adj	unerschütterlich, befestigt, fest, fixiert, stark, kräftig, standhaft, massiv	e
-X	անսարք	adj	durcheinander, nicht in der richtigen Reihenfolge, außer Betrieb	e
 X	անսարքություն	n	Misserfolg, Ausfall, Verschlechterung, Betriebsstörung, Panne, Aufschlüsselung	e
 X	անսովոր	adj	unbenutzt, ungebraucht, nicht gewöhnt, ungewöhnlich, unüblich, ungebräuchlich, seltsam, sonderbar	e
 X	անսպառ	adj	unerschöpflich, unbeschränkt, unbegrenzt, grenzenlos, reichlich, wohlhabend, massenhaft, groß	e
@@ -29579,7 +29568,7 @@ X	աչալուրջ	adj	vorsichtig, behutsam, sorgfältig, aufmerksam, umsichtig,
 X	աչք	n	Auge, Aug, Öhr	e
 X	աչքածակ	adj	gierig, habgierig, habsüchtig, begierig, gefräßig, unersättlich	e
 X	ապ-		-los, un-, ent-, Aufhebung, Kündigung, Streichung	e
-X	ապա	adv	dann, damals, danach, nächster, damit, sodass, um ... zu, deswegen	e
+X	ապա	adv	dann, damals, danach, nächster, deswegen, deshalb, darum, wie auch immer	e
 X	ապաբախտ	adj	unglückselig, unglücklich, unglückbringend, es bringt Unglück	e
 X	ապագա	n	Zukunft, Futur, Future, zukünftig, künftig	e
 X	ապագաղութացում	n	Entkolonialisierung, Dekolonisation	e
@@ -29644,25 +29633,24 @@ X	ապրանքագիր	n	Frachtbrief	e
 X	ապրել	v	leben ; erleben ; verleben ; wohnen	w
 X	ապրիլ	n	vierter Monat; April	w
 X	ապրիլյան	adj	April, Ostermond	e
-X	ապրուստ	n	Lebensunterhalt, Lebensgrundlage, Auskommen, Instandhaltung, Wartung, Unterhalt, Lebensweise, Lebensstil	e
+X	ապրուստ	n	Lebensunterhalt, Lebensgrundlage, Auskommen, Instandhaltung, Wartung, Unterhalt	e
 X	ապօրինի	adj	illegal, rechtswidrig, unerlaubt, verboten, unzulässig, illegitim, unrechtmäßig, gesetzwidrig	e
 X	աջ	adj	recht, richtig, in Ordnung, Recht, Rechte, rechte Hand	e
 X	աջաբսանդալ	n	Sammelsurium, Mischmasch, Wust, Allerlei, bunte Mischung, buntes Durcheinander	e
 X	աջակցել	v	helfen, assistieren, beistehen, unterstützen, zu Hilfe kommen	e
 X	Աջարիա	name	Adscharien	e
 X	աջլիկ	adj	rechtshändig, Rechtshänder, Rechtshänderin	e
-X	առ	präp	zu, in, dem, bis, bis zu, bis an, je, pro	e
-X	առ-		zu, in Richtung, nach, -en, an, ein, eingeschaltet	e
+X	առ	präp	bis, bis zu, bis an, je, pro, durch, Plünderung, Beute	e
+X	առ-		zu, in Richtung, nach	e
 X	առագաստ	n	Vorhang, Gardine	e
 X	առագաստանավ	n	Kutter, Segelboot, Segelschiff	e
 X	առած	n	Sprichwort, Denkspruch, Redensart, Ausspruch	e
 X	առակ	n	Fabel	e
 X	առակախոս	adj	Fabeldichter, Fabeldichterin, Fabulierer, Erzähler, Erzählerin, Geschichtenerzähler	e
-X	առայժմ	adv	vorerst, erst einmal, fürs Erste	e
 X	առանձին	adv	getrennt, beiseite, entzwei, ungefähr, etwa, um, wenig, einzeln	e
 X	առանձնասենյակ	n	Studium, Arbeitszimmer, Studierzimmer	e
 X	առանձնատուն	n	Einfamilienhaus, Herrenhaus, Villa, Anwesen, Landgut, Landsitz, Gut	e
-X	առանձնյակ	n	Individuum, Person, Mensch, Körper	e
+X	առանձնյակ	n	Individuum	e
 X	առանց	präp	ohne	e
 X	առանցք	n	Achse, Drehpunkt, Angelpunkt, Zapfen, Welle	e
 X	առանցքակալ	n	Auflager, Spannweite, Tragweite	e
@@ -29710,7 +29698,7 @@ X	առատ-առատ	adv	reichlich, umfassend, heftig	e
 X	առատության եղջյուր	n	Füllhorn, Fülle	e
 X	առատություն	n	Überfluss, Fülle	e
 X	առատուկ	n	Schnur, Kordel, Strick	e
-X	առարկա	n	Gegenstand, Objekt, Sache, Ding, Satzgegenstand, Subjekt, Thema	e
+X	առարկա	n	Gegenstand, Objekt, Sache, Satzgegenstand, Subjekt, Thema	e
 X	առաւօտեան աստղ	wend	Morgenstern	w
 X	առաքել	v	senden, schicken, verschicken, versenden, beeilen, erlösen, befreien, gebären	e
 X	առաքելական	adj	apostolisch	e
@@ -29728,7 +29716,7 @@ X	առերևույթ	adj	mutmaßlich, äußerlich, angeblich, vermeintlich	e
 X	առէջ	n	Entstellung, Verwerfung, Verkrümmung, Staubblatt, Stamen, Weberschiffchen, Schützen, Webschützen	e
 X	առթիվ	präp	apropos	e
 X	առիթ	n	Gelegenheit, Mal, Anlass, Grund, Ursache, Verstand, Vorwand, Deckmantel	e
-X	առինչ	adj	in Verbindung stehend, verwandt, ähnlich, Beziehung, Relation, Verwandter	e
+X	առինչ	adj	Beziehung, Relation, Verwandter	e
 X	առիք	n	Decke, Plafond, Zimmerdecke	e
 X	առկա	adj	gegenwärtig, jetzig, anwesend	e
 X	առկախ	adj	unbegrenzt, unbestimmt, vage, ungelöst, unaufgeklärt, offen, hängend	e
@@ -29738,10 +29726,10 @@ X	առկայծել	v	verwelken, verblassen, schwinden, abnehmen, schrumpfen, ver
 X	առկայծում	n	abnehmen, glitzernd, funkelnd, prickelnd	e
 X	առկայծուն	adj	abnehmen, glitzernd, funkelnd, prickelnd	e
 X	առկայություն	n	Anwesenheit	e
-X	առհասարակ	adv	im Allgemeinen, allgemein, gewöhnlich	e
+X	առհասարակ	adv	allgemein, gewöhnlich, im Allgemeinen	e
 X	առհավատչյա	n	Sicherheit, Schutz, Sicherheitsdienst, Gelöbnis, feierliche Zusage, feierliches Versprechen	e
 X	առհարյուր	n	vom Hundert, Prozent, Perzent	e
-X	առձեռն	adj	zur Hand, vorhanden, anstellig, handlich, praktisch, bereit, fertig, gar	e
+X	առձեռն	adj	anstellig, handlich, praktisch, bereit, fertig, gar	e
 X	առճակատում	n	Konfrontation, Gegenüberstellung, Auseinandersetzung	e
 X	Առյուծ	name	Leo, Löwe	e
 X	առյուծ	n	Löwe, Leu, Löwchen	e
@@ -29754,7 +29742,6 @@ X	առնմանություն	n	Angleichung, Assimilation	e
 X	Առնո	name	Arno	e
 X	առնչություն	n	Beziehung, Relation, Verwandter, Verbindung, Verknüpfung, Glied	e
 X	առնչվել	v	gehören, verbunden, betreffen, anfassen, angreifen, berühren	e
-X	առնվազն	adv	mindestens, zumindest, wenigstens	e
 X	առշերտ	n	Adstrat	e
 X	առոգանել	v	verkünden, aussprechen, pronunzieren	e
 X	առոգանություն	n	Erklärung, (deutliche) Aussprache, Artikulation, Ausdrucksweise, Diktion, Betonung, Akzent, Akzentzeichen	e
@@ -29776,22 +29763,19 @@ X	առևտուր	n	Handel, Kommerz, Geschäft	e
 X	առևտրային	adj	Handel, Kommerz, Geschäft, kommerziell, geschäftlich, gewerblich	e
 X	առևտրային անվանում	n	Handelsname, Verkehrsname	e
 X	առևտրի կենտրոն	n	Einkaufszentrum	e
-X	աս	pron	dieser, diese, dieses	e
 X	ասացվածք	n	Sprichwort, Denkspruch, Redensart, Ausspruch	e
 X	ասել	v	sagen, erzählen, säge, mitteilen, anzeigen, anweisen, andeuten, zeigen	e
 X	ասեկոսե	n	Gerücht, Gerüchte, Gerede	e
 X	ասեղ	n	Nadel	e
 X	Ասիա	name	Asien	e
 X	ասիական	adj	asiatisch	e
-X	ասիկա	pron	dieser, diese, dieses	e
 X	Ասկալոն	name	Aschkelon	e
 X	Ասկանիոս	name	Ascanius	e
 X	ասկետիզմ	n	Askese	e
-X	ասման	n	Himmel, Firmament, Paradies, so, sehr	e
+X	ասման	n	Himmel, Firmament, Paradies	e
 X	Ասմարա	name	Asmara	e
 X	ասմինոգ	n	Tintenfisch, Oktopus, Krake	e
 X	ասմունք	n	Rezitation, Vortragen, Wort, Ehrenwort, Sprache, Rede, Ansprache, Gottesdienst	e
-X	ասոնք	pron	diese	e
 X	ասորագիտություն	n	Syristik	e
 X	ասորերեն	n	klassisches Syrisch	e
 X	ասորի	n	Syrisch, Syrer, Syrerin	e
@@ -29920,7 +29904,6 @@ X	ավտոբուս	n	Bus	e
 X	ավտոկայանատեղի	n	Parkplatz, Stellplatz, Parklücke	e
 X	ավտոմեքենա	n	Automobil, Auto, Kraftfahrzeug	e
 X	ավտոտնակ	n	Garage, Werkstatt	e
-X	ատ	pron	jener, jene, jenes	e
 X	Ատալիա	name	Attalien	e
 X	ատակ	n	Boden, Grund, Unterseite, Gründung, Gründen, Stiftung, Hölle, Unterwelt	e
 X	ատաղձ	n	Holz, Nutzholz, Bauholz	e
@@ -29936,7 +29919,7 @@ X	ատափխանա	n	Latrine	e
 X	ատդուշի	adv	aufrichtig, herzlich, genial, warmherzig	e
 X	ատել	v	hassen	e
 X	ատելություն	n	hassen, Hass	e
-X	ատեն	n	Zeit, Zit, Ziit, Augenblick, Moment, Zeitpunkt	e
+X	ատեն	n	Augenblick, Moment, Zeitpunkt	e
 X	ատենախոսություն	n	Doktorarbeit, Dissertation, These, Abschlussarbeit, Bachelorarbeit	e
 X	ատեստատ	n	Zertifikat, Zeugnis, Bestätigung, Diplom, Abgangszeugnis	e
 X	Ատիլիոս	name	Atilius	e
@@ -29947,7 +29930,6 @@ X	ատոլ	n	Atoll	e
 X	ատոմ	n	Atom	e
 X	ատոմային	adj	atomar, atomisch, Atom-	e
 X	ատոմային ռումբ	n	Atombombe	e
-X	ատոնք	pron	diese	e
 X	ատոք	adj	voll, vole, komplett, dick, fett, reif, gereift, ausgereift	e
 X	ատտա	n	Mutter, Mutti, Mama, Mumie	e
 X	ատտո-		atto-	e
@@ -29988,7 +29970,7 @@ X	արատավոր շրջան	n	Teufelskreis, Zirkelschluss, Circulus vitiosus	e
 X	արար	n	Handlung, Tat, Akt	e
 X	արարած	n	Wesen, Lebewesen, Fabelwesen	e
 X	Արարատ	name	Berg Ararat ; Ararat-Ebene ; Provinzhauptstadt in Armenien ; gleichnamige Provinz in Armenien ; ein armenischer Brandy	w
-X	արարել	v	tun, ja, doch, kreieren, erschaffen, schaffen	e
+X	արարել	v	kreieren, erschaffen, schaffen	e
 X	արարիչ	n	Schöpfer, Schöpferin, Erschaffer, Macher, Hersteller, Fabrikant, Gott, Göttin	e
 X	արարողություն	n	Zeremonie, feierliche Handlung, Ritual, Ritus, Brauch	e
 X	արարք	n	Handlung, Aktion, Bewegung, Tat, Akt	e
@@ -30010,7 +29992,7 @@ X	արգելք	n	Hindernis, Hürde, Behinderung	e
 X	Արգենտինա	name	Argentinien, Staat in Südamerika	w
 X	արգոն	n	Chemie: Argon	w
 X	արգումենտ	n	Argument, Argumentation, Diskussion	e
-X	արդ	n	Struktur, Datenstruktur, Gestalt, Form, Formular, Verzierung, musikalische Verzierung, jetzt	e
+X	արդ	n	Struktur, Datenstruktur, Verzierung, musikalische Verzierung, jetzt, nun, gerade, sogleich	e
 X	արդար	adj	angemessen, gerecht, berechtigt, schön, wunderbar, hell, rein, unschuldig	e
 X	արդարադատություն	n	Gerechtigkeit, Genugtuung, Justiz	e
 X	արդարացի	adj	angemessen, gerecht, berechtigt, ehrlich, fair	e
@@ -30146,7 +30128,7 @@ X	արտագաղթ	n	Auswanderung, Emigration	e
 X	արտագաղթել	v	auswandern, emigrieren	e
 X	արտագրել	v	transkribieren, kopieren, nachmachen, nachahmen	e
 X	արտադրանք	n	Produkt, Reaktionsprodukt, Stoff, Obst und Gemüse, Ertrag	e
-X	արտադրել	v	produzieren, herstellen, vorlegen, machen, bauen	e
+X	արտադրել	v	produzieren, herstellen, vorlegen	e
 X	արտադրող	n	Hersteller, Herstellerin, Produzent	e
 X	արտադրողականություն	n	Produktivität, Leistungsfähigkeit, Effizienz, Wirkungsgrad, Durchführung, Leistung, Aufführung	e
 X	արտադրություն	n	Produktion, Herstellung, Inszenierung, Produkt	e
@@ -30279,7 +30261,7 @@ X	Աֆրիկյան եղջյուր	name	Horn von Afrika	e
 X	Աֆրոդիտե	name	Aphrodite	e
 X	Բ	num	zweiter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 2 im System des armenischen Zahlensystems	w
 X	բ	num	zweiter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 2 im System des armenischen Zahlensystems	w
-X	բա	interj	wie wär's mit, und, was ist mit, natürlich, na klar, klaro	e
+X	բա	interj	wie wär's mit, und, was ist mit, natürlich	e
 X	Բաբա Յագա	name	Baba Jaga	e
 X	բաբան	n	Katapult, Wippe, (Allgäu) Gigampfi	e
 X	Բաբելմանդեբի նեղուց	name	Bab al-Mandab	e
@@ -30399,8 +30381,8 @@ X	բամիա	n	Okra, Gemüse-Eibisch	e
 X	բայ	n	Verb, Zeitwort	w
 X	բայղուշ	n	Eule, Uhu, Eulenvogel, ahnungsvoll, bedrohlich, ominös, sinister, böse	e
 X	բայոց	n	Höhle, Bau, Wohnzimmer, Grotte	e
-X	բայց	konj	aber, aber trotzdem, sondern, doch, obwohl, obgleich, obschon, wie auch immer	e
-X	բան	n	Ding, Sache, Gegenstand, Arbeit, Werk, Geschäft, Unternehmen, Firma	e
+X	բայց	konj	doch, obwohl, obgleich, obschon, wie auch immer, egal wie	e
+X	բան	n	Arbeit, Werk, Geschäft, Unternehmen, Firma, Penis, Glied, Schwanz	e
 X	բանադրանք	n	Exkommunikation, Bannfluch, Bannstrahl, Kirchenbann	e
 X	բանադրել	v	exkommunizieren, bannen, verbannen	e
 X	բանալ	v	öffnen, aufmachen, offen	e
@@ -30522,9 +30504,9 @@ X	բարեմասնություն	n	Qualität, Eigenschaft, Qualitäts-, Vorteil,
 X	Բարենցի ծով	name	Barentssee	e
 X	բարեպաշտ	adj	fromm, pietätvoll, scheinheilig	e
 X	բարեպաշտություն	n	Frömmigkeit, Pietät	e
-X	բարեսեր	adj	freundlich, gütig, lieb, züchtig, tugendhaft, tugendsam	e
+X	բարեսեր	adj	züchtig, tugendhaft, tugendsam	e
 X	բարեփոխում	n	Reform	e
-X	բարի	adj	freundlich, gütig, lieb, gutmütig, gut, brav, gehörig, das Gute	e
+X	բարի	adj	gutmütig, gut, brav, gehörig, das Gute, Gut, in Ordnung, okay	e
 X	բարի ախորժակ	wend	Formel für ein gutes gemeinsames Essen, auf dessen Bekömmlichkeit und Wohlschmecken	w
 X	բարի գալուստ	wend	willkommen	w
 X	բարի գիշեր	interj	gute Nacht	e
@@ -30675,7 +30657,7 @@ X	բեսիրաթ	adj	rechtsfrei, gesetzwidrig, gesetzlos, pietätlos	e
 X	բետոն	n	Beton	e
 X	բերան	n	Mund, Maul, Muul, Öffnung, Eröffnungsvorstellung, Eröffnung, Eingang, Einfahrt	e
 X	բերանային	adj	oral, mündlich	e
-X	բերանացի	adv	auswendig, oral, mündlich	e
+X	բերանացի	adv	oral, mündlich	e
 X	բերբեր	n	Berber, Berberin	e
 X	բերդ	n	Festung, Gefängnis, Knast, Kerker	e
 X	բերել	v	bringen, holen, einbringen, hereinholen	e
@@ -30781,7 +30763,7 @@ X	բնակչություն	n	Bevölkerung, Population, Bevölkerungszahl	e
 X	բնակվել	v	leben, wohnen, überleben	e
 X	բնակտոր	n	Klumpen	e
 X	բնապահպանություն	n	Erhaltung, Konservierung, Bewahrung	e
-X	բնավ	adv	nie, niemals, nimmer, überhaupt nicht, gar nicht, kein, keine, nichts	e
+X	բնավ	adv	nie, niemals, nimmer, kein, keine, nichts	e
 X	բնավորություն	n	Natur, Art, Gereiztheit, Laune, Temperament, Figur, Person, Charakter	e
 X	բնիկ	adj	gebürtig, einheimisch, indigen, eingeboren	e
 X	բնիմաստ	n	Etymon	e
@@ -31402,7 +31384,6 @@ X	գոյություն	n	Existenz, Dasein, Sein, Wesen, Geschöpf, Leben, Läbe,
 X	գոյություն ունենալ	v	bestehen, existieren	e
 X	գոնադ	n	Gonade, Geschlechtsdrüse, Keimdrüse	e
 X	գոնդոլ	n	Gondel, Seilbahn	e
-X	գոնե	part	mindestens, zumindest, wenigstens	e
 X	գոչ	n	Schrei	e
 X	գոչել	v	ausrufen, rufen, schreien, anschreien, zur Rede stellen, angehen	e
 X	գոչյուն	n	schreien, Ausruf, Exklamation, Schrei, Weinen	e
@@ -31484,7 +31465,7 @@ X	գունատ	adj	hell, blass, bleich	e
 X	գունդ	n	Kugel, Sphäre, Bereich, Ball (naut.), Ball, Regiment, Trupp, Truppe	e
 X	գուշակ	n	Seher, Seherin, Wahrsager, Hellseher, Hellseherin, Zeichen, Anzeichen, Sonderzeichen	e
 X	գուշակաբար	adv	Hellseher, Hellseherin, Wahrsager, Seher, Seherin	e
-X	գուշակել	v	weissagen, wahrsagen, vorhersagen, prophezeien, verstehen, begreifen, den Eindruck haben, besorgen	e
+X	գուշակել	v	weissagen, wahrsagen, vorhersagen, prophezeien, verstehen, begreifen, den Eindruck haben, vorgreifen	e
 X	գուշակողական	adj	Voraussage, Vorhersage, Prophezeiung, Wahrsagerei, Wahrsagen	e
 X	գուշակություն	n	Wahrsagen, Wahrsagerei, Voraussicht, Hellsichtigkeit, Weitsicht, Voraussage, Vorhersage, Prophezeiung	e
 X	գուշպ	n	Ritze, Sprung, Riss, Spalte, Spalt, Felsspalt	e
@@ -31577,7 +31558,6 @@ X	գրտնակ	n	Nudelholz, Nudelrolle, Nudelwalker	e
 X	գցել	v	werfen, schmeißen, wegwerfen, hinwerfen, schleudern, tropfen, tröpfeln, fallen	e
 X	Դ	num	vierter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 4 im System des armenischen Zahlensystems	w
 X	դ	num	vierter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 4 im System des armenischen Zahlensystems	w
-X	դա	n	jener, jene, jenes, er, sie, es	e
 X	դաբաղ	n	Gerber, Maul- und Klauenseuche, MKS, Aphthenseuche	e
 X	դաբաղանոց	n	Gerberei	e
 X	դաբաղխանա	n	Gerberei	e
@@ -31668,10 +31648,10 @@ X	դասակարգ	n	Klasse, Stil, Unterricht	e
 X	դասակարգել	v	einordnen, einstufen, unterteilen, kategorisieren	e
 X	դասավանդել	v	lehren, beibringen, unterrichten, Vorlesung halten	e
 X	դասավորել	v	arrangieren, systematisieren, aufstellen, organisieren	e
-X	դասարան	n	Klassenzimmer, Klassenraum, Note, Zensur, Grad, Gestalt, Form, Formular	e
+X	դասարան	n	Klassenzimmer, Klassenraum, Note, Zensur, Grad	e
 X	դասարանակից	n	Klassenkamerad, Klassenkameradin, Mitschüler	e
 X	դասդասել	v	einordnen, einstufen, unterteilen	e
-X	դասել	v	an einer Stelle stehen, rangieren, klassifizieren, sortieren	e
+X	դասել	v	an einer Stelle stehen, rangieren, klassifizieren	e
 X	դասընթաց	n	Kurs, Lehrgang, Gang	e
 X	դասընկեր	n	Klassenkamerad, Klassenkameradin, Mitschüler	e
 X	դաստակ	n	Handgelenk, Arm, Waffe, Bewaffnung, Griff, Stiel, Henkel, Türklopfer	e
@@ -31726,7 +31706,7 @@ X	դարթսի տախտակ	n	Dartscheibe	e
 X	դարձ	n	Rückkehr, Rückgabe, Bericht	e
 X	դարձգիր	n	Palindrom	e
 X	դարձյալ	adv	erneut, abermals, neuerlich, wieder, noch einmal, zurück	e
-X	դարձնել	v	machen, bauen, produzieren, konvertieren, umwandeln, sich wandeln in, sich verwandeln in, werden	e
+X	դարձնել	v	konvertieren, umwandeln, sich wandeln in, sich verwandeln in, werden, sich drehen, sich wenden, drehen	e
 X	դարձված	n	Redewendung f, Sprichwort n	w
 X	դարձվածաբանություն	n	Phraseologie, Phraseologismus	e
 X	դարձվածք	n	Redewendung f, Sprichwort n	w
@@ -31790,13 +31770,12 @@ X	դեմոկրատական	adj	demokratisch	e
 X	դեմոկրատիա	n	Demokratie, Volksherrschaft	e
 X	Դեմոկրիտ	name	Demokrit	e
 X	Դեմոսթենես	name	Demosthenes	e
-X	դեմք	n	Gesicht, Gesichtsausdruck, Ansehen, Person, Mensch, Körper, Individuum, Abbildung	e
+X	դեմք	n	Gesicht, Gesichtsausdruck, Ansehen, Individuum, Abbildung, Figur, Gestalt	e
 X	դեյրա	n	Rock, Weiberrock, Saum	e
 X	դեն	pron	fort, weg, fern	e
-X	դեպի	präp	zu, in Richtung, nach, in, dem, für, hinsichtlich, betreffend	e
+X	դեպի	präp	zu, in Richtung, nach	e
 X	դեպք	n	Vorfall, Begebenheit, Ereignis, Geschehnis, Vorgang, Bedingung, Kondition, Voraussetzung	e
 X	դեռ	adv	noch, doch, trotzdem	e
-X	դեռ ոչ	adv	noch nicht	e
 X	դեռևս	adv	noch, doch, trotzdem	e
 X	Դեսիդերիոս	name	Desiderius	e
 X	դեսպակ	n	Streu, Stroh, Sänfte, Palankin	e
@@ -31831,9 +31810,9 @@ X	դժգոհություն	n	Unzufriedenheit	e
 X	դժգույն	adj	hell, blass, bleich, farblos, ausgeblichen	e
 X	դժխեմ	adj	böse, übel, böswillig, grausam	e
 X	դժոխք	n	Hölle	e
-X	դժվար	adj	hart, fest, schwierig, schwer, anspruchsvoll, herausfordernd, mit Mühe, mühsam	e
+X	դժվար	adj	hart, fest, schwierig, schwer, anspruchsvoll, herausfordernd, kaum, rau	e
 X	դժվարամատույց	adj	unerreichbar, unnahbar, distanziert	e
-X	դժվարավ	adv	mit Mühe, mühsam, kaum, hart, rau	e
+X	դժվարավ	adv	kaum, hart, rau	e
 X	դի	n	Leiche, Leichnam, Laicha, Kadaver	e
 X	դիաբետ	n	Diabetes, Zuckerkrankheit, Zucker	e
 X	դիակ	n	Leiche, Leichnam, Laicha, Kadaver	e
@@ -31899,9 +31878,9 @@ X	դիվիդենտ	n	Dividend, Dividende	e
 X	դիտակ	n	Fernglas, Teleskop, Fernrohr, Feldstecher, Opernglas	e
 X	դիտանկյուն	n	Aussicht, Perspektive	e
 X	դիտանոց	n	Wachturm, Beobachtungsstand	e
-X	դիտավորյալ	adj	absichtlich, vorsätzlich, gedacht, mit Absicht	e
+X	դիտավորյալ	adj	absichtlich, vorsätzlich, gedacht, mit Absicht, beabsichtigt	e
 X	դիտել	v	ansehen, sehen, zusehen, beobachten, beachten, halten	e
-X	դիտմամբ	adv	mit Absicht, absichtlich, vorsätzlich	e
+X	դիտմամբ	adv	mit Absicht, absichtlich, vorsätzlich, beabsichtigt	e
 X	դիտողություն	n	Beobachtung, Bemerkung, Kommentar, Anmerkung, Forschung, Untersuchung, Forschungsarbeit, Studium	e
 X	դիտորդ	n	Beobachter, Beobachterin, Zuschauer	e
 X	դիտորդական	adj	Beobachter, Beobachterin, Zuschauer, Beobachtung, Bemerkung	e
@@ -31990,7 +31969,7 @@ X	դուրբին	n	Teleskop, Fernrohr, Fernglas, Feldstecher	e
 X	դուրգ	n	Töpferscheibe	e
 X	դուրգար	n	Zimmermann, Zimmerer, Zimmerin, Tischler, Schreiner, Bindeglied	e
 X	դուրեկան	adj	angenehm, süß, lecker, zuckerhaltig, nett, umgänglich, goldig, lieb	e
-X	դուրս	präp	Außenseite, jenseits, außer, vorbei, über, heraus, hinaus, draußen	e
+X	դուրս	präp	Außenseite, jenseits, außer, über, außerhalb, draußen, im Freien, an der frischen Luft	e
 X	Դուք	pron	euch, Euch, Sie	e
 X	դուք	pron	euch, Euch, Sie	e
 X	դուքան	n	Laden, Geschäft, Ladengeschäft, Werkstatt, Werkstätte, Workshop	e
@@ -32015,7 +31994,6 @@ X	դրամատուրգիական	adj	dramaturgisch	e
 X	դրամարկղ	n	Registrierkasse, Kasse, Ladenkasse	e
 X	դրանդի	n	Schwelle, Türschwelle, Landeschwelle, Eingangsstufe	e
 X	դրանիկ	n	Höfling, Schmeichler, Palast-, palastartig, Hof, Hofstaat, Gericht	e
-X	դրանք	pron	jene	e
 X	դրացի	n	Nachbar, Nachbarin, Nächster	e
 X	դրացիական	adj	nachbarlich	e
 X	դրափոխություն	n	Metathese	e
@@ -32061,7 +32039,6 @@ X	եզրակացություն	n	Schluss, Ende, Abschluss	e
 X	Եզրաս	name	Esra	e
 X	եզրափակել	v	beenden, schließen, zu Ende führen	e
 X	եզրափակիչ	adj	endgültig, End-, Schluss-, Abschlussprüfung, Finale, Endkampf	e
-X	եթե	konj	wenn, falls, wenn auch	e
 X	եթեր	n	Äther, Ether, Himmel, Luft, Arie	e
 X	եթերային	adj	ätherisch, himmlisch, Luft-, Himmels-	e
 X	եթերաշրջան	n	Jahreszeit, Saison, Staffel	e
@@ -32169,7 +32146,7 @@ X	եռանկյունաչափություն	n	Trigonometrie	e
 X	եռապատկեր	n	Triptychon	e
 X	եռացում	n	kochend, Schweißen	e
 X	եռիլիոն	num	Trillion, Quintillion, Quinquillion, Billion, Milliarde	e
-X	ես	pron	ich, Ich, Ego, Selbst	e
+X	ես	pron	Ich, Ego, Selbst	e
 X	ես քեզ կարոտում եմ	wend	ich vermisse dich, du fehlst mir	e
 X	ես քեզ կը սիրեմ	wend	ich mag dich, ich liebe dich, ich habe dich lieb	e
 X	ես քեզ սիրում եմ	wend	ich mag dich, ich liebe dich, ich habe dich lieb	e
@@ -32227,7 +32204,7 @@ X	երակ	n	Vene, Ader, Geäder, Blutgefäß, Vorfahren, Ahnen, Abstammung, Blu
 X	երամ	n	Schwarm, Schar, Herde, Flug, Treppenlauf, Treppenflucht, Sandbank, Schule	e
 X	երամակ	n	Herde, Schar, Pferdeherde, Hirt, Schwarm	e
 X	երանգ	n	Farbton, Schatten, Vorhang, Ton, Klang, Stimmung, Nuance	e
-X	երանի	interj	wenn auch, wenn doch nur, wenn bloß, Wunsch, Glück, Glücklichkeit, Fröhlichkeit, Freude	e
+X	երանի	interj	Wunsch, Glück, Glücklichkeit, Fröhlichkeit, Freude	e
 X	երաշխավորագիր	n	Empfehlungsschreiben	e
 X	երաշխավորել	v	garantieren, versichern	e
 X	երաշխավորում	n	Zusicherung, Versicherung, Zusage	e
@@ -32296,7 +32273,7 @@ X	երիտասարդ	adj	jung	w
 X	երիտասարդական	adj	jugendlich, jung, unreif	e
 X	երիտասարդություն	n	Jugend, Jugendlichkeit, Jugendzeit	e
 X	երիցուկ	n	Kamille, Echte Kamille, Römische Kamille	e
-X	երիցս	adv	dreimal, sehr, ganz, wahrlich, viel	e
+X	երիցս	adv	dreimal, viel	e
 X	Երիքով	name	Jericho	e
 X	երկ	n	Arbeit, Werk, Arbeiter, Wehen, Schrift, Schriftstück, Schreiben	e
 X	երկաթ	n	Eisen	w
@@ -32504,7 +32481,7 @@ X	զարմուհի	n	entfernter Verwandter, entfernte Verwandte, Cousin	e
 X	Զաքարիա	name	Secharja, Sacharja, Zacharias	e
 X	զաֆրան	n	Safran, Safranfarbe, Safrangelb	e
 X	զբաղեցնել	v	in Anspruch nehmen, belegen, bewohnen, beschäftigen, anstellen, angreifen	e
-X	զբաղվել	v	tun, ja, doch, behandeln, sich auseinandersetzen mit, sich kümmern um, pflegen, erledigen	e
+X	զբաղվել	v	behandeln, sich auseinandersetzen mit, sich kümmern um, pflegen, erledigen	e
 X	զբոսախնջույք	n	Picknick, Kinderspiel	e
 X	զբոսանավ	n	Yacht, Jacht	e
 X	զբոսանք	n	Spaziergang, Weg, Kantenzug, Bummel, Fahrt, Fahrgeschäft, Mitfahrgelegenheit	e
@@ -32548,9 +32525,9 @@ X	զենք	n	Arm, Waffe, Bewaffnung	e
 X	զեպտո-		zepto-	e
 X	զեռալ	v	kriechen, schleichen, krabbeln, wimmeln	e
 X	զեռուն	n	Kriechtier, Reptil, Wurm, Insekt, Kerbtier, Kerf	e
-X	զետեղել	v	stellen, platzieren, einordnen, setzen, legen	e
+X	զետեղել	v	setzen, stellen, legen, einsetzen, einfügen, einwerfen	e
 X	զետտա-		zetta-	e
-X	զերդ	konj	mögen, gern haben, gefallen, so ... wie	e
+X	զերդ	konj	mögen, gern haben, gefallen	e
 X	զերե	konj	seitdem, seit, weil, denn, da	e
 X	զերծ	adj	frei, ungezwungen, freimütig	e
 X	զերտևա	n	Baummarder	e
@@ -32614,7 +32591,6 @@ X	Զոնդյան նեղուց	name	Sundastraße	e
 X	զոնտիկ	n	Schirm, Regenschirm, Sonnenschirm	e
 X	զոոխորիա	n	Zoochorie	e
 X	զոռ	n	Kraft, Gewalt, Kräfte, Macht, Großmacht, Gewalttaten, Gewalttätigkeiten, hart	e
-X	զոռով	adv	mit Mühe, mühsam	e
 X	զով	adj	kühl, cool, kalt, frisch, frech	e
 X	զոր	n	Stärke, Kraft, Festigkeit, Ausdruckskraft, Energie, Leidenschaftlichkeit, gewaltig, mächtig	e
 X	զոր օրինակ	wend	beispielsweise, zum Beispiel	w
@@ -32715,7 +32691,7 @@ X	Էկվադոր	name	Ecuador n	w
 X	էկրան	n	Schirm, Paravent, Sichtschutz	e
 X	էկրանապատկեր	n	Screenshot, Bildschirmfoto, Bildschirmabzug	e
 X	էհմալ	n	Nachlässigkeit, Unachtsamkeit, Fahrlässigkeit	e
-X	էղնել	v	werden, sein, existieren, bestehen, geschehen, passieren, sich ereignen	e
+X	էղնել	v	bestehen, existieren, geschehen, passieren, sich ereignen	e
 X	էմբարգո	n	Embargo, Beschlagnahme, Ausfuhrsperre	e
 X	էմիգրանտ	n	Auswanderer, Auswanderin, Emigrant	e
 X	Էմիլ	name	Emil	e
@@ -32738,7 +32714,6 @@ X	էջ	n	Seite, frei, Blatt, Kathete, Abstieg, Runterweg, Weg nach unten	e
 X	էջանիշ	n	Lesezeichen, Bookmark	e
 X	էսկալատոր	n	Rolltreppe, Fahrtreppe	e
 X	էսկալացիա	n	Eskalation	e
-X	էսման	adv	so, sehr	e
 X	էսնաֆ	n	Handwerker, Handwerkerin, Facharbeiter, gelernter Arbeiter, Homosexueller, Homosexuelle	e
 X	էսպերանտո	n	Esperanto	e
 X	էսսե	n	Aufsatz, Essay	e
@@ -32774,8 +32749,7 @@ X	էօտ աղաճը	n	Adlerholz	e
 X	էֆենդի	n	Efendi, Effendi	e
 X	Ը	num	achter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 8 im System des armenischen Zahlensystems	w
 X	ը	num	achter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 8 im System des armenischen Zahlensystems	w
-X	ըդման	adv	so, sehr	e
-X	ըլել	v	geboren werden, zur Welt kommen, auf die Welt kommen, reifen, ausreifen, genießen, sich erfreuen an	e
+X	ըլել	v	reifen, ausreifen, genießen, sich erfreuen an	e
 X	ըղձալ	v	begehren, sich sehnen, verlangen	e
 X	ըղձական	n	Desiderativ m, Wunschform f	w
 X	ըղձական եղանակ	n	Konjunktiv, Möglichkeitsform, Subjunktiv	e
@@ -32790,7 +32764,7 @@ X	ըմպելիք	n	Getränk, Trinken, Trank	e
 X	ընդամենը	adv	ganz und gar, ohne Ausnahme, ausnahmslos, Gesamtbetrag, Gesamtsumme, Summe, einzig, einzigartig	e
 X	ընդարձակ	adj	umfangreich, umfassend, gesprächig, breit, weit, groß, großartig, schön	e
 X	ընդգծել	v	unterstreichen, hervorheben, beleuchten, markieren, beanspruchen, stressen, betonen	e
-X	ընդդեմ	präp	gegen, mit, wider, im Gegensatz zu, im Unterschied zu, gegenüber	e
+X	ընդդեմ	präp	gegen, mit, wider, gegenüber	e
 X	ընդդիմություն	n	Widerstand, Opposition	e
 X	ընդելուզել	v	auffädeln, einfädeln, passieren, durchkommen, Perle, Tropfen, Korn, schmücken	e
 X	ընդերք	n	Eingeweide, Tiefen, Innerstes	e
@@ -32798,7 +32772,7 @@ X	ընդլայնել	v	expandieren, vergrößern	e
 X	ընդլայնում	n	Expansion	e
 X	ընդհանուր	adj	allgemein, generell, Allgemein-, universell, gemeinsam, Gemein-, gemeinschaftlich, abstrakt	e
 X	ընդհանրական	adj	allgemein, generell, generisch, typisch	e
-X	ընդհանրապես	adv	im Allgemeinen, allgemein, gewöhnlich, immer, stets, ganz und gar, ohne Ausnahme, ausnahmslos	e
+X	ընդհանրապես	adv	allgemein, gewöhnlich, im Allgemeinen, immer, stets, ganz und gar, ohne Ausnahme, ausnahmslos	e
 X	ընդհատել	v	unterbrechen	e
 X	ընդմիշտ	adv	für immer, ewig, unaufhörlich	e
 X	ընդմիջում	n	Bruch, Öffnung, Spalt	e
@@ -32814,7 +32788,7 @@ X	ընդունված	n	anerkannt, akzeptiert	e
 X	ընդվզում	n	Aufstand, Aufruhr, Revolte	e
 X	ընդօրինակել	v	kopieren, nachmachen, nachahmen, imitieren	e
 X	ընթադրել	v	stempeln, freimachen, zerdrücken, zusammendrücken, trampeln, zertrampeln, herumtrampeln	e
-X	ընթածիր	n	Pfad, Weg, Spur, Fußspur, Fußsohle, Weise, Art	e
+X	ընթածիր	n	Pfad, Weg, Spur, Fußspur, Fußsohle	e
 X	ընթանալ	v	sich bewegen, umziehen, zügeln, gehen, dran sein, ziehen, reichen, weitergeben	e
 X	ընթացակարգ	n	Verfahren, Verfahrensweise, Prozess	e
 X	ընթացիկ	adj	gegenwärtig, aktuell, zeitnah, ständig, permanent, andauernd	e
@@ -32831,7 +32805,6 @@ X	ընծա	n	Angebot, Anerbieten, Opfer, Gegenwart, Jetzt, Jetztzeit	e
 X	ընկեր	n	Freund, Kumpel, Kamerad, Genosse, Genossin, Kollege, Gefährte, Gefährtin	e
 X	ընկերական	adj	freundlich	e
 X	ընկերակցել	v	begleiten, geleiten	e
-X	ընկերանալ	v	Freunde finden, sich anfreunden	e
 X	ընկերություն	n	Freundschaft, Gesellschaft, Firma, Unternehmen, Körperschaft, Korporation, Aktiengesellschaft	e
 X	ընկերուհի	n	Girlfriend, Freundin	e
 X	ընկերվարություն	n	Sozialismus	e
@@ -32842,7 +32815,7 @@ X	ընկճախտ	n	Depression, Senke, Abschwung	e
 X	ընկճել	v	entmutigen, abschrecken, abraten, zerdrücken, unterdrücken, auslöschen, beenden, demütigen	e
 X	ընկճվել	v	den Mut verlieren	e
 X	ընկնավորություն	n	Epilepsie, Fallsucht	e
-X	ընկնել	v	fallen, gheie, zufallen, zu, -en, tropfen, tröpfeln, werden	e
+X	ընկնել	v	fallen, gheie, zufallen, tropfen, tröpfeln, liegen, ligge, lügen	e
 X	ընկույզ	n	Walnuss, Walnussbaum, Nussbaum, Nuss, Mutter, Birne	e
 X	ընկույզկոտրիչ	n	Nussknacker, Tannenhäher	e
 X	ընձառյուծ	n	Leopard, Pard, Pardel	e
@@ -32862,7 +32835,6 @@ X	ընտրող	n	Wähler, Wählerin	e
 X	ընտրություն	n	Wahl, Auswahl, Anwahl	e
 X	ըստ	präp	laut, gemäß, zufolge	e
 X	ըստ էության	adv	im Wesentlichen, im Grunde, im Kern, im Prinzip	e
-X	ըստ իս	adv	ich bin der Meinung, meiner Meinung nach, meines Erachtens	e
 X	Թ	num	neunter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffer 9 im System des armenischen Zahlensystems	w
 X	թ	num	neunter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffer 9 im System des armenischen Zahlensystems	w
 X	թաբախ	n	Teller, Platte, Tafel, Schüssel, Gericht	e
@@ -32997,7 +32969,6 @@ X	թաքուն	adj	geheim, versteckt, verborgen, okkult, heimlich, insgeheim, ve
 X	թաքուստ	n	Versteck, Unterschlupf	e
 X	թաքցնել	v	verbergen, verdecken, verheimlichen	e
 X	Թբիլիսի	name	Tiflis, Tbilissi	e
-X	թե	konj	dass, sodass, damit, oder, wenn, falls, wenn auch, um zu	e
 X	Թեբե	name	Theben	e
 X	թեզ	n	These, Abschlussarbeit, Bachelorarbeit, bald, schnell, rasch, geschwind	e
 X	թեզան	n	Schussfaden	e
@@ -33012,7 +32983,7 @@ X	թելաթին	n	Juchten, Juchtenleder	e
 X	թելեֆոն	n	Telefon, Telephon, Fernsprecher	e
 X	թեկնածու	n	Kandidat, Kandidatin, Wahlbewerber	e
 X	թեկուզ	konj	obwohl, obgleich, obschon, trotzdem, selbst wenn, eben, gleichmäßig, gleich	e
-X	թեկուզև	konj	obwohl, obgleich, obschon, trotzdem, zum Beispiel, beispielsweise, zum Exempel, mindestens	e
+X	թեկուզև	konj	obwohl, obgleich, obschon, trotzdem, eben, gleichmäßig, gleich, selbst wenn	e
 X	Թեհրան	name	Teheran	e
 X	թեղի	n	Ulme	e
 X	թեղոշ	n	Kiefer, Föhre, Forche	e
@@ -33180,7 +33151,7 @@ X	Թուկիդիդես	name	Thukydides	e
 X	թուղթ	n	Papier, Dokument, Artikel, Buchstabe, Letter, Brief, Epistel, Apostelbrief	e
 X	թումբ	n	Böschung, Bahndamm, Dammschüttung, Graben, Deich, Gesteinsgang	e
 X	թույլ	adj	schwach, out, unschön	e
-X	թույլ տալ	v	erlauben, gestatten, eingestehen, genehmigen, zulassen, machen, bauen, produzieren	e
+X	թույլ տալ	v	erlauben, gestatten, eingestehen, genehmigen, zulassen, anvertrauen, (vertrauensvoll) übergeben, einsperren	e
 X	թույլատրել	v	erlauben, genehmigen, zulassen, autorisieren, berechtigen, befugen	e
 X	թույլտվություն	n	Erlaubnis, Gestattung, Genehmigung	e
 X	թույն	n	Gift, Giftstoff, Galle, kühl, cool, kalt, beängstigend, furchteinflößend	e
@@ -33276,11 +33247,10 @@ X	ժ	num	zehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 10 im 
 X	ժաժ	n	Bewegung, Satz, Erdbeben	e
 X	ժաժ տալ	v	sich bewegen, umziehen, zügeln, schütteln, erschüttern, händeschütteln, wichsen, sich einen runterholen	e
 X	ժահր	n	Gift, Giftstoff, Virus, virus, Computervirus	e
-X	ժամ	n	Stunde, Zeit, Uhr, Zit, Ziit, Armbanduhr, Wache, Gottesdienst	e
+X	ժամ	n	Stunde, Zeit, Uhr, Armbanduhr, Wache, Gottesdienst, Kirche, Chilche	e
 X	ժամագործ	n	Uhrmacher, Uhrmacherin	e
 X	ժամադրություն	n	Ernennung, Berufung, Termin, Treffen, Zusammenkunft, Versammlung	e
 X	ժամակահատված	n	Zeitraum, Periode, Epoche	e
-X	ժամային գոտի	n	Zeitzone	e
 X	ժաման	adj	schnell, geschwind, rasch, prompt	e
 X	ժամանակ	n	Zeit ; grammatische Form, in der der zeitliche Verlauf gekennzeichnet wird	w
 X	ժամանակագիր	n	Chronist	e
@@ -33298,7 +33268,6 @@ X	ժամացույց	n	Uhr, Armbanduhr, Wache, Ühra, Tacho	e
 X	ժամկետ	n	Klausel, Begriff, Bezeichnung, Zeitraum, Periode, Epoche	e
 X	ժամկոչ	n	Küster, Küsterin, Sigrist, Glöckner, Glöcknerin	e
 X	ժամհար	n	Glöckner, Glöcknerin	e
-X	ժամու	adv	rechtzeitig, mit der Zeit, im Takt, vor der Zeit, vorzeitig, früher als gedacht	e
 X	ժայթքել	v	ausbrechen, erbrechen, kotzen	e
 X	ժայթքում	n	Eruption, Ausbruch, Vulkanausbruch	e
 X	ժայռ	n	Klippe, Felsen, Fels, Gestein	e
@@ -33355,10 +33324,9 @@ X	ժպիրհ	adj	beleidigend, verletzend, schamlos, frech, respektlos	e
 X	ժպտալ	v	lächeln	e
 X	Ի	num	elfter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 20 im System des armenischen Zahlensystems	w
 X	ի	num	elfter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 20 im System des armenischen Zahlensystems	w
-X	ի դեպ	adv	apropos, nebenbei, übrigens	e
 X	ի վերջո	adv	schließlich, endlich, definitiv	e
-X	իբր	adv	so ... wie, mögen, gern haben, gefallen, als ob, als wenn, als, angeblich	e
-X	իբրև	präp	so ... wie, als, wie, nach	e
+X	իբր	adv	mögen, gern haben, gefallen, angeblich, vermutlich, voraussichtlich, ungefähr, etwa	e
+X	իբրև	präp	wie, nach	e
 X	իգական	adj	weiblich, feminin	e
 X	իդեալիզմ	n	Idealismus, Idealisierung	e
 X	իդիշ	n	jiddisch, judendeutsch, judenteutsch	e
@@ -33366,7 +33334,7 @@ X	իդո	n	Ido	e
 X	Իզմիր	name	Izmir	e
 X	իզոգլոս	n	Isoglosse	e
 X	իզոտոպ	n	Isotop	e
-X	իզուր	adv	vergebens, vergeblich, umsonst, für umsonst, für nichts, ziellos	e
+X	իզուր	adv	ziellos	e
 X	Իթակե	name	Ithaka	e
 X	իժ	n	Kreuzotter, Otter, Viper, grausam	e
 X	Իժևսկ	name	Ischewsk, Ishewsk	e
@@ -33376,12 +33344,10 @@ X	Իլիոն	name	Ilion	e
 X	Իլլիրիա	name	Illyrien	e
 X	իլլիրիական	adj	illyrisch	e
 X	իծաշարուկ	n	Bockspringen	e
-X	իհարկե	adv	natürlich, sicher, selbstverständlich, sicherlich, zweifellos, gewiss	e
+X	իհարկե	adv	sicherlich, zweifellos, gewiss, sicher, stichhaltig, hieb- und stichfest	e
 X	իղձ	n	Begehren, Wunsch	e
 X	իղրար	n	Versprechen, Bekenntnis, Eingeständnis, Geständnis, Zulassung, Aufnahme, Einlass	e
 X	իմ	pron	mein	e
-X	իմ կարծիքով	adv	ich bin der Meinung, meiner Meinung nach, meines Erachtens	e
-X	իմա	part	das heißt	e
 X	իմանալ	v	wissen, wüsse, wissn, lernen, studieren, erfahren, herausfinden, erkennen	e
 X	իմաստ	n	Sinn, Gefühl, Versand, Bedeutung, vorgeben, unterstellen, beabsichtigen, Punkt	e
 X	իմաստաբանություն	n	Bedeutungslehre, Semantik	e
@@ -33392,7 +33358,7 @@ X	իմացաբանություն	n	Erkenntnistheorie, Epistemologie	e
 X	Իմերեթ	name	Imeretien	e
 X	իմը	pron	mein, meins	e
 X	իմիջ	n	Außenwirkung	e
-X	իմիջիայլոց	adv	apropos, nebenbei, übrigens, zufällig, zufälligerweise	e
+X	իմիջիայլոց	adv	nebenbei, zufällig, zufälligerweise	e
 X	իմունային համակարգ	n	Immunsystem	e
 X	իմունիտետ	n	Immunität, Freistellung	e
 X	իմպերիալիզմ	n	Imperialismus	e
@@ -33417,12 +33383,10 @@ X	ինձ	pron	mich, mir, ich, Panther, Panter	e
 X	իննանկյուն	n	Nonagon, Neuneck	e
 X	իններորդ	num	neunte, neuntens	e
 X	իննսուն	num	neunzig	e
-X	ինչ	pron	was, waas, der, etwas, klein, Etwas, irgendetwas, irgendwas	e
+X	ինչ	pron	was, waas, der, alles, einige, manch, welche, was auch immer	e
 X	ինչ-որ	pron	einige, manche, ein paar	e
-X	ինչ-որ բան	pron	etwas, klein, Etwas	e
-X	ինչ-որ մեկը	pron	jemand, einer	e
 X	ինչու	pron	warum, wieso, weshalb	e
-X	ինչպես	pron	wie, mögen, gern haben, gefallen, so ... wie	e
+X	ինչպես	pron	wie, mögen, gern haben, gefallen	e
 X	ինչպիսի	pron	was, waas, der, was für, welcher	e
 X	ինչք	n	Eigentum, Besitz, Anwesen	e
 X	ինչքան	pron	wie viel, wieviel kostet das?	e
@@ -33438,7 +33402,7 @@ X	ինտերնետային	adj	Netz, Internet	e
 X	ինտերսեքս	adj	intersexuell, intergeschlechtlich	e
 X	ինքը	pron	er, sie, es	e
 X	ինքնագիր	n	Autogramm, Unterschrift, eigenhändige Niederschrift des Verfassers	e
-X	ինքնագլուխ	adj	eigensinnig, eigenwillig, unabhängig, selbständig, autokephal, selbst, selbstständig, alleine	e
+X	ինքնագլուխ	adj	eigensinnig, eigenwillig, unabhängig, selbständig, autokephal	e
 X	ինքնագնահատական	n	Selbstwertgefühl, Selbstachtung, Selbstwertschätzung	e
 X	ինքնադիմանկար	n	Selbstbildnis, Selbstporträt	e
 X	ինքնաթափ	n	Kipper, Muldenkipper	e
@@ -33461,7 +33425,6 @@ X	ինքնավար	adj	autonom	e
 X	ինքնավարություն	n	Autonomie	e
 X	ինքնավստահ	adj	selbstsicher, selbstbewusst	e
 X	ինքնատիրապետում	n	Selbstbeherrschung, Selbstkontrolle, Gelassenheit, Fassung, Haltung	e
-X	ինքնըստինքյան	adv	selbst, selbstständig, alleine	e
 X	ինքնիշխանություն	n	Autokratie, Alleinherrschaft, Souveränität, höchste Gewalt, Oberherrschaft	e
 X	ինքնյակ	adj	spontan, natürlich, naturwüchsig, naturfarben	e
 X	ինքնություն	n	Identität, Gleichheit, Übereinstimmung, Selbst, Eigenheit, Singularität, Autonomie, Unabhängigkeit	e
@@ -33501,7 +33464,7 @@ X	իսլամական	adj	islamisch	e
 X	իսլամացում	n	Islamisierung	e
 X	իսլանդերեն	n	Isländisch, isländisch	e
 X	Իսլանդիա	name	Island n	w
-X	իսկ	konj	während, solange, obwohl, und, sowie, aber, aber trotzdem, sondern	e
+X	իսկ	konj	während, solange, obwohl, eben, gleichmäßig, gleich, präzise, genau	e
 X	իսկական	adj	wahr, wirklich, echt, richtig	e
 X	իսկապես	adv	in der Tat, eigentlich, tatsächlich, in Wirklichkeit	e
 X	իսկույն	adv	sofort, unverzüglich, umgehend, alsbald	e
@@ -33521,7 +33484,7 @@ X	իտալերեն	n	Italiener, Italienerin, italienisch, italienischsprachig, i
 X	Իտալիա	name	Italien n	w
 X	իտերբիում	n	Chemie: Ytterbium	w
 X	իտրիում	n	Yttrium	w
-X	իր	n	Ding, Sache, Gegenstand, Güter, Ware, Sachen, Kram, Zeug	e
+X	իր	n	Güter, Ware, Sachen, Kram, Zeug	e
 X	իրագործել	v	vollziehen, durchführen, erfüllen	e
 X	իրադարձություն	n	Ereignis, Geschehnis, Vorgang, Vorfall, Vorkommnis, Vorkommen	e
 X	իրադարձությունների հորիզոն	n	Ereignishorizont	e
@@ -33543,12 +33506,12 @@ X	իրավ	adv	wirklich, wahrhaft, ehrlich, gerecht, vernünftig, halbwegs, eini
 X	իրավաբան	n	Rechtsanwalt, Rechtsanwältin, Anwalt, Jurist, Juristin	e
 X	իրավախոհություն	n	Rechtschaffenheit, Gerechtigkeit, Tugendhaftigkeit, Redlichkeit, Aufrichtigkeit, Ehrenhaftigkeit, Kompromiss, Ausgleich	e
 X	իրավական	adj	juristisch, rechtlich, legal	e
-X	իրավամբ	adv	gerecht, zu Recht, rechtens, verdientermaßen	e
+X	իրավամբ	adv	gerecht	e
 X	իրավիճակ	n	Situation, Lage, Ort	e
 X	իրավունք	n	Recht, Rechte	e
 X	իրատես	n	Realist, Realistin	e
 X	իրատեսություն	n	Realismus	e
-X	իրար	pron	einander, gegenseitig, aufeinander	e
+X	իրար	pron	einander	e
 X	իրարանցում	n	Hast, Hektik, Hetze, Turnüre, Aufregung, Spektakel, Theater, Störung	e
 X	Իրաք	name	Irak m	w
 X	իրիդիում	n	Iridium	w
@@ -33730,7 +33693,7 @@ X	լիմոնադ	n	Limonade, Zitrone, Brause	e
 X	լիմուզին	n	Limousine, Stretchlimousine	e
 X	Լիմպոպո	name	Botsuana	e
 X	լինդ	n	Zahnfleisch, Kautschuk, Kaugummi	e
-X	լինել	v	werden, sein, existieren, bestehen, geschehen, passieren, sich ereignen	e
+X	լինել	v	bestehen, existieren, geschehen, passieren, sich ereignen	e
 X	Լինց	name	Linz	e
 X	Լիոն	name	Lyon	e
 X	լիով	adv	völlig, vollständig, ganz, reichlich	e
@@ -33786,7 +33749,7 @@ X	Լոթարինգիա	name	Lothringen	e
 X	լոժբան	n	Lojban	e
 X	լոլիկ	n	Tomate f	w
 X	լոխ	n	Einfaltspinsel, Simpel, Naivling, Puppe, lebensgroße Puppe, Dummy	e
-X	լոխ լավ ա	wend	Keine Sorge, sich entspannen, nimm's leicht, nur keine Hektik	e
+X	լոխ լավ ա	wend	sich entspannen, nimm's leicht, nur keine Hektik	e
 X	լոխում	n	Lokum	e
 X	լոկ	adv	nur, lediglich, allein, einfach, bloß, einzig, einzigartig, geschwisterlos	e
 X	լոկացիա	n	Lage, Ort, Platz, Standort, Webseite, Website	e
@@ -33884,8 +33847,7 @@ X	լուփ	n	Handfläche, Handteller	e
 X	լոքշ	adj	langweilig, Langeweile, Untätigkeit, Stillstand, Müßiggang	e
 X	լոքո	n	Wels, Katzenwels	e
 X	լպստել	v	lecken, schlagen, besiegen	e
-X	լռել	v	schweigen, still sein	e
-X	լռելյայն	adv	still, standardmäßig, vorgabemäßig, Fristversäumnis, Säumnis, Zahlungseinstellung	e
+X	լռելյայն	adv	still, Fristversäumnis, Säumnis, Zahlungseinstellung	e
 X	լռին	adj	still, schweigen, schweigsam	e
 X	լռության րոպե	n	Moment der Stille, Schweigeminute, Gedenkminute	e
 X	լռություն	n	Stille, Schweigen	e
@@ -34087,7 +34049,7 @@ X	խիղճ	n	Gewissen	e
 X	խին	n	Milchfett	e
 X	խինդ	n	Freude, Fröhlichkeit, Belustigung	e
 X	խիշտ	n	Lanze, Harpune, Lanzer, Speer, Bajonett	e
-X	խիստ	adj	streng, stringent, schlicht, genügsam, hart, bitter, sehr, ganz	e
+X	խիստ	adj	streng, stringent, schlicht, genügsam, hart, bitter, stark	e
 X	խիտ	adj	dicht, dick, plump, kompakt	e
 X	խիրուրգ	n	Chirurg, Operateur, Wundarzt	e
 X	խլեզ	n	Eidechse, Echse, Nacktschnecke, Schnecke	e
@@ -34108,7 +34070,7 @@ X	խմբակ	n	Kreis, Zirkel, Augenringe, Klub, Verein, Keule, Fraktion, Flügel
 X	խմբակցություն	n	Fraktion, Flügel, Seite, Gruppe, Musikgruppe, Geschwader	e
 X	խմբավար	n	Dirigent, Dirigentin, Schaffner	e
 X	խմբաքանակ	n	Menge, Los, Charge, Liefermenge, Stapel, Partie	e
-X	խմել	v	trinken, saufen, trinke, sich betrinken, abfüllen, schlucken, verschlucken, akzeptieren	e
+X	խմել	v	trinken, saufen, trinke, schlucken, verschlucken, akzeptieren	e
 X	խմիչք	n	Getränk, Trinken, Trank	e
 X	խմոր	n	Teig, Knete, Kohle	e
 X	խմորիչ	adj	Hefe, Hefepilz, Bärme	e
@@ -34128,7 +34090,7 @@ X	խնդրահարույց	adj	problematisch, problembehaftet, heikel	e
 X	խնդրանք	n	Bitte, Nachfrage, Wunsch, Petition, Eingabe, Flehen, Anflehen, Anflehung	e
 X	խնդրառություն	n	Regierung, Rektion	e
 X	խնդրել	v	anfordern, erwünschen, verlangen nach, fragen, stellen, bitten, einladen, verlangen	e
-X	խնդրեմ	part	gefallen, rechtmachen, belieben, bitte, gern geschehen, keine Ursache, nichts zu danken, kein Problem	e
+X	խնդրեմ	part	gefallen, rechtmachen, belieben, bitte, gern geschehen, keine Ursache, nichts zu danken	e
 X	խնդրություն	n	Suche, Nachfrage, Bedarf, Anspruch	e
 X	խնծիղ	n	Freude, Fröhlichkeit, Belustigung, Festlichkeit, Lustbarkeit, Prasserei	e
 X	խնկել	v	empören, erzürnen, aufbringen, diffundieren, zerstreuen, sich zerstreuen, verbreiten, verteilen	e
@@ -34292,7 +34254,7 @@ X	խռիվ	n	Reisig, Gestrüpp, zerzaust, verstrubbelt, strubbelig, unordentlich
 X	խռմփալ	v	schnarchen	e
 X	խռմփացնել	v	schnarchen	e
 X	խռմփոց	n	Schnarchen	e
-X	խռով	adj	empört, verärgert, ärgert, umstritten, gestört, besorgt, auf Kriegsfuß, in den Haaren	e
+X	խռով	adj	empört, verärgert, ärgert, umstritten, gestört, besorgt	e
 X	խռովահույզ	adj	exaltiert, tumultuarisch	e
 X	խռովարար	n	Störenfried, Querulant, Unruhestifter	e
 X	խռովել	v	sich streiten, streiten, sich zanken, entfachen	e
@@ -34301,7 +34263,7 @@ X	խռպոտ	adj	heiser, rau, krakeelig, lärmend	e
 X	խռռացնել	v	schnarchen	e
 X	ԽՍՀՄ	name	UdSSR	w
 X	խստիվ	adv	streng	e
-X	խստորեն	adv	streng, sehr, ganz, wahrlich, stark	e
+X	խստորեն	adv	streng, stark	e
 X	խտասալիկ	n	CD, Kompaktplatte	e
 X	խտղտացնել	v	kitzeln	e
 X	խտղտել	v	kitzeln	e
@@ -34355,7 +34317,7 @@ X	ծախել	v	verkaufen, vertreiben, sich verkaufen, verraten, im Stich lassen,
 X	ծախիչ	adj	destruktiv, schädlich, zerstörend	e
 X	ծախծխել	v	ausverkaufen	e
 X	ծախող	adj	Verkaufen, Verkäufe, Verkaufstalent, Verkäufer, Verkäuferin	e
-X	ծախու	adj	zu verkaufen, käuflich, zum Verkauf, geldgierig, gewinnsüchtig, erwerbbar, feilgeboten	e
+X	ծախու	adj	geldgierig, gewinnsüchtig, käuflich, erwerbbar, feilgeboten	e
 X	ծախում	n	kaufen, Verkaufen, Verkäufe, Verkaufstalent	e
 X	ծախս	n	Kosten, Verlust, Ausgaben, Ausgabe, Aufwand, Aufwendungen, Preis, Wert	e
 X	ծախսագրել	v	eintragen, protokollieren, aufzeichnen, reingehen, hineingehen, hereingehen	e
@@ -34403,7 +34365,7 @@ X	ծանակ	n	Ungnade, Schande, Schmach	e
 X	ծանծաղ	adj	flach, seicht, untief	e
 X	ծանծաղուտ	n	Furt, Fjord, Ford, Sandbank, flach, seicht, untief	e
 X	ծանոթ	adj	bekannt, Bekanntschaft, Umgang, Bekannter, Freund, Kumpel, Kamerad	e
-X	ծանոթանալ	v	kennenlernen, treffen, begegnen, kennen lernen	e
+X	ծանոթանալ	v	treffen, begegnen, kennen lernen	e
 X	ծանոթացնել	v	vertraut machen, in Kenntnis setzen, mitteilen, sich bekanntmachen, vorstellen, bekannt machen, einführen	e
 X	ծանոթություն	n	Treffen, Zusammenkunft, Versammlung, Einführung, Vorstellung, Bekanntschaft, Umgang, Bekannter	e
 X	ծանուցել	v	mitteilen, benachrichtigen, informieren	e
@@ -34508,7 +34470,7 @@ X	ծննդավայր	n	Geburtsort	e
 X	ծնող	n	Elternteil, Elter, Eltern	e
 X	ծնոտ	n	Kiefer, Unterkiefer, Oberkiefer	e
 X	ծնունդ	n	Geburt, Abstammung, Lieferung, Entbindung, Neugeborenes, Neugeborener, Neugeborene, Ursprung	e
-X	ծնվել	v	geboren werden, zur Welt kommen, auf die Welt kommen, entstehen, sich erheben, aufstehen, passieren, vorkommen	e
+X	ծնվել	v	entstehen, sich erheben, aufstehen, passieren, vorkommen, stattfinden, kommen, choo	e
 X	ծոծրակ	n	Hinterkopf	e
 X	ծոմ	n	fest, befestigt, verankert, Fasten, Fastenzeit	e
 X	ծով	n	Meer, See, Weltmeer, Ozean	e
@@ -34583,7 +34545,7 @@ X	կազմակերպված	adj	ordentlich	e
 X	կազմակերպված հանցավորություն	n	organisiertes Verbrechen, organisierte Kriminalität	e
 X	կազմավորել	v	organisieren, kreieren, erschaffen, schaffen, gründen, errichten	e
 X	կազմավորում	n	Organisation, Ordnung, Erfindung, Werk, Kreation, Gründung, Gründen, Stiftung	e
-X	կազմել	v	zusammenstellen, zusammensetzen, komponieren, formen, bilden, gestalten, binden, fesseln	e
+X	կազմել	v	zusammenstellen, zusammensetzen, komponieren, zusammenfügen, binden, fesseln, verbinden	e
 X	կազմություն	n	Struktur, Datenstruktur, Anfertigen, Anfertigung, Fabrikation, Bildung, Zusammenstellung, Zusammensetzung	e
 X	կաթ	n	Milch	e
 X	կաթել	v	tropfen, lecken, nieseln	e
@@ -34653,7 +34615,7 @@ X	կաղալ	v	hinken, humpeln, lahmen	e
 X	կաղաղ	n	Höhle, Bau, Wohnzimmer, unreif	e
 X	կաղամար	n	Tintenfass, Kalmar, Tintenfisch	e
 X	կաղամբ	n	Kopfkohl, Kohl	e
-X	կաղապար	n	Gestalt, Form, Formular, Leisten, Vorlage, Schablone, Muster, Modell	e
+X	կաղապար	n	Leisten, Vorlage, Schablone, Muster, Modell	e
 X	կաղին	n	Eichel, Haselnuss, Eiche, Eichenbaum, Eichbaum	e
 X	կաղկանձ	n	kreischen, Jaulen, Heulen, Jammern, Schläger, Racket, Lärm, Geräusch	e
 X	կաղկանձել	v	kreischen	e
@@ -34661,7 +34623,7 @@ X	կաղնի	n	großer Laubbaum mit hartem Holz; Eiche	w
 X	կաղնու փայտանյութ	wend	Eiche f ; Eichenholz n	w
 X	կաղնուտ	n	Eichenwald, Eichenhain, Eichwald	e
 X	կաճառ	n	Akademie, akademische Einrichtung	e
-X	կամ	konj	oder, Dreschschlitten, Dreschwalze	e
+X	կամ	konj	Dreschschlitten, Dreschwalze	e
 X	Կամա	name	Kama	e
 X	կամակոր	adj	stur, dickköpfig, hartnäckig, starrköpfig	e
 X	կամավ	adv	freiwillig, gern, gerne	e
@@ -34791,7 +34753,7 @@ X	կառափ	n	Schädel, Kranium, Totenkopf, Hirnschädel, Hirnschale, Kopf, Hau
 X	կառափնատ	n	Guillotine, Fallbeil, Papierschneider	e
 X	կառափնատել	v	enthaupten, köpfen	e
 X	Կառնատակա	name	Karnataka	e
-X	կառոչի	adv	mit anderen Worten, anders gesagt, kurz gesagt, kurz und gut, lange Rede, kurzer Sinn	e
+X	կառոչի	adv	kurz gesagt, kurz und gut, lange Rede, kurzer Sinn	e
 X	կառույց	n	Struktur, Datenstruktur, Bau, Bauen, Gebäude	e
 X	կառուցակարգային	adj	institutionell	e
 X	կառուցել	v	bauen, konstruieren	e
@@ -34838,7 +34800,7 @@ X	կատաղություն	n	Wut, Furie, Zorn, Raserei, Wahn, Rausch, Tollwut	e
 X	կատաստրոֆա	n	Katastrophe, Unglück, Unheil, Desaster	e
 X	Կատար	name	Katar	e
 X	կատար	n	Oberteil, Spitze, Gipfel, Gipfeltreffen, Höchststand, Maximum, Kamm, Haube	e
-X	կատարել	v	tun, ja, doch, durchführen, ausführen, verrichten, beenden, fertigstellen	e
+X	կատարել	v	durchführen, ausführen, verrichten, hinrichten, exekutieren, beenden, fertigstellen, fertigmachen	e
 X	կատարելագործել	v	verbessern, sich verbessern, vollenden, perfektionieren, vervollkommnen	e
 X	կատարելագործություն	n	Vollkommenheit, Perfektion	e
 X	կատարելի ներկա	wend	Futur	w
@@ -34855,10 +34817,10 @@ X	կար	n	Saum, Naht, Flöz, Nähen, Kraft, Gewalt, Kräfte, Ausdruckskraft	e
 X	կարագ	n	Butter	w
 X	կարագաման	n	Butterdose	e
 X	Կարակաս	name	Caracas	e
-X	կարամ	v	können, chöne, dürfen, vermögen, in der Lage sein	e
+X	կարամ	v	können, chöne, dürfen	e
 X	կարամել	n	Karamell, Caramel, Karamelle	e
 X	Կարայի ծով	name	Karasee	e
-X	կարանալ	v	können, chöne, dürfen, vermögen, in der Lage sein	e
+X	կարանալ	v	können, chöne, dürfen	e
 X	կարանտին	n	Quarantäne	e
 X	կարաոկե	n	Karaoke	e
 X	կարապ	n	Schwan, Schwänin	e
@@ -34930,8 +34892,8 @@ X	կարճաժամկետ	adj	kurzfristig, kurzzeitig	e
 X	կարճահասակ	adj	kurz, klein, kurz (für)	e
 X	կարճամետրաժ	adj	kurz, klein, kurz (für)	e
 X	կարճամետրաժ ֆիլմ	n	Kurzfilm	e
-X	կարճառոտ	adj	kurz, klein, kurz (für), prägnant, kompakt, bündig, knapp, kurzum	e
-X	կարճառոտաբար	adv	kurz, kurzum	e
+X	կարճառոտ	adj	kurz, klein, kurz (für), prägnant, kompakt, bündig, knapp	e
+X	կարճառոտաբար	adv	kurz	e
 X	կարճատեսություն	n	Kurzsichtigkeit, Myopie	e
 X	կարմիր	adj,n	rot ; Rot n	w
 X	Կարմիր բանակ	name	Rote Armee	e
@@ -34949,7 +34911,7 @@ X	կարմրուկ	n	Masern	e
 X	Կարո	name	winzig, diminutiv, verkleinernd	e
 X	Կարոլինյան կղզիներ	name	Karolinen	e
 X	կարող	adj	fähig, kompetent, zuständig, imstande, tüchtig, mächtig, kräftig, kraftvoll	e
-X	կարողանալ	v	können, vermögen, in der Lage sein, chöne, dürfen	e
+X	կարողանալ	v	können, chöne, dürfen	e
 X	կարոս	n	Petersil, Petersilie, Petersilienkraut, Sellerie, Staudensellerie, Stangensellerie	e
 X	կարոտ	adj	arm, armselig, bedürftig, mittellos, Sehnsucht, Sehnen, Verlangen, großes Verlangen	e
 X	կարոտաբաղձություն	n	Nostalgie, Wehmut	e
@@ -35039,7 +35001,7 @@ X	կենտրոնանալ	v	zenterieren, ansammeln, zentrieren, konvergieren, zus
 X	կենտրոնավոր	adj	zentral, mittig	e
 X	կենտրոնացնել	v	zentralisieren	w
 X	կենտրոնաւորել	v	zentrieren	w
-X	կենցաղ	n	Lebensweise, Lebensstil, Lebensart, Alltag, Alltagsleben	e
+X	կենցաղ	n	Alltag, Alltagsleben	e
 X	կեշտ	n	Ableben, Hinscheiden, Passieren, Passus, Passage	e
 X	կեչի	n	Birke f	w
 X	կեչուա	n	Quechua	e
@@ -35047,7 +35009,7 @@ X	կեպկա	n	weich, leise, sanft	e
 X	կեռ	adj	gebogen, krumm, schief, bogenförmig, Haken, Hookline, Gauner, Ganove	e
 X	կեռնեխ	n	Drossel, Soor, Soormykose	e
 X	Կեռնեխանման Եղեգնաթռչնակ	wend	Drosselrohrsänger m	w
-X	կես	n	Hälfte, Teil, Rolle, Scheitel, Zeit, Zit, Ziit	e
+X	կես	n	Hälfte, Teil, Rolle, Scheitel	e
 X	կես լինել	v	Hälfte	e
 X	Կեսարիա	name	Caesarea	e
 X	կեսգիշեր	n	Mitternacht	e
@@ -35066,9 +35028,9 @@ X	կերակրափող	n	Speiseröhre, Ösophagus	e
 X	կերակրել	v	ernähren, füttern, fressen, nähren, aufziehen, stillen, die Brust geben, pflegen	e
 X	կերոսին	n	Petroleum, Kerosin	e
 X	Կերչ	name	Kertsch	e
-X	կերպ	n	Art und Weise, Methode, Verfahren, Weg, Weise, Art, Zustand, Form	e
+X	կերպ	n	Art und Weise, Methode, Verfahren, Art, Modus, Betriebsart, Zustand, Form	e
 X	կերպար	n	Bild, Abbild, Image, Figur, Person, Charakter	e
-X	կերպարանք	n	Erscheinen, Auftritt, Aussehen, Zustand, Form, Gestalt, Person, Mensch	e
+X	կերպարանք	n	Erscheinen, Auftritt, Aussehen, Zustand, Form, Gestalt, Individuum, Wesen	e
 X	կերտել	v	bauen, konstruieren, kreieren, erschaffen, schaffen, produzieren, herstellen, vorlegen	e
 X	կերցավ	n	Gangrän, Wundbrand, Brand	e
 X	կերցնել	v	ernähren, füttern, fressen	e
@@ -35141,7 +35103,7 @@ X	կիրակի	n	Siebter Wochentag im Kalender (nach christlich/jüdischer Zähl
 X	կիրառական	adj	angewandt	e
 X	կիրառել	v	auftragen, auflegen, anwenden, einstellen, anstellen, anwerben, auferlegen, aufzwingen	e
 X	կիրառում	n	Anwendung, Applikation, App, Benutzung, Gebrauch	e
-X	կիրառվել	v	berufstätig, gebraucht, Second-Hand, vorliegend	e
+X	կիրառվել	v	berufstätig, vorliegend	e
 X	կիրարկել	v	auftragen, auflegen, anwenden, einstellen, anstellen, anwerben	e
 X	կիրթ	adj	gebildet, ausgebildet, kultiviert	e
 X	կիրճ	n	Bergpass, Engpass, Hohlweg, Gurgel, Kehle, Speiseröhre, Schlucht, Klamm	e
@@ -35184,7 +35146,7 @@ X	կճատ	adj	kurz, klein, kurz (für), teilweise, partiell, parteiisch, stupsn
 X	կճել	v	stechen, beißen	e
 X	կճղակ	n	Huf	e
 X	կմախք	n	Skelett, Gerippe, Haut und Knochen	e
-X	կյանք	n	Leben, Läbe, lebenslänglich, Lebensweise, Lebensstil, Lebensart, Lebenswandel, Nahrung	e
+X	կյանք	n	Leben, Läbe, lebenslänglich, Lebensstil, Lebensweise, Lebenswandel, Nahrung, Verpflegung	e
 X	Կյուսյու	name	Kyūshū	e
 X	Կյուրեղյան	name	Nachname, Familienname	e
 X	կյուրիում	n	Curium	w
@@ -35315,7 +35277,6 @@ X	կոչել	v	nennen, taufen, bezeichnen, rufen, anrufen, herbeirufen	e
 X	կոչեցյալ	adj	sogenannt, sog.	e
 X	կոչում	n	Reihe, Rang, Dienstgrad, Titel, Eigentumsrecht, Eigentumsnachweis, Berufung, Beruf	e
 X	կոչունք	n	Einladung, Einladen, Festmahl, Festessen, Gastmahl, Bankett	e
-X	կոչվել	v	heißen, sich nennen	e
 X	կոպ	n	Augenlid, Lid	e
 X	կոպալ	n	Klub, Verein, Keule, Trommelstock, Schlegel, Hähnchenkeule, Cannabis, Hanf	e
 X	Կոպելյան	name	Nachname, Familienname	e
@@ -35384,7 +35345,7 @@ X	կորոնավիրուս	n	Coronavirus	e
 X	կորուսանել	v	verlieren, abnehmen, loswerden	e
 X	կորուսյալ	adj	verirrt, verloren, umher irrend	e
 X	կորուստ	n	Verlust, Niederlage, Verschwinden, Zerstörung, Vernichtung, Ruine, Ruin, Tod	e
-X	կորչել	v	sich verirren, sich verlaufen, verloren gehen, verschwinden, entschwinden, zum Verschwinden bringen	e
+X	կորչել	v	verschwinden, entschwinden, zum Verschwinden bringen, vergehen, (sich) verflüchtigen	e
 X	կորպուս	n	Korps, Bau, Bauen, Gebäude	e
 X	Կորսիկա	name	Korsika	e
 X	կորսիկերեն	n	Korse, Korsin, korsisch	e
@@ -35635,7 +35596,7 @@ X	հակիրճ	adj	kurz, prägnant, knapp, klein, kurz (für), bündig, bald	e
 X	Հակոբ	name	Jakob	e
 X	հակոբիկ	n	Jakobite, Jakobitin	e
 X	հակվել	v	sich lehnen, lehnen, anlehnen, sich bücken	e
-X	հաղագս	präp	zu, nach, für, wegen, vor, um... (herum), über, bereit zu	e
+X	հաղագս	präp	wegen, vor	e
 X	հաղարջ	n	Die Johannisbeerpflanze oder der Johannisbeerstrauch ; Die Frucht des Johannisbeerstrauchs; Johannisbeere	w
 X	հաղարջենի	n	Korinthe, Johannisbeere, Ribisel	e
 X	հաղբ	n	Schlinge, Falle, Falltür, Fallgrube	e
@@ -35672,7 +35633,7 @@ X	հաճո	adj	angenehm, nett, umgänglich	e
 X	հաճոյախոսել	v	beglückwünschen, ein Kompliment machen, loben	e
 X	հաճություն	n	Verträglichkeit, Verbindlichkeit, Vereinbarung, Zustimmung, Einigkeit, Befriedigung, Zufriedenheit, Satisfaktion	e
 X	հաճույք	n	Vergnügen, Genuss, Freude	e
-X	համ	n	Geschmack, Schmecken, Aroma, und, sowie, sowohl ... als auch	e
+X	համ	n	Geschmack, Schmecken, Aroma, sowohl ... als auch	e
 X	համ-		selbe, derselbe, gleich, homo-, kon-, mit-, ko-, ganz	e
 X	Համա	name	Hama	e
 X	համագործակցել	v	zusammenarbeiten, kooperieren, harmonieren, kollaborieren, mit dem Feind zusammenarbeiten	e
@@ -35705,7 +35666,7 @@ X	համակրանք	n	Mitleid, Mitgefühl, Empathie, Geschmack, Interesse, Neig
 X	համակրել	v	mögen, gern haben, gefallen	e
 X	համակրելի	adj	angenehm, freundlich, sympathisch, lieb	e
 X	համահիմնադիր	n	Mitgründer, Mitgründerin	e
-X	համաձայն	adj	einig, laut, gemäß, zufolge, in Übereinstimmung mit	e
+X	համաձայն	adj	laut, gemäß, zufolge	e
 X	համաձայնել	v	annehmen, abnehmen, akzeptieren, zur Kenntnis nehmen, erkennen, bekennen, zustimmen, einverstanden sein	e
 X	համաձուլվածք	n	Legierung	e
 X	համաճարակ	n	Epidemie, Seuche	e
@@ -35724,8 +35685,8 @@ X	համապատասխան	adj	angebracht, angemessen, passend, richtig, korresp
 X	համապատասխանել	v	entsprechen, korrespondieren, übereinstimmen, passen, (mathematisch) gleich sein	e
 X	համառ	adj	ausdauernd, hartnäckig, beharrlich, unnachgiebig, unerbittlich, felsenfest, stur, dickköpfig	e
 X	համառել	v	widerborstig, widerspenstig, störrisch, stur, hartnäckig, hart, auf etwas bestehen, beharren	e
-X	համառոտ	adj	kurz, klein, kurz (für), prägnant, knapp, kurzum, kurzgesagt, mit einem Worte	e
-X	համառոտաբար	adv	kurz, kurzum	e
+X	համառոտ	adj	kurz, klein, kurz (für), prägnant, knapp	e
+X	համառոտաբար	adv	kurz	e
 X	համասեռահակություն	n	Homosexualität	e
 X	համասեռամոլ	n	Homosexueller, Homosexuelle	e
 X	համասեռամոլություն	n	Homosexualität	e
@@ -35736,7 +35697,7 @@ X	համատեղ	adj	gemeinschaftlich, gemeinsam, gemeinsame, geteilt, verteilt	
 X	համատեղելի	adj	austauschbar, fähig, kompatibel	e
 X	համատեքստ	n	Kontext, Zusammenhang	e
 X	համատիրություն	n	Kondominium, Wohnungseigentum, Teileigentum	e
-X	համար	präp	da, weil, denn, um zu, damit, behufs, Zahl, Nummer	e
+X	համար	präp	Zahl, Nummer, Ziffer, Größe, Kleidergröße, Konfektionsgröße, Ausgehen, Nachkomme	e
 X	համարել	v	überlegen, halten, betrachten, schätzen, ansehen, achten	e
 X	համարժեք	adj	gleichwertig, entsprechend, äquivalent, Entsprechung, Äquivalent	e
 X	համարիչ	n	Zähler, Zählerin	e
@@ -35800,7 +35761,7 @@ X	հայեցակարգ	n	Begriff, Konzept	e
 X	հայեցի	adj	armenisch	e
 X	հայեցված	n	Blick, Streifblick, Steinkohle, Aussehen, Fratze, Erscheinen, Auftritt	e
 X	հայթայթանք	n	Vorrichtung, Maschinerie, Apparat, Anstrengung, Aufwand, Bemühung	e
-X	հայթայթել	v	beschaffen, erwerben, besorgen, holen, erwischen	e
+X	հայթայթել	v	beschaffen, erwerben, besorgen, erlangen, erhalten, bestehen	e
 X	Հայիթի	name	Haiti	e
 X	հայիֆ	n	Rache, Vergeltung, Mitleid, schade, Scham, Schande, Reue, Bedauern	e
 X	հայկազն	n	Armenier, Armenierin, armenisch	e
@@ -35872,7 +35833,7 @@ X	հանդիմանել	v	rügen, tadeln, maßregeln, zurechtweisen, abkanzeln	e
 X	հանդիպել	v	treffen, begegnen, kennen lernen, begrüßen, grüßen, annehmen, abnehmen, akzeptieren	e
 X	հանդիպում	n	Treffen, Zusammenkunft, Versammlung, Begegnung, Gruß, Begrüßung, Annahme, Vertrag	e
 X	հանդիսական	adj	feierlich, ernst, pompös, schwülstig, Zuschauer, Zuschauerin, Schaulustiger	e
-X	հանդիսանալ	v	erscheinen, auftauchen, auftreten, präsentieren, vorlegen, werden, sein, existieren	e
+X	հանդիսանալ	v	erscheinen, auftauchen, auftreten, präsentieren, vorlegen	e
 X	հանդիսասրահ	n	Zuschauerraum, Auditorium, Flur, Gang, Korridor	e
 X	հանդիսավոր	adj	festlich, feierlich, Feier-, zeremoniell, ernst, glänzend, prächtig, hervorragend	e
 X	հանդիսավորապես	adv	zeremoniell, feierlich	e
@@ -35884,7 +35845,7 @@ X	հանդուրժողականություն	n	Toleranz	e
 X	հանել	v	herausziehen, entnehmen, ziehen, entfernen, beseitigen, verdrängen, umsiedeln, vertreiben	e
 X	հանելուկ	n	Rätsel, Scherzfrage, Geheimnis, Puzzle, Geduldspiel	e
 X	հանըմ	n	Herrin des Hauses, Hausherrin, Ehefrau des Hausherrn, Fehlschuss, Fräulein, Frau	e
-X	հանկարծ	adv	plötzlich, urplötzlich (emph.), unversehens, was wenn, wenn auch, wenn doch nur, wenn bloß	e
+X	հանկարծ	adv	plötzlich, urplötzlich (emph.), unversehens, was wenn	e
 X	հանձնաժողով	n	Auftrag, Offizierspatent, Kommission, Komitee, Ausschuss	e
 X	հանձնախումբ	n	Komitee, Ausschuss, Kommission, Auftrag, Offizierspatent	e
 X	հանձնակատար	n	Kommissar, Kommissarin, Beauftragter	e
@@ -36019,7 +35980,7 @@ X	հավակնել	v	so tun, als ob, vortäuschen	e
 X	հավակնոտ	adj	ehrgeizig, ambitioniert, aufstrebend	e
 X	հավակնորդ	n	Beansprucher, Ansprucherheber, Prätendent, Aspirant, Aspirantin, Bewerber, Gegner, Konkurrent	e
 X	Հավայան կղզիներ	name	Hawaii	e
-X	հավայի	adv	umsonst, für umsonst, für nichts, vergebens, vergeblich, ungenutzt, Mußezeit, Totzeit	e
+X	հավայի	adv	ungenutzt, Mußezeit, Totzeit, eitel, unnütz, vergeblich	e
 X	հավան	adj	angenehm, nett, umgänglich	e
 X	Հավանա	name	Havanna	e
 X	հավանաբար	adv	wahrscheinlich, glaublich, glaubhaft, plausibel	e
@@ -36113,7 +36074,6 @@ X	Հարավսլավիա	name	Jugoslawien	e
 X	հարատև	adj	ewig, endlos, beständig, konstant, regelmäßig, ständig, für immer, unaufhörlich	e
 X	հարացույց	n	Paradigma, Weltanschauung, Bezugssystem, Muster, Schablone, Modell	e
 X	հարբած	adj	betrunken, besoffen, fett	e
-X	հարբել	v	sich betrinken, saufen, abfüllen	e
 X	հարբուխ	n	Triefnase, Schnupfen, Erkältung, Verkühlung	e
 X	հարգանք	n	Achtung, Respekt, Ansehen, Wertschätzung	e
 X	հարգել	v	respektieren, schätzen, ansehen, achten	e
@@ -36131,7 +36091,7 @@ X	հարթմնի	adv	wach	e
 X	հարթություն	n	Glätte, Ebene, Hobel, Flugzeug	e
 X	հարթուկ	n	Eisen	e
 X	հարթուկել	v	drücken, bügeln, in Eisen legen	e
-X	հարթուկել մեկի գլուխը	v	überzeugen, so tun, als ob, ärgern, nerven, schaden, bohren, langweilen	e
+X	հարթուկել մեկի գլուխը	v	überzeugen, ärgern, nerven, schaden, bohren, langweilen	e
 X	հարիսա	n	Harissa	e
 X	հարիֆ	n	Ignorant, Nichtswisser, unwissender Mensch, dumme Gans, Dummkopf, Narr, unerfahren, Trottel	e
 X	հարկ	n	Boden, Bodenbelag, Fußboden, Stock, Stockwerk, Geschoss, Dach, Steuer	e
@@ -36141,7 +36101,7 @@ X	հարկահավաք	n	Steuereinnehmer, Steuereinnehmerin, Zöllner	e
 X	հարկային	adj	Besteuerung	e
 X	հարկանել	v	schlagen, hauen, gewinnen, streichen, prägen	e
 X	հարկապարտ	adj	Steuerzahler, Steuerzahlerin, Steuerpflichtiger	e
-X	հարկավ	adv	sicherlich, zweifellos, gewiss, natürlich, sicher, selbstverständlich	e
+X	հարկավ	adv	sicherlich, zweifellos, gewiss	e
 X	հարկավոր	adj	nötig, notwendig, erforderlich	e
 X	հարկատու	adj	Steuerzahler, Steuerzahlerin, Steuerpflichtiger	e
 X	հարկել	v	besteuern, strapazieren, belasten	e
@@ -36207,7 +36167,7 @@ X	հեգենա	n	Silbe	e
 X	հեգնական	adj	ironisch	e
 X	հեգնանք	n	Ironie	e
 X	հեգնել	v	nachahmen, nachäffen, aufziehen, verspotten	e
-X	հեզ	adj	liebenswürdig, einfühlsam, sanftmütig, freundlich, gütig, lieb, bescheiden, maßvoll	e
+X	հեզ	adj	liebenswürdig, einfühlsam, sanftmütig, gutmütig, bescheiden, maßvoll, klein, demütig	e
 X	Հեզաբել	name	Isebel	e
 X	հեթանոս	n	Heide, Heidin, Barbar, Ungläubiger	e
 X	հեթանոսություն	n	Heidentum, Paganismus	e
@@ -36254,13 +36214,12 @@ X	հեղված	n	Version, Fassung, Ausgabe	e
 X	հեղց	adj	voll, vole, komplett	e
 X	հեն	n	Räuber, Räuberin, Brigant	e
 X	հենասյուն	n	Pfeiler, Säule	e
-X	հենց	adv	rechts, nach rechts, ganz, sehr, wahrlich, nur, lediglich, allein	e
+X	հենց	adv	rechts, nach rechts, ganz, präzise, genau, nur, lediglich, allein	e
 X	հեշթեգ	n	Hashtag	e
 X	հեշտ	adj	leicht, einfach, erleuchtet, hell	e
 X	հեշտոց	n	Scheide, Vagina, fud	e
 X	հեշտոցային	adj	vaginal	e
 X	հեշտություն	n	Leichtigkeit, Mühelosigkeit, Behaglichkeit, Vergnügen, Genuss, Freude	e
-X	հեչ	adv	überhaupt nicht, gar nicht	e
 X	հեռ	n	Uneinigkeit, Streit, Zwietracht, Unfriede, Bolzen	e
 X	հեռա-		fern-, fern, weit entfernt, weit weg	e
 X	հեռագիր	n	Telegramm n	w
@@ -36295,7 +36254,7 @@ X	Հեսսեն	name	Hessen	e
 X	հեստ	adj	ungehorsam, hartnäckig, starrköpfig, stur, hart	e
 X	հեստապար	n	Striptease	e
 X	հեստապարուհի	n	Stripper, Stripperin, Stripteasetänzer	e
-X	հետ	präp	mit, gegen, nebst, zurück, wieder da	e
+X	հետ	präp	zurück, wieder da	e
 X	հետ տալ	wend	zurückgeben, sich übergeben, zurückspulen, rückspulen	e
 X	հետագա	adj	anschließend, später, darauffolgend, Aufkommen, Kommen, zukünftig, künftig, nächster	e
 X	հետադարձ	adj	hinterer, Rück-, früher, zurückkehren, zurückkommen, zurückgeben, rückblickend, rückschauend	e
@@ -36317,7 +36276,7 @@ X	հետաքրքրել	v	interessieren	e
 X	հետաքրքրություն	n	Zinsen, Interesse	e
 X	հետին	adj	letzte, endgültig, End-, Schluss-, hinterer, Rück-, später, früher	e
 X	հետին ուղեղ	n	Rautenhirn	e
-X	հետիոտն	adj	Fußgänger, Fußgängerin, Fußgeher, zu Fuß, auf Schusters Rappen	e
+X	հետիոտն	adj	Fußgänger, Fußgängerin, Fußgeher	e
 X	հետխորհրդային	adj	postsowjetisch	e
 X	հետմահու	adj	postum, posthum	e
 X	հետնաբեմ	n	Flügel, Schwinge, Fëcke	e
@@ -36372,7 +36331,7 @@ X	հեքիաթ	n	Märchen, Fabel, Sage, Geschichte, Erzählung	e
 X	հեքիաթասաց	n	Erzähler, Erzählerin, Geschichtenerzähler	e
 X	հեքիմ	n	Doktor, Doktorin, Dr., Arzt, Ärztin, Mediziner, Quaken, Quacksalber	e
 X	հզոր	adj	gewaltig, mächtig, kräftig, kraftvoll	e
-X	հըլը	adv	noch, doch, trotzdem, vorerst, erst einmal, fürs Erste	e
+X	հըլը	adv	noch, doch, trotzdem	e
 X	Հիակինթոս	name	Hyakinthos	e
 X	հիանալ	v	bewundern, verehren, hochschätzen	e
 X	հիանալի	adj	beängstigend, furchteinflößend, fürchterlich, wunderbar, wundervoll, eitel	e
@@ -36387,7 +36346,7 @@ X	հիդրատ	n	Hydrat	e
 X	հիդրոլիզ	n	Hydrolyse	e
 X	հիերոգլիֆ	n	Hieroglyphe, chinesisches Zeichen, Hanzi, chinesisches Schriftzeichen	e
 X	հիլ	n	Kardamom	e
-X	հիմա	adv	jetzt, nun, gerade, momentan, aktuell, gegenwärtig, Gegenwart, Jetzt	e
+X	հիմա	adv	jetzt, nun, gerade, Gegenwart, Jetzt, Jetztzeit	e
 X	Հիմալայներ	name	Himalaja, Himalaya	e
 X	հիմամբ	präp	auf Grundlage von	e
 X	հիմար	adj	dumm, doof, blöd, närrisch, töricht, dumme Gans, Dummkopf, Narr	e
@@ -36514,7 +36473,7 @@ X	հնախոս	n	Archäologe, Archäologin	e
 X	հնամյա	adj	historisch, altbacken, antiquiert, archaisch, veraltet	e
 X	հնանալ	v	but see altern lassen, alt machen, altern	e
 X	հնավուն	adj	ältlich	e
-X	հնար	n	Mittel, Weg, Weise, Art, Möglichkeit	e
+X	հնար	n	Mittel, Möglichkeit	e
 X	հնարամիտ	adj	findig, einfallsreich, geschickt, gewandt, eingedenk, clever, ausgekocht, scharf	e
 X	հնարամտություն	n	Kompetenz, Können, Begabung	e
 X	հնարավոր	adj	möglich	e
@@ -36566,7 +36525,7 @@ X	հոգեբուժություն	n	Psychiatrie, Seelenheilkunde	e
 X	հոգեբույժ	n	Psychiater, Psychiaterin	e
 X	հոգեղեն	adj	geistig, immateriell	e
 X	հոգեվար	adj	sterbend, im Sterben liegen	e
-X	հոգի	n	Seele, Geist, Soul, Gespenst, Phantom, Person, Mensch, Körper	e
+X	հոգի	n	Seele, Geist, Soul, Gespenst, Phantom	e
 X	հոգնա	n	Einlauf, Klistier	e
 X	հոգնածություն	n	Müdigkeit, Erschöpfung, Ermüdung, Schlappheit	e
 X	հոգնակի	n	Plural	w
@@ -36685,7 +36644,7 @@ X	հորթ	n	Kalb, Bullenkalb, Kuhkalb	e
 X	հորիզոն	n	Horizont, Kimm	e
 X	հորիզոնական	adj	horizontal, waagrecht, waagerecht, Reihe, Rang, Dienstgrad, Zeile, Rudern	e
 X	հորիզոնական դարպասաձող	n	Querlatte	e
-X	հորինել	v	zusammenstellen, zusammensetzen, komponieren, erfinden, ausdenken, wiedergutmachen, kompensieren, gutmachen	e
+X	հորինել	v	zusammenstellen, zusammensetzen, komponieren, erfinden, ausdenken, entwerfen, erdenken, ersinnen	e
 X	հորոսկոպ	n	Horoskop	e
 X	հորու	n	Stiefvater, Stiefelternteil	e
 X	հորջորջանք	n	Name, Ruf, Benennung, Bezeichnung, Herkunftsbezeichnung, Spitzname, Beiname	e
@@ -36714,7 +36673,7 @@ X	հույլ	n	Gruppe, Musikgruppe, Geschwader	e
 X	հույն	n	Grieche, Griechin	e
 X	հույս	n	Hoffnung	e
 X	հույր	adj	dick, fett, mollig, pummelig	e
-X	հուն	n	Furt, Fjord, Ford, Untiefe, Flussbett, Weg, Weise, Art	e
+X	հուն	n	Furt, Fjord, Ford, Untiefe, Flussbett, Kurs, Richtung, Hinweis	e
 X	հունական	adj	griechisch	e
 X	Հունաստան	name	Griechenland	e
 X	հունավոր	adj	durchquerbar, seicht, durchwatbar, begrenzt, beschränkt	e
@@ -36839,7 +36798,6 @@ X	հրուշակ	n	Süßigkeit, Konfekt, Bonbon, Süßigkeiten, Süßwaren, Sü�
 X	հրուշակագործ	n	Konditor, Konditorin, Zuckerbäcker, Pâtissier, Stutenbäcker	e
 X	հրուշակեղեն	n	Konfekt, Süßwaren, Confiserie	e
 X	հրվանդան	n	Landzunge, Kap, Cape	e
-X	հօգուտ	adv	zu, -en	e
 X	հևք	n	Atmen, Atmung, Atemzug, heben, hieven, werfen, Luftholen, Schnaufen	e
 X	Ձ	num	siebzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 80 im System des armenischen Zahlensystems	w
 X	ձ	num	siebzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 80 im System des armenischen Zahlensystems	w
@@ -36900,8 +36858,8 @@ X	ձեռնմխելի	adj	verletzlich, verwundbar, empfindlich	e
 X	ձեռնոց	n	Handschuh	e
 X	ձեռնտու	adj	vorteilhaft, gewinnbringend, profitabel, lukrativ	e
 X	ձեռք	n	Hand, Zeiger, Seite, Arm, Waffe, Bewaffnung, Schrift, Schriftstück	e
-X	ձեռք բերել	v	erwerben, akquirieren, besorgen, holen, erwischen	e
-X	ձեռք տալ	v	anfassen, angreifen, berühren, von Vorteil sein, nutzen, profitieren, taugen zu, gut sein zu	e
+X	ձեռք բերել	v	erwerben, akquirieren	e
+X	ձեռք տալ	v	anfassen, angreifen, berühren, von Vorteil sein, nutzen, profitieren	e
 X	ձեռքբերովի իմունային անբավարարության համախտանիշ	n	Aids	e
 X	ձեռքսեղմում	n	Händeschütteln, Handschlag, Händedruck	e
 X	ձերա	n	Milan, Drachen, Fesseldrachen	e
@@ -36956,7 +36914,7 @@ X	ձորակ	n	Schlucht, Klamm	e
 X	ձորձ	n	Kleider, Kleidung, Anziehsachen, Oberbekleidung, Stoff, Tuch, Lappen, Gebäude	e
 X	ձու	n	Ei	w
 X	ձուլածո	adj	werfen, wegwerfen, hinwerfen, Cast, Besetzung, Ensemble	e
-X	ձուլարան	n	Gießerei, Schriftgießerei	e
+X	ձուլարան	n	Gießerei	e
 X	ձուլել	v	werfen, wegwerfen, hinwerfen, gründen, errichten, verschmelzen, assimilieren	e
 X	ձուլվել	v	assimilieren	e
 X	ձուկ	n	Fisch, Fiisch, Fusch (Vorderpfälzisch)	e
@@ -36970,7 +36928,7 @@ X	ձվատար	n	Eileiter, Ovidukt	e
 X	ձվարան	n	Eierstock, Ovar, Ovarium	e
 X	ձրի	adj	frei, ungezwungen, freimütig, gratis, kostenlos, geschenkt, umsonst, unentgeltlich	e
 X	ձրիակեր	n	Schmarotzer, Trittbrettfahrer, Schnorrer, Nassauer	e
-X	ձև	n	Gestalt, Form, Formular, Zustand, Weg, Weise, Art, Art und Weise	e
+X	ձև	n	Zustand, Form, Gestalt, Muster, Schablone, Modell, Art und Weise, Methode	e
 X	ձևաբանություն	n	Morphologie, Formenlehre, Wortbildung	e
 X	ձևակերպել	v	formulieren, darlegen, übergeben, Wort, Ehrenwort	e
 X	ձևակերպում	n	Formulierung, Aufgabenstellung, (pharma) Mischung, Phrasierung, Ausdrucksweise, Wortlaut, Wortwahl	e
@@ -36978,7 +36936,7 @@ X	ձևանմուշ	n	Model, Fotomodell, Mannequin, Vorlage, Schablone	e
 X	ձևաչափ	n	Format, Struktur	e
 X	ձևավոր	adj	geformt, -förmig	e
 X	ձևավոր չմշկասահք	n	Eiskunstlauf	e
-X	ձևավորել	v	formen, bilden, gestalten	e
+X	ձևավորել	v	formen	e
 X	ձևույթ	n	Morphem	e
 X	Ղ	num	achtzehnter Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 90 im System des armenischen Zahlensystems	w
 X	ղ	num	achtzehnter Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 90 im System des armenischen Zahlensystems	w
@@ -36992,7 +36950,7 @@ X	Ղազարոս	name	Lazarus	e
 X	ղալաթ	n	Fehler	e
 X	ղալամթրաշ	n	Taschenmesser, Sackmesser	e
 X	Ղալամյան	name	Nachname, Familienname	e
-X	ղալիբ	n	Gestalt, Form, Formular, Leisten	e
+X	ղալիբ	n	Leisten	e
 X	ղալմաղալ	n	Lärm, Geräusch, Krach, Verwirrung, Durcheinander, Konfusion	e
 X	ղախպա	n	Hure, Nutte, Schlampe, Luder, Flittchen	e
 X	ղամիշ	n	Schilf, Ried, Rohr, Schwanz, Schlange, Penis, Männchen, Tauber	e
@@ -37003,7 +36961,6 @@ X	ղանձիլ	n	Bärlauch, Rams	e
 X	ղանձլամեր	n	Nieswurz, Schneerose, Christrose	e
 X	ղաշանգ	adj	schön, heiter, toll, lieblich, liebreizend, herrlich	e
 X	ղասաբ	n	Fleischer, Fleischerin, Fleischhacker	e
-X	ղաստի	adv	mit Absicht, absichtlich, vorsätzlich	e
 X	ղավ	n	Zunder	e
 X	Ղարաբաղ	name	Karabach, Bergkarabach, Nagorny Karabach, Republik Bergkarabach	e
 X	ղարաբաղյան	adj	Karabach	e
@@ -37072,9 +37029,9 @@ X	ճամփորդել	v	reisen, sich fortbewegen, sich fortpflanzen	e
 X	ճամփորդություն	n	Reise, Fahrt, Ausflug	e
 X	ճայ	n	Eichelhäher, Möwe, Möwenvogel	e
 X	ճան	n	Knöchel, Fußknöchel	e
-X	ճանաչել	v	kennenlernen, erkennen, anerkennen, wissen, wüsse, wissn, einlassen, zulassen	e
+X	ճանաչել	v	erkennen, anerkennen, wissen, wüsse, wissn, einlassen, zulassen, zugeben	e
 X	ճանաչում	n	Erkennen, Wiedererkennen, Erkennung	e
-X	ճանապարհ	n	Straße, Pfad, Weg, Weise, Art, Mittel, Manier	e
+X	ճանապարհ	n	Straße, Pfad, Weg, Route, Mittel, Weise, Manier, Art und Weise	e
 X	ճանապարհային նշան	n	Verkehrszeichen, Verkehrsschild, Verkehrshinweisschild	e
 X	ճանապարհել	v	begleiten	e
 X	ճանապարհորդ	n	Reisender, Reisende, Wandersmann	e
@@ -37108,7 +37065,7 @@ X	ճառագայթում	n	Strahlung, Radiation, Auffächerung	e
 X	Ճավա	name	Java	e
 X	ճավայերեն	n	Javaner, Javanerin	e
 X	ճատրակ	n	Schach, Schachspiel	e
-X	ճար	n	Art und Weise, Methode, Verfahren, Weise, Manier, Weg, Art, Hilfe	e
+X	ճար	n	Art und Weise, Methode, Verfahren, Weise, Manier, Hilfe, Beistand, Helfer	e
 X	ճարակ	n	Mittel, Gegenmittel, Heilmittel, Futter, Einspeisung, Futtern, Fourage, Viehfutter	e
 X	ճարահատ	adj	hoffnungslos, hilflos	e
 X	ճարահատել	v	verzweifeln, zur Verzweiflung bringen, die Hoffnung aufgeben	e
@@ -37264,7 +37221,7 @@ X	մածուկ	n	Paste, Teig, Pastete	e
 X	մածուն	n	Joghurt	e
 X	մածվել	v	kleben, halten, sich halten (an etwas), gerinnen, koagulieren, zum Gerinnen bringen, Klumpen bilden, klumpen	e
 X	ՄԱԿ	name	Uno	e
-X	մակ-		vorbei, über, jenseits	e
+X	մակ-		über, jenseits	e
 X	մակաբույծ	adj	parasitär, Parasit, Schmarotzer	e
 X	մակագիր	n	Titel m, Überschrift f	w
 X	մակալեզու	n	Epiglottis	e
@@ -37353,7 +37310,7 @@ X	ման գալ	v	spazieren gehen, bummeln, schlendern, flanieren, spazieren, um
 X	Մանամա	name	Manama	e
 X	մանանա	n	Manna	e
 X	մանանեխ	n	Senf	e
-X	մանավանդ	adv	besonders, extra, speziell, insbesondere, vor allem, außerdem, überdies, des Weiteren	e
+X	մանավանդ	adv	besonders, extra, speziell, außerdem, überdies, des Weiteren	e
 X	մանգաղ	n	Sichel	e
 X	մանգաղաթև	n	Segler, Garnwinde	e
 X	մանգան	n	Mangan	w
@@ -37396,7 +37353,7 @@ X	մանրադիտակ	n	Beobachtungsgerät ; Vergrößerungsgerät ; Vergröße
 X	մանրաթել	n	Faser, Glühwendel	e
 X	մանրակրկիտ	adj	sorgfältig, gründlich, gewissenhaft, akribisch, peinlich genau, pedantisch, minutiös, minuziös	e
 X	մանրամաս	n	Teil, Rolle, Scheitel, Komponente, Komponenten, Detail, Einzelheit	e
-X	մանրամասն	adj	detailliert, umfassend, winzig, minutiös, minuziös, ausführlich, in allen Einzelheiten	e
+X	մանրամասն	adj	detailliert, umfassend, winzig, minutiös, minuziös	e
 X	մանրամասնություն	n	Umstand, Detail, Einzelheit	e
 X	մանրավաճառ	n	Einzelhändler, Händler, Verkäufer, Lebensmittelhändler, Lebensmittelhändlerin, Kaufmann	e
 X	մանրէ	n	Mikrobe	e
@@ -37422,7 +37379,7 @@ X	մառոլ	n	Gartensalat, Salat, Lattich	e
 X	մաս	n	Teil, Rolle, Scheitel, Stück, Spielfigur, Offizier, Anteil, Aktie	e
 X	մասամբ	adv	teilweise, zum Teil, teils	e
 X	Մասերու	name	Maseru	e
-X	մասին	präp	um... (herum), über, bereit zu, bezüglich, mit Bezug auf	e
+X	մասին	präp	bezüglich, mit Bezug auf	e
 X	Մասիս	name	der Berg Ararat	w
 X	մասխարա	adj	zum Totlachen, urkomisch, lächerlich, Lachnummer, Witzfigur, Gespött, schandbar, beschämend	e
 X	մասկա	n	Maske	e
@@ -37436,7 +37393,6 @@ X	մասնակից	n	Teilnehmer, Teilnehmerin	e
 X	մասնակցել	v	teilnehmen, sich beteiligen	e
 X	մասնակցություն	n	Partizipation, Beteiligung, Teilnahme	e
 X	մասնավոր	adj	privat, unabhängig, selbständig, teilweise, partiell, parteiisch, fragmentarisch, klein	e
-X	մասնավորապես	adv	insbesondere, besonders, vor allem	e
 X	մասնավորել	v	spezifizieren	e
 X	մասնավորեցում	n	Privatisierung	e
 X	մասնիկ	n	Teilchen, Partikel, Redeteilchen, Anhang, Anhängsel, Affix	e
@@ -37444,7 +37400,7 @@ X	մասշտաբ	n	Skala, Ausmaß, Maßstab, Umfang, Bereich, Umgebung	e
 X	մասոն	n	Freimaurer	e
 X	մասունք	n	Relikt, Reliquie	e
 X	մասուր	n	Rose, Roos, Rosengewächs	e
-X	մաստ	n	Anzug, Anzugträger, Farbe, Art, Sorte, Letter, Typ	e
+X	մաստ	n	Anzug, Anzugträger, Farbe	e
 X	մաստակ	n	Kaugummi	e
 X	մաստուրբացիա	n	Masturbation, Onanie, Selbstbefriedigung	e
 X	մասրենի	n	Rose, Roos, Rosengewächs	e
@@ -37495,7 +37451,7 @@ X	մարգարեուհի	n	Prophetin, Weissagerin	e
 X	մարգարին	n	Margarine	e
 X	մարգարիտ	n	Perle, Perl	e
 X	մարգարտածաղիկ	n	Gänseblümchen, Tausendschönchen, Tagesauge	e
-X	մարդ	n	menschliches Wesen, Mensch, Person, Körper, Mann, Herr, Maa, Ehemann	e
+X	մարդ	n	menschliches Wesen, Mensch, Mann, Herr, Maa, Ehemann, Gemahl, Hand	e
 X	մարդաբան	n	Anthropologe, Anthropologin	e
 X	մարդաբանական	adj	anthropologisch	e
 X	մարդաբանություն	n	Anthropologie, Menschenkunde, Menschenlehre	e
@@ -37526,7 +37482,6 @@ X	մարզել	v	üben, trainieren, sich bewegen	e
 X	մարզիկ	n	Sportler, Athlet, Athletin	e
 X	մարզիչ	n	Kutsche, Wagen, Trainer, Trainerin	e
 X	մարզվել	v	üben, dressieren, lehren, ausüben, praktizieren	e
-X	մարթել	v	können, vermögen, in der Lage sein	e
 X	մարի	n	Henne, Legehenne, Huhn, Sau, Mutterschwein	e
 X	Մարիամ	name	Maria	e
 X	մարիխուանա	n	Marihuana, Haschisch, Hanf	e
@@ -37559,7 +37514,7 @@ X	մարոնիտյան	adj	maronitisch	e
 X	մարջան	n	Koralle, koralle	e
 X	Մարս	n	Mars m	w
 X	Մարսել	name	Marseille, Massilien	e
-X	մարսել	v	verstehen, begreifen, den Eindruck haben, greifen, erfassen, mit etwas davonkommen, mit etwas durchkommen, ungeschoren davonkommen	e
+X	մարսել	v	verstehen, begreifen, den Eindruck haben, greifen, erfassen, schlucken, verschlucken, akzeptieren	e
 X	մարսողություն	n	Verdauung	e
 X	մարտ	n	erster Monat; März	w
 X	մարտադաշտ	n	Schlachtfeld	e
@@ -37641,7 +37596,7 @@ X	մեծաշեն	adj	monumental, riesig, gewaltig, immens, massiv, enorm	e
 X	մեծաշիթ	adj	sintflutartig, sturzflutartig, wolkenbruchartig, schwer, ernst, dunkel	e
 X	մեծաշուք	adj	prächtig, ausgezeichnet, opulent, pompös, pomphaft, ehrwürdig, geschätzt, respektabel	e
 X	մեծաշքեղ	adj	prächtig, ausgezeichnet, freigiebig, verschwenderisch, überreich	e
-X	մեծապես	adv	sehr, extrem, stark, schön	e
+X	մեծապես	adv	sehr, extrem, stark	e
 X	մեծավոր	adj	haupt-, hauptsächlich, primär, führend, vorangehend, vorausgehend, älter, offiziell	e
 X	մեծատառ	n	Großbuchstabe, Majuskel, Kapitalbuchstabe, Kapital, Kapitell, Säulenkopf, Haupt-, großartig	e
 X	մեծատուն	n	Reicher, Reiche, wohlhabend, reich	e
@@ -37653,12 +37608,11 @@ X	մեծաքանակ	adj	zahlreich, vielzählig, unzählig, unzählbar, zahllos,
 X	մեծաքանակություն	n	Multiplizität	e
 X	մեծղի	adj	groß, weit	e
 X	մեծություն	n	Größe, Kleidergröße, Konfektionsgröße, Betrag, Rauminhalt, Volumen, Lautstärke, Vielzahl	e
-X	մեկ	num	eins, ein, jemand, einer, wer	e
 X	մեկ վայրկյան	n	gefallen, rechtmachen, belieben	e
 X	մեկ-մեկ	adv	manchmal, gelegentlich	e
 X	մեկդի	adv	beiseite, zur Seite, außerdem, weiterhin, darüber hinaus	e
 X	մեկին	adj	klar, durchsichtig, hell, einleuchtend, verständlich, deutlich	e
-X	մեկմեկու	pron	einander, gegenseitig, aufeinander	e
+X	մեկմեկու	pron	einander	e
 X	մեկն	adv	rechts, nach rechts, ganz, aufrecht, hochkant	e
 X	մեկնաբանել	v	erklären, erläutern, interpretieren, dolmetschen, übersetzen, kommentieren, Kommentare einfügen	e
 X	մեկնաբանություն	n	Kommentar	e
@@ -37703,7 +37657,7 @@ X	Մեմնոն	name	Memnon	e
 X	Մեմփիս	name	Memphis	e
 X	մեյդան	n	Quadrat, Platz, Feld	e
 X	մեյմուն	n	Affe, Äffin, Clown, Clownin, Trottel, Handelnder, Handelnde (der / die Handelnde), Schauspieler	e
-X	մեն	n	eins, ein, einzig, einzigartig, geschwisterlos, ledig, unverheiratet, alle	e
+X	մեն	n	einzig, einzigartig, geschwisterlos, ledig, unverheiratet, alle, jeder	e
 X	մենաբարբառ	n	Monophthong	e
 X	մենախոսություն	n	Monolog, Selbstgespräch	e
 X	մենակ	konj	allein	w
@@ -37723,7 +37677,7 @@ X	մենինգիտ	n	Hirnhautentzündung, Meningitis	e
 X	մենյու	n	Menü, Speisekarte	e
 X	մենք	pron	wir, mir, mia	e
 X	մեշոկ	n	Sack, Papiersack, Beutel	e
-X	մեջ	präp	in, von, unter, Innenseite, Inneres, zwischen, inmitten	e
+X	մեջ	präp	Innenseite, Inneres, unter, zwischen, inmitten	e
 X	մեջբերել	v	zitieren, Preisangebot machen, anbieten	e
 X	մեջբերում	n	Zitat, Anführungszeichen, Angebot, Preisangebot	e
 X	մեջտեղ	n	Mittelpunkt, Mitte, Mitten	e
@@ -37764,7 +37718,7 @@ X	մերկասառույց	n	Glatteis, Blitzeis, überfrierende Nässe	e
 X	մերկություն	n	Nacktheit	e
 X	Մերկուրի	n	Merkur	w
 X	մերձ	adj	nah, schwül, drückend	e
-X	մերձավոր	adj	nah, schwül, drückend, in Verbindung stehend, verwandt, ähnlich, analog, Verwandter	e
+X	մերձավոր	adj	nah, schwül, drückend, verwandt, ähnlich, analog, bekannt, Verwandter	e
 X	Մերձավոր Արևելք	name	Naher Osten, Mittlerer Osten	e
 X	Մերձդնեստր	name	Transnistrien	e
 X	մերձենալ	v	sich nähern, sich annähern, kopulieren, beischlafen, vögeln	e
@@ -37784,7 +37738,7 @@ X	մզկիթ	n	Moschee	e
 X	մզմըզ	adj	geizig, knauserig, knausrig, Stottern, Gestotter, verschlossen, heimlichtuerisch, gerissen	e
 X	մէկուն նեղանալ	wend	jemanden schelten	w
 X	մէյ մը	adv	einmal, früher, nur, einfach, bloß	e
-X	մը	art	A, ein, eine	e
+X	մը	art	ein, eine	e
 X	մըկլըմանդի	n	Spinnennetz, Spinnwebe, Spinnengewebe	e
 X	մըշըղուլ	n	Wiesel, Mauswiesel, Zwergwiesel	e
 X	մթար	adj	dunkel, finster, düster, Schmutz, Dreck, Erde, Boden	e
@@ -37795,7 +37749,7 @@ X	մթնշաղ	n	Abenddämmerung, Zwielicht, Dämmerung, Halblicht, unglücklich
 X	մթնոլորտ	n	Atmosphäre	e
 X	մթություն	n	Dunkelheit, Finsternis	e
 X	մժեղ	n	Mücke, Stechmücke, Schnake, klein, gering, chlii, wenig, lütt	e
-X	մի	num	eins, ein, eine, bestimmt, gewiss, einige, manch, welche	e
+X	մի	num	bestimmt, gewiss, einige, manch, welche	e
 X	մի քանի	art	mehrere, einige, manch, welche	e
 X	մի քիչ	adv	wenig, kaum	e
 X	միաբանություն	n	Einstimmigkeit, Einmütigkeit, Einhelligkeit, Harmonie, Einklang, Wohlklang, Ordnung, Reihenfolge	e
@@ -37811,7 +37765,7 @@ X	միայն	adv	nur, lediglich, allein, einzig und allein, ausschließlich	e
 X	միայնակ	adj	einsam, alleinig, abgeschieden, allein, selbst	e
 X	միայնություն	n	Einsamkeit, Alleinsein, Abgeschiedenheit, Abschottung, Absonderung	e
 X	միանալ	v	vereinen, verknüpfen, vereinigen, anschließen, weitergehen, weitermachen, ununterbrochen reden	e
-X	միանգամից	adv	alle zusammen, auf einmal, gleichzeitig, sofort, alsbald, unverzüglich	e
+X	միանգամից	adv	alle zusammen, sofort, alsbald, unverzüglich	e
 X	միանդամ	adj	Monom, Mononom	e
 X	միանձն	n	Einsiedler, Eremit, Klausner	e
 X	միանձնուհի	n	Nonne, Ordensschwester, Klosterschwester	e
@@ -37851,7 +37805,6 @@ X	միզածորան	n	Harnleiter, Ureter	e
 X	միզապարկ	n	Blase, Harnblase	e
 X	միզել	v	urinieren, harnen	e
 X	միզուկ	n	Harnröhre, Urethra	e
-X	միթամ	part	als ob, als wenn, als	e
 X	Միլան	name	Mailand, Mayland	e
 X	միլանցի	n	Mailänder, Mailänderin	e
 X	միլի-		milli-	e
@@ -37873,15 +37826,15 @@ X	միկրոբ	n	Mikrobe	e
 X	Միկրոնեզիա	name	Mikronesien	e
 X	միկրոօրգանիզմ	n	Mikroorganismus	e
 X	միկրոֆոն	n	Mikrofon	e
-X	միմյանց	pron	einander, gegenseitig, aufeinander	e
+X	միմյանց	pron	einander	e
 X	միմոս	n	Clown, Clownin, Trottel, Hanswurst, Kasper, Narr	e
 X	մինա	n	Grube, Mine, Bergwerk	e
 X	մինարեթ	n	Minarett	e
 X	մինետ	n	Fellatio, Blasen, Französisch, Blowjob	e
 X	մինիստր	n	Pfarrer, Priester, Dienstamtsträger	e
-X	մինչ	präp	bis, bis zu, bis an, zu, in, dem, Weile, Weilchen n diminutive	e
+X	մինչ	präp	bis, bis zu, bis an, Weile, Weilchen n diminutive, Zeitspanne	e
 X	մինչդեռ	adv	währenddessen, inzwischen, derweil, wohingegen, wogegen, während, solange, obwohl	e
-X	մինչև	präp	soweit, bis, bis zu, bis an, zu, in, dem	e
+X	մինչև	präp	bis, bis zu, bis an	e
 X	Մինսկ	name	Minsk	e
 X	միշտ	adv	immer, dauernd, fortwährend, stets	w
 X	միության գծիկ	n	Bindestrich, Divis	e
@@ -37987,7 +37940,7 @@ X	մշտական	adj	permanent, ständig, beständig, vertikal, aufgestaut, Sais
 X	մշտապես	adv	ständig, regelmäßig, konstant, immer, stets	e
 X	մոգ	n	Zoroastrier, Magier, Zauberer, Zaubrer, Astrologe, Astrologin, Sterndeuter	e
 X	Մոգիլյով	name	Mahiljou, Mogilew, Mogiljow	e
-X	մոգոնել	v	erfinden, ausdenken, fabrizieren, erzeugen, herstellen, wiedergutmachen, kompensieren, gutmachen	e
+X	մոգոնել	v	erfinden, ausdenken, fabrizieren, erzeugen, herstellen	e
 X	մոգություն	n	Zauberei, Zauber, Magie	e
 X	մոդա	n	Mode, Stil	e
 X	մոդել	n	Model, Fotomodell, Mannequin	e
@@ -38012,7 +37965,6 @@ X	մոլորակ	n	Planet	w
 X	մոլորակաձև միգամածություն	n	planetarischer Nebel	e
 X	մոլորակային	adj	planetar	e
 X	մոլորել	v	betrügen, täuschen, in die Irre führen, irreführen	e
-X	մոլորվել	v	sich verirren, sich verlaufen, verloren gehen	e
 X	մոլուցք	n	Wahn, Rausch, Wut, Furie, Wahnsinn, Verrücktheit	e
 X	Մոլուքյան կղզիներ	name	Molukken	e
 X	մոխիր	n	Asche, Äsche, Eschenholz	e
@@ -38199,7 +38151,6 @@ X	մրցույթ	n	Konkurrenz, Wettbewerb, Auseinandersetzung, Debatte, Wettkamp
 X	Մցխեթ	name	Mzcheta	e
 X	Յ	num	einundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 300 im System des armenischen Zahlensystems	w
 X	յ	num	einundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 300 im System des armenischen Zahlensystems	w
-X	յա	konj	oder	e
 X	յագուար	n	Jaguar	e
 X	յաթաղան	n	Yatagan, Jatagan	e
 X	Յալթա	name	Jalta	e
@@ -38234,7 +38185,6 @@ X	յոթանասուն	num	siebzig	e
 X	յոթանկյուն	n	Siebeneck, Heptagon	e
 X	յոթերորդ	num	siebte, siebentens, siebtens	e
 X	յոթներյակ	n	Sieben, Samstag, Sonnabend, Sabbat	e
-X	յոլա գնալ	v	sich verstehen, sich vertragen, zurechtkommen, einsteigen	e
 X	յոկտո-		yokto-	e
 X	Յոշկար-Օլա	name	Joschkar-Ola	e
 X	յոտտա-		yotta-	e
@@ -38257,7 +38207,7 @@ X	յուրովի	adv	persönlich, personaliter	e
 X	յուրօրինակ	adj	ursprünglich, ur-, original, merkwürdig, seltsam, eigen	e
 X	Ն	num	zweiundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 400 im System des armenischen Zahlensystems	w
 X	ն	num	zweiundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 400 im System des armenischen Zahlensystems	w
-X	նա	pron	er, sie, es, jener, jene, jenes	e
+X	նա	pron	er, sie, es	e
 X	Նաբերեժնիե Չելնի	name	Nabereschnyje Tschelny	e
 X	Նաբուքոդոնոսոր	name	Nebukadnezar	e
 X	նադիր	n	Nadir	e
@@ -38382,8 +38332,8 @@ X	նացիզմ	n	Nazismus	e
 X	նացիստ	n	Nazi, Nationalsozialist, Nationalsozialistin	e
 X	նացիստական	adj	Nazi-, nazistisch	e
 X	նաւազորճարան	n	Werft f	w
-X	նաֆար	n	Seele, Geist, Soul, Person, Mensch, Körper	e
-X	նաև	konj	auch, zu, allzu, sowie, genauso gut, einschließlich	e
+X	նաֆար	n	Seele, Geist, Soul	e
+X	նաև	konj	auch, zu, allzu, einschließlich	e
 X	Նեապոլ	name	Neapel	e
 X	նեգատիվ	adj	negativ	e
 X	նեգր	n	Hiwi, Sklave, Lakai, Sklavin, Sexsklave	e
@@ -38426,7 +38376,6 @@ X	նետաձիգ	n	Bogenschütze	e
 X	Նետապոչ Բադ	wend	Spießente f	w
 X	նետել	v	werfen, schmeißen, wegwerfen, hinwerfen	e
 X	ներ	n	Schwägerin, Schwippschwägerin	e
-X	ներ-		in, von, unter, gen, gegen	e
 X	ներածել	v	importieren, einführen	e
 X	ներածություն	n	Einführung, Vorstellung	e
 X	ներառել	v	einschließen, mit einbeziehen, verbunden sein (mit), mit sich bringen, sich engagieren	e
@@ -38463,7 +38412,7 @@ X	ներկայացում	n	Darstellung, Ausdruck, Präsentierung, Durchführung,
 X	ներկայացուցիչ	n	Sprecher, Sprecherin, Wortführer, Repräsentant, Repräsentantin, Vertreter	e
 X	ներկայացուցչություն	n	Darstellung, Verkörperung, Auftrag, Mission	e
 X	ներկայություն	n	Anwesenheit	e
-X	ներկայումս	adv	jetzt, nun, gerade, momentan, aktuell, gegenwärtig	e
+X	ներկայումս	adv	jetzt, nun, gerade	e
 X	ներկապնակ	n	Farbpalette, Palette	e
 X	ներկարար	n	Färber, Färberin, Maler, Malerin, Kunstmaler	e
 X	ներկել	v	farbig machen, färben ; mit Farbe bedecken	w
@@ -38473,7 +38422,7 @@ X	ներշնչել	v	einatmen, inhalieren, einimpfen, einschärfen	e
 X	ներողություն	n	Verzeihung, Vergebung, Versöhnlichkeit	e
 X	ներուժ	n	Potential	e
 X	ներում	n	Vergebung, Verzeihung, Begnadigung, Versöhnlichkeit	e
-X	ներս	präp	in, von, unter, Innenseite, Inneres	e
+X	ներս	präp	Innenseite, Inneres	e
 X	ներվ	n	Nerv, Mut, Unverschämtheit	e
 X	ներքին	adj	Innen-, Inner-, inner, unterer, Boden, Grund, Unterseite	e
 X	ներքինանալ	v	erntelos, fruchtlos, unfruchtbar	e
@@ -38483,9 +38432,9 @@ X	ներքնազգեստ	n	Unterwäsche	e
 X	ներքնակ	n	Matratze, Weste, Gilet, Frau, Weib, Weibchen, Ehefrau, Eheweib	e
 X	ներքնաձիգ	n	Hypotenuse	e
 X	ներքնատուն	n	Keller	e
-X	ներքո	präp	unter, weniger als	e
+X	ներքո	präp	unter	e
 X	ներքուստ	adv	drinnen, hinein, in, innerhalb	e
-X	ներքև	adv	runter, herunter, hinunter, unter, weniger als, Boden, Grund, Unterseite	e
+X	ներքև	adv	runter, herunter, hinunter, unter, Boden, Grund, Unterseite	e
 X	նեցուկ	n	Stütze, Unterstützung, Abstützung, Ruhe, Erholung, Pause	e
 X	նզովք	n	Exkommunikation, Bannfluch, Bannstrahl, Kirchenbann, Fluch, Verwünschung, Verdammnis	e
 X	նժդեհ	n	Fremder, Fremde, Fremdling, Auswanderer, Auswanderin, Emigrant	e
@@ -38513,7 +38462,7 @@ X	նիշ	n	Zeichen, Anzeichen, Sonderzeichen, Ziffer, Stelle, Finger, Abbildung,
 X	նիշք	n	Akte, Datei, Hefter	e
 X	նիոբիում	n	Niob	w
 X	նիստ	n	Stellung, Position, Platz, Situation, Lage, Ort, Treffen, Zusammenkunft	e
-X	նիստուկաց	n	Lebensunterhalt, Lebensgrundlage, Auskommen, Lebensweise, Lebensstil, Lebensart, Beziehung, Verwandtschaft	e
+X	նիստուկաց	n	Lebensunterhalt, Lebensgrundlage, Auskommen, Leitung, Führung, Manieren, Beziehung, Verwandtschaft	e
 X	նիրհ	n	Halbschlaf, Schlummer, Schläfchen, Schlaf, Nachtruhe	e
 X	նիրհել	v	ein Nickerchen machen, dösen, schlummern, träumen, schlafen, pennen, schlaaffe	e
 X	Նիցցա	name	Nizza	e
@@ -38533,7 +38482,7 @@ X	նկարիչ	n	Künstler, Künstlerin, "painter": Maler, Maler, Malerin, Kunst
 X	նկարչություն	n	Zeichnung, Bild, Zeichnen	e
 X	նկուղ	n	Keller, Untergeschoss, Kellergeschoss, Lagerhaus, Lager, Speisekammer, Vorratskammer	e
 X	նկուն	adj	besiegt, verachtenswürdig, verachtenswert, kurz, klein, kurz (für), niedrig, niedergeschlagen	e
-X	նման	adj	ähnlich, mögen, gern haben, gefallen, so ... wie, wie	e
+X	նման	adj	ähnlich, mögen, gern haben, gefallen	e
 X	նմանապես	adv	ähnlich	e
 X	նմանատիպ	adj	ähnlich	e
 X	նմանություն	n	Ähnlichkeit	e
@@ -38623,8 +38572,8 @@ X	նույն	pron	derselbe	e
 X	նույնականացման քարտ	n	Ausweis, Personalausweis, ID	e
 X	նույնանալ	v	vereinigen, verschmelzen, zusammenfließen	e
 X	նույնիսկ	part	eben, gleichmäßig, gleich	e
-X	նույնպես	adv	auch, zu, allzu, sowie, genauso gut	e
-X	նույնքան	pron	so ... wie, gleichermaßen, gleich, gleichmäßig	e
+X	նույնպես	adv	auch, zu, allzu	e
+X	նույնքան	pron	gleichermaßen, gleich, gleichmäßig	e
 X	նունուֆար	n	die Trichterwinde, Prunkwinde	e
 X	նուշ	n	Mandel, Mandelbaum, Mandelfarbe	e
 X	նուռ	n	Granatapfel, Grenadine	e
@@ -38644,7 +38593,7 @@ X	նռնաքար	n	Granat, Granatrot	e
 X	նստադուլ	n	Sitzpause, Beisammensein im Sitzen, Zusammensitzen, Sitzblockade	e
 X	նստարան	n	Bank, Sitzbank, Richterbank	e
 X	նստել	v	sitzen, Platz nehmen	w
-X	նվագ	n	Melodie, Zeit, Zit, Ziit	e
+X	նվագ	n	Melodie	e
 X	նվագախումբ	n	Orchester, Orchestergraben	e
 X	նվագածու	n	Interpret, Interpretin	e
 X	նվագերգություն	n	Lied, Gesang, Song, Singen, skandieren, im Sprechchor rufen	e
@@ -38664,7 +38613,7 @@ X	նվիրակ	n	Legat, Gesandte	e
 X	նվիրել	v	präsentieren, vorlegen, spenden, stiften, schenken, widmen, sich widmen, eröffnen	e
 X	նվիրում	n	Hingebung, Hingabe, Zuneigung, Einsetzen, Einsatz, Hingeben	e
 X	նրա	pron	seiner, seine, seines, sie, ihr, es	e
-X	նրան	pron	ihm, ihn, sie, ihr, es, er, Dolch, Kreuz	e
+X	նրան	pron	ihm, ihn, sie, ihr, es, Dolch, Kreuz	e
 X	նրանց	pron	ihnen, sie, ihr, ihre, sier	e
 X	նրանք	pron	sie, sier, man	e
 X	նրբաբանություն	n	Oxymoron	e
@@ -38740,7 +38689,7 @@ X	շառլատան	n	Scharlatan, Betrug, Schwindel, Hochstapelei, Quaken, Quacks
 X	շառլատանություն	n	Scharlatanerie, Quacksalberei	e
 X	Շառոյան	name	Nachname, Familienname	e
 X	շավիղ	n	Pfad, Weg, Spur, Fußspur, Fußsohle, Kurs, Lehrgang, Gang	e
-X	շատ	adj	viele, viel, sehr, ganz, wahrlich	e
+X	շատ	adj	viele, viel	e
 X	շատախոս	adj	geschwätzig, endlos redend, daherlabernd, gesprächig, redselig	e
 X	շատախոսություն	n	Geschwätzigkeit, Gesprächigkeit, Redseligkeit	e
 X	շատակերիկ	n	Vielfraß, Bärenmarder, Nimmersatt, Völler	e
@@ -38751,7 +38700,7 @@ X	շարադրել	v	erläutern, erklären, darlegen, erzählen, berichten	e
 X	շարադրություն	n	Aufsatz, Essay, Zusammenstellung, Zusammensetzung, Komposition	e
 X	շարահյուսել	v	zusammenstellen, zusammensetzen, komponieren, schreiben, schriibe, verfassen	e
 X	շարահյուսություն	n	Syntax, Satzbau, Satzlehre	e
-X	շարել	v	arrangieren, systematisieren, aufstellen, stellen, platzieren, einordnen	e
+X	շարել	v	arrangieren, systematisieren, aufstellen, sich aufstellen	e
 X	շարժ	n	Bewegung, Satz, Antrag	e
 X	շարժական	adj	beweglich, portabel, tragbar, mobil, persönlich, Personal-	e
 X	շարժական գույք	n	bewegliche Sache, Fahrnis	e
@@ -38820,7 +38769,7 @@ X	շինանյութ	n	Baumaterial	e
 X	շինարար	n	Bauarbeiter, Bauarbeiterin, Baumeister, Konstruktor	e
 X	շինարարական	adj	Bau, Bauen, Gebäude, Bauarbeit, Bauwerk	e
 X	շինարարություն	n	Bau, Bauarbeit, Bauwerk, Bauen, Gebäude	e
-X	շինել	v	machen, bauen, produzieren, herstellen, erzeugen, anfertigen, konstruieren, reparieren	e
+X	շինել	v	herstellen, erzeugen, anfertigen, ersinnen, entwerfen, bewerkstelligen, bauen, konstruieren	e
 X	շինծու	adj	ausgedacht, erfunden, erlogen, gefälscht, unecht, frei erfunden, künstlich, unnatürlich	e
 X	շինհրապարակ	n	Baustelle	e
 X	շինվածք	n	Struktur, Datenstruktur, Einrichtung, Vorrichtung, Anlage, Installation, Ware, Artikel	e
@@ -38844,7 +38793,7 @@ X	շնագայլ	n	Schakal, Schakalin	e
 X	շնաձուկ	n	Hai, Haifisch	e
 X	շնավարդ	n	Hundsrose, Hagrose, Heckenrose	e
 X	շնդեղ	n	Zeitlose	e
-X	շնիկ	n	Hündchen, Hundchen, Zamperl, wau wau, Klammeraffe, at-Zeichen, at, Männchen	e
+X	շնիկ	n	Hündchen, Hundchen, Zamperl, wau wau, Männchen, Tauber, Täuber, Hammer	e
 X	շնորհ	n	Tischgebet, Anmut, Grazie, Liebenswürdigkeit	e
 X	շնորհակալ	adj	dankbar, erkenntlich	e
 X	շնորհակալ եմ	wend	danke, danke schön	w
@@ -38895,7 +38844,7 @@ X	շորթում	n	Erpressung, Wucher, Extorsion	e
 X	շուկա	n	Markt, Marktplatz, Markt-, Basar	e
 X	Շումեր	name	Sumer	e
 X	շուն	n	Hund, Hündin, Rüde	e
-X	շունչ	n	Atmen, Atmung, Atemzug, Veratmung, Seele, Geist, Soul, Person	e
+X	շունչ	n	Atmen, Atmung, Atemzug, Veratmung, Seele, Geist, Soul, Pause	e
 X	շունչը տալ	v	entschlafen, versterben, sterben, umkommen	e
 X	շունչը փչել	v	entschlafen, versterben, sterben, umkommen	e
 X	շուշա	n	Glas, Glasflasche	e
@@ -38909,7 +38858,7 @@ X	շուտ-շուտ	adv	schnell, rasch, geschwind, häufig, oft	e
 X	շուտափույթ	adj	schnell, prompt, bald	e
 X	շուտով	adv	bald	e
 X	շուրթ	n	Lippe, Lefze, Schnauze, Mund, Maul, Muul, Rand, Kante	e
-X	շուրջ	adv	herum, ungefähr, rund, abgerundet, mollig, um... (herum), über, bereit zu	e
+X	շուրջ	adv	herum, ungefähr, rund, abgerundet, mollig	e
 X	շուք	n	Schatten, Vorhang, Farbton, Brillanz, Pracht	e
 X	շոքոլա	n	Schokolade, Schoko, Praline	e
 X	շոֆեր	n	Treiber, Treiberin, Fahrer	e
@@ -39035,12 +38984,9 @@ X	ողջունել	v	begrüßen, grüßen, hageln, graupeln, willkommen heißen,
 X	ոճ	n	Griffel, Stil, Weise, Manier	e
 X	ոմն	pron	einige, manche, ein paar, gewiss, sicher, irgendein	e
 X	ոնց	pron	wie	e
-X	ոչ	adv	kein, verboten, nicht, net, nit, nein, nee, nö	e
-X	ոչ մեկ	pron	niemand, keiner, keine	e
-X	ոչ մի	art	kein, verboten	e
-X	ոչ ոք	pron	niemand, keiner	e
+X	ոչ մեկ	pron	niemand, keine	e
 X	ոչ-ոքի	n	Anziehungskraft, Kassenmagnet, Unentschieden, Remis	e
-X	ոչինչ	pron	nichts, gar nichts, so lala, nicht schlecht, nicht schlimm, anmutig, attraktiv, charmant	e
+X	ոչինչ	pron	nichts, gar nichts, so lala, anmutig, attraktiv, charmant	e
 X	ոչխար	n	Schaf, eigentlich Hausschaf ; männliches kastriertes Schaf	w
 X	ոչնչանալ	v	verderben, schlecht werden, umkommen	e
 X	ոչնչացնել	v	zerstören, vernichten, kaputtmachen, ausrotten, eliminieren, umbringen	e
@@ -39081,7 +39027,7 @@ X	ոստյուն	n	Sprung, Satz, Sprungweite	e
 X	ոստնել	v	springen, einen Satz machen, hüpfen, zucken	e
 X	ոստոստել	v	hüpfen, springen, tänzeln	e
 X	ոստրե	n	Auster, Pfaffenschnittchen, Pfaffenstückchen	e
-X	ով	pron	wer, der, die, o	e
+X	ով	pron	wer, der, die	e
 X	ովասիս	n	Oase	e
 X	ովքեր	pron	wer, der, die	e
 X	ոտանավոր	n	Vers, Strophe	e
@@ -39098,7 +39044,7 @@ X	ոտնացուպ	n	Stelze, Stelzenläufer, Sterz	e
 X	ոտք	n	Fuß, Fuss, Fuaß, Bein, Unterschenkel, Hosenbein	e
 X	ոտքի կանգնեցնել	v	kurieren, heilen, haltbar machen, versorgen, ausstatten, herrichten	e
 X	ոտքի մատ	n	Zeh, Zehe, Spur	e
-X	որ	pron	wer, der, die, welcher, welche, welches, dass, sodass	e
+X	որ	pron	wer, der, die, welcher, welche, welches, seitdem, seit	e
 X	որակ	n	Qualität, Eigenschaft, Qualitäts-	e
 X	որակական	adj	qualitativ	e
 X	որակյալ	adj	hochqualitativ, hochgradig	e
@@ -39145,10 +39091,9 @@ X	որովհետև	konj	weil, denn, da, seitdem, seit	e
 X	որոտ	n	Donner, Dunner, Donnern	e
 X	որոտալ	v	donnern, tschättere	e
 X	որոր	n	Möwe, Möwenvogel	e
-X	որչափ	pron	wie viel, wieviel kostet das?, wieviel, ebenso	e
-X	որպես	pron	wie, mögen, gern haben, gefallen, so ... wie	e
-X	որպեսզի	konj	um zu, damit, behufs	e
-X	որպիսի	pron	was, waas, der, was für, welcher, solch	e
+X	որչափ	pron	wie viel, wieviel kostet das?, wieviel	e
+X	որպես	pron	wie, mögen, gern haben, gefallen	e
+X	որպիսի	pron	was, waas, der, was für, welcher	e
 X	որջ	n	Höhle, Bau, Wohnzimmer, Zelle, Batteriezelle, Haftraum	e
 X	որս	n	Jagd, Aalen, Verfolgung, Jagdgebiet, Spiel, Partei, Match, Fang	e
 X	որսագող	n	Wilderer, Wilddieb, Wildschütz	e
@@ -39213,7 +39158,7 @@ X	ուղեպարկ	n	Rucksack	e
 X	ուղերձ	n	Ansprache, Art, Anrede, Nachricht, Botschaft, Mitteilung	e
 X	ուղեցույց	n	Reiseleiter, Reiseleiterin, Fremdenführer, Handbuch, Schaltgetriebe, Schaltwagen	e
 X	ուղեփակոց	n	Schranke, Schlagbaum, Wegeschranke	e
-X	ուղի	n	Weg, Weise, Art, Spur, Fußspur, Fußsohle, Eisenbahnlinie, Gleis	e
+X	ուղի	n	Spur, Fußspur, Fußsohle, Pfad, Weg, Eisenbahnlinie, Gleis, Eisenbahn	e
 X	ուղիղ	adj	gerade, aufrecht, aufrichtig, direkt, unmittelbar, lebend, Live-, scharf	e
 X	ուղիղ աղիք	n	Rektum, Mastdarm, Enddarm	e
 X	ուղղագրական	adj	orthographisch	e
@@ -39244,7 +39189,7 @@ X	ույղուրերեն	n	Uigure, Uigurin, uigurisch	e
 X	ունաբ	n	Jujube, chinesische Dattel, Brustbeere	e
 X	ունակ	adj	imstande, fähig, tüchtig	e
 X	ունակություն	n	Begabung, Eignung, Qualität, Eigenschaft, Qualitäts-, Fähigkeit, Befugnis, Kapazität	e
-X	ունայն	adj	eitel, unnütz, vergeblich, sinnlos, nutzlos, unbrauchbar, vergebens, umsonst	e
+X	ունայն	adj	eitel, unnütz, vergeblich, sinnlos, nutzlos, unbrauchbar	e
 X	ունայնություն	n	Vergänglichkeit, Eitelkeit, Leere, Sinnlosigkeit, Vergeblichkeit, Zwecklosigkeit	e
 X	ունեզրկում	n	Enteignung, Expropriation	e
 X	ունենալ	v	(als Eigentum oder Ähnliches) besitzen, sein Eigen nennen ; über etwas verfügen ; (als Eigenschaft oder Ähnliches) besitzen, aufweisen; jemandem, einer Sache als Eigenscha… ; vorübergehend von etwas ergriffen, befallen sein; etwas heftig empfinden, verspüren	w
@@ -39258,7 +39203,7 @@ X	ունևոր	adj	wohlhabend, reich	e
 X	ուշ	adv	spät, verspätet, verstorben	e
 X	ուշադիր	adj	aufmerksam, vorsichtig, behutsam, sorgfältig	e
 X	ուշադրություն	n	Aufmerksamkeit, Beachtung, Wachsamkeit	e
-X	ուշանալ	v	sich verspäten, spät dran sein	e
+X	ուշանալ	v	spät dran sein	e
 X	ուշացում	n	Verzögerung, Verspätung	e
 X	ուշիմ	adj	scharf, scharfsinning, spitz, scharfsinnig, einfühlsam, geschickt, clever, ausgekocht	e
 X	ուշունց	n	Missbrauch, Beschimpfung, Schmähung, Fluch, Verwünschung, Verdammnis	e
@@ -39287,7 +39232,7 @@ X	ուսումնասիրություն	n	Forschung, Untersuchung, Forschungsarbe
 X	ուսուցանել	v	lehren, beibringen, unterrichten, instruieren, briefen, anweisen	e
 X	ուսուցիչ	n	Lehrer	w
 X	ուստա	n	Meister, Frauchen, Herrchen, Experte, Fachmann, Fachfrau, Häuptling, Oberhaupt	e
-X	ուստի	konj	deswegen, deshalb, darum, damit, sodass, um ... zu, woher	e
+X	ուստի	konj	deswegen, deshalb, darum, von hier, fort, von hinnen, woher	e
 X	ուստիև	konj	deswegen, deshalb, darum, von hier, fort, von hinnen	e
 X	ուստր	n	Sohn, Buab, Adoptivsohn	e
 X	ուտել	v	essen, fressen, ässe, zerfressen, korrodieren, rosten	e
@@ -39321,7 +39266,6 @@ X	ուրվական	n	Gespenst, Geist, Phantom	e
 X	ուրց	n	Thymian, Thymus, Bries	e
 X	ուֆ	interj	ekeln, Müdigkeit, Ermüdung, Schlappheit	e
 X	Ուֆա	name	Ufa	e
-X	ոք	pron	jemand, einer, wer	e
 X	Չ	num	fünfundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 700 im System des armenischen Zahlensystems	w
 X	չ	num	fünfundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 700 im System des armenischen Zahlensystems	w
 X	չագուչ	n	Hammer, Hàmmer, Schlagstück	e
@@ -39404,7 +39348,6 @@ X	Չեռնոգորիա	name	Montenegro, Schwarzenberg	e
 X	չերոկի	n	Tscherokese	e
 X	չերքեզ	n	Tscherkesse, Tscherkessin	e
 X	Չերքեսկ	name	Tscherkessk	e
-X	չէ	part	nein, nee, nö	e
 X	չէթէլէ	n	Kerbholz, Kerbstock, Zählholz	e
 X	չիբուխ	n	Tschibuk, Pfeife, Schalter, Weiche, Spießrute, Rohr, Rohrstock, Blindenstock	e
 X	չիդար	n	Fußfessel, Spannstrick	e
@@ -39462,7 +39405,6 @@ X	չտես	adj	ignorant, gierig, habgierig, habsüchtig, begierig, eifrig	e
 X	չփլախ	adj	nackt, bloß, fleischfarben, arm, armselig, bedürftig, mittellos	e
 X	չքանալ	v	verschwinden, vergehen, (sich) verflüchtigen, entschwinden, zum Verschwinden bringen	e
 X	չքավոր	adj	arm, armselig, bedürftig, mittellos	e
-X	չքարա	part	wenn auch, wenn doch nur, wenn bloß	e
 X	չքնաղ	adj	wunderbar, wundersam	e
 X	Պ	num	sechsundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 800 im System des armenischen Zahlensystems	w
 X	պ	num	sechsundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 800 im System des armenischen Zahlensystems	w
@@ -39492,7 +39434,7 @@ X	պակասեցնել	v	vermindern, verkleinern, reduzieren, abnehmen, verringe
 X	պակասություն	n	Mangel, Knappheit, Fehler, Defekt, Schuld, Charakterschwäche, Sprung, Riss	e
 X	պակասուրդ	n	Defizit	e
 X	Պակիստան	name	Pakistan	e
-X	պահ	n	Augenblick, Moment, Zeitpunkt, Instantessen, Zeit, Zit, Ziit, Abwehrspannung	e
+X	պահ	n	Augenblick, Moment, Zeitpunkt, Instantessen, Abwehrspannung	e
 X	պահածոյանալ	v	konserviert, Dosen-	e
 X	պահակ	n	Wächter, Parierstange, Schutz	e
 X	պահանջ	n	Nachfrage, Bedarf, Anspruch, Rechtstitel, Behauptung	e
@@ -39588,7 +39530,7 @@ X	պաստառ	n	Tapete, Hintergrundbild, Wallpaper, Polsterung, Banner, Spruchb
 X	պավլ	n	Urin, Harn	e
 X	պատ	n	Wall, Mauer, Muur, Patt, Pattstellung, Stillstand	e
 X	պատալոկ	n	Decke, Plafond, Zimmerdecke	e
-X	պատահաբար	adv	zufällig, von ungefähr, durch Zufall, aus Versehen	e
+X	պատահաբար	adv	zufällig, durch Zufall, aus Versehen	e
 X	պատահական	adj	versehentlich, zufällig, Durchschnitts-, random, durch Zufall, aus Versehen	e
 X	պատահականություն	n	zufälliges Zusammentreffen, Koinzidenz, Zufall, Gelegenheit, Möglichkeit, Chance	e
 X	պատահար	n	Vorfall, Begebenheit, Ereignis, Geschehnis, Vorgang	e
@@ -39599,7 +39541,7 @@ X	պատանեկություն	n	Jugend, Jugendlichkeit, Jugendzeit, Adoleszenz,
 X	պատանի	n	Jugendliche, Jugendlicher, Jugend, Jugendlichkeit, Jugendzeit, heranwachsend, jugendlich, jung	e
 X	պատառ	n	Scheibe, Slice, Stück, Spielfigur, Offizier, Gebiss, Mundstück, Bohrer	e
 X	պատառաքաղ	n	Gabel f	w
-X	պատասխան	n	Antwort, Entgegnung, Lösung, gegenseitig, reziprok, entgegengesetzt, im Gegenzug	e
+X	պատասխան	n	Antwort, Entgegnung, Lösung, gegenseitig, reziprok, entgegengesetzt	e
 X	պատասխանատու	adj	verantwortlich, vernünftig, verantwortungsvoll	e
 X	պատասխանատվություն	n	Verantwortung, Verantwortlichkeit, Pflicht, Schuld, Schulden, Verbindlichkeit	e
 X	պատասխանել	v	antworten	e
@@ -39633,8 +39575,8 @@ X	պատկերացում	n	Idee, Ahnung, Begriff, Ansicht, Auffassung	e
 X	պատկերել	v	darstellen, beschreiben, abbilden, porträtieren, abmalen	e
 X	պատճառ	n	Grund, Ursache, Verstand, Anlass	e
 X	պատճառական	n	Kausativ m ; Zeitwort des Veranlassens	w
-X	պատճառավ	präp	dank, vermöge, mit, wegen, vor	e
-X	պատճառել	v	verursachen, auslösen, lassen, tun, ja, doch	e
+X	պատճառավ	präp	wegen, vor	e
+X	պատճառել	v	verursachen, auslösen, lassen	e
 X	պատճառով	präp	wegen, vor	e
 X	պատճեն	n	Kopie, Nachahmung, Exemplar	e
 X	պատճենահան	n	Fotokopierer, Fotokopiergerät, Kopiergerät, Kopierer	e
@@ -39676,9 +39618,9 @@ X	պատվոգիր	n	Diplom, Abgangszeugnis	e
 X	պատրանք	n	Illusion, Wahnvorstellung, Sinnestäuschung, Traum, Draam, Wunsch	e
 X	պատրաստ	adj	bereit, fertig, gar	e
 X	պատրաստակամ	adj	willens, gewillt, willig, verbindlich	e
-X	պատրաստել	v	vorbereiten, präparieren, zubereiten, machen, bauen, produzieren, herstellen, erzeugen	e
+X	պատրաստել	v	vorbereiten, präparieren, zubereiten, herstellen, erzeugen, anfertigen, produzieren, vorlegen	e
 X	պատրաստություն	n	Bereitschaft, Vorbereitung, Präparat, Probe (Anatomie)	e
-X	պատրաստվել	v	bereit machen, fertig machen, klar machen, lernen, studieren, erforschen	e
+X	պատրաստվել	v	lernen, studieren, erforschen	e
 X	պատրինջ	n	Zitronenmelisse, Gartenmelisse, Melisse	e
 X	պատրոնդաշ	n	Patronentasche	e
 X	պատրույգ	n	Docht, Dacht, Kerzendocht, Zündschnur, Zünder, Sicherung	e
@@ -39758,7 +39700,7 @@ X	պարսկերեն	n	Perser, Perserin, Perserkatze	e
 X	Պարսք	name	Persis	e
 X	պարտ	adj	verpflichtet, fällig, angemessen, gebührend, geeignet, richtig, passend	e
 X	պարտադիր	adj	obligatorisch, pflichtmäßig, gesetzlich	e
-X	պարտադրել	v	verpflichten, einen Gefallen tun, bezwingen, unterwerfen, zwingen, erzwingen, machen, bauen	e
+X	պարտադրել	v	verpflichten, einen Gefallen tun, bezwingen, unterwerfen, zwingen, erzwingen	e
 X	պարտականություն	n	Pflicht, Schicht, Arbeitszeit, Verpflichtung, Verantwortung, Verantwortlichkeit	e
 X	պարտաճանաչ	adj	gehorsam, folgsam, unterwürfig	e
 X	պարտապան	n	Schuldner, Schuldnerin	e
@@ -40175,7 +40117,7 @@ X	ռազվոդ	n	Scheidung, Ehescheidung	e
 X	ռաժոկ	n	Schuhanzieher, Schuhlöffel	e
 X	ռակ	n	Flusskrebs, Krebs	e
 X	Ռակկա	name	Ar-Raqqa	e
-X	ռահ	n	Weg, Weise, Art, Straße	e
+X	ռահ	n	Straße	e
 X	ռահվիրա	n	Vorreiter, Vorreiterin, Wegbereiter, Phanderi, Pionier	e
 X	ռաղամ	n	Abbildung, Figur, Gestalt, Ziffer, Verschlüsselung, Verschlüsselungssystem, Arithmetik, Rechenkunst	e
 X	ռամ	n	Geomantie	e
@@ -40292,7 +40234,6 @@ X	ռևանշ	n	Revanche, Rache, Vergeltung	e
 X	ռևիզիոնիզմ	n	Revisionismus, Geschichtsrevisionismus	e
 X	Ս	num	neunundzwanzigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 2000 im System des armenischen Zahlensystems	w
 X	ս	num	neunundzwanzigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 2000 im System des armenischen Zahlensystems	w
-X	սա	pron	dieser, diese, dieses	e
 X	սաբոտաժ	n	Sabotage	e
 X	սագ	n	Gans	e
 X	սագո	n	Sago	e
@@ -40317,7 +40258,7 @@ X	Սալվադոր	name	El Salvador	e
 X	սալֆետկա	n	Serviette, Mundtuch	e
 X	Սախալին	name	Sachalin	e
 X	սախատ	adj	verkrüppelt	e
-X	սակայն	konj	aber, aber trotzdem, sondern, wie auch immer, egal wie, doch	e
+X	սակայն	konj	wie auch immer, egal wie, doch	e
 X	սակավ	adj	wenig, klein, lütt, selten, rar, verdünnt, kaum, ungefähr	e
 X	սակավաթիվ	adj	wenig	e
 X	սակավախոս	adj	schweigsam, wortkarg, maulfaul, reserviert	e
@@ -40371,7 +40312,7 @@ X	Սամոսատ	name	Samosata	e
 X	սամույր	n	Zobel, Schwarz	e
 X	սամուրայ	n	Samurai	e
 X	սամսար	n	Steinmarder	e
-X	սայթաքել	v	stolpern, ein Bein stellen, zum Stolpern bringen, ausrutschen, ausgleiten, sich im Ton vergreifen, versehen, Bein stellen	e
+X	սայթաքել	v	stolpern, ein Bein stellen, zum Stolpern bringen, ausrutschen, ausgleiten, sich im Ton vergreifen, Bein stellen	e
 X	սայլ	n	Wagen, Karre, Karren, Fuhre, Ladung	e
 X	սայլակ	n	Schubkarre, Scheibtruhe, Grabhügel, Karren, Karre, Krankatze, Laufkatze, Rollstuhl	e
 X	սայլորդ	n	Fuhrmann m Wagner, Kärrner, Treiber, Treiberin, Fahrer, Träger, Frachtunternehmen, Transportunternehmen	e
@@ -40479,7 +40420,7 @@ X	սարսափուն	adj	furchteinflößend, schreckerregend	e
 X	սարսուռ	n	Zittern, Kälte, Frost, Kühle, Todeszuckung, Angst, Furcht, Angscht	e
 X	սարք	n	Gerät, Apparat, Einheit, Ausrüstung, Equipment, Ausstattung, Ordnung, Reihenfolge	e
 X	սարքավորում	n	Ausrüstung, Equipment, Ausstattung, Gerät, Apparat, Einheit	e
-X	սարքել	v	reparieren, begeben, machen, bauen, produzieren, kreieren, erschaffen, schaffen	e
+X	սարքել	v	reparieren, begeben, kreieren, erschaffen, schaffen	e
 X	սափոր	n	Kanne, Krug, Knast, Pitcher, Werfer, Urne, Kaffeespender, Teespender	e
 X	սափրել	v	rasieren, sich rasieren	e
 X	սափրիչ	n	Barbier, Bartschneider, Bartscherer, Friseur, Friseurin, Coiffeur	e
@@ -40584,10 +40525,10 @@ X	սիդի	n	CD, Kompaktplatte	e
 X	սիեստա	n	Mittagsruhe, Siesta, Mittagsschlaf	e
 X	սիլիցիում	n	Silizium	w
 X	Սիկտիվկար	name	Syktywkar	e
-X	սիկտիր անել	v	sich verirren, sich verlaufen, verloren gehen, verwerfen, abwerfen, ablegen	e
-X	սիկտիր ըլնել	v	sich verficken, sich verpissen, sich verirren, sich verlaufen, verloren gehen, den Bach runtergehen, fahr zu Hölle, fahrt zu Hölle	e
-X	սիկտիրը քաշել	v	sich verficken, sich verpissen, sich verirren, sich verlaufen, verloren gehen, den Bach runtergehen, fahr zu Hölle, fahrt zu Hölle	e
-X	սիկտիրվել	v	sich verficken, sich verpissen, sich verirren, sich verlaufen, verloren gehen, den Bach runtergehen, fahr zu Hölle, fahrt zu Hölle	e
+X	սիկտիր անել	v	verwerfen, abwerfen, ablegen	e
+X	սիկտիր ըլնել	v	sich verficken, sich verpissen, den Bach runtergehen, fahr zu Hölle, fahrt zu Hölle	e
+X	սիկտիրը քաշել	v	sich verficken, sich verpissen, den Bach runtergehen, fahr zu Hölle, fahrt zu Hölle	e
+X	սիկտիրվել	v	sich verficken, sich verpissen, den Bach runtergehen, fahr zu Hölle, fahrt zu Hölle	e
 X	սիմոնականություն	n	Simonie, Ämterkauf	e
 X	սիմվոլ	n	Symbol, Zeichen	e
 X	սիմվոլիկ	adj	symbolisch, symbolträchtig	e
@@ -40601,8 +40542,8 @@ X	սիսեռ	n	Kichererbse	e
 X	սիստեմ	n	System, Ordnung, Verbund	e
 X	սիվրիսինէկ	n	Mücke, Stechmücke, Schnake	e
 X	սիտուացիա	n	Situation, Lage, Ort	e
-X	սիրաբանել	v	flirten, anbaggern, anmachen, Liebe machen, Sex haben	e
-X	սիրալիր	adj	liebenswürdig, liebenswert, gutmütig, freundlich, gütig, lieb, freundlicherweise, bitte	e
+X	սիրաբանել	v	flirten, anbaggern, anmachen	e
+X	սիրալիր	adj	liebenswürdig, liebenswert, gutmütig, freundlich, freundlicherweise, bitte	e
 X	սիրած	n	Geliebter, Geliebte, Liebender, Buhle	e
 X	Սիրակուզա	name	Syrakus, Syracuse	e
 X	Սիրակուսե	name	Syrakus, Syracuse	e
@@ -40616,11 +40557,10 @@ X	սիրեկան	n	Geliebter, Geliebte, Liebender, Buhle	e
 X	Սիրիա	name	Syrien	e
 X	սիրող	n	Amateur, Amateurin, Laie, -phil	e
 X	սիրողական	adj	amateurhaft, unfachmännisch, stümperhaft, laienhaft, Amateur, Amateurin, Laie	e
-X	սիրով	adv	gern, gerne	e
 X	սիրուհի	n	Frau, Meisterin, Herrscherin, Buhle, Geliebte, Geliebter	e
 X	սիրուն	adj	anmutig, attraktiv, charmant, schön, heiter, toll, gut	e
 X	սիրունիկ	adj	goldig, lieb, niedlich, freundlich, sympathisch	e
-X	սիրտ	n	Herz, Härz (als), Herzchen, Person, Mensch, Körper, Wesen, Geschöpf	e
+X	սիրտ	n	Herz, Härz (als), Herzchen, Wesen, Geschöpf, Sein, Individuum, Innenseite	e
 X	սիրտ տալ	wend	Herz geben; trösten, Mut zusprechen	w
 X	սիրտը շարժել	v	sich bewegen, umziehen, zügeln, anfassen, angreifen, berühren	e
 X	Սիցիլիա	name	Sizilien	e
@@ -40639,7 +40579,7 @@ X	Սլովակիա	name	Slowakei	e
 X	սլովեներեն	n	Slowene, Slowenin, Windischer, slowenisch, windisch	e
 X	Սլովենիա	name	Slowenien	e
 X	սխալ	n	Fehler, Irrtum, Schuld, Charakterschwäche, falsch, verkehrt, falschliegen, inkorrekt	e
-X	սխալվել	v	versehen, irren, sich irren, Fehler machen, sich täuschen, sich verschätzen	e
+X	սխալվել	v	irren, sich irren, Fehler machen	e
 X	սխտոր	n	Knoblauch m	w
 X	սխրանք	n	Tapferkeit, Heldenmut, Heroismus, Heldentum, Courage, Herz, Mut, Staunen	e
 X	սկա	n	Riese, Riesin, Gigant	e
@@ -40737,7 +40677,7 @@ X	սովետական	adj	sowjetisch, Sowjet-	e
 X	Սովետական Միություն	name	Sowjetunion	w
 X	սովետական սոցիալիստական հանրապետություն	n	Sowjetrepublik	e
 X	Սովետական Սոցիալիստական Հանրապետությունների Միություն	name	Union der Sozialistischen Sowjetrepubliken	w
-X	սովոր	adj	gewohnt, gewöhnt, früher, damals, mal, gewöhnlich, habituell, üblich	e
+X	սովոր	adj	gewohnt, gewöhnt, gewöhnlich, habituell, üblich	e
 X	սովորաբար	adv	gewöhnlich, allgemein, im Allgemeinen, gewohnheitsmäßig	e
 X	սովորական	adj	gewöhnlich, üblich, gemeinsam, Gemein-, gemeinschaftlich, normal	e
 X	սովորել	v	lernen, studieren, erforschen, erfahren	e
@@ -40871,7 +40811,7 @@ X	ստամբակել	v	missachten, nicht gehorchen, rebellieren, sich auflehnen,
 X	ստամբակություն	n	Ungehorsam, Unverfrorenheit, Frechheit, Unverschämtheit, Rebellion, Aufstand, Aufruhr	e
 X	Ստամբուլ	name	Istanbul	e
 X	ստամոքս	n	Magen, Bauch	e
-X	ստանալ	v	bekommen, erhalten, empfangen, besorgen, holen, erwischen, entnehmen, herausziehen	e
+X	ստանալ	v	bekommen, erhalten, empfangen, erlangen, bestehen, entnehmen, herausziehen, ziehen	e
 X	ստանդարտ	n	Standard, Banner, Standarte, üblich, standardmäßig	e
 X	ստանձնել	v	annehmen, voraussetzen, vermuten	e
 X	Ստավրոպոլ	name	Stawropol	e
@@ -40899,7 +40839,7 @@ X	ստերլետ	n	Stör, Sterlet	e
 X	ստերջ	adj	unfruchtbar, steril, dürr, erntelos, fruchtlos, eitel, unnütz, vergeblich	e
 X	Ստեփանոս	name	Stephanus, Stefan, Stephan	e
 X	ստինք	n	Brust, Brustkorb, -brust, Brustwarze, Sauger, Euter, Quelle, Ursprung	e
-X	ստիպել	v	bezwingen, unterwerfen, zwingen, erzwingen, machen, bauen, produzieren	e
+X	ստիպել	v	bezwingen, unterwerfen, zwingen, erzwingen	e
 X	Ստյոպա	name	winzig, diminutiv, verkleinernd	e
 X	ստոծանի	n	Zwerchfell, Diaphragma, Scheidendiaphragma	e
 X	Ստոկհոլմ	name	Stockholm	e
@@ -40946,7 +40886,6 @@ X	սրածայր	adj	spitz, spitzig	e
 X	սրահ	n	Flur, Gang, Korridor, Salon, Halle, Saal	e
 X	սրամիտ	adj	witzig, geistreich, originell	e
 X	սրամտել	v	witzig, geistreich, originell	e
-X	սրանք	pron	diese	e
 X	սրբագրել	v	Korrektur lesen	e
 X	սրբագրիչ	n	Korrekturleser, Korrektor	e
 X	սրբազան	adj	heilig, geweiht	e
@@ -41011,7 +40950,7 @@ X	Սևաստոպոլ	name	Sewastopol	e
 X	սևավուն	adj	schwärzlich	e
 X	Վ	num	dreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 3000 im System des armenischen Zahlensystems	w
 X	վ	num	dreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 3000 im System des armenischen Zahlensystems	w
-X	վաբշե	adv	allgemein, gewöhnlich, im Allgemeinen, überhaupt, gar, absolut, durchaus, total	e
+X	վաբշե	adv	allgemein, gewöhnlich, im Allgemeinen, absolut, durchaus, total, vollständig, komplett	e
 X	վագոն	n	Eisenbahnwagen, Wagon, Waggon, Kutsche, Wagen, Trainer	e
 X	վագր	n	Tiger, Tigerin, Tigermännchen	e
 X	վագրակատու	n	Gepard	e
@@ -41044,7 +40983,6 @@ X	վախճանակետ	n	Endstation	e
 X	վախճանամերձ	adj	sterbend, im Sterben liegen, moribund, todgeweiht	e
 X	վախճանվել	v	sterben, umkommen, versterben, entschlafen	e
 X	վախնալիք	adj	schrecklich, furchterregend, beängstigend, fürchterlich, schreckerregend	e
-X	վախտ	n	Zeit, Zit, Ziit	e
 X	վակուում	n	Vakuum	e
 X	վահան	n	Schild, Schilt, Schutz	e
 X	վահանագեղձ	n	Schilddrüse	e
@@ -41075,7 +41013,7 @@ X	վայելուչ	adj	angemessen, adäquat, entsprechend, geeignet, passend, ri
 X	վայելք	n	Genuss, Vergnügen, Freude, Entzückung, Wohlgefallen	e
 X	վայիս	adj	boshaft, schädlich, unartig, lästig, leidig, problembeladen	e
 X	Վայմար	name	Weimar	e
-X	վայր	n	Platz, Ort, Stelle, Lage, runter, herunter, hinunter	e
+X	վայր	n	Lage, Ort, Platz, Räumlichkeit, Gegend, Örtlichkeit, runter, herunter	e
 X	վայրագ	adj	wild, brutal, grausam, heftig, bedrohlich	e
 X	վայրագություն	n	Wildheit, Barbarei, Grausamkeit, Gräueltat, Abscheulichkeit	e
 X	վայրաշարժ	n	Lokomotive	e
@@ -41184,7 +41122,7 @@ X	վարսակաշիլա	n	Haferflocken, Haferbrei	e
 X	վարսահարդարիչ	n	Föhn, Haartrockner	e
 X	վարսավիր	n	Barbier, Bartschneider, Bartscherer, Friseur, Friseurin, Coiffeur	e
 X	վարսավիրանոց	n	Friseurgeschäft, Friseurladen, Herrenfriseurladen	e
-X	վարվել	v	handeln, tun, machen, sich benehmen, sich verhalten, ja, doch, verhandeln	e
+X	վարվել	v	handeln, tun, machen, sich benehmen, sich verhalten, verhandeln, behandeln, befassen	e
 X	վարվելակարգ	n	Etikette	e
 X	վարվեցողություն	n	Verhalten, Benehmen, Betragen, Leitung, Führung	e
 X	վարտիք	n	Unterhose, Schlüpfer, Höschen, Hose	e
@@ -41212,14 +41150,14 @@ X	Վենետիկ	name	Venedig	e
 X	վենետիկյան	adj	venezianisch	e
 X	վենետիկցի	n	Venezianer, Venezianerin	e
 X	Վեներա	n	Venus f	w
-X	վեշ	n	Ding, Sache, Gegenstand, Güter, Ware, Sachen, Kram, Zeug	e
+X	վեշ	n	Güter, Ware, Sachen, Kram, Zeug	e
 X	վեշլկա	n	Kleiderbügel, Bügel	e
 X	վեշնի	adv	immer, stets, für immer, ewig, unaufhörlich, ständig, regelmäßig, konstant	e
 X	վեպ	n	Roman, Novelle, Liebesgeschichte, Romanze, große Liebe, Epos, Epopöe, Legende	e
 X	Վեստ Ինդիա	name	Westindien	e
-X	վեր	adv	nach oben, empor, ver-, Oberseite, Vorteil, positive Seite, jenseits	e
+X	վեր	adv	Oberseite, Vorteil, positive Seite, jenseits	e
 X	վեր կենալ	v	aufstehen, aufstellen, sitzen lassen	e
-X	վեր-		re-, wieder-, zurück-, wieder, noch einmal, zurück, nach oben, empor	e
+X	վեր-		re-, wieder-, zurück-, wieder, noch einmal, zurück	e
 X	վերաբերել	v	zuschreiben, zurückführen, hingehören, dazugehören, gehören	e
 X	վերաբերյալ	präp	besorgniserregend, bezüglich, mit Bezug auf	e
 X	վերաբերվել	v	handeln, tun, machen, sich benehmen, sich verhalten, verhandeln, behandeln, befassen	e
@@ -41270,7 +41208,6 @@ X	վերնալ	v	steigen, aufsteigen	e
 X	վերնախավ	n	Elite, Auslese, Oberschicht	e
 X	վերնաշապիկ	n	Hemd	e
 X	վերուվարել	v	abprallen, aufspringen, hüpfen, schütteln, erschüttern, händeschütteln	e
-X	վերուվեր	n	nach oben, empor, ver-	e
 X	վերջ	n	Ende, Schluss, Tod, Ablauf, Beendigung, hinterher, darauf	e
 X	վերջաբան	n	Epilog, Nachwort	e
 X	վերջադիր	n	nach-, post-	e
@@ -41327,7 +41264,7 @@ X	վերստ	n	Werst, Kilometerstein, Meilenstein, Postmeilensäule	e
 X	վերստին	adv	wieder, noch einmal, zurück, wieder einmal, nochmals	e
 X	վերցնել	v	nehmen, greifen, annehmen	e
 X	վերք	n	Wunde, Verletzung	e
-X	վերև	adv	nach oben, empor, ver-, aufwärts	e
+X	վերև	adv	aufwärts	e
 X	վեց	num	sechs, sächs	e
 X	վեցանկյուն	n	Sechseck, 6-Eck, Hexagon	e
 X	վեցերորդ	num	sechste, sechstens	e
@@ -41429,7 +41366,7 @@ X	Վորկուտա	name	Workuta	e
 X	Վորոնեժ	name	Woronesch, Woronesh	e
 X	վուշ	n	Flachs, Lein, Flachsfaser	e
 X	վուվուզելա	n	Vuvuzela	e
-X	վռազ	adv	in Eile, es eilig haben, hastig, schnell, rasch, geschwind, sofort, alsbald	e
+X	վռազ	adv	hastig, schnell, rasch, geschwind, sofort, alsbald, unverzüglich, dringend	e
 X	վռազել	v	sich beeilen, eilen	e
 X	վռնդել	v	rauswerfen, rausschmeißen, wegfahren, davonfahren, vertreiben	e
 X	վստահ	adj	sicher, stichhaltig, hieb- und stichfest, gewiss, irgendein, kühn, tapfer, selbstbewusst	e
@@ -41445,7 +41382,6 @@ X	վտառ	n	Schule, Universität, Hochschule, Herde, Schar, Grube, Loch, Vertie
 X	վտարել	v	wegfahren, davonfahren, vertreiben, entfernen, beseitigen, verdrängen, brennen, feuern	e
 X	վտարում	n	Abschiebung, Ausweisung, Deportation, Exmission, Vertreibung	e
 X	վտիտ	adj	mager, dürr, abgemagert, schwach, out, unschön	e
-X	վրա	präp	an, ein, eingeschaltet, vorbei	e
 X	վրան	n	Zelt, Tabernakel, Stiftshütte, Mischkan	e
 X	Վրաստան	name	Georgien, Grusien, Georgia	e
 X	վրաց	adj	georgisch, grusinisch	e
@@ -41472,12 +41408,12 @@ X	Տալլին	name	Tallinn, Reval	e
 X	տախտ	n	Sofa, Couch	e
 X	տախտակ	n	Brett, Pult, Tafel, Planke, Schwerpunkt, Tisch, Tabelle, Spiegel	e
 X	տախտակամած	n	Terrasse, Kartenstapel, Kartenspiel	e
-X	տակ	präp	unter, weniger als, Boden, Grund, Unterseite, Hinterseite, Nachhut, Wurzel	e
+X	տակ	präp	unter, Boden, Grund, Unterseite, Hinterseite, Nachhut, Wurzel, Wurzeln	e
 X	տականք	n	Bodensatz, Satz, Sediment, Pöbel, Plebs, gemeines Volk, Abschaum, Schwimmschlamm	e
 X	տակաշոր	n	Windel	e
 X	տակառ	n	Fass, Tonne, Gebinde, Faß	e
 X	տակառագործ	n	Küfer, Böttcher, Fassbinder	e
-X	տակավին	adv	noch, doch, trotzdem, bisher, bis jetzt	e
+X	տակավին	adv	noch, doch, trotzdem	e
 X	Տակիտոս	name	Tacitus, Tazitus	e
 X	տակնուվրա	adj	auf dem Kopf, verkehrt herum, verkehrt rum, chaotisch, unruhig, rastlos, ruhelos, beunruhigt	e
 X	տակնուվրայություն	n	Inversion, Unordnung, Unruhen, Störung, Umsturz	e
@@ -41576,7 +41512,7 @@ X	տատիկ	n	Oma, Omi, Großmutti, alte Frau, Alte, Greisin	e
 X	տատմեր	n	Hebamme, Entbindungspfleger, Entbindungspflegerin	e
 X	տատրակ	n	Turteltaube	e
 X	տար	adj	abgelegen, abstehend, distanziert, fern, entfernt	e
-X	տար-		neben, jenseits, vorbei, über, gegenüber, quer, fremd, ausländisch	e
+X	տար-		neben, jenseits, über, gegenüber, quer, fort, weg, fern	e
 X	տարա	n	Behälter, Behältnis, Gefäß	e
 X	տարադրամ	n	Fremdwährung	e
 X	տարաժամանակյա	adj	diachronisch	e
@@ -41654,7 +41590,7 @@ X	տեխնոպարկ	n	Wissenschaftspark	e
 X	տեկիլա	n	Tequila	e
 X	տեկտոնիկա	n	Tektonik	e
 X	տեղ	n	Ort m	w
-X	տեղադրել	v	stellen, platzieren, einordnen, installieren	e
+X	տեղադրել	v	installieren	e
 X	տեղադրում	n	Installation, Anlage	e
 X	տեղակալ	n	Stellvertreter, Stellvertreterin, Deputierter, Assistent, Mitarbeiter, Helfer, Ersatz, Ersatzspieler	e
 X	տեղաճարակ	n	Endemit, Endemie	e
@@ -41673,7 +41609,6 @@ X	տեղեկատվական տեխնոլոգիաներ	n	Informationstechnologie,
 X	տեղեկատվություն	n	Information, Auskunft	e
 X	տեղեկացնել	v	informieren, mitteilen, benachrichtigen	e
 X	տեղեկություն	n	Information, Auskunft	e
-X	տեղի	n	Platz, Ort, Stelle	e
 X	տեղիք	n	Gelegenheit, Mal, Anlass, Ursache, Grund	e
 X	տենդ	n	Fieber, Temperaturerhöhung, Aufregung, Begeisterung, Spannung, Aufwühlung, Agitation	e
 X	տենդախտ	n	Malaria	e
@@ -41684,11 +41619,11 @@ X	տեռորիստ	n	Terrorist, Terroristin	e
 X	տեռորիստական	adj	terroristisch, terror-	e
 X	տեսաերիզ	n	Videokassette	e
 X	տեսախցիկ	n	Videokamera	e
-X	տեսակ	n	Art, Sorte, Spezies, Species	e
+X	տեսակ	n	Art, Spezies, Species	e
 X	տեսական	adj	theoretisch	e
 X	տեսականիշ	n	Unterbegriff, Hyponym	e
 X	տեսականորեն	adv	theoretisch, prinzipiell, rein gedanklich	e
-X	տեսակավորել	v	sortieren, einordnen, einstufen, unterteilen	e
+X	տեսակավորել	v	einordnen, einstufen, unterteilen	e
 X	տեսակետ	n	Blickpunkt, Perspektive, Ansicht, Standpunkt, Sichtweise, Meinung, Anschauung	e
 X	տեսահոլովակ	n	Videoclip	e
 X	տեսանելի	adj	sichtbar, offensichtlich, offenbar	e
@@ -41722,7 +41657,6 @@ X	Տերտերյան	name	Nachname, Familienname	e
 X	տերև	n	Blatt, Laubblatt, Platte	e
 X	տեքստ	n	Text, SMS	e
 X	տզրուկ	n	Blutegel, Egel, Blutsauger, Blutsaugerin	e
-X	տը	art	und, sowie	e
 X	Տիբեթ	name	Tibet	e
 X	տիբեթական	adj	tibetisch, tibetanisch	e
 X	տիբեթերեն	n	Tibeter, Tibeterin, Tibetisch, tibetisch, tibetanisch	e
@@ -41741,7 +41675,7 @@ X	տիկնիկ	n	Puppe, Handpuppe, Marionette	e
 X	Տիկո	name	winzig, diminutiv, verkleinernd	e
 X	տիղմ	n	Schlamm, Matsch, Abwasserschlamm, Kot, Schlick, Schluff	e
 X	Տիմոթեոս	name	Timotheus, Tim, Timo	e
-X	տիպ	n	Abdruck, Eindruck, Impression, stampfen, Stempel, Gepräge, Aufdruck, Art	e
+X	տիպ	n	Abdruck, Eindruck, Impression, stampfen, Stempel, Gepräge, Aufdruck, Klette	e
 X	տիվ	n	heller Tag, Tageszeit, Licht, Lichtquelle, Erleuchtung	e
 X	տիվիթ	n	Schreibzeug, Tintenzeug	e
 X	տիտան	n	Titan	w
@@ -41873,14 +41807,14 @@ X	տպավորություն	n	Abdruck, Eindruck, Impression, Auswirkung, Wirkun
 X	տպավորված	adj	beeindruckt	e
 X	տպարան	n	Druckerei, Typographie	e
 X	տպաքանակ	n	Auflage	e
-X	տպել	v	drucken, ausdrucken, in Druckschrift schreiben, tippen, herausgeben, publizieren, veröffentlichen	e
+X	տպել	v	drucken, ausdrucken, in Druckschrift schreiben, herausgeben, publizieren, veröffentlichen	e
 X	տպիչ	n	Drucker, Druckerin	e
 X	տռան	n	Furzer, Furzerin, Niemand, Großmaul, Grossmaul, Wichtigtuer, Feigling, Angsthase	e
 X	տռել	v	furzen, pfurzen, pupsen, herumspielen, herumgammeln, faulenzen, vernachlässigen, nachlassen	e
 X	տռզել	v	schwellen, anschwellen, anschwellen lassen, aufblasen, aufblähen, plustern, aufplustern	e
 X	տռուզ	adj	angeschwollen, geschwollen, voll, vole, komplett, gefüllt, groß, weit	e
 X	Տվեր	name	Twer	e
-X	տվյալ	adj	vorliegend, gegenwärtig, jetzig, anwesend, dieser, folgend, so ein, Fakt	e
+X	տվյալ	adj	vorliegend, gegenwärtig, jetzig, anwesend, Fakt, Faktum, Informationseinheit, Detail	e
 X	տվյալներ	n	Daten, Informationseinheiten	e
 X	տվյալների բազա	n	Datenbank	e
 X	տրադիցիա	n	Tradition, Überlieferung, Urüberlieferung	e
@@ -41931,7 +41865,7 @@ X	րոպե	n	Minute, Moment, Protokoll, Augenblick, Zeitpunkt	e
 X	րոպեական	adj	augenblicklich, unverzüglich, vorübergehend	e
 X	Ց	num	dreiunddreißigster Buchstabe des armenischen Alphabets (Majuskel) ; Ziffern 6000 im System des armenischen Zahlensystems	w
 X	ց	num	dreiunddreißigster Buchstabe des armenischen Alphabets (Minuskel) ; Ziffern 6000 im System des armenischen Zahlensystems	w
-X	ց-		bis, bis zu, bis an, gewachsen, an jemandem liegen	e
+X	ց-		bis, bis zu, bis an	e
 X	ցախ	n	Reisig, Gestrüpp, Brennholz, Feuerholz	e
 X	ցախանոց	n	Holzschuppen	e
 X	ցախավել	n	Besen, Baasa, Bäse	e
@@ -41942,7 +41876,7 @@ X	ցածր	adj	niedrig, niedergeschlagen, schwach	e
 X	ցամաք	adj	trocken, leblos, Erde, Land, Grund	e
 X	ցամաքահանում	n	Landung, Treppenabsatz, Anlegeplatz	e
 X	ցամաքային	adj	irdisch, terrestrisch, Erd-, Land, Länder, Vaterland	e
-X	ցայգ	adv	in der Nacht, nachts, während der Nacht, Nacht	e
+X	ցայգ	adv	Nacht	e
 X	ցայսօր	adv	bis dahin, bis dato, bisher	e
 X	ցայտնոտ	n	Zeitnot, Zeitdruck, Zeitmangel	e
 X	ցան	n	Saat, Ausschlag, Hautausschlag, Dünger, Mist, Dung, Odel	e
@@ -41970,7 +41904,6 @@ X	ցավոք	part	leider, unglücklicherweise, bedauerlicherweise	e
 X	ցատկ	n	Sprung	e
 X	ցատկել	v	springen, hüpfen, zucken	e
 X	ցատկոտել	v	hochspringen, heraufspringen, raufspringen, scherzen, filzen	e
-X	ցարական	adj	aus, von, über	e
 X	ցացիկի	n	Zaziki, Tsatsiki	e
 X	ցաքի	n	Christusdorn	e
 X	ցեզիում	n	Cäsium	w
@@ -42129,7 +42062,7 @@ X	փաստարկություն	n	Argumentation	e
 X	փաստարկում	n	Argumentation	e
 X	փաստացի	adj	tatsächlich, konkret, gegenwärtig, wahr, wirklich, echt, praktisch, eigentlich	e
 X	փաստել	v	beweisen, prüfen, sich herausstellen, feststellen, etablieren, eröffnen	e
-X	փաստորեն	adv	so, sehr, eigentlich, tatsächlich, in Wirklichkeit, de facto	e
+X	փաստորեն	adv	eigentlich, tatsächlich, in Wirklichkeit, de facto	e
 X	փաստում	n	Gründung, Errichtung, Herstellung, Bestimmung, Unterscheidung, Determination	e
 X	փարա	n	Geld, Bargeld, Vermögen	e
 X	փարախ	n	Schafstall, Schafhürde, Bienenhaus, Apiarium, Bienenstand	e
@@ -42220,7 +42153,7 @@ X	փոխաբերական	adj	metaphorisch, bildlich, figürlich	e
 X	փոխաբերություն	n	Metapher	e
 X	փոխադրել	v	transportieren, befördern, verfrachten	e
 X	փոխան	n	Unterhose, Schlüpfer, Höschen	e
-X	փոխանակ	präp	an Stelle von, anstelle von, statt, anstatt	e
+X	փոխանակ	präp	an Stelle von, anstelle von, statt	e
 X	փոխանակել	v	tauschen, umtauschen, austauschen, vertauschen	e
 X	փոխանակման կետ	n	Wechselstelle, Wechselstube	e
 X	փոխանակություն	n	Austausch, Tausch, Börse, Autobahnkreuz, Autobahndreieck, Knoten	e
@@ -42289,7 +42222,7 @@ X	փութաջան	adj	eifrig, begeistert, begierig, gierig, fleißig, arbeitsam
 X	փութաջանորեն	adv	in eifriger Weise, eifrig, fleißig, gründlich, vollkommen, total	e
 X	փութաջանություն	n	Eifer, Begeisterung, Sorgfalt, Fleiß, Gründlichkeit, Genauigkeit, Gewissenhaftigkeit	e
 X	փութացնել	v	hetzen, sich beeilen, eilen, hasten, beschleunigen	e
-X	փութով	adv	in Eile, hastig, fleißig, schnell, rasch, geschwind	e
+X	փութով	adv	hastig, fleißig, schnell, rasch, geschwind	e
 X	փուլ	n	Phase, Stufe, Etappe, Bühne, Fall, Absturz, Niedergang	e
 X	փույթ	n	Sorge, Pflege	e
 X	փունջ	n	Blumenstrauß, Bouquet, Bund, Strauß, Traube, Quaste, Klunker, Troddel	e
@@ -42315,7 +42248,7 @@ X	փոքրիկ	adj	winzig, klein, gering, chlii, Baby, Säugling, Kleinkind	e
 X	փոքրիշատե	adv	mehr oder weniger, ungefähr, mehr oder minder, etwas, einigermaßen	e
 X	փչակ	n	Baumhöhle	e
 X	փչանալ	v	verrotten, verderben, faulen, verfallen, verschlechtern, sich verschlechtern, verschlimmern	e
-X	փչացած	adj	verdorben, verwöhnt, verzogen, kaduk, zerbrochen, zersplittert, gebrochen, durcheinander	e
+X	փչացած	adj	verdorben, verwöhnt, verzogen, kaduk, zerbrochen, zersplittert, gebrochen, fehlerhaft	e
 X	փչացնել	v	plündern, ruinieren, verderben, auf die Knie zwingen, vernichten	e
 X	փչել	v	blasen, pusten, wehen, aufblasen, aufpumpen, aufblähen, löschen, auslöschen	e
 X	փռթկացնել	v	glucksen, kichern	e
@@ -42398,7 +42331,6 @@ X	քայլ	n	Schritt, Stufe, Sprosse, Gangart, Passgang, Umzug, Zug, Spielzug	e
 X	քայլել	v	gehen, laufe, freigelassen werden, treten, schreiten, hin- und herwandern, auf- und abschreiten, streifen	e
 X	քայլերգ	n	Marsch, Parade, Marschmusik	e
 X	քայլերթ	n	Marsch, Parade, Marschmusik	e
-X	քան	konj	als	e
 X	քանակ	n	Quantität, Menge, in Klammern, Zahl, Nummer, Ziffer	e
 X	քանակական	adj	quantitativ, grundsätzlich, kardinalrot	e
 X	քանակական թվական	wend	Grundzahl, Kardinalzahl	w
@@ -42411,7 +42343,6 @@ X	քանդակագործ	n	Skulpteur, Skulpteurin, Bildhauer	e
 X	քանդել	v	abreißen, niederreißen, auseinander gehen, Schluss machen	e
 X	քանդվել	v	auseinander gehen, Schluss machen	e
 X	քանզի	konj	weil, denn, da	e
-X	քանի	adv	solange, während	e
 X	քանի որ	konj	weil, denn, da	e
 X	քանիցս	adv	des Öfteren, vielmals	e
 X	քանոն	n	Lineal, Herrscher, Herrscherin	e
@@ -42570,7 +42501,7 @@ X	քնաշրջություն	n	Schlafwandeln, Nachtwandeln, Somnambulismus	e
 X	քնապարկ	n	Schlafsack	e
 X	քնար	n	Leier, Lyra	e
 X	քնարահավ	n	Leierschwanz	e
-X	քնել	v	schlafen, pennen, schlaaffe, einschlafen, einpennen, entschlafen, Sex haben, Liebe machen	e
+X	քնել	v	schlafen, pennen, schlaaffe, einschlafen, einpennen, entschlafen, sterben, umkommen	e
 X	քնկոտ	adj	schläfrig, verschlafen, einschläfernd, müde	e
 X	քննադատ	n	Kritiker, Kritikerin, Gegner	e
 X	քննադատել	v	kritisieren, Kritik üben, abwägen	e
@@ -42593,7 +42524,7 @@ X	քոչվոր	n	Nomade, Nomadin, nomadisch, Nomaden-, Zug-	e
 X	քոչվորական	adj	nomadisch, Nomaden-	e
 X	քոռ	adj	blind, unkritisch, ignorant, stumpf, abgestumpft, träge, fad, langweilig	e
 X	քոս	n	Jucken, Juckreiz, Schorf, Kruste, Wundschorf, Krätze, Räude, Grind	e
-X	քով	präp	nah, bei, neben, ba	e
+X	քով	präp	nah	e
 X	քոր	n	Jucken, Juckreiz	e
 X	քորել	v	kratzen, zerkratzen, verkratzen	e
 X	քորուք	n	Blasebalg, Balg	e
@@ -42964,4 +42895,4 @@ X	ֆրիզյան	adj	friesisch	e
 X	ֆրիուլերեն	n	Friaulisch, Friulanisch, Furlanisch	e
 X	Ֆրիուլի	name	Friaul	e
 X	և		siebenunddreißigster Buchstabe des armenischen Alphabets (Minuskel)	w
-X	ևս	adv	mehr, auch, sowie, genauso gut, zu, allzu, wieder, noch einmal	e
+X	ևս	adv	mehr, auch, zu, allzu, wieder, noch einmal, zurück	e

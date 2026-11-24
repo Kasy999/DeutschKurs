@@ -29238,23 +29238,19 @@ D	Ühra				საათი	e
 D	üppig			adj	მწვანე	e
 D	Łódź	das			ლოძი	e
 D	Šiauliai				შიაულიაი	e
-X	-ა		IS	e
 X	-ას		wann, als, wenn	e
-X	-გან	präp	von, aus, vor, außer, bei, neben, ba	e
-X	-გვარი		Art, Sorte, Letter, -artig, -ähnlich, -haft	e
-X	-დან	präp	von, aus, vor, außer	e
+X	-გვარი		-artig, -ähnlich, -haft	e
+X	-დან	präp	seitdem, seither	e
 X	-ებ-		intransitiv	e
 X	-ება		-ismus, -nis, -heit, -keit	e
 X	-ებრ	präp	mögen, gern haben, gefallen	e
 X	-ებური		-esk, -haft, -lich, -ig	e
 X	-ედი		räumlich, Raum-	e
 X	-ელი		-er, -isch	e
-X	-ვით	präp	mögen, gern haben, gefallen, so ... wie	e
-X	-ზე	präp	an, ein, eingeschaltet, über, jenseits, auf, um... (herum), bereit zu	e
+X	-ვით	präp	mögen, gern haben, gefallen	e
+X	-ზე	präp	über, jenseits	e
 X	-თა		genitivisch, genetivisch, ergativ, ergativisch, Dativ-, dativisch	e
-X	-თან	präp	mit, gegen, nebst	e
 X	-თან ერთად	präp	zusammen mit, gemeinsam mit, mitsamt	e
-X	-თვის	präp	da, weil, denn	e
 X	-იანი		-ig, -chen, -lein, -voll	e
 X	-იერი		-te, -test, -ten	e
 X	-ილება		Beispiel, Fall, Instanz, Staat, Land, Bundesland	e
@@ -29262,8 +29258,8 @@ X	-ილი		Ergebnis, Resultat	e
 X	-ისას		wann, als, wenn, während, unter, in	e
 X	-ისტი		-ist	e
 X	-ლოგია		-kunde, -lehre, -wissenschaft	e
-X	-მდე	präp	gewachsen, bis zu, an jemandem liegen, zu, -en, bis	e
-X	-ნაირი		Art, Sorte, Letter, -artig, -ähnlich, -haft	e
+X	-მდე	präp	bis, vor, bis zu, bis an	e
+X	-ნაირი		-artig, -ähnlich, -haft	e
 X	-ნაცვალი		stief-	e
 X	-ობა		besonders, extra, speziell, Eigentum, Besitz, Anwesen	e
 X	-ოდე		-haft, -lich, -ig	e
@@ -29278,10 +29274,8 @@ X	-ფილია		-philie	e
 X	-ფობი		-fob	e
 X	-ფობია		-phobie, -hass, -feindlichkeit	e
 X	-ღა	part	Ärger, Irritation, Verärgerung, verzweifeln, zur Verzweiflung bringen, die Hoffnung aufgeben, einzig, einzigartig	e
-X	-ში	präp	in, von, unter, gen, gegen	e
 X	-ც	part	auch, zu, allzu	e
 X	-ხან	präp	wann, als, wenn	e
-X	-ხელ		Zeit, Zit, Ziit	e
 X	00-იანები	n	Nullerjahre, Nuller	e
 X	00-იანი წლები	n	Nullerjahre, Nuller	e
 X	20-იანები	n	zwanziger Jahre, Zwanziger, 20er	e
@@ -29616,9 +29610,9 @@ X	ადმინისტრაციული	adj	administrativ	e
 X	ადმინისტრაციული სამართალი	n	Verwaltungsrecht	e
 X	ადმირალი	n	Admiral	e
 X	ადოლაშვილი	name	Nachname, Familienname	e
-X	ადრე	adv	früh, in der Vergangenheit, früher	e
+X	ადრე	adv	früh	e
 X	ადრე თუ გვიან	wend	früher oder später	e
-X	ადრევე	adv	vorher, zuvor, davor, von Anfang an, von vornherein	e
+X	ადრევე	adv	vorher, zuvor, davor	e
 X	ადრესანტი	n	Absender, Sender	w
 X	ადრესატი	n	Empfänger einer Nachricht, insbesondere im Postwesen	w
 X	ადრეულა	adj	früh, verfrüht, frühzeitig	e
@@ -29630,7 +29624,6 @@ X	ადრეული შუა საუკუნეები	name	Frühmitte
 X	ადრიანე	name	Adrian	e
 X	ადრიანი	adj	früh, verfrüht, frühzeitig	e
 X	ადრიატიკის ზღვა	name	Adria, Adriatisches Meer	e
-X	ადრიდან	adv	von Anfang an, von vornherein	e
 X	ადრინდელი	adj	vorherig, alt, vergangen	e
 X	ადუაშვილი	name	Nachname, Familienname	e
 X	ადუღებს	v	sieden, kochen	e
@@ -29874,7 +29867,7 @@ X	აკაკუნებს	v	klopfen, schlagen	e
 X	აკანკალებული	adj	exaltiert	e
 X	აკაჟუ	n	Kaschu, Kaschubaum, Cashewkern, Cashewnuss	e
 X	აკაცია	n	Gattung dorniger Bäume und Sträucher der Tropen und Subtropen	w
-X	აკეთებს	v	machen, bauen, produzieren, flicken, reparieren, begeben, fixieren	e
+X	აკეთებს	v	flicken, reparieren, begeben, fixieren	e
 X	აკერებს	v	schlagen, Stück, Spielfigur, Offizier, Vamp	e
 X	აკვალანგი	n	Aqualunge, Drucklufttauchgerät	w
 X	აკვამარინი	n	durchsichtiges Mineral, Varietät des Berylls, von hellblauer bis meergrüner Farbe, das al…	w
@@ -29961,7 +29954,7 @@ X	ალაბამა	name	Alabama	e
 X	ალაგარდაშვილი	name	Nachname, Familienname	e
 X	ალაგე	n	Eingang, Einfahrt, Zutritt, Zauntritt, Zaunübertritt, Mauertritt	e
 X	ალაგებს	v	ausgeben, auslegen, darlegen, absetzen, abstellen, ablegen, arrangieren, systematisieren	e
-X	ალაგი	n	Platz, Ort, Stelle, Dienst, Service, Dienstleistung, Aufgabe, Auftrag	e
+X	ალაგი	n	Dienst, Service, Dienstleistung, Aufgabe, Auftrag, Arbeit	e
 X	ალადინი	name	Aladin	e
 X	ალავერდაშვილი	name	Nachname, Familienname	e
 X	ალავერდი	n	Luzerne, Alfalfa, Luzern	e
@@ -30047,7 +30040,6 @@ X	ალკოჰოლი	n	gängige Bezeichnung für Ethanol ; speziell und ku
 X	ალკოჰოლიანი	adj	alkoholisch, alkoholhaltig	e
 X	ალკოჰოლიზმი	n	ist die seelische und körperliche Abhängigkeit von der Droge Alkohol	w
 X	ალკოჰოლიკი	n	jemand, der auf regelmäßigen Alkoholgenuss angewiesen und von Alkohol abhängig ist	w
-X	ალკოჰოლის ზემოქმედების ქვეშ	adv	unter Einfluss von Alkohol, unter dem Einfluss von Alkohol	e
 X	ალკოჰოლის ზემოქმედების ქვეშ მართვა	n	Alkohol am Steuer, Alkolenken, (semi-formal) Trunkenheit am Steuer	e
 X	ალკოჰოლური	adj	alkoholisch, alkoholhaltig	e
 X	ალკუნი	n	Eisvogel, ruhig, glücklich, friedlich	e
@@ -30117,9 +30109,6 @@ X	ალცჰაიმერი	n	kurz für ალცჰაიმერის �
 X	ალცჰაიმერის დაავადება	n	Alzheimer, Alzheimer-Krankheit	e
 X	ალხაზიშვილი	name	Nachname, Familienname	e
 X	ალხი	n	Durchfall, Dünnschiss, Diarrhö, mager, dürr, schlank, heiß, warm	e
-X	ამ დილას	adv	heute Morgen, heute Vormittag	e
-X	ამ ერთხელ	adv	wenigstens einmal, wenigstens ein einziges Mal	e
-X	ამ საღამოს	adv	heute Abend	e
 X	ამაგი	n	für eine bestimmte Person oder für etwas Bestimmtes vollbrachte gute Tat; verdienstvolle,…	w
 X	ამავდროულად	adv	gleichzeitig, währenddessen, inzwischen, derweil, zeitgleich, zugleich	e
 X	ამავდროული	adj	gleichzeitig, simultan, zeitgenössisch, parallel, zufällig	e
@@ -30176,9 +30165,7 @@ X	ამბრაზურა	n	Scharte, Schießscharte, Ausflucht, Hintertürch
 X	ამბრიაშვილი	name	Nachname, Familienname	e
 X	ამბროსაშვილი	name	Nachname, Familienname	e
 X	ამბროსიშვილი	name	Nachname, Familienname	e
-X	ამგვარი	art	solch, derartig, so ein	e
 X	ამდგარი	adj	aufrecht, hochkant, erigiert	e
-X	ამდენად	adv	beinahe, so gut wie, fast	e
 X	ამდროინდელი	adj	gegenwärtig, aktuell, zeitnah, jetzig, anwesend	e
 X	ამება	n	eukaryotischer Einzeller, der durch ständige Änderung seiner Gestalt ausgezeichnet ist	w
 X	ამეთვისტო	n	Mineral, Varietät des Quarz, durchsichtiger Halbedelstein von violetter Farbe, der als Sc…	w
@@ -30195,12 +30182,11 @@ X	ამერიკული ინგლისური	name	US-amerikanisches
 X	ამერიკული ოცნება	n	amerikanischer Traum	e
 X	ამერიკული ფეხბურთი	n	Football, American Football	e
 X	ამერიციუმი	n	Americium	e
-X	ამზადებს	v	vorbereiten, präparieren, zubereiten, machen, bauen, produzieren	e
+X	ამზადებს	v	vorbereiten, präparieren, zubereiten	e
 X	ამთავრებს	v	beenden, fertigstellen, enden	e
 X	ამთვისებელი	adj	scharfsinnig, einfühlsam	e
 X	ამთქნარებს	v	gähnen	e
 X	ამიაკი	n	Ammoniak	e
-X	ამიერიდან	adv	ab jetzt, von jetzt an	e
 X	ამით	adv	hiermit, hierdurch, hierbei, dadurch, damit, deswegen	e
 X	ამინ	interj	amen	e
 X	ამინაშვილი	name	Nachname, Familienname	e
@@ -30217,7 +30203,6 @@ X	ამიტომაც	adv	deswegen, deshalb, darum, so, also, demnach	e
 X	ამკობს	v	ausschmücken, dekorieren, tapezieren	e
 X	ამლაყი	adj	befleckt, gesprenkelt	e
 X	ამნაირად	adv	so, also, demnach	e
-X	ამნაირი	adj	solch, derartig, so ein	e
 X	ამნეზია	n	Amnesie	e
 X	ამნიაშვილი	name	Nachname, Familienname	e
 X	ამნიონური სითხე	n	Fruchtwasser, Amnionflüssigkeit	e
@@ -30282,10 +30267,9 @@ X	ამწყობის ენა	n	Assemblersprache	e
 X	ამხანაგი	n	Kamerad, Genosse, Genossin, Gefährte, Paar	e
 X	ამხანაგობა	n	Gemeinschaft, Kameradschaft	e
 X	ამხედრებული	adj	rittlings	e
-X	ამჯერად	adv	heute in, diesmal	e
 X	ამჯერადი	adj	gegenwärtig, aktuell, zeitnah, jetzig, anwesend	e
 X	ამჯობინებს	v	vorziehen, bevorzugen, präferieren	e
-X	ან	konj	oder, entweder, entweder ... oder	e
+X	ან	konj	entweder, entweder ... oder	e
 X	ანაბარი	n	Ablagerung, Vorkommen, Verwahrung	e
 X	ანაბეჭდი	n	beeindrucken, prägen, Gepräge, Abdruck, Aufdruck, Druckschrift, Schrift	e
 X	ანაგვიანებს	v	vermüllen, wegwerfen, werfen	e
@@ -30376,7 +30360,6 @@ X	ანგოლა	name	Angola	e
 X	ანგოლის რესპუბლიკა	name	Republik Angola	e
 X	ანგორა	name	Angorakaninchen	e
 X	ანგრევს	v	zerstören, vernichten, kaputtmachen, abreißen, niederreißen	e
-X	ანდა	konj	oder, sonst, anders, andernfalls	e
 X	ანდაზა	n	Sprichwort, Denkspruch, Redensart	e
 X	ანდალუსია	name	Andalusien	e
 X	ანდამატი	n	Magnet, Diamant, Brillant, Karo	e
@@ -30471,7 +30454,6 @@ X	ანტრაქტი	n	Zwischenspiel	e
 X	ანტრეკოტი	n	Entrecôte, Entrecote	e
 X	ანტრესოლი	n	Mezzanin, Empore, Galerie	e
 X	ანტურაჟი	n	Gefolge	e
-X	ანუ	konj	das heißt	e
 X	ანუაშვილი	name	Nachname, Familienname	e
 X	ანუგეშებს	v	trösten, ermutigen	e
 X	ანულირება	n	Annullierung, Nichtigerklärung, Aufhebung, Kündigung, Streichung	e
@@ -30493,7 +30475,6 @@ X	აპენდიციტი	n	Blinddarmentzündung, Appendizitis	e
 X	აპენინის ნახევარკუნძული	name	Apenninhalbinsel	e
 X	აპერკოტი	n	Uppercut, Aufwärtshaken	e
 X	აპი	n	App	e
-X	აპირებს	v	werden	e
 X	აპკოვანი	adj	membranartig, mit Schwimmhäuten	e
 X	აპლიკაცია	n	Anwendung, Applikation, App	e
 X	აპლოდისმენტი	n	Applaus, Beifall	e
@@ -30511,9 +30492,7 @@ X	აპრილი	n	April	w
 X	აპრიორული	adj	früher, vorausgehend, vorgängig	e
 X	აპროტესტებს	v	protestieren, demonstrieren, Einspruch erheben	e
 X	აჟიოტაჟი	n	Aufheben, Aufregung, Aufruhr, Erregung	e
-X	არ	part	nicht, net, nit, nein, nee, nö	e
-X	არა	interj	kein, verboten	e
-X	არა უშავს	wend	macht nichts, ganz egal, das macht nichts, nicht schlecht, nicht schlimm	e
+X	არა უშავს	wend	macht nichts, ganz egal, das macht nichts	e
 X	არა-		-los	e
 X	არაადამიანური	adj	unmenschlich, inhuman	e
 X	არაადეკვატური	adj	unzureichend, unzulänglich, unangemessen	e
@@ -30545,7 +30524,7 @@ X	არადამაკმაყოფილებლად	adv	unbefriedigen
 X	არადემოკრატიული	adj	undemokratisch	e
 X	არაერთხელ	adv	immer wieder, immerzu, ständig	e
 X	არავი	adj	südlich, Süd-, südländisch, warm, warmherzig, fürsorglich	e
-X	არავინ	pron	Niemand, niemand, keiner	e
+X	არავინ	pron	Niemand	e
 X	არაზუსტი	adj	ungenau, inakkurat	e
 X	არათანაბარი	adj	ungleich, uneben	e
 X	არათანაბრად	adv	ungleich	e
@@ -30573,7 +30552,6 @@ X	არამართებული	adj	inkorrekt, unwahr, inakzeptabel	e
 X	არამდგრადი	adj	volatil, flüchtig, verdunstend, instabil, labil, unhaltbar	e
 X	არამდგრადობა	n	Schwankung, Fluktuation, Volatilität, Flüchtigkeit, Instabilität	e
 X	არამეგობრული	adj	feindlich, feindselig, gegnerisch	e
-X	არამედ	konj	im Gegenteil, aber, aber trotzdem, sondern	e
 X	არამზადა	n	Schwindler, Schwindlerin, Gauner, Gaunerin, Halunke	e
 X	არამიწიერი	adj	überirdisch, unheimlich	e
 X	არამნიშვნელოვანი	adj	unwichtig	e
@@ -30687,13 +30665,11 @@ X	არეულობა	n	Unordnung, Unruhen, Störung, holterdiepolter, Hals
 X	არეშიძე	name	Nachname, Familienname	e
 X	ართავს	v	rotieren, schleudern, spinnen	e
 X	ართურმა	n	Bockspringen	e
-X	არი	v	IS	e
 X	არია	n	Arie	e
 X	არიერგარდი	n	Nachhut	e
 X	არიზონა	name	Arizona	e
 X	არითმეტიკა	n	Arithmetik, Rechenkunst, Rechenkunde	e
 X	არითმეტიკულად	adv	arithmetisch	e
-X	არის	v	werden, sein, existieren	e
 X	არისტოკრატი	n	Aristokrat, Aristokratin, Patrizier	e
 X	არისტოკრატია	n	Aristokratie	e
 X	არისტოტელე	name	Aristoteles	e
@@ -30777,7 +30753,6 @@ X	არჩემაშვილი	name	Nachname, Familienname	e
 X	არჩეული პრეზიდენტი	n	designierter Präsident, gewählter Präsident	e
 X	არჩვი	n	Gämse, Gams, Sämischleder	e
 X	არჩუაშვილი	name	Nachname, Familienname	e
-X	არცერთი	pron	niemand, keiner	e
 X	არცნობა	n	Haftungsausschluss, Ausschlussklausel, Verzichtserklärung	e
 X	არწივი	n	Adler, Aar, Eagle	e
 X	არწმუნებს	v	überzeugen, sichern, versichern	e
@@ -30800,9 +30775,8 @@ X	ასახავს	v	Spiegel, Kopie	e
 X	ასახელებს	v	nennen, taufen, bezeichnen	e
 X	ასახიჩრებს	v	verstümmeln, verschandeln, verkrüppeln, lähmen, zunichte machen	e
 X	ასდის	v	aussenden, abgeben, emittieren	e
-X	ასე	adv	so, sehr, also, demnach, beinahe, fast, etwa, ungefähr	e
-X	ასევე	adv	auch, ähnlich	e
-X	ასეთი	adj	solch, derartig, so ein	e
+X	ასე	adv	so, also, demnach, beinahe, fast	e
+X	ასევე	adv	ähnlich	e
 X	ასეიშვილი	name	Nachname, Familienname	e
 X	ასემბლერი	n	Assemblersprache	e
 X	ასექსუალი	n	asexuell, geschlechtslos	e
@@ -30978,7 +30952,7 @@ X	აფხაზაშვილი	name	Nachname, Familienname	e
 X	აფხაზეთი	name	Abchasien	e
 X	აფხაზური	adj	abchasisch	e
 X	აქ	adv	hier, hierher, hierhin	e
-X	აქამდე	adv	bislang, bisher, bis jetzt, vordem, hier, hierher, hierhin	e
+X	აქამდე	adv	bislang, vordem, hier, hierher, hierhin	e
 X	აქანა	adv	hier, hierher, hierhin	e
 X	აქანდაზი	n	Kehrblech, Kehrschaufel, Kutterschaufel, Schaufel, Schippe, Kelle	e
 X	აქანდაკებს	v	bildhauerisch gestalten, bildhauerisch tätig sein, formen	e
@@ -30986,12 +30960,10 @@ X	აქანე	adv	hier, hierher, hierhin	e
 X	აქატი	n	Achat	e
 X	აქაფებს	v	einschäumen, aufschäumen, aufschlagen	e
 X	აქედან	adv	von hier, fort, von hinnen	e
-X	აქეთ	adv	hier	e
 X	აქემენიანთა იმპერია	name	Achämenidenreich	e
 X	აქერცლილი	adj	schuppig	e
 X	აქვე	adv	hier, hierher, hierhin	e
 X	აქვეყნებს	v	herausgeben, publizieren, veröffentlichen	e
-X	აქვს	v	haben, besitzen, sein	e
 X	აქიაშვილი	name	Nachname, Familienname	e
 X	აქილევსი	name	Achilleus	e
 X	აქილევსის მყესი	n	Achillessehne	e
@@ -31035,7 +31007,6 @@ X	აქციზი	n	ausschneiden, herausschneiden, exzidieren	e
 X	აქციონერი	n	Aktionär, Aktionärin	e
 X	აღაიანი	name	Innerkartlien	e
 X	აღაპიშვილი	name	Nachname, Familienname	e
-X	აღარ	adv	nicht mehr, nicht länger, nimmer	e
 X	აღაჯანაშვილი	name	Nachname, Familienname	e
 X	აღგვა პირისაგან მიწისა	wend	auslöschen, verwischen	e
 X	აღდგენადი	adj	reproduzierbar, abrufbar, rückholbar, rückgewinnbar	e
@@ -31145,14 +31116,13 @@ X	აცხობს	v	backen, trocknen	e
 X	აძიშვილი	name	Nachname, Familienname	e
 X	აძლევს	v	geben, abgeben, nachgeben	e
 X	აძნელებს	v	erschweren, behindern, hindern, hemmen	e
-X	აწ	adv	jetzt, nun, gerade, momentan, aktuell, gegenwärtig	e
+X	აწ	adv	jetzt, nun, gerade	e
 X	აწარმოებს	v	produzieren, herstellen, vorlegen	e
 X	აწევა	n	Erhebung, Großziehen, Aufziehen, zunehmend	e
 X	აწერს	v	schreiben, schriibe, verfassen, unterzeichnen, unterschreiben, unterschriften	e
 X	აწეული	adj	besoffen, dicht, -schwanzig, gehoben, erhöht	e
 X	აწეწილი	adj	durcheinander	e
 X	აწვრილებს	v	dünn, tünn, schlank	e
-X	აწი	adv	ab jetzt, von jetzt an, in der Zukunft, zukünftig, künftig	e
 X	აწითლებს	v	erröten, röten, Purpur, Purpurrot, Karmesin	e
 X	აწკარუნაშვილი	name	Nachname, Familienname	e
 X	აწმყო	n	Gegenwart, Präsens	e
@@ -31195,7 +31165,6 @@ X	ახალქალაქი	name	Achalkalaki	e
 X	ახალშენაშვილი	name	Nachname, Familienname	e
 X	ახალშენიშვილი	name	Nachname, Familienname	e
 X	ახანგრძლივებს	v	ausdehnen, verlängern, hinauszögern	e
-X	ახარისხებს	v	sortieren	e
 X	ახდება	v	wahr werden, in Erfüllung gehen, sich realisieren	e
 X	ახდის	v	aufdecken, enthüllen	e
 X	ახერხებს	v	aufbessern, dazuverdienen, hinzuverdienen	e
@@ -31205,7 +31174,7 @@ X	ახირებული	adj	kapriziös, launenhaft, unberechenbar, launisc
 X	ახლა	adv	jetzt, nun, gerade	e
 X	ახლად	adv	neu	e
 X	ახლავე	adv	sofort, gerade jetzt, genau jetzt, jetzt, nun, gerade	e
-X	ახლავს	v	begleiten, geleiten, haben, besitzen, sein, werden, existieren	e
+X	ახლავს	v	begleiten, geleiten	e
 X	ახლანდელი	adj	gegenwärtig, aktuell, zeitnah, jetzig, anwesend	e
 X	ახლახან	adv	neu, nöi, nei, neulich, vor kurzem, in letzter Zeit	e
 X	ახლებურად	adv	erneut, abermals, neuerlich	e
@@ -31278,7 +31247,7 @@ X	ბაზანდარაშვილი	name	Nachname, Familienname	e
 X	ბაზარი	n	Basar, Markt, Jahrmarkt, Kirchtag, Kirchweih, Marktplatz, Markt-, Angelegenheit	e
 X	ბაზელი	name	Basel	e
 X	ბაზი	n	Hummel, Falke	e
-X	ბაზიერი	n	Falkner, Person, Mensch, Körper	e
+X	ბაზიერი	n	Falkner	e
 X	ბაზიერობა	n	Stellung, Position, Platz, Beizjagd, Falknerei	e
 X	ბაზილიკა	n	Basilika	e
 X	ბაზისი	n	Fundament, Basis, Grundlage	e
@@ -31666,8 +31635,7 @@ X	ბოლო ბოსი	n	Endboss	e
 X	ბოლო ვადა	n	Stichtag, Frist, Termin	e
 X	ბოლოდროინდელი	adj	neu, kürzlich, rezent	e
 X	ბოლოკი	n	Radieschen, Rettich, Speiserübe, Mairübe, Teltower Rübchen	e
-X	ბოლოს	adv	schließlich, endlich, definitiv, letztendlich	e
-X	ბოლოს და ბოლოს	adv	endlich, schließlich	e
+X	ბოლოს	adv	schließlich, endlich, definitiv	e
 X	ბოლოს უღებს	v	töten, umbringen, ermorden	e
 X	ბოლოქანქარა	n	Stelze	e
 X	ბოლქვი	n	Zwiebel, Knolle, Wurzelknolle	e
@@ -31926,7 +31894,6 @@ X	გაავსებს	v	füllen, ausfüllen, sich füllen	e
 X	გაათავებს	v	beenden, fertigstellen, enden, töten, umbringen, ermorden, abspritzen, kommen	e
 X	გაათავისუფლებს	v	freistellen, befreien, freisetzen, loslassen, veröffentlichen, freilassen	e
 X	გაათბობს	v	wärmen, sich aufwärmen, aufwärmen	e
-X	გააკეთებს	v	machen, bauen, produzieren	e
 X	გააკრიტიკებს	v	kritisieren, Kritik üben, abwägen	e
 X	გააკუებს	v	furzen, pfurzen, pupsen	e
 X	გაალამაზებს	v	verschönern, ausschmücken	e
@@ -31947,7 +31914,7 @@ X	გააღებს	v	öffnen, aufmachen, offen	e
 X	გააღვიძებს	v	aufwecken, wecken, aufwachen, erwachen, wach werden	e
 X	გააჩენს	v	kreieren, erschaffen, schaffen, produzieren, herstellen, vorlegen, anfangen, beginnen	e
 X	გააჩერებს	v	anhalten, stehen bleiben, stoppen	e
-X	გააჩნია	wend	das kommt darauf an, haben, besitzen, sein	e
+X	გააჩნია	wend	besitzen	e
 X	გააცნობიერებს	v	realisieren, erkennen, feststellen	e
 X	გააცნობს	v	vorstellen, bekannt machen, einführen	e
 X	გააცხელებს	v	erhitzen, heizen, heiß machen	e
@@ -32082,7 +32049,6 @@ X	გაიანა	name	Guyana	e
 X	გაიზრდება	v	aufwachsen, erwachsen werden, erwachsen	e
 X	გაიზუთხავს	v	gedankenlos, stopfen, vollpacken, mästen	e
 X	გაითვალისწინებს	v	berücksichtigen, in Betracht ziehen	e
-X	გაიკეთებს	v	machen, bauen, produzieren	e
 X	გაიმეორებს	v	wiederholen, revidieren, ändern, überarbeiten	e
 X	გაისად	adv	nächstes Jahr	e
 X	გაიტანს	v	herausbringen, herausnehmen, auspacken, zurückziehen, entziehen, zurücknehmen, überziehen, überschreiten	e
@@ -32139,7 +32105,6 @@ X	გამბია	name	Gambia	e
 X	გამბიტი	n	Gambit	e
 X	გამგეობა	n	Brett, Pult, Tafel, Verwaltung, Administration, Verabreichung	e
 X	გამგზავრება	n	Abfahrt, Abreise, Abflug	e
-X	გამგზავრების დრო	n	Abflugzeit, Abflugszeit, Abfahrtszeit	e
 X	გამეფებული	adj	herrschend, regierend	e
 X	გამეცალე	interj	geh weg!, gehen Sie weg	e
 X	გამზადება	v	vorbereiten, präparieren, zubereiten	e
@@ -32183,7 +32148,6 @@ X	გამომხატველურად	adv	knapp, prägnant, gedrängt	
 X	გამონაბოლქვი	n	Auspuff, Abgas, Abluft, Ausstoß, Emission	e
 X	გამონაყარი	n	Akne, Ausschlag, Hautausschlag	e
 X	გამონაშვერი	n	Protuberanz, Vorsprung, Schwellung	e
-X	გამონაცვალი	n	gebraucht, Second-Hand	e
 X	გამოპრანჭული	adj	schnuckelig, niedlich, klein und schäbig	e
 X	გამორთავს	v	abschalten, ausschalten, abstellen	e
 X	გამორჩეული	adj	speziell, Spezial-, ungewöhnlich, bestimmt, spezifisch, gewählt, ausgewählt, ausgesucht	e
@@ -32266,7 +32230,7 @@ X	განახლებადი	adj	erneuerbar	e
 X	განახლებადი ენერგია	n	erneuerbare Energie, regenerative Energie	e
 X	განახორციელებს	v	vollziehen, durchführen, erfüllen, realisieren, erkennen, feststellen	e
 X	განგაში	n	Alarm, Alarmsignal, Alarmstimmung	e
-X	განგებ	adv	mit Absicht, absichtlich, vorsätzlich, beabsichtigt	e
+X	განგებ	adv	absichtlich, vorsätzlich, beabsichtigt, mit Absicht	e
 X	განგება	n	Vorsorge, Umsicht, Vorsehung, Schicksal, Los, Geschick, Neigung, Gesinnung	e
 X	განგრენა	n	Gangrän, Wundbrand, Brand	e
 X	განგსტერი	n	Gangster, Bandit	e
@@ -32281,7 +32245,7 @@ X	განზე	adv	beiseite, zur Seite	e
 X	განზიდვა	n	Abstoßung, Repulsion, Abscheu	e
 X	განზომილება	n	Dimension	e
 X	განზომილებიანი	adj	-dimensional	e
-X	განზრახ	adv	mit Absicht, absichtlich, vorsätzlich, beabsichtigt	e
+X	განზრახ	adv	absichtlich, vorsätzlich, beabsichtigt, mit Absicht	e
 X	განზრახვა	n	Absicht, Design, Entwurf, Muster, Zweck, Ziel, Intention	e
 X	განზრახულად	adv	absichtlich, vorsätzlich, beabsichtigt	e
 X	განთავისუფლება	n	Befreiung, Emanzipation, Freilassung, Entlassen, Version, Veröffentlichung, Ablauf, Entladung	e
@@ -32316,7 +32280,6 @@ X	განსასჯელი	n	Angeklagter, Angeklagte, Beschuldigter, Anges
 X	განსაცდელი	n	Gottesurteil, Feuerprobe, Tortur	e
 X	განსწავლული	adj	gelehrt, gebildet, studiert, belesen	e
 X	განსხვავება	n	Unterschied, Unterscheidung, Andersartigkeit, Distinktion, Auszeichnung, Differenz, Unterschiedlichkeit, Kontrast	e
-X	განსხვავებით	adv	im Gegensatz zu, im Unterschied zu	e
 X	განსხვავებული	adj	verschieden, unterschiedlich, different	e
 X	განსჯა	n	Urteil, Urteilsvermögen, Urteilskraft	e
 X	განსჯის	v	richten, ein Urteil fällen über, urteilen	e
@@ -32368,7 +32331,7 @@ X	გარე	adv	außen-, extern, äußerlich, außerhalb, draußen, nach auß
 X	გარეგანი	adj	Außenseite	e
 X	გარეგნობა	n	Erscheinen, Auftritt, Aussehen, Aspekt, Aktionsart, Signalbegriff	e
 X	გარეგნული	adj	äußer-, außen	e
-X	გარედან	adv	außerhalb, draußen, aber, aber trotzdem, sondern, heraus, hinaus	e
+X	გარედან	adv	außerhalb, draußen, im Freien, an der frischen Luft	e
 X	გარეთ	adv	außerhalb, draußen	e
 X	გარეთა	adj	außen-, extern, äußerlich, äußere	e
 X	გარემო	n	Umgebung, Umwelt, Umfeld, Milieu, Medium	e
@@ -32381,7 +32344,7 @@ X	გარესამყარო	n	Außenwelt, Umgebung	e
 X	გარეუბანი	n	Vorstadt, Vorort, Stadtteil, Nähe, Nachbarschaft, Umgebung	e
 X	გარეული ფრინველი	n	Wildvogel, Wildgeflügel, Wasservogel	e
 X	გარეული ცხოველი	n	wildes Tier, Wildtier	e
-X	გარეშე	präp	ohne, aus, von, außer, andere, sonstig, anders	e
+X	გარეშე	präp	ohne, andere, sonstig, anders	e
 X	გარეცხავს	v	waschen, spülen, wegspülen	e
 X	გართობა	n	Amüsement, Gaudi, Spaß, Erheiterung, Vergnügung, Vergnügen	e
 X	გარიგება	n	Geschäftsabwicklung, Geschäftsdurchführung, Geschäft, Anteil, Portion, Menge, Vereinbarung, Zustimmung	e
@@ -32418,7 +32381,6 @@ X	გატრუნვა	v	schweigen	e
 X	გაუგებარი	adj	unverständlich, unbegreiflich, unfassbar, verwirrend, irreführend, missverständlich	e
 X	გაუგებრობა	n	Unverständlichkeit, Irrtum, Missverständnis, Fehlauffassung	e
 X	გაუგზავნის	v	senden, schicken, verschicken	e
-X	გაუკეთებს	v	machen, bauen, produzieren, tun, ja, doch	e
 X	გაუმართლებელი	adj	unbegründet, ungerechtfertigt, unberechtigt, unbefugt	e
 X	გაუმართლებლად	adv	ungerechtfertigterweise	e
 X	გაუმარჯოს	interj	prost, zum Wohl, tschüss, hallo, guten Tag, servus, es lebe, hoch	e
@@ -32444,7 +32406,6 @@ X	გაფენს	v	aufhängen, auflegen	e
 X	გაფიცვა	n	Strike, Streik, Schlag	e
 X	გაფრანგულება	n	Französierung, Französisierung, Französieren	e
 X	გაფრენა	n	Flug, Treppenlauf, Treppenflucht, Abflug, Start, Abfahrt, Abreise	e
-X	გაფრენის დრო	n	Abflugzeit, Abflugszeit, Abfahrtszeit	e
 X	გაფრთხილება	n	Warnung, Vorsicht, Achtsamkeit, Mahnung	e
 X	გაფუფუნებული	adj	luxuriös	e
 X	გაფუჭებული	adj	verdorben, verwöhnt, verzogen	e
@@ -32463,7 +32424,7 @@ X	გაჩენა	n	Erfindung, Werk, Kreation, Anfertigen, Anfertigung, Fabri
 X	გაჩერდება	v	anhalten, stehen bleiben, stoppen	e
 X	გაჩერება	n	Standpunkt, Ständer, Stativ	e
 X	გაჩითული	adj	Anciennität, Seniorität, geil, stinkend, ekelhaft	e
-X	გაჩნდება	v	sich erheben, aufstehen, entstehen, geboren werden, zur Welt kommen, auf die Welt kommen, erscheinen, auftauchen	e
+X	გაჩნდება	v	sich erheben, aufstehen, entstehen, erscheinen, auftauchen, auftreten, ausbrechen, hervorholen	e
 X	გაცვეთილი	adj	voller Samenkörner, heruntergekommen, anrüchig, schäbig	e
 X	გაცვლითი კურსი	n	Wechselkurs	e
 X	გაცვლის	v	tauschen, umtauschen, verraten, im Stich lassen, von etwas zeugen	e
@@ -32584,7 +32545,7 @@ X	გველგესლა	n	Natter, Otter, Viper, Aspisviper, Rapfen, Schied
 X	გველთევზა	n	Meeraal, Seeaal, Aal, Aalartige	e
 X	გველი	n	Schlange, Wurm, Verräter, Serpent	e
 X	გველური	adj	schlangenartig	e
-X	გვერდზე	adv	längs, vorbei	e
+X	გვერდზე	adv	vorbei	e
 X	გვერდი	n	Seite, Rand, Kante, frei, Blatt	e
 X	გვერდიგვერდ	adv	Seite an Seite, Schulter an Schulter	e
 X	გვერდით	adj	längsseits	e
@@ -32603,7 +32564,7 @@ X	გვირგვინი	n	Krone, Scheitel, Korona	e
 X	გვირილა	n	Kamille, Echte Kamille, Römische Kamille	e
 X	გვის	v	fegen, kehren, rauschen, Besen, Baasa, Bäse	e
 X	გვრიტი	n	Turteltaube	e
-X	გზა	n	Weg, Weise, Art, Pfad, Straße, Art und Weise, Methode, Verfahren	e
+X	გზა	n	Pfad, Weg, Straße, Art und Weise, Methode, Verfahren	e
 X	გზად	adv	unterwegs, en Route	e
 X	გზავნილი	n	Nachricht, Botschaft, Mitteilung, Depesche, Eilbotschaft, Eilbenachrichtigung, Geldüberweisung, Überweisung	e
 X	გზავნის	v	senden, schicken, verschicken	e
@@ -32680,7 +32641,7 @@ X	გნება	n	Kognition, Erkenntnis, Wahrnehmung, Verstehen, Verständnis,
 X	გნოლი	n	Raufußhuhn, Rebhuhn	e
 X	გნომი	n	Gnom, Gnomen-Sperlingskauz	e
 X	გოარი	n	Edelstein	e
-X	გობეგი	n	Bauchnabel, Nabel, Art, Sorte, Rennen, Wettrennen, Rasse, Generation	e
+X	გობეგი	n	Bauchnabel, Nabel, Rennen, Wettrennen, Rasse, Generation, Geschlecht, Familie	e
 X	გობელენი	n	Wandteppich, Bildteppich, Bildwirkerei	e
 X	გობლინი	name	Kobold	e
 X	გოგაშვილი	name	Nachname, Familienname	e
@@ -32875,8 +32836,7 @@ X	გუშინდელი	adj	gestrig, alt, datiert, veraltet, anachronistis
 X	გუშინწინ	adv	vorgestern, ehegestern	e
 X	გუშინწინისწინ	adv	vorvorgestern, ehevorgestern	e
 X	დ		der vierte Buchstabe des georgischen Alphabets mit dem Namen Don, georgisch დონი (doni) ^…	w
-X	და	n	Schwester, Schwöschter, Nonne, und, sowie	e
-X	და ასე შემდეგ	wend	und so weiter	e
+X	და	n	Schwester, Schwöschter, Nonne	e
 X	დააარსებს	v	feststellen, etablieren, eröffnen, gründen, errichten	e
 X	დააბნევს	v	zerstreuen, streuen, verstreuen, verwirren, konfundieren, verwechseln, ablenken	e
 X	დააბნელებს	v	verdunkeln	e
@@ -32895,7 +32855,7 @@ X	დაალაგებს	v	arrangieren, systematisieren, aufstellen, sauber
 X	დაალბობს	v	aufweichen, weichen, durchnässen, tränken, einweichen	e
 X	დაამარცხებს	v	schlagen, besiegen, niederringen	e
 X	დაამატებს	v	hinzufügen, zugeben, addieren	e
-X	დაამზადებს	v	vorbereiten, präparieren, zubereiten, produzieren, herstellen, vorlegen, machen, bauen	e
+X	დაამზადებს	v	vorbereiten, präparieren, zubereiten, produzieren, herstellen, vorlegen	e
 X	დაამთავრებს	v	beenden, fertigstellen, enden, fertigmachen	e
 X	დაამოწმებს	v	bestätigen, bekräftigen	e
 X	დაამტკიცებს	v	beweisen, prüfen, sich herausstellen, bestätigen, bekräftigen	e
@@ -32931,7 +32891,7 @@ X	დაბალხარისხიანი	adj	minderwertig, minderqualitat
 X	დაბანაკება	v	zelten	e
 X	დაბეგვრა	n	Besteuerung	e
 X	დაბეგვრადი	adj	steuerpflichtig	e
-X	დაბეჭდავს	v	drucken, ausdrucken, in Druckschrift schreiben, tippen	e
+X	დაბეჭდავს	v	drucken, ausdrucken, in Druckschrift schreiben	e
 X	დაბლა	adv	runter, herunter, hinunter, abwärts, nach unten, hinab, unterer, unten	e
 X	დაბლობი	n	Tiefebene, Tiefland, Flachland, Depression, Senke, Abschwung	e
 X	დაბნელება	n	Finsternis, Eklipse, Sonnenfinsternis	e
@@ -32951,9 +32911,9 @@ X	დადასტურება	n	Bestätigung, Firmung, Konfirmation, Zusti
 X	დადგენილი	adj	ausgedrückt	e
 X	დადებითად	adv	wohlgestimmt, wohlgesinnt, positiv	e
 X	დადებითი	adj	positiv, Grundstufe, Positiv, affirmativ	e
-X	დადებს	v	setzen, stellen, legen, platzieren, einordnen, machen, bauen, produzieren	e
+X	დადებს	v	setzen, stellen, legen, ablegen, flachlegen	e
 X	დადის	v	gehen, laufe, freigelassen werden, dran sein, ziehen, besuchen, teilnehmen, beachten	e
-X	დაე	interj	lassen, zurücklassen, verlassen, so sei es, sei's drum	e
+X	დაე	interj	lassen, zurücklassen, verlassen	e
 X	დაელოდება	v	warten, bedienen	e
 X	დაესწრება	v	besuchen, teilnehmen, beachten	e
 X	დაეუფლება	v	meistern, beherrschen, mastern, tränken, durchdringen, inspirieren, beatmen, einhauchen	e
@@ -32986,7 +32946,6 @@ X	დათუნია	n	Teddybär, Teddybärli, Teddy	e
 X	დათქმა	n	Abmachung, Ausbedingung, Bestimmung, Vorräte, Proviant, Vorrat, Reservierung, Vorbehalt	e
 X	დაივიწყებს	v	verlegen, vergessen, verlernen	e
 X	დაითვლის	v	zählen	e
-X	დაიკარგება	v	sich verirren, sich verlaufen, verloren gehen	e
 X	დაიკიდე	v	Schwamm drüber, schon gut, macht nichts, ganz egal, das macht nichts	e
 X	დაიკო	n	Schwester, Schwöschter, Nonne	e
 X	დაიმახსოვრებს	v	sich erinnern, sich merken, daran denken	e
@@ -33002,7 +32961,7 @@ X	დაიწყება	v	anfangen, beginnen, starten	e
 X	დაიწყებს	v	anfangen, beginnen, starten	e
 X	დაიჭერს	v	fangen, einfangen, verstehen, arretieren, festnehmen, verhaften, halten, gelten	e
 X	დაკავებული	adj	beschäftigt, besetzt, belegt	e
-X	დაკავშირებით	präp	bezüglich, mit Bezug auf, um... (herum), über, bereit zu	e
+X	დაკავშირებით	präp	bezüglich, mit Bezug auf	e
 X	დაკავშირებული	adj	zusammenhängend	e
 X	დაკარგავს	v	verlieren, abnehmen, loswerden	e
 X	დაკარგული	adj	verirrt, verloren, umher irrend	e
@@ -33221,7 +33180,7 @@ X	დასტამბო	n	Cantaloupe-Melone	e
 X	დასტაქარი	n	Chirurg, Operateur, Wundarzt	e
 X	დასტურ	adv	in der Tat	e
 X	დასტური	n	Erlaubnis, Gestattung, Genehmigung	e
-X	დასჭირდება	v	benötigen, brauchen, müssen, (zu tun) haben	e
+X	დასჭირდება	v	benötigen, brauchen, müssen	e
 X	დასხდება	v	sich setzen	e
 X	დასხმა	n	ausgießen, Sitz, Sitzplatz, Sitzgelegenheit	e
 X	დასჯის	v	bestrafen, strafen, anklagen, beschuldigen	e
@@ -33350,7 +33309,7 @@ X	დებილი	adj	Schwachsinniger, Schwachkopf, Trottel, Idiot, Idiotin, 
 X	დებილობა	n	Mist, Unsinn, Scheiße	e
 X	დებიუტანტი	n	Debütantin	e
 X	დებიუტი	n	Debüt	e
-X	დებს	v	setzen, stellen, legen, platzieren, einordnen, machen, bauen, produzieren	e
+X	დებს	v	setzen, stellen, legen, ablegen, flachlegen	e
 X	დებულება	n	Regeln, Regelung, Regulativ, Statut, Vorräte, Proviant, Vorrat, These	e
 X	დეგენერატი	n	Asozialer, Assi	e
 X	დეგლობალიზაცია	n	Deglobalisierung	e
@@ -33494,7 +33453,7 @@ X	დეცენტრალიზება	n	Dezentralisierung, Dezentralisati
 X	დეცენტრალიზებული	adj	dezentralisiert	e
 X	დვალიშვილი	name	Nachname, Familienname	e
 X	დვრილი	n	Nippel, Brustwarze, Stutzen	e
-X	დია	n	Jupiter, Frau, Weib, Weibchen, viele, sehr, ganz, wahrlich	e
+X	დია	n	Jupiter, Frau, Weib, Weibchen, viele, häufig, oft, sicherlich	e
 X	დიაბეტი	n	Diabetes, Zuckerkrankheit, Zucker	e
 X	დიაბეტური	adj	Diabetiker-, zuckerkrank, diabetisch	e
 X	დიაგნოზი	n	Diagnose	e
@@ -33635,7 +33594,7 @@ X	დიქტატურა	n	Diktatur, Gewaltherrschaft, Willkürherrschaft	e
 X	დიქტორი	n	Ansager, Sprecher, Ansagerin, Nachrichtensprecher, Nachrichtensprecherin	e
 X	დიხამინჯია	name	Nachname, Familienname	e
 X	დნობადი	adj	Schmelzen	e
-X	დო	n	tun, ja, doch, Buttermilch	e
+X	დო	n	Buttermilch	e
 X	დობა	n	Schwesterschaft, Schwesternschaft, Frauenorden	e
 X	დოგმა	n	Dogma	e
 X	დოგმატი	n	Dogma, Grundsatz, Glaubenssatz	e
@@ -33696,18 +33655,13 @@ X	დრეკადი	adj	elastisch	e
 X	დრეკადობა	n	Elastizität	e
 X	დრეკს	v	beugen, biegen, durchbiegen	e
 X	დრენაჟი	n	Einzugsgebiet, Niederschlagsgebiet, Wassereinzugsgebiet, Entwässerung, Drainage	e
-X	დრო	n	Zeit, Zit, Ziit, Tempus, Ära, Epoche, Erdzeitalter, Jahreszeit	e
+X	დრო	n	Zeit, Tempus, Ära, Epoche, Erdzeitalter, Jahreszeit, Saison, Staffel	e
 X	დროდადრო	adv	manchmal, absatzweise	e
 X	დროებით	adv	vorläufig, provisorisch, vorübergehend, temporär, zeitweise, auf Wiedersehen, auf Wiederschauen, auf Wiederhören	e
 X	დროებითად	adv	ad interim	e
 X	დროებითი	adj	provisorisch, vorläufig, zeitweilig, temporär, vorübergehend, ad interim	e
 X	დროებითი მთავრობა	n	Übergangsregierung	e
-X	დროზე	adv	rechtzeitig, jetzt, los	e
-X	დროითი ზოლი	n	Zeitzone	e
-X	დროითი სარტყელი	n	Zeitzone	e
-X	დროის მანქანა	n	Zeitmaschine	e
-X	დროის მონაკვეთი	n	Zeitperiode	e
-X	დროის სტანდარტი	n	Zeitskala	e
+X	დროზე	adv	jetzt, los	e
 X	დრომოჭმული	adj	nachträglich, säumig, verspätet	e
 X	დრონი	n	Drohne, Brummen, Dröhnen	e
 X	დროსტარება	n	Zeitvertreib	e
@@ -33754,10 +33708,9 @@ X	დღე-ღამე	n	Etmal	e
 X	დღეგრძელი	adj	langlebig	e
 X	დღედადღე	adv	nach und nach, allmählich, stufenweise, Alltags-, alltäglich, gemein, systematisch, ständig	e
 X	დღევანდელი	adj	heutig, gegenwärtig, aktuell, zeitnah, modern	e
-X	დღეიდან	adv	ab jetzt, von jetzt an	e
 X	დღეს	adv	heute, heit, hit	e
 X	დღესასწაული	n	Festival, Fest, Feiertag, gesetzlicher Feiertag, Ruhetag	e
-X	დღესდღეობით	adv	gegenwärtig, zur Zeit, derzeitig, momentan, aktuell	e
+X	დღესდღეობით	adv	gegenwärtig, zur Zeit, derzeitig, momentan, zurzeit	e
 X	დღეღამტოლობა	n	Äquinoktium, Tagnachtgleiche, Tagundnachtgleiche	e
 X	დღვებს	v	durchschütteln, aufwühlen, wusseln	e
 X	დღის წესრიგი	n	Agenda, Tagesordnung	e
@@ -33770,7 +33723,6 @@ X	ეახლება	v	besuchen	e
 X	ებონიტი	n	Ebonit, Vulkanit	e
 X	ებრაელი	n	Hebräer, Hebräerin, Jude, Jüdin	e
 X	ებრაული	adj	jüdisch	e
-X	ეგ	pron	jener, jene, jenes	e
 X	ეგებ	part	vielleicht, möglicherweise, womöglich	e
 X	ეგეთი	pron	so	e
 X	ეგეოსის ზღვა	name	Ägäis, Ägäisches Meer	e
@@ -33787,7 +33739,7 @@ X	ეგოიზმი	n	Egoismus, Eigennutz, Eigeninteresse, Selbstsucht	e
 X	ეგოისტური	adj	egoistisch	e
 X	ეგოტიზმი	n	Egoismus, Egotismus	e
 X	ეგოცენტრული	adj	egozentrisch	e
-X	ეგრე	adv	so, sehr	e
+X	ეგრე	adv	so	e
 X	ეგრევე	adv	sofort, alsbald, unverzüglich	e
 X	ეგრეთ წოდებული	adj	sogenannt, sog.	e
 X	ეგრეთწოდებული	adj	sogenannt, sog.	e
@@ -34058,7 +34010,7 @@ X	ერთად	adv	zusammen, beisammen, gemeinsam	e
 X	ერთადერთი	adj	einzig, einzigartig, geschwisterlos, ledig, unverheiratet	e
 X	ერთაშორისი	adj	transnational, grenzüberschreitend	e
 X	ერთგანზომილებიანი	adj	eindimensional	e
-X	ერთგვარი	adj	homogen, gleichartig, etwas, irgendwie	e
+X	ერთგვარი	adj	homogen, gleichartig	e
 X	ერთგვაროვანი	adj	homogen, gleichartig	e
 X	ერთგულად	adv	brav, glaubend, vertrauend	e
 X	ერთგულება	n	Unterstützung, Treue, Loyalität, Treuherzigkeit, Hingebung, Hingabe, Zuneigung	e
@@ -34068,12 +34020,12 @@ X	ერთდროული	adj	gleichzeitig, simultan	e
 X	ერთდროულობა	n	Gleichzeitigkeit, Simultanität	e
 X	ერთეული	n	Einheit	e
 X	ერთთავად	adv	ständig, ununterbrochen, andauernd, regelmäßig, konstant, völlig	e
-X	ერთი	num	eins, ein, man, einer, komm mit, komm schon, auf geht's, ungefähr	e
+X	ერთი	num	komm mit, komm schon, auf geht's, ungefähr, etwa, mehr oder weniger	e
 X	ერთი ადგილი	n	Hintern	e
 X	ერთი ამბავი	n	Aufruhr, Tumult, Unruhe	e
-X	ერთიანი	adj	vereinigt, vereint, einig, Eins	e
+X	ერთიანი	adj	vereinigt, vereint, einig	e
 X	ერთიანობა	n	Einheit, Identität	e
-X	ერთიმეორე	pron	einander, gegenseitig, aufeinander	e
+X	ერთიმეორე	pron	einander	e
 X	ერთმანეთი	pron	einander	e
 X	ერთმნიშვნელოვანი	adj	eindeutig, unmissverständlich	e
 X	ერთმხრივი	adj	einseitig	e
@@ -34130,15 +34082,13 @@ X	ერუდირებული	adj	belesen, gelehrt, gebildet	e
 X	ერუდიცია	n	Belesenheit, Gelehrtheit, Bildung	e
 X	ერქვანი	n	Pflug	e
 X	ერცჰერცოგი	n	Erzherzog	e
-X	ეს	art	dieser, folgend, so ein, diese, dieses	e
 X	ეს ხომ ელემენტარულია, უოტსონ	wend	elementar	e
 X	ეს ხომ ელემენტარულია, ძვირფასო უოტსონ	wend	elementar	e
 X	ესე	adv	Aufsatz, Essay	e
-X	ესე იგი	konj	das heißt, mit anderen Worten, anders gesagt	e
 X	ესეთი	adj	so	e
 X	ესეი	n	Aufsatz, Essay	e
 X	ესეისტი	n	Essayist, Essayistin	e
-X	ესენი	pron	diese, Essen	e
+X	ესენი	pron	Essen	e
 X	ესექსი	name	Essex	e
 X	ესვატინი	name	Eswatini	e
 X	ესთეტი	n	Ästhet, Ästhetin, Schöngeist	e
@@ -34258,7 +34208,7 @@ X	ვაგზალი	n	Bahnhof	e
 X	ვაგინა	n	Scheide, Vagina, fud	e
 X	ვაგინალური	adj	vaginal	e
 X	ვაგონი	n	Wagen, Bollerwagen	e
-X	ვადა	n	Heft, Griff, Klausel, Begriff, Bezeichnung, Zeit, Zit, Ziit	e
+X	ვადა	n	Heft, Griff, Klausel, Begriff, Bezeichnung, Dattel, Datum, Zeitpunkt	e
 X	ვადა გასდის	v	ablaufen, erlöschen, verfallen, ausgehen	e
 X	ვადაგასული	adj	abgelaufen, verfallen	e
 X	ვადამდელი არჩევნები	n	vorgezogene Neuwahl, vorgezogene Wahl	e
@@ -34330,7 +34280,6 @@ X	ვასალური სახელმწიფო	n	Vasallenstaat	e
 X	ვატი	n	Watt	e
 X	ვატიკანი	name	Vatikanstadt, Vatikan	e
 X	ვაფლი	n	Oblate, Waffel, Siegeloblate, Geschwafel, leere Phrasen	e
-X	ვაფშე	adv	überhaupt, gar	e
 X	ვაქცინა	n	Vakzin, Vakzine, Impfstoff	e
 X	ვაქცინაცია	n	Impfung, Schutzimpfung, Impfen	e
 X	ვაშა	interj	hurra	e
@@ -34391,7 +34340,7 @@ X	ვენეციური	adj	venezianisch	e
 X	ვენტილატორი	n	Fächer, Ventilator, Gebläse	e
 X	ვენტილაცია	n	Belüftung, Lüftung	e
 X	ვენური	adj	venös	e
-X	ვერა	adv	kein, verboten, nichts, gar nichts	e
+X	ვერა	adv	nichts, gar nichts	e
 X	ვერაგად	adv	heimtückisch, treulos	e
 X	ვერაგი	adj	perfide, Schlangen-, schlangenförmig, gewunden	e
 X	ვერანა	adj	verflucht, verwünscht, verdammt, verlassen, verwüstet	e
@@ -34427,7 +34376,6 @@ X	ვეტო	n	Veto, Einspruch	e
 X	ვეტოს ადებს	v	Veto, Einspruch	e
 X	ვეფხვი	n	Tiger, Tigerin, Tigermännchen	e
 X	ვექტორი	n	Vektor	e
-X	ვეღარ	adv	nicht mehr, nicht länger, nimmer	e
 X	ვეშაპი	n	Wal	e
 X	ვთქვათ	konj	sagen, erzählen, säge	e
 X	ვიადუკი	n	Viadukt	e
@@ -34439,7 +34387,7 @@ X	ვიდეოზარი	n	Videoanruf	e
 X	ვიდეოთამაში	n	Videospiel, Computerspiel	e
 X	ვიდეოკამერა	n	Videokamera	e
 X	ვიდეოჩანაწერი	n	Videoaufzeichnung, Videoaufnahme	e
-X	ვიდრე	konj	als, bis, bis zu, bis an	e
+X	ვიდრე	konj	bis, bis zu, bis an	e
 X	ვიეტნამელი	n	Vietnamese, Vietnamesin	e
 X	ვიეტნამი	name	Vietnam	e
 X	ვივისექცია	n	Vivisektion	e
@@ -34447,12 +34395,12 @@ X	ვიზა	n	Visum	e
 X	ვიზიტი	n	Besuch	e
 X	ვიზუალურად	adv	optisch, visuell	e
 X	ვიზუალური	adj	visuell	e
-X	ვითარ	adv	wie, so ... wie, mögen, gern haben, gefallen	e
+X	ვითარ	adv	wie, mögen, gern haben, gefallen	e
 X	ვითარება	n	Umstand, expressed verbally with anfühlen, Oberflächenbeschaffenheit, Haptik, Versuch, Go	e
 X	ვითარებითი	adj	adverbial, adverbiell, Adverbial-	e
-X	ვითარი	pron	was für, welcher, solch	e
-X	ვითარცა	konj	so ... wie, mögen, gern haben, gefallen	e
-X	ვითომ	adj	falsch, künstlich, unecht, so tun, als ob, vortäuschen, gefälscht, als ob, als wenn	e
+X	ვითარი	pron	was für, welcher	e
+X	ვითარცა	konj	mögen, gern haben, gefallen	e
+X	ვითომ	adj	falsch, künstlich, unecht, so tun, als ob, vortäuschen, gefälscht	e
 X	ვიკინგი	n	Wikinger	e
 X	ვიკიპედია	name	Wikipedia	e
 X	ვიკონტი	n	Vicomte	e
@@ -34464,7 +34412,6 @@ X	ვინ	pron	wer, der, die	e
 X	ვინაობა	n	Identität, Gleichheit, Übereinstimmung	e
 X	ვინეგრეტი	n	Vinaigrette, Riechfläschchen	e
 X	ვინიეტი	n	Vignette, bildhafte Darstellung, Szenerie	e
-X	ვინმე	pron	jemand, einer	e
 X	ვინმესგან	adv	fort, weg, fern	e
 X	ვინსენტი	name	Vinzenz, Vincent	e
 X	ვინც	pron	wer, der, die, wer immer, wer auch immer	e
@@ -34499,7 +34446,6 @@ X	ვიქსიკონი	n	Wikiwörterbuch	w
 X	ვიქტორი	name	Viktor	e
 X	ვიქტორია	name	Viktoria, Victoria, Viktorien	e
 X	ვიქტორიას ტბა	name	Victoriasee	e
-X	ვიღაც	pron	jemand, einer	e
 X	ვიჩინა	n	Kniekehle, Schinken, Schmierenkomödiant	e
 X	ვიცე-გუბერნატორი	n	Vizegouverneur	e
 X	ვიცე-პრეზიდენტი	n	Vizepräsident, Vizepräsidentin	e
@@ -34577,7 +34523,7 @@ X	ზანტობა	n	Faulheit, Trägheit, Müßiggang	e
 X	ზაპოროჟიე	name	Saporischschja, Saporoschje	e
 X	ზარადხანა	n	Zeughaus, Waffenkammer, Arsenal, Rüstkammer, Waffenlager	e
 X	ზარალი	n	Verlust, Niederlage, Schaden	e
-X	ზარაფხანა	n	Münzanstalt, Münze, Münzstätte, mit anderen Worten, anders gesagt	e
+X	ზარაფხანა	n	Münzanstalt, Münze, Münzstätte	e
 X	ზარბაზანი	n	Kanone	e
 X	ზარდახშა	n	Schrank, Wandschrank, Kasten, Schatulle, Kästchen, Urne	e
 X	ზარდლი	n	Spinne	e
@@ -34593,7 +34539,7 @@ X	ზაფხულის ნაბუნიობა	n	Sommersonnenwende	e
 X	ზაყენი	adj	alt, gealtert	e
 X	ზაჰრუმალა	n	Tod, Exitus, der Tod, verderben, schlecht werden, umkommen, Wodka	e
 X	ზდაროვა	interj	hallo, guten Tag, servus	e
-X	ზე	adv	nach oben, empor, ver-, aufwärts, hoch, an, ein, weiter	e
+X	ზე	adv	aufwärts, nach oben, hoch	e
 X	ზე-		Qualität, Eigenschaft, Qualitäts-, Zahl, Nummer, Ziffer	e
 X	ზეადამიანი	n	übermenschlich	e
 X	ზეადამიანური	adj	übermenschlich	e
@@ -34605,7 +34551,6 @@ X	ზეგ	adv	übermorgen	e
 X	ზეგავლენა	n	Einfluss, Beeinflussung, Beeinflusser, Aufprall, Einschlag, Aufschlag	e
 X	ზეგანაკვეთურად	adv	Überstunden, Überstundenzuschlag, Überstundenvergütung	e
 X	ზეგანი	n	Hochland, Hochebene, Plateau	e
-X	ზედ	präp	auf, an, bei	e
 X	ზედა	adj	oberer, ober, top	e
 X	ზედა პალატა	n	Oberhaus	e
 X	ზედა რეგისტრის	adj	großgeschrieben, groß	e
@@ -34618,15 +34563,13 @@ X	ზედაპირი-ზედაპირის რაკეტა	n	Bode
 X	ზედაპირულად	adv	oberflächlich, allzu, übermäßig	e
 X	ზედაპირული	adj	äußere, flüchtig, maschinell, oberflächlich, flach, seicht, untief	e
 X	ზედაპირულობა	n	Oberflächlichkeit	e
-X	ზედიზედ	adv	nacheinander	e
 X	ზედმეტად	adv	allzu, übermäßig, exzessiv, zu viel	e
 X	ზედმეტი	adj	überschüssig, überflüssig, Reserve-, wüst, öde, brach	e
 X	ზედმეტსახელი	n	Spitzname, Beiname	e
 X	ზედსართავი	n	Adjektiv, Eigenschaftswort, Beiwort, formal	e
 X	ზედსართავი სახელი	n	Adjektiv, Eigenschaftswort, Beiwort	e
 X	ზეეროვნული	adj	übernational, supranational, überstaatlich	e
-X	ზევით	adv	aufwärts, nach oben, hoch, empor, ver-	e
-X	ზევით-ქვევით	adv	auf und ab, rauf und runter	e
+X	ზევით	adv	aufwärts, nach oben, hoch	e
 X	ზევსი	name	Zeus	e
 X	ზეთავს	v	schmieren, bestechen	e
 X	ზეთი	n	Öl, Pflanzenöl, Erdöl	e
@@ -34642,10 +34585,9 @@ X	ზელანდია	name	Seeland	e
 X	ზემო	adj	oberer, ober, top	e
 X	ზემო ტბა	name	Oberer See	e
 X	ზემოგერმანული	name	Hochdeutschen, Hochdeutsch, Standardhochdeutsch	e
-X	ზემოთ	adv	oben, früher, vorher, nach oben, empor, ver-	e
+X	ზემოთ	adv	oben, früher, vorher, treppauf, nach oben	e
 X	ზენიტი	n	Blütezeit, Zenit	e
 X	ზეობა	n	Blütezeit, goldenes Zeitalter, Wiedergeburt, Renaissance, Höhepunkt, Primat, Vorrang, Primas	e
-X	ზეპირად	adv	auswendig	e
 X	ზეპირი	adj	oral, mündlich, wörtlich, verbal	e
 X	ზეჟანგი	n	Peroxid	e
 X	ზერელე	adj	oberflächlich, äußerlich	e
@@ -34786,7 +34728,7 @@ X	თავთუხი	n	Hartweizen	e
 X	თავი	n	Kopf, Haupt, Chopf, Kapitel, Abschnitt, Verband, oberst, Oberteil	e
 X	თავი და ბოლო	n	A und O	e
 X	თავიანთი	pron	ihr, ihre, sier	e
-X	თავიდან	adv	wieder, noch einmal, zurück, von Grund auf, von neuem, von der Pike auf	e
+X	თავიდან	adv	wieder, noch einmal, zurück	e
 X	თავით	adv	frontal	e
 X	თავის ქალა	n	Hirnschädel, Hirnschale, Schädel, Kranium, Totenkopf	e
 X	თავისებური	adj	speziell, bestimmt, spezifisch, merkwürdig, seltsam, eigen	e
@@ -34851,7 +34793,7 @@ X	თამაშგარეთ	adv	im Abseits, abseits, am Straßenrand	e
 X	თამაში	n	Spiel, Partei, Match	e
 X	თამაშობს	v	spielen, schpile (als), vorspielen	e
 X	თამბაქო	n	Tabak, Tabakpflanze	e
-X	თან	adv	mit, gegen, nebst, längsseits	e
+X	თან	adv	längsseits	e
 X	თანა-		zusammen, beisammen, gemeinsam, gegenseitig	e
 X	თანაარსებობა	n	Koexistenz, Zusammenleben, koexistieren	e
 X	თანაბარი	adj	gleich, eben, gleichmäßig	e
@@ -35013,7 +34955,7 @@ X	თვალი	n	Auge, Aug, Öhr, Edelstein	e
 X	თვალნათლივ	adv	auffallend, auffällig, sichtbar	e
 X	თვალსაზრისი	n	Standpunkt, Sichtweise, Meinung, Ansicht, Anschauung	e
 X	თვალწარმტაცი	adj	schick	e
-X	თვარა	konj	sonst, anders, andernfalls, ansonsten	e
+X	თვარა	konj	anders, ansonsten, sonst	e
 X	თვე	n	Monat	e
 X	თვით	pron	selbst, sich	e
 X	თვითაღიარებული	adj	selbsternannt	e
@@ -35067,10 +35009,8 @@ X	თითისტარი	n	Spule, Rolle, Spindel, Spindelstrauch	e
 X	თითო	adv	jedes einzelne, je Stück, pro Stück, jeweils	e
 X	თითოეული	art	alle, jeder	e
 X	თითქმის	adv	fast, beinahe, so gut wie	e
-X	თითქოს	konj	als ob, als wenn, als	e
 X	თილისმა	n	Maskottchen, Maskotte, Talisman	e
 X	თინათინი	n	Scheinwerfer, Scheinwerferlicht, Schlaglicht	e
-X	თინგი	n	Ding, Sache, Gegenstand	e
 X	თინეიჯერი	n	Jugendlicher, Jugendliche	e
 X	თინუსი	n	Thunfisch, Thun	e
 X	თირკმელი	n	Niere	e
@@ -35112,7 +35052,7 @@ X	თოთხმეტკუთხა	adj	vierzehneckig	e
 X	თოთხმეტკუთხედი	n	Vierzehneck	e
 X	თოიჩი	n	Zauberer	e
 X	თოკი	n	Seil, Tau, Schnur, Kordel, Strick	e
-X	თორემ	konj	sonst, anders, andernfalls, ansonsten	e
+X	თორემ	konj	anders, ansonsten, sonst	e
 X	თორი	name	Thor, Donar	e
 X	თორიუმი	n	Thorium	e
 X	თორმეტი	num	zwölf	e
@@ -35135,11 +35075,10 @@ X	თრთოლა	n	Flattern, Schauder, (wohliger) Schauder, Beklommenheit, A
 X	თრითინა	n	Wiesel, Mauswiesel, Zwergwiesel, Eichhörnchen, Hörnchen, Eichhorn	e
 X	თრობა	n	Trunkenheit, Betrunkenheit, Rausch, Alkoholberauschung	e
 X	თრომბი	n	Thrombose	e
-X	თუ	konj	wenn, falls, wenn auch, oder	e
-X	თუ არა	konj	sonst, anders, andernfalls, ansonsten, sobald	e
-X	თუ არადა	konj	anders, ansonsten, sonst, andernfalls	e
-X	თუ შეიძლება	wend	tunlichst, gefallen, rechtmachen, belieben	e
-X	თუარადა	konj	anders, ansonsten, sonst, andernfalls	e
+X	თუ არა	konj	anders, ansonsten, sonst	e
+X	თუ არადა	konj	anders, ansonsten, sonst	e
+X	თუ შეიძლება	wend	gefallen, rechtmachen, belieben	e
+X	თუარადა	konj	anders, ansonsten, sonst	e
 X	თუთა	n	Maulbeerbaum, Maulbeere	e
 X	თუთია	n	Zink	e
 X	თუთიის ოქსიდი	n	Zinkoxid	e
@@ -35150,7 +35089,7 @@ X	თუთუნი	n	Tabak, Tabakpflanze	e
 X	თუთქი	n	Lauge, Ätznatron, kaustisches Soda	e
 X	თულიუმი	n	Thulium	e
 X	თუმცა	adv	trotzdem, doch, allerdings, obwohl	e
-X	თუნდაც	konj	obwohl, selbst wenn, mindestens, zumindest, wenigstens	e
+X	თუნდაც	konj	obwohl, selbst wenn	e
 X	თუნუქი	n	verzinnen	e
 X	თურინჯი	n	Pomelo, Pampelmuse	e
 X	თურმე	part	offensichtlich, offenbar, scheinbar	e
@@ -35167,7 +35106,6 @@ X	თქვენეული	adj	Aussicht, Perspektive	e
 X	თქვენი	pron	dein, Ihr, euer, deiner, Ihres	e
 X	თხა	n	Ziege, Geiß, Bock	e
 X	თხევადი	adj	flüssig, fließend, disponibel	e
-X	თხელ ყინულზე	wend	auf dünnem Eis	e
 X	თხელი	adj	schlank, schmal, dünn, Wischiwaschi-, verwässert, dürr, fein	e
 X	თხელკანიანი	adj	dünnhäutig	e
 X	თხემი	n	Gipfel, Spitze, Nocken	e
@@ -35329,20 +35267,18 @@ X	ილუზიონისტი	n	Zauberer, Illusionist, Illusionistin	e
 X	ილუზორული	adj	illusorisch, illusionär, wirklichkeitsfremd	e
 X	ილუსტრატორი	n	Illustrator	e
 X	ილუსტრაცია	n	Illustration	e
-X	იმ შემთხვევაში, თუ	konj	wenn, falls, wenn auch, im Falle, für den Fall, dass, für alle Fälle, nur für den Fall, sicherheitshalber	e
+X	იმ შემთხვევაში, თუ	konj	für alle Fälle, nur für den Fall, sicherheitshalber	e
 X	იმავდროულად	adv	gleichzeitig, währenddessen, inzwischen, derweil, zeitgleich, zugleich	e
 X	იმავდროული	adj	gleichzeitig, simultan, zeitgenössisch, parallel, zufällig	e
 X	იმაზე	adv	darauf	e
 X	იმამი	n	Imam	e
 X	იმარჯვებს	v	gewinnen, erobern, siegen	e
 X	იმახსოვრებს	v	sich erinnern, sich merken, daran denken	e
-X	იმგვარი	art	solch, derartig, so ein	e
 X	იმდაგვარი	pron	so	e
-X	იმდენად	adv	so, sehr	e
 X	იმედაშვილი	name	Nachname, Familienname	e
 X	იმედი	n	Hoffnung	e
 X	იმედიანად	adv	hoffnungsvoll, hoffentlich	e
-X	იმენა	adv	präzise, genau, wirklich, ernsthaft, im Ernst	e
+X	იმენა	adv	präzise, genau	e
 X	იმეორებს	v	wiederholen, revidieren, ändern, überarbeiten	e
 X	იმერეთი	name	Imeretien	e
 X	იმიგრანტი	n	Einwanderer, Einwanderin, Immigrant	e
@@ -35527,8 +35463,8 @@ X	ინფრასტრუქტურული	adj	infrastrukturell	e
 X	ინფრაწითელი	adj	infrarot	e
 X	ინფრაწითელი გამოსხივება	n	Infrarot	e
 X	ინშალლაჰ	interj	wenn Gott will, wenn Gott es will, so Gott will, Inschallah	e
-X	ინჩი	n	irgendetwas, irgendwas, irgendein, irgendwelche, kein, Zoll	e
-X	ინჩი-ბინჩი	n	irgendetwas, irgendwas, irgendein, irgendwelche, kein	e
+X	ინჩი	n	irgendein, irgendwelche, kein, Zoll	e
+X	ინჩი-ბინჩი	n	irgendein, irgendwelche, kein	e
 X	ინციდენტი	n	Vorfall, Begebenheit, Ereignis	e
 X	იობი	name	Hiob	e
 X	იოგა	n	Yoga	e
@@ -35585,7 +35521,7 @@ X	ისააკი	name	Isaak	e
 X	ისარი	n	Pfeil	e
 X	ისე	adv	eigentlich, tatsächlich, in Wirklichkeit	e
 X	ისევ	adv	wieder, noch einmal, zurück, noch, doch, trotzdem	e
-X	ისეთი	adj	solch, derartig, so ein, so	e
+X	ისეთი	adj	so	e
 X	ისვენებს	v	ruhen, sich erholen, lockern, entspannen, sich entspannen	e
 X	ისინი	pron	sie (3. Person Plural)	w
 X	ისლამი	n	Islam	e
@@ -35645,7 +35581,7 @@ X	იფეთქავს	v	sprengen, explodieren, platzen	e
 X	იქ	adv	dort, da, dorthin	e
 X	იქამდე	adv	dort, da, dorthin	e
 X	იქიდან	adv	daher, von dannen, dorther	e
-X	იქით	adv	dort, drüben, dort drüben, jenseits	e
+X	იქით	adv	jenseits	e
 X	იქნებ	adv	vielleicht, möglicherweise, womöglich	e
 X	იღბალი	n	Glück	e
 X	იღბლიანად	adv	glücklicherweise, auf glückliche Weise, mit Glück	e
@@ -35666,10 +35602,9 @@ X	იშიასი	n	Ischias	e
 X	იშხვარი	n	Schwarzstorch	e
 X	იცავს	v	verteidigen, schützen, beschützen	e
 X	იცდის	v	warten, bedienen	e
-X	იცვამს	v	sich anziehen	e
 X	იცინის	v	lachen, lache, auslachen	e
 X	იცის	v	wissen, wüsse, wissn	e
-X	იცნობს	v	wissen, wüsse, wissn, treffen, begegnen, kennen lernen, kennenlernen, erkennen	e
+X	იცნობს	v	wissen, wüsse, wissn, treffen, begegnen, kennen lernen, erkennen, anerkennen	e
 X	იცოცხლე	v	Gesundheit, hatschi, prost	e
 X	იძიებს	v	suchen, absuchen, durchsuchen, untersuchen, erforschen, recherchieren	e
 X	იძინებს	v	einschlafen, einpennen, entschlafen, schlafen, pennen, schlaaffe	e
@@ -35866,7 +35801,7 @@ X	კარატე	n	Karate	e
 X	კარატი	n	Karat	e
 X	კარაქი	n	Butter, Anke	e
 X	კარბუნკული	n	Milzbrand, Karfunkel, Karbunkel	e
-X	კარგა	adv	sehr, ganz, wahrlich, gerecht, eher, lieber, im Gegenteil, viele	e
+X	კარგა	adv	gerecht, eher, lieber, im Gegenteil, viele	e
 X	კარგად	adv	gut, ganz, baba, tschüss, tschö	e
 X	კარგი	adj	freundlich, sympathisch, lieb, gesund, gut, brav, gehörig, okay	e
 X	კარგი საქონელია	wend	nötig, notwendig, erforderlich	e
@@ -35888,7 +35823,6 @@ X	კარმა	n	Karma, Schicksal	e
 X	კარნავალი	n	Fastnacht, Karneval, Fasching	e
 X	კარნახი	n	Diktat, Gebot, Eingabeaufforderung, Prompt, KI-Anweisung	e
 X	კარნიზი	n	Gesims, Sims, Kranzgesims	e
-X	კაროჩე	adv	kurzum	e
 X	კარტელი	n	Kartell	e
 X	კარტი	n	Karte	e
 X	კარტის თამაში	n	Kartenspiel, Karten	e
@@ -35980,7 +35914,7 @@ X	კეთილგონივრული	adj	vernünftig, sinnvoll, rational
 X	კეთილდღეობა	n	Wohlbefinden, Wohl, Wohlergehen, Wohlfahrt, Sozialhilfe	e
 X	კეთილზნიანი	adj	wohlerzogen, artig, brav	e
 X	კეთილთვისებიანი	adj	freundlich, gütig, liebevoll	e
-X	კეთილი	adj	freundlich, gütig, lieb, gut, brav, gehörig, okay, in Ordnung	e
+X	კეთილი	adj	gut, brav, gehörig, okay, in Ordnung, Liebenswürdigkeit, Güte, Gütigkeit	e
 X	კეთილი იყოს თქვენი მობრძანება	wend	willkommen	e
 X	კეთილმეზობლური	adj	nachbarlich	e
 X	კეთილმყოფელი	n	Wohltäter, Wohltäterin, Benefaktor, wohltätig, mildtätig, nützlich, vorteilhaft	e
@@ -36118,7 +36052,7 @@ X	კვნესა	n	Stöhnen, Seufzen, Ächzen	e
 X	კვორუმი	n	Quorum	e
 X	კვოტა	n	Quote, Anteil, Teilmenge	e
 X	კვრინჩხი	n	Schlehdorn, Schlehe	e
-X	კი	interj	ja, aber, aber trotzdem, sondern	e
+X	კი	interj	ja	e
 X	კიანგი	name	Kiang, Tibet-Wildesel	e
 X	კიბე	n	Leiter, Laufmasche, Stufe, Treppenstufe, Treppe, Stiege, Treppenhaus	e
 X	კიბერბულინგი	n	Cyberbullying, Cyber-Bullying, Cybermobbing	e
@@ -36531,7 +36465,7 @@ X	კრეოლი	n	Kreolsprache, Kreol, Kreole	e
 X	კრეპი	n	Krepp, Crêpe	e
 X	კრეტა	name	Kreta	e
 X	კრეტინი	n	Kretin, Idiot, Idiotin, Narr	e
-X	კრეფს	v	sammeln, versammeln, zusammenfinden, ernten, schneiden, mähen, tippen	e
+X	კრეფს	v	sammeln, versammeln, zusammenfinden, ernten, schneiden, mähen	e
 X	კრეშენდო	n	Crescendo	e
 X	კრეჭს	v	grinsen	e
 X	კრიალა	adj	strahlend, brillant, genial	e
@@ -36659,7 +36593,7 @@ X	ლაზარეთი	n	Krankenhaus, Krankenstation, Ambulanz	e
 X	ლაზერი	n	Laser	e
 X	ლაზი	adj	Lasische Sprache	e
 X	ლაზიერი	n	Königin, Kinigin, Dame	e
-X	ლაზური	n	aus, von, über, Lasische Sprache	e
+X	ლაზური	n	Lasische Sprache	e
 X	ლათინოამერიკელი	n	Latino, Lateinamerikaner, Lateinamerikanerin	e
 X	ლათინოამერიკული	adj	lateinamerikanisch	e
 X	ლათინური	adj	lateinisch, römisch, latinisch	e
@@ -36847,7 +36781,6 @@ X	ლინკი	n	Verbindung, Verknüpfung, Glied	e
 X	ლინკოლნი	name	Lincoln	e
 X	ლინოლეუმი	n	Linoleum	e
 X	ლიპყინული	n	Glatteis, Blitzeis, überfrierende Nässe	e
-X	ლიჟბი	adv	solange, wenn auch, wenn doch nur, wenn bloß	e
 X	ლირა	n	Lira	e
 X	ლირიკა	n	Liedtext, Text, Songtext	e
 X	ლირიკოსი	n	Textdichter, Liedtexter	e
@@ -36975,9 +36908,8 @@ X	ლხენა	n	Freude	e
 X	ლხინი	n	Festmahl, Bankett, Gastmahl, Festessen	e
 X	მ		der ursprünglich dreizehnte und aktuell zwölfte Buchstabe des georgischen Alphabets mit d…	w
 X	მ-რნმ	n	mRNA	e
-X	მა	n	Papa, Papi, Vati, dann, damals, danach, damit, sodass	e
+X	მა	n	Papa, Papi, Vati, dann, damals, danach	e
 X	მაგათი	art	ihr, ihre, sier	e
-X	მაგალითად	adv	zum Beispiel, beispielsweise, zum Exempel	e
 X	მაგალითი	n	Beispiel, Exempel, Vorbild	e
 X	მაგანა	n	Sichel	e
 X	მაგარი	adj	hart, fest, schwierig, befestigt, fixiert, gut, brav, gehörig	e
@@ -37005,7 +36937,6 @@ X	მაგნიტური ლევიტაციის მატარე�
 X	მაგნიუმი	n	Magnesium	e
 X	მაგნოლია	n	Magnolie	e
 X	მაგრად	adv	Firma, sicher, fest, hart, schwierig	e
-X	მაგრამ	konj	aber, aber trotzdem, sondern	e
 X	მადა	n	Appetit, Begierde, Lust, Magen, Bauch	e
 X	მადაგასკარი	name	Madagaskar	e
 X	მადანი	n	Erz	e
@@ -37049,7 +36980,7 @@ X	მაიკლი	name	Michael	e
 X	მაიკონგი	n	Maikong	e
 X	მაიმუნი	n	Affe, Äffin, Menschenaffe	e
 X	მაინის ფრანკფურტი	name	Frankfurt am Main, Frankfurt an der Oder, Frankfurt	e
-X	მაინც	adv	noch, doch, trotzdem, ohnehin, auf jeden Fall, mindestens, zumindest, wenigstens	e
+X	მაინც	adv	noch, doch, trotzdem, ohnehin, auf jeden Fall	e
 X	მაიოლიკა	n	Majolika	e
 X	მაიონებელი გამოსხივება	n	ionisierende Strahlung	e
 X	მაიონეზი	n	Mayonnaise, Majo, Mayo	e
@@ -37150,7 +37081,6 @@ X	მანძილი	n	Distanz, Abstand, Entfernung	e
 X	მანძილსაზომი	n	Entfernungsmesser, Distanzmessgerät	e
 X	მანჰეტენი	name	New York, New-York, Neuyork, Vereinigte Staaten	e
 X	მაპატიეთ	interj	Entschuldigung?, wie bitte?, Entschuldigung	e
-X	მარა	konj	aber, aber trotzdem, sondern	e
 X	მარაგი	n	Kapital, Fonds, Hort, Vorrat, überschüssig, überflüssig, Reserve-	e
 X	მარად	adv	für immer, ewig, unaufhörlich, immer, stets	e
 X	მარადი მზრალობა	n	Permafrostboden, Permafrost	e
@@ -37269,7 +37199,7 @@ X	მასაჟი	n	Massage	e
 X	მასაჟისტი	n	Masseur, Masseurin, Masseuse	e
 X	მასაჩუსეტსი	name	Massachusetts	e
 X	მასდარი	n	Verbalnomen, Verbalsubstantiv	e
-X	მასე	adv	so, sehr, Fischnetz, Fischernetz	e
+X	მასე	adv	so, Fischnetz, Fischernetz	e
 X	მასივი	n	Massiv, Bekleidung, Tracht, Arrangement	e
 X	მასიური	adj	massiv	e
 X	მასკარადი	n	Maskenspiel, Maskerade	e
@@ -37315,7 +37245,6 @@ X	მაქო	n	Weberschiffchen, Schützen, Webschützen	e
 X	მაქსიმალურად	adv	himmelhoch	e
 X	მაქსიმალური	adj	maximal	e
 X	მაქსიმიზაცია	n	Maximierung	e
-X	მაქსიმუმ	adv	maximal, höchstens	e
 X	მაქსიმუმი	n	Maximum, höchstmöglich	e
 X	მაქცია	n	Werwolf, Werwölfin, Mannwolf	e
 X	მაღაზია	n	Laden, Geschäft, Ladengeschäft, Lager, Speicher, Vorrat	e
@@ -37333,7 +37262,7 @@ X	მაღალსიხშირიანი	adj	hochfrequent	e
 X	მაღალხარისხიანი	adj	hochqualitativ	e
 X	მაღარიჩი	n	Festmahl, Festessen, Gastmahl	e
 X	მაღარო	n	Grube, Mine, Bergwerk	e
-X	მაღლა	adv	nach oben, empor, ver-, treppauf, oben, oberer, ober	e
+X	მაღლა	adv	treppauf, oben, nach oben, aufwärts, hoch, oberer, ober	e
 X	მაღლივი	adj	Hochhaus, Hochbau	e
 X	მაღლობი	n	Hügel, Hang, Steigung, Hebung, Erheben, Anhebung, Hochland	e
 X	მაღრიბი	name	Maghreb	e
@@ -37344,10 +37273,10 @@ X	მაყურებელი	n	Zuschauer, Zuschauerin, Schaulustiger, Zusehe
 X	მაშ	interj	na, na ja, gut, in der Tat, genau	e
 X	მაშა	n	Zange, Kneifzange, Greifer, Greifzange	e
 X	მაშია	n	Slipper, Pantoffel, Latschen	e
-X	მაშინ	adv	in diesem Fall, dann, damals, danach	e
+X	მაშინ	adv	dann, damals, danach	e
 X	მაშინაც კი	konj	selbst wenn, obwohl	e
-X	მაშინდელი	adj	damalig, zu der Zeit, zur Zeit, damals	e
-X	მაშინვე	adv	sobald, sofort, alsbald, unverzüglich, umgehend	e
+X	მაშინდელი	adj	damalig	e
+X	მაშინვე	adv	sofort, alsbald, unverzüglich, umgehend	e
 X	მაჩალიკაშვილი	name	Nachname, Familienname	e
 X	მაჩეტე	n	Machete	e
 X	მაჩვენებელი	n	Indikator, Anzeige, Zeiger, Index, Verzeichnis, Metrik, Messgröße, Maß	e
@@ -37448,7 +37377,6 @@ X	მეგობარი	n	Freund, Kumpel, Kamerad	e
 X	მეგობარი უპირატესობებით	n	Freund mit gewissen Vorzügen, Freundin mit gewissen Vorzügen, Sexfreund	e
 X	მეგობრობა	n	Freundschaft	e
 X	მეგობრობა უპირატესობებით	n	Freundschaft plus	e
-X	მეგობრობს	v	Freunde sein	e
 X	მეგობრულად	adv	gütlich	e
 X	მეგობრული	adj	einvernehmlich, freundlich, freundschaftlich	e
 X	მეგობრული ცეცხლი	n	Eigenbeschuss, Friendly Fire, Beschuss durch die eigene Seite	e
@@ -37588,7 +37516,7 @@ X	მეორედი	n	zweite Wahl, Nachschlag, Sekunde, Hälfte	e
 X	მეორმოცე	adj	vierzigste	e
 X	მეოცე	adj	zwanzigste	e
 X	მეოცნებე	n	Tagträumer, Tagträumerin, Träumer	e
-X	მეოხებით	präp	über, durch, via, dank, vermöge, mit	e
+X	მეოხებით	präp	über, durch, via	e
 X	მეპაიე	n	Aktionär, Aktionärin	e
 X	მეპატრონე	n	Inhaber, Besitzer, Besitzerin, Halter, Ständer, Halterung	e
 X	მერაბიშვილი	name	Nachname, Familienname	e
@@ -37871,7 +37799,6 @@ X	მთლიანი შიდა პროდუქტი	n	Bruttoinlandspro
 X	მთლიანობა	n	Integrität, Prinzipienfestigkeit	e
 X	მთხრელი	adj	Grabwerkzeug, Gräber, Gräberin	e
 X	მთხრობელი	n	Erzähler, Erzählerin, Geschichtenerzähler	e
-X	მი	n	e	e
 X	მიამიტი	adj	unbefangen, naiv, blauäugig	e
 X	მიამიტობა	n	Einfachheit	e
 X	მიანმარი	name	Myanmar	e
@@ -37888,7 +37815,7 @@ X	მიდის	v	gehen, dran sein, ziehen	e
 X	მიდლენდსი	name	Mittelengland, englisches Mittelland, Midlands, England	e
 X	მიდრეკილება	n	Neigung, Steigung, Tendenz, gebeugt, verbogen, gay	e
 X	მიეთ-მოეთობა	n	Klatsch, Tratsch, Kauderwelsch, Kokolores, Gequassel, Blödsinn, Nonsens, Quatsch	e
-X	მიერ	präp	bei, neben, ba, mittels, mittelst, vermittels	e
+X	მიერ	präp	durch	e
 X	მიესალმება	v	begrüßen, grüßen, hallo, guten Tag, servus	e
 X	მიექანება	v	rasen	e
 X	მიეჩქარება	v	sich beeilen, eilen	e
@@ -37909,7 +37836,7 @@ X	მითოლოგი	n	Mythologe, Mythologin	e
 X	მითოლოგია	n	Mythologie, Sagenwelt, Götterlehre	e
 X	მითოლოგიური	adj	mythologisch, mythisch	e
 X	მიიტანს	v	bringen, holen	e
-X	მიიღებს	v	besorgen, holen, erwischen, bekommen, erhalten, empfangen	e
+X	მიიღებს	v	bekommen, erhalten, empfangen	e
 X	მიიჩნევს	v	überlegen, halten, betrachten, ansehen, erachten	e
 X	მიკი	n	Klitoris, Kitzler	e
 X	მიკიტანი	n	Wirt, Schankwirt, Gastwirt	e
@@ -38047,7 +37974,6 @@ X	მიუკერძოებელი	adj	objektiv, unvoreingenommen, unbefa
 X	მიუკერძოებლად	adj	objektiv, unparteiisch, unparteilich	e
 X	მიუნხენი	name	München, münchnerisch	e
 X	მიუონი	n	Myon	e
-X	მიუხედავად	präp	trotz	e
 X	მიქსერი	n	Mixer, Mischgetränk	e
 X	მიქსტურა	n	Mischung, Gemisch	e
 X	მიქცევ-მოქცევა	n	Gezeiten, Tide, Strom, Ebbe und Flut	e
@@ -38056,7 +37982,7 @@ X	მიღებული	adj	genehmigt, bewilligt	e
 X	მიღმა	adv	jenseits	e
 X	მიღწევა	n	Errungenschaft, Leistung, Großtat, Ankunft, Eintreffen, Ankommen	e
 X	მიღწევადი	adj	erreichbar, erzielbar, verwirklichbar	e
-X	მიყოლებით	adv	nacheinander, hintereinander, in Folge	e
+X	მიყოლებით	adv	nacheinander, hintereinander	e
 X	მიშკოლცი	name	Miskolc, Mischkolz	e
 X	მიჩიგანი	name	Michigan	e
 X	მიჩიგანის ტბა	name	Michigansee, Michigan-See	e
@@ -38172,7 +38098,7 @@ X	მოდუნებული	adj	entspannt, locker, schlaff, lose, trödelig
 X	მოდუნებულობა	n	Laschheit, Schlaffheit, Schwäche	e
 X	მოდური	adj	modisch, fashionable, stilvoll, elegant, stylisch, stilistisch	e
 X	მოედანი	n	Arena, Bühne, Platz, Quadrat, Feld	e
-X	მოემზადება	v	vorbereiten, präparieren, zubereiten, bereit machen, fertig machen, klar machen	e
+X	მოემზადება	v	vorbereiten, präparieren, zubereiten	e
 X	მოენატრება	v	verfehlen, vermissen, sich sehnen, begehren, verlangen	e
 X	მოეფერება	v	liebkosen, kosen, streicheln	e
 X	მოვალეობა	n	Pflicht, Schicht, Arbeitszeit, Verpflichtung	e
@@ -38209,7 +38135,7 @@ X	მოკვდება	v	sterben, umkommen, versterben	e
 X	მოკლავს	v	töten, umbringen, ermorden	e
 X	მოკლე	adj	kurz, klein, kurz (für)	e
 X	მოკლება	n	Reduktion, Reduzierung, Verlust, Niederlage, Entziehen, Entziehung, Entzug	e
-X	მოკლედ	adv	kurz, kurzum	e
+X	მოკლედ	adv	kurz	e
 X	მოკლევადიანი	adj	kurzfristig, kurzzeitig	e
 X	მოკლემეტრაჟიანი ფილმი	n	Kurzfilm	e
 X	მოკლეტალღიანი	adj	kurzwellig	e
@@ -38239,7 +38165,7 @@ X	მოლურჯო-მწვანე	adj	petrolblau, petrol	e
 X	მოლუსკი	n	Weichtier, Molluske, Schalentier, Krustentier	e
 X	მომაბეზრებელი	adj	ermüdend, mühsam	e
 X	მომავალი	adj	zukünftig, künftig, nächster	e
-X	მომავალში	adv	in der Zukunft, zukünftig, künftig, später	e
+X	მომავალში	adv	künftig, in der Zukunft, später	e
 X	მომაკვდინებელი	adj	tödlich, letal, sterblich	e
 X	მომართავს	v	verbannen, fortschicken, absetzen	e
 X	მომართვა	n	Anpassung, Stimmung	e
@@ -38745,7 +38671,7 @@ X	მშენებლობა	n	Bau, Bauarbeit, Bauwerk	e
 X	მშველელი	n	Erlöser, Erlöserin, Retter	e
 X	მშვენება	n	Schönheit, Schöne	e
 X	მშვენიერი	adj	wunderbar, wundervoll, eitel	e
-X	მშვენივრად	adv	gut, schön, na gut	e
+X	მშვენივრად	adv	gut, schön	e
 X	მშვიდად	adv	ruhig, leise, sicher	e
 X	მშვიდი	adj	friedlich, friedfertig, ruhig, windstill	e
 X	მშვიდობა	n	Ruhe, Frieden, Friede	e
@@ -38876,7 +38802,7 @@ X	მხოლოდდამხოლოდ	adv	nur, einzig und allein, ausschl
 X	მხოლოდშობილი	n	Einzelkind, nackt	e
 X	მხოლოობითი	adj	einzig, einzigartig, geschwisterlos, ledig, unverheiratet, einzeln, ungewöhnlich	e
 X	მხოლოობითი რიცხვი	n	Einzahl, Singular, Singularis	e
-X	მხრივ	präp	in Bezug auf, in Hinsicht auf, hinsichtlich, Respekt, Achtung, Bezug, Hand, Zeiger	e
+X	მხრივ	präp	Respekt, Achtung, Bezug, Hand, Zeiger, Seite	e
 X	მხრის ორთავა კუნთი	n	Musculus biceps brachii	e
 X	მხრის სამთავა კუნთი	n	Trizeps	e
 X	მხსნელი	n	Erlöser, Erlöserin, Retter	e
@@ -39091,7 +39017,7 @@ X	ნახველი	n	Phlegma, Schleim, Nasenschleim	e
 X	ნახვრეტი	n	Öffnung, Luftloch, Ausbruchkanal	e
 X	ნახირი	n	Herde, Pferdeherde, Hirt	e
 X	ნახიჩევანი	name	Nachitschewan	e
-X	ნახმარი	adj	gebraucht, Second-Hand, aus zweiter Hand, secondhand, im Arsch, gefickt, in der Scheiße, in der Scheiße stecken	e
+X	ნახმარი	adj	gebraucht, aus zweiter Hand, secondhand, im Arsch, gefickt, in der Scheiße, in der Scheiße stecken	e
 X	ნახტომი	n	hüpfen, Bounce, Abgrenzung, Grenze, Schranke, Kaper, Kapernstrauch	e
 X	ნახულობს	v	besuchen, sehen, schauen, gseh, finden, aufdecken, bemerken, merken	e
 X	ნახშირბადი	n	Kohlenstoff, Kohlepapier, Durchschlag	e
@@ -39178,7 +39104,6 @@ X	ნესვი	n	Melone, Melonen	e
 X	ნესტარი	n	Stich, Biss, Insektenstich, Stachel	e
 X	ნესტიანი	adj	feucht, durchnässt, durchweicht	e
 X	ნესტო	n	Nasenloch, Nüster	e
-X	ნეტა	part	wenn auch, wenn doch nur, wenn bloß	e
 X	ნეტარი	adj	glückselig, beglückt	e
 X	ნეფე	n	Bräutigam	e
 X	ნექტარი	n	Nektar	e
@@ -39197,7 +39122,6 @@ X	ნიდერლანდები	name	die Niederlande, Holland	e
 X	ნიდერლანდელი	n	Niederländer, Niederländerin	e
 X	ნიდერლანდი	name	die Niederlande, Holland	e
 X	ნიდერლანდური	adj	niederländisch, holländisch	e
-X	ნივთი	n	Ding, Sache, Gegenstand	e
 X	ნივთიერება	n	Materie, Masse, Substanz, Sachen, Kram, Zeug	e
 X	ნივთიერებათა ცვლა	n	Stoffwechsel, Metabolismus	e
 X	ნივთიერი	adj	materiell, physisch, stofflich, greifbar, erfühlbar, konkret	e
@@ -39653,7 +39577,7 @@ X	ოქტეტი	n	Oktett	e
 X	ოქტობერფესტი	name	Oktoberfest	e
 X	ოქტომბერი	n	Oktober	w
 X	ოქტომბრის რევოლუცია	name	Oktoberrevolution	e
-X	ოღონდ	konj	aber, aber trotzdem, sondern, höchstens, bis auf, ausgenommen	e
+X	ოღონდ	konj	höchstens, bis auf, ausgenommen	e
 X	ოყნა	n	Einlauf, Klistier	e
 X	ოყუჯავა	name	Nachname, Familienname	e
 X	ოჩოფეხა	n	Stelze, Stelzenläufer, Sterz	e
@@ -40039,7 +39963,7 @@ X	პირველყოფილი ბულიონი	n	Ursuppe	e
 X	პირველყოფილი ტყე	n	Urwald, Primärwald	e
 X	პირველშობილი	adj	erstgeboren	e
 X	პირველწყარო	n	Primärquelle	e
-X	პირი	n	Mund, Maul, Muul, Gesicht, Gesichtsausdruck, Ansehen, Person, Mensch	e
+X	პირი	n	Mund, Maul, Muul, Gesicht, Gesichtsausdruck, Ansehen, Individuum, Vereinbarung	e
 X	პირის ღრუს ჰიგიენა	n	Mundhygiene, Zahnpflege, Mundpflege	e
 X	პირისპირ	adv	Tête-à-Tête, im Vergleich zu, gegenüber	e
 X	პირიქით	adv	umgekehrt, andersherum, andersrum	e
@@ -40050,7 +39974,7 @@ X	პირმშო	n	Nachkomme, Nachkommin, Kind	e
 X	პირმცინარი	adj	lächelnd, fröhlich, vergnügt, freundlich	e
 X	პირობა	n	Versprechen, Bedingung, Kondition, Voraussetzung	e
 X	პირობითი	adj	bedingt, provisorisch	e
-X	პიროვნება	n	Person, Mensch, Körper, Persönlichkeit	e
+X	პიროვნება	n	Persönlichkeit	e
 X	პიროვნებათშორისი	adj	zwischenmenschlich	e
 X	პიროტექნიკა	n	Pyrotechnik, Feuerwerkerei	e
 X	პირსაბანი	n	Waschbecken, Waschschüssel	e
@@ -40430,7 +40354,7 @@ X	პუტჩი	n	Putsch	e
 X	ჟ	num	sechzehnter georgischer Buchstabe mit dem Namen Schan ; Ziffern 90 im georgischen Zahlensystem	w
 X	ჟაბო	n	Jabot, Goldlack, Lackstock, Lackviole	e
 X	ჟაკეტი	n	Jacke, Jackett, Sakko	e
-X	ჟამი	n	Zeit, Zit, Ziit, Seuche, Pest, Schädling, Plage, Stunde	e
+X	ჟამი	n	Seuche, Pest, Schädling, Plage, Stunde, Zeit, Uhr	e
 X	ჟანგავს	v	oxygenieren	e
 X	ჟანგბადი	n	Sauerstoff, Oxygen, Oxygenium	e
 X	ჟანგი	n	Rost, Rostbraun, Weizenbraunrost	e
@@ -40472,7 +40396,6 @@ X	ჟღურტულებს	v	zwitschern, tschilpen, tirilieren, twittern, 
 X	რ	num	siebzehnter georgischer Buchstabe mit dem Namen Rae (georgisch რაე (rae) ^(→ ka)) ; Ziffern 100 im alten georgischen Zahlensystem	w
 X	რა	pron	was, waas, der, Re	e
 X	რა დროიდან	adv	seit wann	e
-X	რა თქმა უნდა	wend	natürlich, sicher, selbstverständlich	e
 X	რაბინი	n	Rabbiner, Rabbinerin	e
 X	რაგბი	n	Rugby	e
 X	რაგბის მოთამაშე	n	Rugbyspieler, Rugbyspielerin	e
@@ -40505,8 +40428,7 @@ X	რადიუმი	n	Radium	e
 X	რადიუსი	n	Speiche, Radius, Halbmesser	e
 X	რადონი	n	Radon	e
 X	რაზმი	n	Brigade, Trupp, Suchtrupp, Bande	e
-X	რათა	konj	um zu, damit, behufs, sodass	e
-X	რაიმე	pron	jeder, irgendetwas, irgendwas	e
+X	რაიმე	pron	jeder	e
 X	რაიმონდი	name	Raimund	e
 X	რაინდი	n	Ritter, Springer, Pferd	e
 X	რაინდობა	n	Rittertum, Ritterlichkeit, Ritterschaft	e
@@ -40519,15 +40441,12 @@ X	რაიხსტაგი	name	Reichstag	e
 X	რაკეტა	n	Rakete	e
 X	რაკი	konj	seitdem, seit, weil, denn, da	e
 X	რაკოვინა	n	Abwasch, Abwaschbecken, Spüle	e
-X	რამ	pron	etwas, klein, Etwas, Ding, Sache, Gegenstand	e
 X	რამდენ ხანს	adv	wie lange	e
 X	რამდენად	adv	wie sehr, wie, soweit, soviel	e
 X	რამდენადმე	adv	etwas, einigermaßen	e
 X	რამდენი	pron	wieviel	e
 X	რამდენიმე	pron	mehrere, einige	e
-X	რამდენიც	konj	so sehr wie, so viel wie, so sehr auch	e
 X	რამდენჯერ	adv	des Öfteren, vielmals	e
-X	რამე	pron	etwas, klein, Etwas, irgendetwas, irgendwas	e
 X	რამიშვილი	name	Nachname, Familienname	e
 X	რამოდენიმე	pron	mehrere, einige	e
 X	რამხელა	art	wie viel, wieviel kostet das?, wie viele, wieviel	e
@@ -40539,24 +40458,22 @@ X	რაობა	n	Wesen, Essenz, Extrakt	e
 X	რაოდენობა	n	Quantität, Menge, in Klammern, Zahl, Nummer, Ziffer	e
 X	რაოდენობითი	adj	quantitativ	e
 X	რასა	n	Rennen, Wettrennen, Rasse	e
-X	რასაკვირველია	adv	bestimmt, sicherlich, natürlich, sicher, selbstverständlich	e
+X	რასაკვირველია	adv	bestimmt, sicherlich	e
 X	რასიზმი	n	Rassismus	e
 X	რასისტი	n	Rassist, Rassistin	e
 X	რასულად	adv	rassistisch motiviert	e
 X	რასული	adj	rassisch, Rassen-	e
 X	რატიფიკაცია	n	Bestätigung, Ratifikation, Ratifizierung	e
 X	რატომ	adv	warum, wieso, weshalb	e
-X	რატომღაც	adv	irgendwie, aus irgendeinem Grund	e
+X	რატომღაც	adv	irgendwie	e
 X	რაუნდი	n	Kreis, Runde, Visite	e
 X	რაფა	n	Schrank, Wandschrank, Kasten, Fensterbank, Sims, Fensterbrett	e
 X	რაფერ	adv	wie	e
 X	რაფსოდია	n	Rhapsodie	e
 X	რაქიტი	n	Rachitis, Rhachitis, englische Krankheit	e
 X	რაღა	pron	komm mit, komm schon, auf geht's	e
-X	რაღაც	pron	etwas, klein, Etwas	e
-X	რაღაცა	pron	etwas, klein, Etwas	e
 X	რაში	adv	Pferd, Ross, Roß	e
-X	რაც	konj	dass, sodass, damit, welcher, welche, welches	e
+X	რაც	konj	welcher, welche, welches	e
 X	რაცია	n	Walkie-Talkie, Handfunkgerät	e
 X	რაციონალიზმი	n	Rationalismus	e
 X	რაჯა	n	Raja, Radscha, Radja	e
@@ -40786,12 +40703,10 @@ X	როგორ	adv	wie, auf welche Weise	w
 X	როგორი	pron	was für, welcher	e
 X	როგორმე	adv	wie auch immer, egal wie	e
 X	როგორღაც	adv	irgendwie	e
-X	როგორც	konj	so ... wie, mögen, gern haben, gefallen	e
+X	როგორც	konj	mögen, gern haben, gefallen	e
 X	როგორც ეტყობა	adv	offensichtlich, offenbar, scheinbar	e
-X	როგორც იქნა	interj	endlich, schließlich, definitiv	e
-X	როგორც კი	konj	sobald	e
+X	როგორც იქნა	interj	schließlich, endlich, definitiv	e
 X	როგორც ჩანს	adv	offensichtlich, offenbar, scheinbar	e
-X	როგორც წესი	adv	in der Regel, normalerweise, gewöhnlich	e
 X	როდ-აილენდი	name	Rhode Island	e
 X	როდემდე	adv	wie lange	e
 X	როდესაც	konj	wenn, sobald, als, wann immer, wann auch immer	e
@@ -40815,7 +40730,7 @@ X	როკი	n	Rockmusik, Stumpf, Stubben, Estompe, Knoten, Fitz, Filz	e
 X	როკოკო	n	Rokoko	e
 X	როკფორი	n	Roquefort	e
 X	როლი	n	Rolle, Aufgabe, Funktion	e
-X	რომ	konj	dass, sodass, damit, wenn, sobald, als, falls, wenn auch	e
+X	რომ	konj	wenn, sobald, als	e
 X	რომანი	n	Roman, Novelle	e
 X	რომანისტი	n	Romanautor, Romanautorin, Romanschreiber	e
 X	რომანისტიკა	n	Romanistik	e
@@ -40825,8 +40740,8 @@ X	რომაულ-გერმანული სამართალი	n	Z
 X	რომაული	adj	römisch, lateinisch, katholisch	e
 X	რომბი	n	Raute, Pastille, Hustenbonbon, Rhombus	e
 X	რომბოიდი	n	Rhomboid, Rautling, Rautenmuskel	e
-X	რომელი	art	jener, jene, jenes, welcher, welche, welches, Römer, Römerin	e
-X	რომელიც	konj	dass, sodass, damit, welcher, welche, welches	e
+X	რომელი	art	welcher, welche, welches, Römer, Römerin, Lateinisch	e
+X	რომელიც	konj	welcher, welche, welches	e
 X	რომი	name	Rom, das alte Rom, Rum	e
 X	რომის იმპერია	name	Römisches Reich, Römerreich	e
 X	რომის კათოლიკური ეკლესია	name	Römisch-Katholische Kirche	e
@@ -40904,7 +40819,6 @@ X	რწყილი	n	Floh, Flohmännchen, Flohweibchen	e
 X	ს	num	achtzehnter georgischer Buchstabe mit dem Namen San (georgisch სან-ი (san-i) ^(→ ka)) ; Ziffern 200 im alten georgischen Zahlensystem	w
 X	ს.	n	Jahrhundert, Säkulum, Zenturie	e
 X	სა	adv	wo, woher, wohin	e
-X	სა-		das heißt, aus, von, über	e
 X	სააბაზანო	adj	Badewanne, Bad, Baden, Badezimmer	e
 X	სააბატო	n	Abtei, Klosterkirche	e
 X	სააგენტო	n	Wille, Agency, Handlungsfähigkeit	e
@@ -40946,7 +40860,7 @@ X	საახალწლო	adj	Silvester, Neujahr	e
 X	საბაბი	n	Vorwand, Deckmantel, fadenscheinige Begründung, Ursache, Anlass, Grund	e
 X	საბაგირო	n	Seilbahn	e
 X	საბავშვო ბაღი	n	Vorschule, Kindergarten, vorschulisch, Kinderkrippe	e
-X	საბაზიერო	n	Haus, Huus, Kammer, Platz, Ort, Stelle	e
+X	საბაზიერო	n	Haus, Huus, Kammer	e
 X	საბაზრო ეკონომიკა	n	Marktwirtschaft	e
 X	საბაზრო კაპიტალიზაცია	n	Marktkapitalisierung	e
 X	საბაზრო ღირებულება	n	Marktwert	e
@@ -41000,7 +40914,7 @@ X	საგამოძიებო	adj	Untersuchung, investigativ	e
 X	საგანგაშო	adj	Alarm, Alarmsignal, Alarmstimmung, alarmierend	e
 X	საგანგებო	adj	speziell, Spezial-, ungewöhnlich	e
 X	საგანგებო მდგომარეობა	n	Notstand, Notstandsgesetz, Notstandsbeschluss	e
-X	საგანი	n	Gegenstand, Objekt, Sache, Ding, Satzgegenstand, Subjekt, Thema	e
+X	საგანი	n	Gegenstand, Objekt, Sache, Satzgegenstand, Subjekt, Thema	e
 X	საგანმანათლებლო	adj	Bildungs-, pädagogisch, edukativ	e
 X	საგანძური	n	Schatz	e
 X	საგარეო	adj	fremd, ausländisch	e
@@ -41046,7 +40960,7 @@ X	სადომაზოხიზმი	n	Sadomasochismus	e
 X	სადღაც	adv	irgendwo, irgendwohin	e
 X	სადღეგრძელო	n	Toast, Röstbrot, Toastbrot	e
 X	სადღეისო	adj	gegenwärtig, aktuell, zeitnah, zeitgenössisch, modern	e
-X	სადღეისოდ	adv	momentan, aktuell, gegenwärtig, zur Zeit, zurzeit	e
+X	სადღეისოდ	adv	momentan, zur Zeit, zurzeit	e
 X	სადღესასწაულო	adj	festlich	e
 X	სადღეღამისო	adj	vierundzwanzigstündig	e
 X	სადღვებელი	n	Rührtrommel, Butterfass, Butterfaß	e
@@ -41070,7 +40984,6 @@ X	საერთო ენა	n	Lingua Franca, Verkehrssprache, Ursprache, Vere
 X	საერთო მეგობარი	n	gemeinsamer Freund	e
 X	საერთო სამართალი	n	common law	e
 X	საერთო საცხოვრებელი	n	Schlafsaal, Dormitorium, Studentenwohnheim	e
-X	საერთოდ	adv	überhaupt, gar	e
 X	საერთოეროვნულად	adv	landesweit	e
 X	საერისმთავრო	n	Fürstentum, Fürsten	e
 X	საერო	adj	säkular, weltlich, weltgewandt, weltmännisch	e
@@ -41154,7 +41067,7 @@ X	სათვალე	n	Brille	e
 X	სათვალთვალო ბორბალი	n	Riesenrad	e
 X	სათვალიანი	adj	eine Brille tragend, bebrillt, brilletragend	e
 X	სათი	n	Strahl, Gagat, Jett, Rappe	e
-X	სათითაოდ	adv	der Reihe nach, einer nach dem anderen, eine nach dem anderen, individuell, einzeln	e
+X	სათითაოდ	adv	individuell, einzeln	e
 X	სათითე	n	Fingerhut, Schneiderfingerhut, Nähring	e
 X	სათლი	n	Eimer, Kübel, ein Eimer voll	e
 X	სათნო	adj	züchtig, tugendhaft, tugendsam	e
@@ -41336,7 +41249,6 @@ X	სამნაწილიანი	adj	dreiteilig, dreigliedrig, dreiseitig	
 X	სამოა	name	Samoa	e
 X	სამოვარი	n	Samowar	e
 X	სამოთხე	n	Glückseligkeit, Glück, Eden, Paradies, Himmel	e
-X	სამომავლოდ	adv	in der Zukunft, zukünftig, künftig	e
 X	სამომხმარებლო ინტერფეისი	n	Anwenderschnittstelle, Bedieneroberfläche, Bedienoberfläche	e
 X	სამონეტო	adj	Geld-, geldlich, finanziell	e
 X	სამორინე	n	Kasino, Spielbank	e
@@ -41532,7 +41444,6 @@ X	საპროცენტო	adj	Prozentsatz, Hundertsatz, Vomhundertsatz	e
 X	საპროცენტო განაკვეთი	n	Zinssatz, Zinsfuß	e
 X	სარა	name	Sara, Sarah	e
 X	სარაევო	name	Sarajevo, Sarajewo	e
-X	სარაკეტო	adj	aus, von, über	e
 X	სარატოვი	name	Saratow	e
 X	სარბენი ბილიკი	n	Laufband, Tretmühle	e
 X	სარბიელი	n	Arena, Bühne	e
@@ -41570,10 +41481,7 @@ X	სარწმუნო	adj	verlässlich, zuverlässig, glaubhaft, glaubwürd
 X	სარწმუნოდ	adv	zuverlässig, verlässlich, glaubwürdig, glaubhaft	e
 X	სარწმუნოება	n	Religion, Glauben, Glaube, Vertrauen, Credo, Kredo, Glaubensbekenntnis	e
 X	სასა	n	Zahnfleisch, Kautschuk, Kaugummi, Gaumen	e
-X	სასაათო ზოლი	n	Zeitzone	e
-X	სასაათო სარტყელი	n	Zeitzone	e
 X	სასადილო	n	Esszimmer, Speisezimmer, Kantine, Mensa, Cafeteria	e
-X	სასაზღვრო	adj	aus, von, über	e
 X	სასაზღვრო კონტროლი	n	Grenzkontrolle	e
 X	სასაკლაო	n	Schlachthaus, Schlachthof	e
 X	სასამართლო	n	Hof, Hofstaat, Gericht	e
@@ -41849,7 +41757,7 @@ X	სახიფათოდ	adv	gefährlich	e
 X	სახიჩრობა	n	Verstümmelung	e
 X	სახლი	n	zum Wohnen dienendes und genutztes Gebäude ; Gesamtheit der Bewohner eines Hauses oder Familienmitglieder, die gemeinsam wohnen ; aus mehreren Räumen bestehender, abgetrennter Bereich innerhalb eines Hauses, in dem sich…	w
 X	სახლიდან მუშაობა	n	Telearbeit, Homeoffice, Heimarbeit	e
-X	სახლში	adv	zu Hause, zuhause, daheim	e
+X	სახლში	adv	daheim, zu Hause, zuhause	e
 X	სახმარი	adj	nutzbar, benutzbar, nützlich, brauchbar	e
 X	სახმელეთო	adj	irdisch, terrestrisch, Erd-	e
 X	სახმელეთო ძალები	n	Heer, Armee, Heeresamt	e
@@ -41865,7 +41773,7 @@ X	საჯარიმო	adj	Strafe, Pönale, Vertragsstrafe	e
 X	საჯარო	adj	auf, offen, offe, öffentlich	e
 X	საჯარო მოსამსახურე	n	Beamter, Beamtin, Funktionär	e
 X	საჯარო მოხელე	n	Beamter, Beamtin, Funktionär	e
-X	საჯაროდ	adv	öffentlich, in der Öffentlichkeit	e
+X	საჯაროდ	adv	öffentlich	e
 X	საჯაროობა	n	Werbung	e
 X	საჯდომი	n	Sitz, Sitzplatz, Sitzgelegenheit	e
 X	საჰაერო	adj	Luft-	e
@@ -42005,7 +41913,7 @@ X	სიადვილე	n	Einrichtung, Vorrichtung, Anlage	e
 X	სიამაყე	n	Hochmut, Stolz, Trotz	e
 X	სიამი	n	Siam	e
 X	სიამოვნება	n	Vergnügen, Genuss, Freude	e
-X	სიამოვნებით	adv	gern, gerne	e
+X	სიამოვნებით	adv	gern	e
 X	სიანცე	n	Ausgelassenheit, Unbeherrschtheit	e
 X	სიარული	n	Spaziergang, Weg, Kantenzug	e
 X	სიასამური	n	Zobel, Schwarz	e
@@ -42143,7 +42051,6 @@ X	სინათლე	n	Licht, Lichtquelle, Erleuchtung	e
 X	სინათლის სიჩქარე	n	Lichtgeschwindigkeit	e
 X	სინათლის წელიწადი	n	Lichtjahr	e
 X	სინამდვილე	n	Wirklichkeit, Realität	e
-X	სინამდვილეში	n	tatsächlich, in Wirklichkeit, eigentlich	e
 X	სინანული	n	Reue, Bedauern, Raute, Gewissensbisse	e
 X	სინატიფე	n	Feinheit, Zartheit, Empfindlichkeit, Fest, Festlichkeit	e
 X	სინგაპურული	adj	singapurisch	e
@@ -42431,7 +42338,7 @@ X	სპექტრალური	adj	spektral, Spektral-	e
 X	სპექტრი	n	Spektrum	e
 X	სპეცეფექტი	n	Spezialeffekt	e
 X	სპეციალისტი	n	Experte, Fachmann, Fachfrau, Spezialist, Spezialistin	e
-X	სპეციალურად	adv	speziell, mit Absicht, absichtlich, vorsätzlich, beabsichtigt	e
+X	სპეციალურად	adv	speziell, absichtlich, vorsätzlich, beabsichtigt, mit Absicht	e
 X	სპეციალური	adj	ad hoc, speziell, Spezial-, ungewöhnlich	e
 X	სპეციალური ეფექტი	n	Spezialeffekt	e
 X	სპეციფიკა	n	Spezifizität, Spezifität	e
@@ -42588,14 +42495,13 @@ X	სუვერენული სახელმწიფო	n	souveräner St
 X	სუვერენული სიმდიდრის ფონდი	n	Staatsfonds	e
 X	სუვერენული ქვეყანა	n	souveräner Staat	e
 X	სუზანი	name	Susanne	e
-X	სულ	adv	vollständig, völlig, ganz, vollkommen, insgesamt, pauschal, immer, stets	e
+X	სულ	adv	vollständig, völlig, ganz, vollkommen, immer, stets, die ganze Ziet, die ganze Zeit	e
 X	სულგრძელად	adv	großmütig, selbstlos	e
 X	სულგრძელი	adj	freiheitlich, liberal, großmütig, edelmütig, großzügig	e
 X	სულგრძელობა	n	Großmut, Großzügigkeit, Seelengröße	e
 X	სულელი	n	Dummerchen	e
 X	სულელურად	adv	gedankenlos	e
 X	სულელური	adj	dumm, närrisch, töricht, sinnwidrig, unsinnig, widersinnig	e
-X	სულერთია	wend	es spielt keine Rolle, es macht nichts, es ist egal	e
 X	სულთანი	n	Sultan	e
 X	სულთმოფენობა	name	Pfingstsonntag, Pfingsten, Pfingstfest	e
 X	სული	n	Geist, Stimmung, Schnaps, Gespenst, Phantom, Seele, Soul, Mann	e
@@ -42696,7 +42602,6 @@ X	სხვაგვარი	adj	verschieden, unterschiedlich, different, alter
 X	სხვადასხვა	adj	verschieden, unterschiedlich, different, verschiedene, gemischt, vermischt	e
 X	სხვადასხვაგვარად	adv	anders	e
 X	სხვადასხვანაირი	adj	verschiedene, verschieden, unterschiedlich, mannigfaltig, different	e
-X	სხვათა შორის	wend	apropos, nebenbei, übrigens, zu deiner Information, zu Ihrer Information	e
 X	სხვათაშორის	adv	unter anderem	e
 X	სხვანაირად	adv	anders, ansonsten, sonst	e
 X	სხვანაირი	adj	verschieden, unterschiedlich, different	e
@@ -42885,7 +42790,6 @@ X	ტილი	n	Laus, Dreckskerl, Dreckkerl	e
 X	ტილიანი	adj	lausig, verlaust, Wesentliche	e
 X	ტილო	n	Leinen, Segeltuch, Canvas, Heimtextilien, Sackleinen	e
 X	ტიმოთელა	n	Lieschgras	e
-X	ტიპი	n	Art, Typ, Letter, Person, Mensch, Körper	e
 X	ტიპოგრაფიულად	adv	typografisch	e
 X	ტიპურად	adv	typischerweise	e
 X	ტიპური	adj	typisch, gewöhnlich	e
@@ -43112,7 +43016,6 @@ X	ტყის ხანძარი	n	Waldbrand, Lauffeuer	e
 X	ტყისმჭრელი	n	Holzfäller, Holzfällerin, Holzhacker, Formschneider	e
 X	ტყისქათამი	n	Waldschnepfe	e
 X	ტყნავს	v	ficken, knallen, bumsen	e
-X	ტყუილად	adv	vergebens, vergeblich, umsonst	e
 X	ტყუილი	n	Betrügerei, Betrug, Täuschung, Kindslage, Lüge	e
 X	ტყუილს მოკლე ფეხები აქვს	wend	Lügen lohnt sich nicht, weil die Wahrheit irgendwann doch herauskommt	w
 X	ტყუპები	n	Zwilling	e
@@ -43278,7 +43181,7 @@ X	უკრავს	v	spielen, schpile (als), vorspielen	e
 X	უკრაინა	name	Ukraine	e
 X	უკრაინელი	adj	ukrainisch, Ukrainer, Ukrainerin	e
 X	უკრაინის სახალხო რესპუბლიკა	name	Ukrainische Volksrepublik	e
-X	უკრაინული	adj	aus, von, über, vor	e
+X	უკრაინული	adj	ukrainisch	e
 X	უკრიტიკო	adj	unkritisch	e
 X	უკუათვლა	n	Countdown, Zeitkontrolle	e
 X	უკუგდება	n	Rückstoß, Rückschlag, verdeckte Rückvergütung, Retrozession, Kickback, Abstoßung, Repulsion, Abscheu	e
@@ -43380,7 +43283,7 @@ X	უნაყოფო	adj	steril, unfruchtbar, dürr, erntelos, fruchtlos	e
 X	უნაყოფობა	n	Unfruchtbarkeit, Sterilität	e
 X	უნგრეთი	name	Ungarn	e
 X	უნგრული ენა	n	Ungar, Ungarin, Ungarisch	e
-X	უნდა	part	müssen, (zu tun) haben, sollen, sollte, müsste, sollte etw. tun, wollen	e
+X	უნდა	part	sollen, sollte, müsste, sollte etw. tun, Notwendigkeit, Bedarf, Bedürfnis, wollen	e
 X	უნდობელი	adj	misstrauisch	e
 X	უნდობლობა	n	Misskredit, Misstrauen, Argwohn, Ungläubigkeit	e
 X	უნებართვო	adj	nicht lizenziert, nicht zugelassen	e
@@ -43470,7 +43373,7 @@ X	ურწმუნოება	n	Unglaube	e
 X	უსაზღვრო	adj	grenzenlos, unbegrenzt, ergebnisoffen, unbeschränkt	e
 X	უსათაურო	adj	unbetitelt, titellos	e
 X	უსათუო	adj	gewiss, sicher, irgendein	e
-X	უსათუოდ	adv	sicherlich, zweifellos, gewiss, sicher, fürwahr	e
+X	უსათუოდ	adv	sicherlich, zweifellos, gewiss	e
 X	უსამართლო	adj	unfair, ungerecht, falsch, verkehrt, falschliegen	e
 X	უსამართლობა	n	Unrecht, Ungerechtigkeit, Frevel, Gräueltat, Missetat	e
 X	უსამართლოდ	adv	ungerecht	e
@@ -43480,7 +43383,7 @@ X	უსარგებლოდ	adv	unnötigerweise	e
 X	უსასრულო	adj	unendlich, endlos, unzählige	e
 X	უსასრულობა	n	Unendlichkeit	e
 X	უსასყიდლო	adj	frei, ungezwungen, freimütig, umsonst, gratis, kostenlos	e
-X	უსასყიდლოდ	adv	kostenlos, gratis, für lau, umsonst, unentgeltlich, unnötigerweise	e
+X	უსასყიდლოდ	adv	umsonst, unentgeltlich, unnötigerweise	e
 X	უსაფრთხო	adj	sicher, gefahrlos, geschützt, beschützt	e
 X	უსაფრთხო თავშესაფარი	n	sicherer Rückzugsort, Zufluchtsort, Zufluchtsstätte, Zuflucht, Obdach	e
 X	უსაფრთხო ნავსაყუდელი	n	sicherer Rückzugsort, Zufluchtsort, Zufluchtsstätte	e
@@ -43537,7 +43440,7 @@ X	უუნარობა	n	Behinderung, Invalidität, Unfähigkeit, Unvermöge
 X	უუფლებო	adj	unterprivilegiert, benachteiligt	e
 X	უფალი	n	Gebieter, Herr, Lord	e
 X	უფასო	adj	frei, ungezwungen, freimütig, umsonst, gratis, kostenlos	e
-X	უფასოდ	adv	kostenlos, gratis, für lau, umsonst, unentgeltlich, unnötigerweise	e
+X	უფასოდ	adv	umsonst, unentgeltlich, unnötigerweise	e
 X	უფეთქავს	v	Puls, Hülsenfrucht, schlagen, hauen, gewinnen	e
 X	უფერული	adj	farblos, mittelmäßig	e
 X	უფერულობა	n	Mittelmäßigkeit, Mittelmaß	e
@@ -43682,7 +43585,6 @@ X	უხორცო	adj	fleischlos	e
 X	უხსენებელი	adj	Schlange, Wurm, Verräter	e
 X	უხსნადი	adj	unlösbar, unerklärlich	e
 X	უხსოვარი	adj	historisch, altbacken, antiquiert	e
-X	უხსოვარი დრო	n	unbekannte Zeit, Menschengedenken	e
 X	უხუცესი	adj	älter, hauptsächlich, primär, Ältester, Älteste, Senior, Häuptling, Oberhaupt	e
 X	უჯრა	n	Schublade, Zeichner, Zeichnerin	e
 X	უჯრედი	n	Zelle, Batteriezelle, Haftraum	e
@@ -43859,7 +43761,6 @@ X	ფეშენ-უიკი	n	Modewoche	e
 X	ფეხბურთელი	n	Fußballer, Fussballer, Fußballerin	e
 X	ფეხბურთი	n	Fußball	e
 X	ფეხი	n	Bein, Unterschenkel, Hosenbein, Fuß, Fuss, Fuaß, Abzug, Auslöser	e
-X	ფეხით	n	zu Fuß, auf Schusters Rappen	e
 X	ფეხმძიმე	adj	schwanger, trächtig, bedeutungsvoll	e
 X	ფეხმძიმობა	n	Schwangerschaft	e
 X	ფეხს ითრევს	v	herumtrödeln, aufschieben, verzögern, vertagen, stallen, mästen, hinhalten	e
@@ -44054,7 +43955,7 @@ X	ფორთოხლისფერი	adj	orange	e
 X	ფორი	n	Pore, Quadrat, Platz, Feld	e
 X	ფორიანობა	n	Porösität	e
 X	ფორიაქი	n	Lärm, Wirbel, Aufstand	e
-X	ფორმა	n	Gestalt, Form, Formular, Zustand	e
+X	ფორმა	n	Zustand, Form, Gestalt, Uniform, Dienstkleidung	e
 X	ფორმალდეჰიდი	n	Formaldehyd	e
 X	ფორმალიზმი	n	Formalismus	e
 X	ფორმალინი	n	Formalin	e
@@ -44065,7 +43966,6 @@ X	ფორმატი	n	Format, Struktur	e
 X	ფორმიანი	adj	uniformiert	e
 X	ფორმირება	n	Bildung	e
 X	ფორმულა	n	Formel, Rezept, Rezeptur	e
-X	ფორმულარი	n	Gestalt, Form, Formular	e
 X	ფორმულირება	n	Formulierung, Aufgabenstellung, (pharma) Mischung, Aussage, Angabe, Erklärung	e
 X	ფოროვანი	adj	porös	e
 X	ფორტეპიანო	n	Klavier, Piano, Flügel, Hammerklavier	e
@@ -44382,7 +44282,6 @@ X	ქვეითი	n	Fußgänger, Fußgängerin, Fußgeher	e
 X	ქვეკატეგორია	n	Unterkategorie	e
 X	ქვეკლასი	adv	Unterklasse, Subklasse, Kindklasse	e
 X	ქვეკომიტეტი	n	Unterausschuss	e
-X	ქველი	adj	freundlich, gütig, lieb	e
 X	ქვემდგომი	adj	untergeordnet, nachgeordnet, unterlegen	e
 X	ქვემდებარე	n	Satzgegenstand, Subjekt, Thema, untergeordnet, nachgeordnet, unterlegen	e
 X	ქვემეხი	n	Pistole, Handbüchse, Gewehr, Kanone	e
@@ -44405,7 +44304,6 @@ X	ქვეტყე	n	Unterholz, Unterwuchs	e
 X	ქვეყანა	adj	viele, Land, Staat, Vaterland	e
 X	ქვეყნიერება	n	Welt, Wöd, Erde	e
 X	ქვეყნის კოდი	n	Ländercode, Landescode	e
-X	ქვეშ	präp	unter, weniger als	e
 X	ქვეშაგი	n	Matratze, Bettwäsche, Bettzeug	e
 X	ქვეშევრდომი	n	Untergebene, Befehlsempfänger	e
 X	ქვეცნობიერად	adv	unterbewusst	e
@@ -44447,7 +44345,7 @@ X	ქინძი	n	Koriander, Koriandersamen	e
 X	ქინძისთავი	n	Dummkopf, Holzkopf, Dummbatz	e
 X	ქირა	n	Gehalt, Miete, Mietzins, Riss	e
 X	ქირაობს	v	mieten, vermieten, heuern, anwerben	e
-X	ქირდავს	v	sich lustig machen über, verspotten, auslachen	e
+X	ქირდავს	v	auslachen	e
 X	ქირია	name	Nachname, Familienname	e
 X	ქირომანტია	n	Chiromantie, Handlesekunst, Handlesen	e
 X	ქიროპრაქტიკა	n	Chiropraktik	e
@@ -44576,9 +44474,7 @@ X	ღალღა	n	Wachtelkönig, Wiesenralle	e
 X	ღამე	n	Nacht, Nocht, Abend	e
 X	ღამე მშვიდობისა	interj	gute Nacht	e
 X	ღამე ნებისა	wend	süße Träume, träum schön, gute Nacht	e
-X	ღამეს	adv	in der Nacht, nachts, während der Nacht	e
 X	ღამეული	adj	nachtaktiv, nächtlich	e
-X	ღამით	adv	in der Nacht, nachts, während der Nacht	e
 X	ღამის კლუბი	n	Nachtklub, Nightclub, Diskothek	e
 X	ღამის ცხოვრება	n	Nachtleben	e
 X	ღამურა	n	Fledermaus, Schläger, Keule	e
@@ -44710,7 +44606,7 @@ X	ყარყანტო	n	Speiseröhre	e
 X	ყარყატი	n	Storch	e
 X	ყარყუმი	n	Hermelin	e
 X	ყასაბი	n	Fleischer, Fleischerin, Fleischhacker, Halsabschneider	e
-X	ყასიდად	adv	mit Absicht, absichtlich, vorsätzlich, Vorführung, Vorstellung, Display	e
+X	ყასიდად	adv	mit Absicht, absichtlich, vorsätzlich, beabsichtigt, Vorführung, Vorstellung, Display	e
 X	ყატარი	name	Katar	e
 X	ყაყაჩო	n	Mohn	e
 X	ყაყაჩოსფერი	adj	scharlachrot, scharlach	e
@@ -44808,7 +44704,7 @@ X	ყომრალი	adj	dunkel, finster, düster, grau, langweilig, tröge, 
 X	ყორანი	n	Rabe, Kolkrabe	e
 X	ყორღანი	n	Grabhügel, Karren, Karre, Kurgan, Erdhügel, Erdwall, Hügel	e
 X	ყოფა	n	Wesen, Geschöpf, Sein, Existenz, Dasein, Tun, Anfertigen, Anfertigung	e
-X	ყოფა-ცხოვრება	n	Alltagsleben, Lebensweise, Lebensstil, Lebensart, Lebensbedingungen, Lebensverhältnisse, Lebensumstände	e
+X	ყოფა-ცხოვრება	n	Alltagsleben, Lebensbedingungen, Lebensverhältnisse, Lebensumstände	e
 X	ყოფაქცევა	n	Verhalten, Benehmen, Betragen, Leitung, Führung, Gebahren, Auftreten	e
 X	ყოფიერება	n	Wesen, Einheit, Gebilde	e
 X	ყოფილი	adj	ehemalig, vorig, früher, ex-	e
@@ -44933,7 +44829,7 @@ X	შედევრი	n	Meisterstück, Meisterwerk	e
 X	შედის	v	reingehen, hineingehen, hereingehen	e
 X	შედუპოვრად	adv	angespannt, aufmerksam, gespannt	e
 X	შეელიტი	n	Scheelit	e
-X	შეერთდება	v	verknüpfen, vereinigen, anschließen, vereinen, sich verheiraten, heiraten	e
+X	შეერთდება	v	verknüpfen, vereinigen, anschließen, vereinen	e
 X	შეერთებული შტატები	name	Vereinigte Staaten	e
 X	შეეხება	v	anfassen, angreifen, berühren	e
 X	შევარდენი	n	Falke	e
@@ -44987,7 +44883,6 @@ X	შემეცნებითი	adj	kognitiv, gnostisch	e
 X	შემზარავი	adj	offenkundig, krass, eklatant, grässlich, schrecklich, furchterregend, beängstigend	e
 X	შემზღუდველი	adj	einschränkend, restriktiv, Fänger, Catcher, Catcherin	e
 X	შემთხვევა	n	Fall, Sache, Beispiel, Ereignis, Geschehnis, Vorgang	e
-X	შემთხვევაში	adv	falls, im Falle	e
 X	შემთხვევევით	adv	nebenbei, zufällig, zufälligerweise	e
 X	შემთხვევით	adv	zufällig, durch Zufall, aus Versehen, planlos, willkürlich	e
 X	შემთხვევითი	adj	zufällig, Durchschnitts-, random, versehentlich, beiläufig, gelegentlich	e
@@ -45064,7 +44959,7 @@ X	შესაძლებელი	adj	möglich, durchführbar, machbar, ausfü
 X	შესაძლებლობა	n	Fähigkeit, Kontingenz, Eventualität, mögliches Ereignis, Anteil, Kontingent, Truppenkontingent	e
 X	შესაძლო	adj	glaubhaft, wahrscheinlich	e
 X	შესაძლოა	adv	vielleicht, eventuell, möglicherweise	e
-X	შესახებ	präp	um... (herum), über, bereit zu, besorgniserregend, bezüglich, mit Bezug auf	e
+X	შესახებ	präp	besorgniserregend, bezüglich, mit Bezug auf	e
 X	შესახედაობა	n	Erscheinen, Auftritt, Aussehen	e
 X	შესახვევი	n	Gasse	e
 X	შესვამს	v	trinken, saufen, trinke	e
@@ -45116,7 +45011,6 @@ X	შეუცვლელი	adj	unersetzbar, unersetzlich	e
 X	შეუძლებელი	adj	unmöglich	e
 X	შეუძლებლად	adv	unmöglich, unheimlich	e
 X	შეუძლებლობა	n	Unmöglichkeit	e
-X	შეუძლია	v	können, vermögen, in der Lage sein	e
 X	შეუწუხებელი	adj	ungestört	e
 X	შეუწყვეტელი	adj	endlos	e
 X	შეფ-მზარეული	n	Chefkoch, Chefköchin, Küchenchef	e
@@ -45140,12 +45034,12 @@ X	შეშფოთებული	adj	besorgt, ängstlich, bedenklich, alarmie
 X	შეჩვეული	adj	gewohnt, gewöhnt	e
 X	შეცბუნებულად	adv	umhangen, verflixt	e
 X	შეცბუნებული	adj	verwechselt, durcheinander, verwirrt, perplex, verdutzt, verblüfft	e
-X	შეცდება	v	versehen, irren, sich irren, Fehler machen	e
+X	შეცდება	v	irren, sich irren, Fehler machen	e
 X	შეცდომა	n	Fehler, Irrtum, Entgleisung, Ausrutscher, Verfallen	e
 X	შეცვლა	n	Rotation, Umdrehung	e
 X	შეცვლადი	adj	ersetzbar, auswechselbar, wechselbar	e
 X	შეძვრა	n	schrecklich, schockierend, Schock, Schlag, Aufregung, Spektakel, Theater	e
-X	შეძლებს	v	können, vermögen, in der Lage sein, verwalten, leiten, hinbekommen	e
+X	შეძლებს	v	verwalten, leiten, hinbekommen	e
 X	შეძლებული	adj	bemittelt	e
 X	შეძრწუნებული	adj	schockiert, erschrocken, verängstigt	e
 X	შეწირულება	n	Spende, Abgabe	e
@@ -45192,7 +45086,7 @@ X	შვილი	n	direkter Nachkomme von Menschen und Tieren, unabhängig vom 
 X	შვილიკო	n	mein Junge, Kleiner, Söhnchen	e
 X	შვილიშვილი	n	männliches oder weibliches Kind des eigenen Sohnes oder der eigenen Tochter	w
 X	შვიცი	name	Schweiz	e
-X	შვრება	v	tun, ja, doch, schuften, sich plagen, sich quälen	e
+X	შვრება	v	schuften, sich plagen, sich quälen	e
 X	შვრია	n	Hafer, Haber	e
 X	შვრომა	n	Mühe, Härte, Not, Entbehrung	e
 X	შთაბერვა	n	inspirativ	e
@@ -45201,7 +45095,7 @@ X	შთამბეჭდავი	adj	imposant, beeindruckend, eindrucksvoll	e
 X	შთამომავალი	n	Nachkomme, Nachkommin, Kind, Deszendent	e
 X	შთამომავლობა	n	Rasse, Zuchtrasse, Sorte, Nachwelt, Nachkommen, Nachfahren, Nachkommenschaft	e
 X	შთამომავლობითი	adj	erblich, Erb-	e
-X	შიგ	adv	herein, hinein, drinnen	e
+X	შიგ	adv	drinnen, hinein	e
 X	შიგაწვა	n	interne Verbrennung	e
 X	შიგაწვის ძრავა	n	Verbrennungsmotor	e
 X	შიგთავსი	n	Inhalt, Stoff	e
@@ -45248,7 +45142,6 @@ X	შლამი	n	Schlamm, Matsch, Abwasserschlamm, Schleim, Schlick, Schluff	
 X	შლანგი	n	Schlauch	e
 X	შლეზვიგ-ჰოლშტაინი	name	Schleswig-Holstein	e
 X	შლის	v	öffnen, aufmachen, offen, desintegrieren, auflösen, sich auflösen, auseinander gehen, Schluss machen	e
-X	შმაგად	adv	etwa, ungefähr	e
 X	შმაგი	adj	verrückt, wahnsinnig, geisteskrank, wütend, erbost, furios	e
 X	შნო	n	Annehmlichkeit, Angenehmheit, Faszination, Amulett, Zauber, Charme, Fingerfertigkeit, Geschicklichkeit	e
 X	შნოება	n	Zugkraft, Anziehung, Anziehungskraft, Begabung, Hochbegabung, Talent	e
@@ -45381,7 +45274,6 @@ X	ჩაი	n	Teeblatt, Teeblätter, Tee	e
 X	ჩაიდანი	n	Kanne, in der Tee oder Kräuteraufgüsse zubereitet und warmgehalten werden und die zum Ser…	w
 X	ჩაინიკი	n	Kessel, Kochtopf, Teekanne, Puppe, lebensgroße Puppe, Dummy, Novize, Novizin	e
 X	ჩაის კოვზი	n	Teelöffel	e
-X	ჩაიცვამს	v	sich anziehen	e
 X	ჩაიხანა	n	Teehaus, Teestube	e
 X	ჩაიხუტებს	v	umarmen, annehmen	e
 X	ჩაკეტილი	adj	Insel-, abgesperrt, abgeschlossen, zugeschlossen	e
@@ -45391,7 +45283,7 @@ X	ჩალა	n	Halm, Strohhalm, Stroh	e
 X	ჩალისფერი	adj	flachsen, flachsfarben, beige	e
 X	ჩალმა	n	Turban	e
 X	ჩამიჩი	n	Rosine	e
-X	ჩამოაყალიბებს	v	modellieren, modulieren, formen, bilden, gestalten	e
+X	ჩამოაყალიბებს	v	modellieren, modulieren, formen	e
 X	ჩამოდის	v	herunterkommen	e
 X	ჩამოეთრევა	v	gelangen, kommen, erreichen	e
 X	ჩამოთვლა	n	Aufzählen, Aufzählung, Auflistung, Spezifikation	e
@@ -45839,7 +45731,6 @@ X	ცხოველი	n	lebhaft, lebendig, munter, scharf, kühn), verwegen (t
 X	ცხოვრება	n	Leben, Läbe, lebenslänglich	e
 X	ცხოვრების სიძვირე	n	Lebenshaltungskosten, Verteuerung, Kostensteigerung	e
 X	ცხოვრების სტილი	n	Lebensstil, Lebensweise, Lebenswandel	e
-X	ცხოვრების წესი	n	Lebensweise, Lebensstil, Lebensart	e
 X	ცხოვრების ხარჯი	n	Lebenshaltungskosten, Verteuerung, Kostensteigerung	e
 X	ცხოვრობს	v	leben, wohnen, überleben	e
 X	ცხომა	n	Wärmeenergie, Wärme, Hitze	e
@@ -45859,7 +45750,7 @@ X	ძალაუნებურად	adv	wohl oder übel, ob man will oder nic
 X	ძალაუფლება	n	Autorität, Behörde, Macht, Großmacht, Kraft	e
 X	ძალდატანება	n	Zwang, Nötigung	e
 X	ძალთა ბალანსი	n	Mächtegleichgewicht, Gleichtgewicht der Kräfte	e
-X	ძალიან	adv	sehr, ganz, wahrlich, zu viel, gut	e
+X	ძალიან	adv	zu viel, gut, ganz	e
 X	ძალიან დიდი მადლობა	interj	vielen Dank, besten Dank	e
 X	ძალისხმევა	n	Anstrengung, Aufwand, Bemühung	e
 X	ძალოსნობა	n	Gewichtheben	e
@@ -45888,7 +45779,6 @@ X	ძაღლნი	n	Nominativ Plural des Substantivs ძაღლი	w
 X	ძაღლნო	n	Vokativ Plural des Substantivs ძაღლი	w
 X	ძაღლო	n	Vokativ Singular des Substantivs ძაღლი	w
 X	ძაღლს	n	Dativ Singular des Substantivs ძაღლი	w
-X	ძაღლუკა	n	an, auf, bei	e
 X	ძაღლური	adj	Hunde-, Hunds-, hundeartig	e
 X	ძახველი	n	Schneeball	e
 X	ძგიდე	n	Schott	e
@@ -45966,10 +45856,10 @@ X	ძიუდოისტი	n	Judoka, Judokämpfer, Judokämpferin	e
 X	ძიძა	n	Kindermädchen, Kinderfrau, Krankenschwester, Krankenpfleger	e
 X	ძლევამოსილად	adv	mächtig, triumphierend	e
 X	ძლევამოსილი	adj	gewaltig, mächtig, kräftig, kraftvoll, siegreich, obsiegend, Sieger-	e
-X	ძლიერ	adv	sehr, ganz, wahrlich, schön, extrem, äußerst, krass	e
+X	ძლიერ	adv	extrem, äußerst, krass	e
 X	ძლიერად	adv	kraftvoll, kräftig, gewaltsam, stark	e
 X	ძლიერი	adj	stark, kräftig, standhaft	e
-X	ძლივს	adv	mit Mühe, mühsam, kaum, gerade noch, hart, rau	e
+X	ძლივს	adv	kaum, gerade noch, hart, rau	e
 X	ძმა	n	Bruder, Brüeder, bruada	e
 X	ძმარი	n	Essig	e
 X	ძმობა	n	Bruderschaft, Kammer, Gemeinschaft, Vereinigung	e
@@ -46067,7 +45957,6 @@ X	წევს	v	liegen, ligge, lügen	e
 X	წელი	n	Jahr, Johr, Studienjahr, Taille, Hüfttuch, Rumpf, Darm, Eingeweide	e
 X	წელიწადი	n	periodischer wiederkehrender Zeitraum, etwa ein Umlauf der Erde um die Sonne, 12 Monate,…	w
 X	წელიწადის დრო	n	Jahreszeit, Saison, Staffel	e
-X	წელს	adv	dieses Jahr, heuer	e
 X	წერა	n	Schicksal, Los, Geschick	e
 X	წერა-კითხვის მცოდნე	adj	schriftkundig, schreibkundig, lese- und schreibkundig	e
 X	წერა-კითხვის უნარი	n	Lese- und Schreibfähigkeit, Kenntnisse, Bildung	e
@@ -46137,11 +46026,11 @@ X	წითური მელა	n	Rotfuchs	e
 X	წითური ფოცხვერი	n	Rotluchs	e
 X	წიკწიკი	n	Zecke, Zeck, Häkchen	e
 X	წილი	n	Dividend, Ausformung, Vorsprung, Zipfel, Teil, Portion, Nisse	e
-X	წინ	adv	vorwärts, nach vorne, nach vorn, vorn, voraus, vorne, vor, her	e
+X	წინ	adv	vorwärts, nach vorne, nach vorn, vorn, voraus, vor, her, gehen	e
 X	წინა	adj	vorderer, Vorder-, Vorderzungen-, vorhergehend	e
 X	წინა აზია	name	Naher Osten, Mittlerer Osten	e
 X	წინააღმდეგ	adv	dagegen	e
-X	წინააღმდეგ შემთხვევაში	wend	anders, ansonsten, sonst, andernfalls	e
+X	წინააღმდეგ შემთხვევაში	wend	anders, ansonsten, sonst	e
 X	წინააღმდეგობა	n	Widerstand	e
 X	წინადადება	n	Vorschlag, Angebot, Antrag, Suggestion, Heiratsantrag, Urteil, Verurteilung, Schuldspruch	e
 X	წინადაცვეთა	n	Beschneidung, Zirkumzision	e
@@ -46161,7 +46050,7 @@ X	წინარეინდოევროპული	name	urindogermanisch, 
 X	წინარეისტორია	n	Vorzeit, Urgeschichte, Vorgeschichte	e
 X	წინარეისტორიული	adj	vorgeschichtlich, vorhistorisch, prähistorisch	e
 X	წინასიტყვაობა	n	Vorwort, Vorrede, Präfation	e
-X	წინასწარ	adv	vorher, zuvor, davor, vor der Zeit, vorzeitig, früher als gedacht	e
+X	წინასწარ	adv	vorher, zuvor, davor	e
 X	წინასწარგანზრახულად	adv	mit Absicht, absichtlich, vorsätzlich	e
 X	წინასწარგანჭვრეტა	n	Voraussicht, Hellsichtigkeit, Weitsicht	e
 X	წინასწარგანჭვრეტადი	adj	vorhersehbar, absehbar, vorhersagbar, prädiktabel	e
@@ -46196,7 +46085,6 @@ X	წიწიბურა	n	Buchweizen	e
 X	წიწკანა	n	Blaumeise	e
 X	წიწმატი	n	Kresse, Gartenkresse	e
 X	წკიპურტი	n	schnipsen, umdrehen, wenden, schwenken	e
-X	წლევანდელი	adj	diesjährig, heurig (Switerland)	e
 X	წლისთავი	n	Jahrestag, Jubiläum, Hochzeitstag	e
 X	წლიურად	adv	jährlich	e
 X	წლიური	adj	jährlich	e
@@ -46429,7 +46317,7 @@ X	ხანა	n	Haus, Huus, Kammer, Bau, Bauen, Gebäude, Couplet	e
 X	ხანგრძლივი	adj	langlebig	e
 X	ხანგრძლივობა	n	Dauer, Langlebigkeit, lange Lebensdauer, Stellung, Ansehen, Reputation	e
 X	ხანდახან	adv	manchmal	e
-X	ხანი	name	Zeit, Zit, Ziit, Alter, Volljährigkeit, Loch, Grube, Grübchen	e
+X	ხანი	name	Alter, Volljährigkeit, Zeit, Loch, Grube, Grübchen, Chan, Khan	e
 X	ხანმოკლე	adj	kurzlebig	e
 X	ხანმოკლეობა	n	Kürze, Bündigkeit, Knappheit	e
 X	ხანუმი	n	Herrin des Hauses, Hausherrin, Ehefrau des Hausherrn	e
@@ -46521,7 +46409,7 @@ X	ხელბურთი	n	Handball, Handspiel, Hand, Volleyball	e
 X	ხელგაშლილი	adj	freigebig, großzügig, verschwenderisch	e
 X	ხელგაშლილობა	n	Freigebigkeit, Großzügigkeit	e
 X	ხელთათმანი	n	Handschuh	e
-X	ხელთარსებული	adj	Hand, Zeiger, Seite, zur Hand, vorhanden, griffbereit, parat, greifbar	e
+X	ხელთარსებული	adj	Hand, Zeiger, Seite, verfügbar, disponibel, abkömmlich	e
 X	ხელი	n	Greiforgan bei Menschen und Affen ; obere Extremität, Arm und Hand zusammen ; derjenige Teil eines Gegenstandes, der dafür vorgesehen ist, dass man ihn ergreift, wenn… ; Satz mehrerer zusammengehöriger Gegenstände ; Durchlauf eines Spiels oder Sportwettkampfes ; spezielle Ausprägung der handgeschrieben Schrift einer bestimmten Person	w
 X	ხელიდან წასვლა	n	Asozialer, Assi	e
 X	ხელით	adv	manuell	e
@@ -46583,7 +46471,7 @@ X	ხერესი	n	Sherry	e
 X	ხერთვისი	name	Kap, Cape, Landzunge, Insel, Insle, Insl, Halbinsel	e
 X	ხერხავს	v	sägen	e
 X	ხერხემალი	n	Rückgrat, Wirbelsäule, Rücken	e
-X	ხერხი	n	Stichsäge, Säge, Spruch, Sprichwort, Art und Weise, Methode, Verfahren, Weg	e
+X	ხერხი	n	Stichsäge, Säge, Spruch, Sprichwort, Art und Weise, Methode, Verfahren	e
 X	ხეს	n	Dativ Singular des Substantivs ხე	w
 X	ხეტიალი	n	Wandern, Roaming	e
 X	ხეჩაკალი	n	Stütze, Unterstützung, Requisit	e
@@ -46722,7 +46610,7 @@ X	ხურო	n	Zimmermann, Zimmerer, Zimmerin	e
 X	ხუფი	n	Deckel, Abdeckung, Deckung	e
 X	ხუშტური	n	Laune, Grille, Schrulle	e
 X	ხუჭუჭი	adj	lockig, kräuslig	e
-X	ხშირ შემთხვევაში	adv	häufig, oft, in der Regel, normalerweise, gewöhnlich	e
+X	ხშირ შემთხვევაში	adv	häufig, oft	e
 X	ხშირ-ხშირად	adv	häufig, oft	e
 X	ხშირად	adv	häufig, oft	e
 X	ხშირად დასმული კითხვები	n	häufig gestellte Fragen (abbr. HGF)	e
@@ -46785,9 +46673,8 @@ X	ჯეკი	name	Hans, Hanns, Hannes	e
 X	ჯემპრი	n	Springer, Springerin, Überbrückungskabel	e
 X	ჯენტლმენი	n	Herr, meine Herren, Stutzer, Geck, Pinkel	e
 X	ჯერ	adv	erstens, an erster Stelle, zuerst, noch	e
-X	ჯერ არა	adv	noch nicht	e
 X	ჯერალდი	name	Gerald	e
-X	ჯერი	n	Drehung, Abbiegung, (vollständige) Drehung, Zeit, Zit, Ziit	e
+X	ჯერი	n	Drehung, Abbiegung, (vollständige) Drehung	e
 X	ჯეროვნად	adv	gebührend, ordnungsgemäß, pünktlich	e
 X	ჯერომი	name	Hieronymus, Jeronimus	e
 X	ჯერჯერობით	adv	noch	e
@@ -47011,5 +46898,3 @@ X	ჰუმუსი	n	Humus, Hummus	e
 X	ჰუნე	n	Pferd, Ross, Roß	e
 X	ჰურონის ტბა	name	Huronsee	e
 X	ჰუსარი	n	Husar	e
-X	ჰქვია	v	heißen, sich nennen	e
-X	ჰყავს	v	haben, besitzen, sein	e
