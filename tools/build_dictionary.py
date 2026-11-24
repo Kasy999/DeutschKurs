@@ -214,7 +214,7 @@ def read_en(st, fh):
     pending = {lang: {} for lang in LANGS}   # Zielsprachen-Wort → [(wortart, englische Bedeutung)]
     for line in fh:
         has_tr = b'"translations"' in line
-        if not has_tr and not EN_TARGET.search(line[:400]):
+        if not has_tr and not EN_TARGET.search(line):
             continue
         try:
             obj = loads(line)
