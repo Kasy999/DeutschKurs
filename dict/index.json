@@ -1,6 +1,6 @@
 {
- "version": "202611240849",
- "built": "2026-11-24T08:49:23Z",
+ "version": "202611240854",
+ "built": "2026-11-24T08:54:05Z",
  "license": "CC BY-SA 4.0 – Wiktionary-Autoren, extrahiert mit Wiktextract (kaikki.org)",
  "sources": [
   "de.wiktionary.org",
@@ -11,37 +11,37 @@
   "ru": {
    "file": "ru.txt",
    "de": 131307,
-   "x": 32766,
-   "bytes": 11566752,
-   "gzip": 3266378
+   "x": 60997,
+   "bytes": 13459516,
+   "gzip": 3830454
   },
   "uk": {
    "file": "uk.txt",
    "de": 44976,
-   "x": 15045,
-   "bytes": 4215403,
-   "gzip": 978410
+   "x": 36839,
+   "bytes": 5642069,
+   "gzip": 1435495
   },
   "hy": {
    "file": "hy.txt",
    "de": 28515,
-   "x": 692,
-   "bytes": 1560704,
-   "gzip": 446326
+   "x": 14452,
+   "bytes": 2390631,
+   "gzip": 731269
   },
   "ka": {
    "file": "ka.txt",
    "de": 29240,
-   "x": 961,
-   "bytes": 2370735,
-   "gzip": 540738
+   "x": 17775,
+   "bytes": 3451964,
+   "gzip": 861343
   },
   "hu": {
    "file": "hu.txt",
    "de": 54388,
-   "x": 1756,
-   "bytes": 2787044,
-   "gzip": 924155
+   "x": 26788,
+   "bytes": 4089210,
+   "gzip": 1385676
   }
  }
 }
