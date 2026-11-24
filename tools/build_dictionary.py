@@ -6,8 +6,9 @@ und dict/index.json) aus den freien Wiktionary-Daten von kaikki.org (Wiktextract
 Quellen (alle CC BY-SA, Wiktionary-Autoren):
   1. Deutsches Wiktionary  – deutsche Wörter mit Übersetzungen + Wörter der Zielsprachen mit deutscher Bedeutung
   2. Russisches Wiktionary – russische Wörter mit deutschen Übersetzungen + deutsche Wörter mit russischer Bedeutung
-  3. Englisches Wiktionary – Übersetzungstabellen: Deutsch und Zielsprache für dieselbe englische Bedeutung
-     (nur als Ergänzung, wenn es keine direkte Übersetzung gibt; in der App mit ≈ markiert)
+  3. Englisches Wiktionary – Übersetzungstabellen: Deutsch und Zielsprache für dieselbe englische Bedeutung,
+     außerdem Wörter der Zielsprachen mit englischer Bedeutung, die über Englisch → Deutsch übertragen werden
+     (nur als Ergänzung, wenn es keine direkte Übersetzung gibt; in der App mit * markiert)
 
 Normalerweise läuft das Skript als GitHub-Action (.github/workflows/build-dictionary.yml).
 Lokal:  python tools/build_dictionary.py            (lädt alles herunter, ca. 3,5 GB, dauert lange)
@@ -16,7 +17,7 @@ Lokal:  python tools/build_dictionary.py            (lädt alles herunter, ca. 3
 
 Dateiformat (UTF-8, eine Zeile pro Eintrag, Felder mit TAB getrennt):
   D  deutsch  artikel  plural  wortart  übersetzungen  quelle      (Deutsch → Sprache; quelle w = direkt, e = über Englisch)
-  X  wort     wortart  bedeutungen                                  (Sprache → Deutsch)
+  X  wort     wortart  bedeutungen  quelle                         (Sprache → Deutsch; quelle w = direkt, e = über Englisch)
   Mehrere Bedeutungen sind mit " ; " getrennt, Wörter einer Bedeutung mit ", ".
 """
 import argparse, datetime, gzip, io, json, os, re, sys, time, urllib.request
@@ -95,6 +96,8 @@ class Store:
         self.de = {}
         # (sprache, wort) → {'pos': set, 'gl': [bedeutungen]}
         self.x = {lang: {} for lang in LANGS}
+        # Sprache → Deutsch über englische Bedeutung (nur genutzt, wenn es keinen direkten Eintrag gibt)
+        self.xe = {lang: {} for lang in LANGS}
 
     def de_entry(self, word):
         e = self.de.get(word)
@@ -207,14 +210,30 @@ def read_ru(st, fh):
 
 def read_en(st, fh):
     n = 0
+    en_de = {}      # (englisches Wort, Wortart) → [deutsche Wörter], erste Bedeutung zuerst
+    pending = {lang: {} for lang in LANGS}   # Zielsprachen-Wort → [(wortart, englische Bedeutung)]
     for line in fh:
-        if b'"translations"' not in line:
+        has_tr = b'"translations"' in line
+        if not has_tr and not EN_TARGET.search(line[:400]):
             continue
         try:
             obj = loads(line)
         except Exception:
             continue
-        if obj.get('lang_code') != 'en':
+        lc = obj.get('lang_code')
+        if lc in LANGS:  # z. B. ungarisches Wort mit englischer Bedeutung
+            word = clean(obj.get('word'))
+            if not word:
+                continue
+            lst = pending[lc].setdefault(word, [])
+            for sn in obj.get('senses') or []:
+                if 'form-of' in (sn.get('tags') or []) or sn.get('form_of'):
+                    continue
+                for g in sn.get('glosses') or []:
+                    if len(lst) < MAX_SENSES:
+                        lst.append((obj.get('pos') or '', g))
+            continue
+        if lc != 'en' or not has_tr:
             continue
         groups = {}
         for t in obj.get('translations') or []:
@@ -225,10 +244,15 @@ def read_en(st, fh):
             if w:
                 g = groups.setdefault(t.get('sense') or '', {})
                 g.setdefault(code, []).append((w, t.get('tags') or []))
+        key = ((obj.get('word') or '').lower(), obj.get('pos') or '')
         for g in groups.values():
             des = g.get('de')
             if not des:
                 continue
+            lst = en_de.setdefault(key, [])
+            for de, _ in des[:3]:
+                if de not in lst and len(lst) < 6:
+                    lst.append(de)
             for de, tags in des[:4]:
                 e = st.de_entry(de)
                 for t in tags:
@@ -236,11 +260,51 @@ def read_en(st, fh):
                         e['art'].add(ART[t])
                 for lang in LANGS:
                     for w, _ in g.get(lang, [])[:MAX_WORDS_PER_SENSE]:
-                        lst = e['pv'].setdefault(lang, [])
-                        if w not in lst and len(lst) < MAX_WORDS_PER_SENSE * 2:
-                            lst.append(w)
+                        lst2 = e['pv'].setdefault(lang, [])
+                        if w not in lst2 and len(lst2) < MAX_WORDS_PER_SENSE * 2:
+                            lst2.append(w)
                             n += 1
-    log('en fertig:', n, 'Wortpaare über Englisch')
+    log('en: ', n, 'Wortpaare über englische Übersetzungstabellen')
+    # Englische Bedeutungen über en_de ins Deutsche übertragen
+    by_word = {}
+    for (w, pos), des in en_de.items():
+        by_word.setdefault(w, des)
+    m = 0
+    for lang in LANGS:
+        for word, glosses in pending[lang].items():
+            if word in st.x[lang]:
+                continue  # direkter Eintrag vorhanden
+            out = []
+            for pos, gloss in glosses:
+                for de in en_to_de(gloss, pos, en_de, by_word):
+                    if de not in out and len(out) < 8:
+                        out.append(de)
+            if out:
+                ps = POS.get(next((p for p, _ in glosses if p), ''), '')
+                st.xe[lang][word] = {'pos': {ps} if ps else set(), 'gl': [', '.join(out)]}
+                m += 1
+    log('en fertig:', m, 'Wörter Sprache → Deutsch über Englisch')
+
+
+EN_TARGET = re.compile(rb'"lang_code": ?"(%s)"' % '|'.join(LANGS).encode())
+EN_DROP = re.compile(r'\([^)]*\)|\[[^\]]*\]')
+EN_ART = re.compile(r'^(to|a|an|the)\s+', re.I)
+
+
+def en_to_de(gloss, pos, en_de, by_word):
+    """Kurze englische Bedeutungen („dog“, „to go“, „beautiful, pretty“) in deutsche Wörter übersetzen."""
+    g = EN_DROP.sub('', gloss or '')
+    res = []
+    for part in re.split(r'[;,]', g):
+        part = EN_ART.sub('', part.strip().rstrip('.')).strip().lower()
+        if not part or len(part.split()) > 3:
+            continue
+        des = en_de.get((part, pos)) or by_word.get(part)
+        if des:
+            res.extend(des[:3])
+        if len(res) >= 6:
+            break
+    return res
 
 
 def norm(s):
@@ -273,9 +337,12 @@ def write(st, out_dir, sources):
             pos = ','.join(sorted(e['pos']))
             lines.append('\t'.join(['D', word, art, e['pl'], pos, ' ; '.join(groups), src]))
             nd += 1
-        for word in sorted(st.x[lang], key=lambda w: (norm(w), w)):
-            e = st.x[lang][word]
-            lines.append('\t'.join(['X', word, ','.join(sorted(e['pos'])), ' ; '.join(e['gl'])]))
+        xall = {w: (e, 'w') for w, e in st.x[lang].items()}
+        for w, e in st.xe[lang].items():
+            xall.setdefault(w, (e, 'e'))
+        for word in sorted(xall, key=lambda w: (norm(w), w)):
+            e, src = xall[word]
+            lines.append('\t'.join(['X', word, ','.join(sorted(e['pos'])), ' ; '.join(e['gl']), src]))
             nx += 1
         data = ('\n'.join(lines) + '\n').encode('utf-8')
         with open(os.path.join(out_dir, lang + '.txt'), 'wb') as f:

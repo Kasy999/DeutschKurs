@@ -197,3 +197,4 @@ input, textarea { font: inherit; user-select: text; -webkit-user-select: text; }
 .dict-sel { user-select: text; -webkit-user-select: text; overflow-wrap: anywhere; }
 .dict-say { width: 38px; height: 38px; font-size: 15px; }
 .dict-link { color: var(--red); font-weight: 700; font-size: 11px; text-decoration: underline; }
+.dict-star { color: var(--amber); font-weight: 800; font-size: 11px; margin-left: 1px; }

@@ -1,5 +1,5 @@
 // Offline-Unterstützung: alle Dateien werden beim ersten Besuch gespeichert.
-const CACHE = 'deutschkurs-v10';
+const CACHE = 'deutschkurs-v11';
 const DICT_CACHE = 'deutschkurs-dict'; // Wörterbuch: verwaltet js/dictionary.js (nur die gewählte Sprache)
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',

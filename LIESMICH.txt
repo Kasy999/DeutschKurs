@@ -49,7 +49,8 @@ Wie das Wörterbuch funktioniert
   auch offline. Ganz unten auf der Wörterbuch-Seite: Größe und "Löschen".
 - Quelle: Wiktionary (deutsch, russisch, englisch) über kaikki.org / Wiktextract,
   Lizenz CC BY-SA 4.0. Der Quellenhinweis steht in der App und muss drinbleiben.
-  Einträge mit "≈ über Englisch" sind über die englische Bedeutung zugeordnet.
+  Wörter mit einem gelben Sternchen * wurden über die englische Bedeutung übersetzt
+  ("aus dem Englischen übersetzt") und sind etwas ungenauer.
 
 Lokal bauen (optional, Python 3):  python tools/build_dictionary.py
   (lädt ca. 3,5 GB; mit --no-en ohne englisches Wiktionary, deutlich schneller, aber weniger Wörter)

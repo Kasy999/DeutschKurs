@@ -7,11 +7,11 @@
 const DICT_CACHE = 'deutschkurs-dict';
 
 const DICT_UI = {
-  RU: { title: 'Словарь', lang: 'русский', teaser: 'Немецкий ↔ русский: введите слово на любом из двух языков', ph: 'Слово по-немецки или по-русски…', loading: 'Загрузка словаря…', fail: 'Не удалось загрузить словарь. Проверьте подключение к интернету.', missing: 'Словарь ещё не создан.', none: 'Ничего не найдено', deTo: 'Немецкий → русский', toDe: 'Русский → немецкий', viaEn: 'через английский', words: 'слов', retry: 'Повторить', hint: 'Словарь загружается один раз и потом работает без интернета.', saved: 'Сохранено на устройстве', del: 'Удалить', start: 'Введите слово, чтобы начать поиск.' },
-  UK: { title: 'Словник', lang: 'українська', teaser: 'Німецька ↔ українська: введіть слово будь-якою з двох мов', ph: 'Слово німецькою або українською…', loading: 'Завантаження словника…', fail: 'Не вдалося завантажити словник. Перевірте підключення до інтернету.', missing: 'Словник ще не створено.', none: 'Нічого не знайдено', deTo: 'Німецька → українська', toDe: 'Українська → німецька', viaEn: 'через англійську', words: 'слів', retry: 'Повторити', hint: 'Словник завантажується один раз і потім працює без інтернету.', saved: 'Збережено на пристрої', del: 'Видалити', start: 'Введіть слово, щоб почати пошук.' },
-  HY: { title: 'Բառարան', lang: 'հայերեն', teaser: 'Գերմաներեն ↔ հայերեն. մուտքագրեք բառը երկու լեզուներից որևէ մեկով', ph: 'Բառ գերմաներեն կամ հայերեն…', loading: 'Բառարանը բեռնվում է…', fail: 'Չհաջողվեց բեռնել բառարանը։ Ստուգեք ինտերնետ կապը։', missing: 'Բառարանը դեռ ստեղծված չէ։', none: 'Ոչինչ չի գտնվել', deTo: 'Գերմաներեն → հայերեն', toDe: 'Հայերեն → գերմաներեն', viaEn: 'անգլերենի միջոցով', words: 'բառ', retry: 'Կրկնել', hint: 'Բառարանը բեռնվում է մեկ անգամ, հետո աշխատում է առանց ինտերնետի։', saved: 'Պահված է սարքում', del: 'Ջնջել', start: 'Մուտքագրեք բառը՝ որոնումը սկսելու համար։' },
-  KA: { title: 'ლექსიკონი', lang: 'ქართული', teaser: 'გერმანული ↔ ქართული: შეიყვანეთ სიტყვა ორიდან ნებისმიერ ენაზე', ph: 'სიტყვა გერმანულად ან ქართულად…', loading: 'ლექსიკონი იტვირთება…', fail: 'ლექსიკონის ჩატვირთვა ვერ მოხერხდა. შეამოწმეთ ინტერნეტი.', missing: 'ლექსიკონი ჯერ არ შექმნილა.', none: 'ვერაფერი მოიძებნა', deTo: 'გერმანული → ქართული', toDe: 'ქართული → გერმანული', viaEn: 'ინგლისურის გავლით', words: 'სიტყვა', retry: 'ხელახლა', hint: 'ლექსიკონი ერთხელ იტვირთება და შემდეგ ინტერნეტის გარეშე მუშაობს.', saved: 'შენახულია მოწყობილობაზე', del: 'წაშლა', start: 'ძიების დასაწყებად შეიყვანეთ სიტყვა.' },
-  HU: { title: 'Szótár', lang: 'magyar', teaser: 'Német ↔ magyar: írja be a szót bármelyik nyelven', ph: 'Szó németül vagy magyarul…', loading: 'A szótár betöltése…', fail: 'Nem sikerült betölteni a szótárt. Ellenőrizze az internetkapcsolatot.', missing: 'A szótár még nincs elkészítve.', none: 'Nincs találat', deTo: 'Német → magyar', toDe: 'Magyar → német', viaEn: 'angolon keresztül', words: 'szó', retry: 'Újra', hint: 'A szótár egyszer töltődik le, utána internet nélkül is működik.', saved: 'Az eszközön tárolva', del: 'Törlés', start: 'Írjon be egy szót a kereséshez.' },
+  RU: { title: 'Словарь', lang: 'русский', teaser: 'Немецкий ↔ русский: введите слово на любом из двух языков', ph: 'Слово по-немецки или по-русски…', loading: 'Загрузка словаря…', fail: 'Не удалось загрузить словарь. Проверьте подключение к интернету.', missing: 'Словарь ещё не создан.', none: 'Ничего не найдено', deTo: 'Немецкий → русский', toDe: 'Русский → немецкий', viaEn: 'переведено через английский', words: 'слов', retry: 'Повторить', hint: 'Словарь загружается один раз и потом работает без интернета.', saved: 'Сохранено на устройстве', del: 'Удалить', start: 'Введите слово, чтобы начать поиск.' },
+  UK: { title: 'Словник', lang: 'українська', teaser: 'Німецька ↔ українська: введіть слово будь-якою з двох мов', ph: 'Слово німецькою або українською…', loading: 'Завантаження словника…', fail: 'Не вдалося завантажити словник. Перевірте підключення до інтернету.', missing: 'Словник ще не створено.', none: 'Нічого не знайдено', deTo: 'Німецька → українська', toDe: 'Українська → німецька', viaEn: 'перекладено через англійську', words: 'слів', retry: 'Повторити', hint: 'Словник завантажується один раз і потім працює без інтернету.', saved: 'Збережено на пристрої', del: 'Видалити', start: 'Введіть слово, щоб почати пошук.' },
+  HY: { title: 'Բառարան', lang: 'հայերեն', teaser: 'Գերմաներեն ↔ հայերեն. մուտքագրեք բառը երկու լեզուներից որևէ մեկով', ph: 'Բառ գերմաներեն կամ հայերեն…', loading: 'Բառարանը բեռնվում է…', fail: 'Չհաջողվեց բեռնել բառարանը։ Ստուգեք ինտերնետ կապը։', missing: 'Բառարանը դեռ ստեղծված չէ։', none: 'Ոչինչ չի գտնվել', deTo: 'Գերմաներեն → հայերեն', toDe: 'Հայերեն → գերմաներեն', viaEn: 'թարգմանված է անգլերենի միջոցով', words: 'բառ', retry: 'Կրկնել', hint: 'Բառարանը բեռնվում է մեկ անգամ, հետո աշխատում է առանց ինտերնետի։', saved: 'Պահված է սարքում', del: 'Ջնջել', start: 'Մուտքագրեք բառը՝ որոնումը սկսելու համար։' },
+  KA: { title: 'ლექსიკონი', lang: 'ქართული', teaser: 'გერმანული ↔ ქართული: შეიყვანეთ სიტყვა ორიდან ნებისმიერ ენაზე', ph: 'სიტყვა გერმანულად ან ქართულად…', loading: 'ლექსიკონი იტვირთება…', fail: 'ლექსიკონის ჩატვირთვა ვერ მოხერხდა. შეამოწმეთ ინტერნეტი.', missing: 'ლექსიკონი ჯერ არ შექმნილა.', none: 'ვერაფერი მოიძებნა', deTo: 'გერმანული → ქართული', toDe: 'ქართული → გერმანული', viaEn: 'ნათარგმნია ინგლისურის გავლით', words: 'სიტყვა', retry: 'ხელახლა', hint: 'ლექსიკონი ერთხელ იტვირთება და შემდეგ ინტერნეტის გარეშე მუშაობს.', saved: 'შენახულია მოწყობილობაზე', del: 'წაშლა', start: 'ძიების დასაწყებად შეიყვანეთ სიტყვა.' },
+  HU: { title: 'Szótár', lang: 'magyar', teaser: 'Német ↔ magyar: írja be a szót bármelyik nyelven', ph: 'Szó németül vagy magyarul…', loading: 'A szótár betöltése…', fail: 'Nem sikerült betölteni a szótárt. Ellenőrizze az internetkapcsolatot.', missing: 'A szótár még nincs elkészítve.', none: 'Nincs találat', deTo: 'Német → magyar', toDe: 'Magyar → német', viaEn: 'angolon keresztül fordítva', words: 'szó', retry: 'Újra', hint: 'A szótár egyszer töltődik le, utána internet nélkül is működik.', saved: 'Az eszközön tárolva', del: 'Törlés', start: 'Írjon be egy szót a kereséshez.' },
 };
 const DS = () => DICT_UI[AppLang.current.name] || DICT_UI.RU;
 const dictColors = ['#F59E0B', '#EF4444'];
@@ -119,7 +119,7 @@ const Dict = {
         }
       } else if (f[0] === 'X' && f.length >= 4) {
         const i = xs.length;
-        xs.push({ w: f[1], pos: f[2], gl: f[3] });
+        xs.push({ w: f[1], pos: f[2], gl: f[3], src: f[4] || 'w' });
         rvKeys.push([dictFold(f[1]), 'x', i, f[1]]);
       }
     }
@@ -169,11 +169,14 @@ const Dict = {
 
 /* ---------------- Darstellung ---------------- */
 const dictMB = (b) => (b / 1048576).toFixed(b > 10485760 ? 0 : 1) + ' MB';
-function dictSenses(tr) {
+/** Bedeutungen anzeigen; star = über Englisch übersetzt → jedes Wort mit * markieren. */
+function dictSenses(tr, star = false) {
+  const fmt = (p) => (star ? p.split(', ').map((w) => `${esc(w)}<sup class="dict-star">*</sup>`).join(', ') : esc(p));
   const parts = tr.split(' ; ').filter(Boolean);
-  if (parts.length === 1) return `<div class="t15 dict-sel">${esc(parts[0])}</div>`;
-  return `<ol class="dict-senses dict-sel">${parts.map((p) => `<li>${esc(p)}</li>`).join('')}</ol>`;
+  if (parts.length === 1) return `<div class="t15 dict-sel">${fmt(parts[0])}</div>`;
+  return `<ol class="dict-senses dict-sel">${parts.map((p) => `<li>${fmt(p)}</li>`).join('')}</ol>`;
 }
+const dictStarNote = () => `<div class="faint t11" style="padding-top:4px"><span class="dict-star">*</span> aus dem Englischen übersetzt · ${esc(DS().viaEn)}</div>`;
 function dictPos(pos) {
   const list = pos ? pos.split(',') : [];
   if (list.includes('n')) { const i = list.indexOf('name'); if (i >= 0) list.splice(i, 1); } // „Nomen“ reicht
@@ -205,14 +208,15 @@ function dictResults() {
   if (r.de.length) {
     h += sectionLabel('Deutsch → ' + AppLang.current.germanName, T.deTo);
     h += `<div class="col gap10">${r.de.map((e) => `<div class="card dict-card">${dictDeHead(e)}
-      <div style="height:6px"></div>${dictSenses(e.tr)}
-      ${e.src === 'e' ? `<div class="faint t11" style="padding-top:4px">≈ über Englisch · ${esc(T.viaEn)}</div>` : ''}</div>`).join('')}</div>`;
+      <div style="height:6px"></div>${dictSenses(e.tr, e.src === 'e')}
+      ${e.src === 'e' ? dictStarNote() : ''}</div>`).join('')}</div>`;
   }
   if (r.rv.length) {
     h += sectionLabel(AppLang.current.germanName + ' → Deutsch', T.toDe);
     h += `<div class="col gap10">${r.rv.map((g) => `<div class="card dict-card">
       <div><span class="bold t17 dict-sel">${esc(g.word)}</span> ${g.xs.length ? dictPos(g.xs[0].pos) : ''}</div>
-      ${g.xs.map((x) => `<div style="padding-top:6px">${dictSenses(x.gl)}</div>`).join('')}
+      ${g.xs.map((x) => `<div style="padding-top:6px">${dictSenses(x.gl, x.src === 'e')}</div>`).join('')}
+      ${g.xs.some((x) => x.src === 'e') ? dictStarNote() : ''}
       ${g.des.length ? `<div class="col gap6" style="padding-top:8px">${g.des.map((e) => dictDeHead(e)).join('')}</div>` : ''}
     </div>`).join('')}</div>`;
   }
